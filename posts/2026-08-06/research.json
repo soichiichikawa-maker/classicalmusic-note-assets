@@ -1,31 +1,35 @@
 {
-  "composer": "フランツ・エッケルト",
-  "event_summary": "8月6日は、ドイツ出身の音楽家フランツ・エッケルト(1852-1916)の命日(1916年8月6日没)。日本の宮内省に招かれ「君が代」の和声編曲を手がけた後、大韓帝国に招かれ「愛国歌」を一から作曲するという、二つの国の国歌に関わった稀有な経歴を持つ人物。日本語Wikipedia「8月6日」の項目で命日が確認できる。知名度は一般的なクラシック作曲家(Bach等)クラスには及ばないが、「君が代」という誰もが知る固有名詞と、日韓両国の国歌に関わったという強いフックがあるため採用した。",
+  "composer": "Rossini",
+  "event_summary": "2026年8月6日に50人リスト内で日付が一致する明確な出来事が見つからなかったため、優先順位2に従い、豆知識として面白いエピソードを選定。ロッシーニは『セビリアの理髪師』を約3週間足らずで書き上げたが、1816年2月20日ローマでの初演は先輩作曲家パイジエッロ支持派の妨害や舞台上のアクシデント(役者の鼻血、猫が舞台を横切る等)により大失敗に終わった。ショックを受けたロッシーニは2日目の公演を欠席し自宅にこもったが、夜更けに外の騒ぎを暴徒と誤解し馬小屋に身を隠した。しかし実際は大成功を祝う観客の歓声であり、以後この作品は世界的な人気オペラとなった。複数の学術・百科事典ソースで一致を確認。",
   "sources": [
-    "https://ja.wikipedia.org/wiki/8%E6%9C%886%E6%97%A5"
+    "https://en.wikipedia.org/wiki/The_Barber_of_Seville",
+    "https://interlude.hk/rossini-barber-sevillepremiered-today-1816/",
+    "https://www.britannica.com/story/the-barber-of-seville-turns-200",
+    "https://www.coc.ca/news/5-things-to-know-about-the-barber-of-seville",
+    "https://www.ebsco.com/research-starters/history/rossinis-barber-seville-debuts"
   ],
-  "hook_copy": "日本と韓国、両方の国歌を手がけた謎の作曲家",
-  "portrait_prompt": "Illustrated cinematic portrait, painterly oil-painting style, not photorealistic, bust-to-shoulder composition of a 19th-century German bandmaster in his early 60s, neat mustache, formal Meiji-era military band uniform with high collar and brass buttons, dignified calm expression, plain muted solid-color background, soft studio lighting, simple uncluttered composition suitable for framing",
+  "hook_copy": "「セビリアの理髪師」初演は大ブーイング、猫まで舞台に",
+  "portrait_prompt": "Illustrated cinematic style, painterly rendering, not photorealistic. Bust-to-shoulder portrait of a young Gioachino Rossini in his early twenties, curly dark hair, elegant early 19th-century Regency-era attire with white cravat, confident and charming expression with a slight smile, plain muted solid-color background, simple composition suitable for framing within an ornate frame.",
   "middle_slides": [
     {
-      "text": "明治時代の日本に招かれたドイツ人音楽家フランツ・エッケルト。宮内省の依頼で、雅楽の旋律に和声をつけ、国歌「君が代」を編曲した人物である。",
-      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, a 19th-century German bandmaster in formal uniform seated at a writing desk inside a Japanese imperial court hall, traditional gagaku instruments like sho and koto placed nearby, soft candlelight, composing sheet music, elegant Meiji-era Japanese architecture in background, warm nostalgic tones"
+      "text": "スピード作曲で有名だったロッシーニ。先輩作曲家パイジエッロも手がけた人気戯曲『セビリアの理髪師』を、わずか3週間足らずで新作オペラに書き上げてしまった。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. Young Gioachino Rossini seated at a candlelit writing desk late at night, quill in hand, surrounded by scattered music manuscript pages, working feverishly and fast, warm golden lighting, dramatic chiaroscuro, Regency-era Italian interior."
     },
     {
-      "text": "その後エッケルトは大韓帝国からも招かれ、皇帝高宗の依頼を受け、新しい国歌「愛国歌」を一から作曲。今度は旋律まで自ら手がけている。",
-      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, the same German bandmaster now older standing in a grand Korean imperial palace hall with traditional dancheong ceiling patterns, composing at a desk with manuscript paper, Korean imperial guards' banners subtly visible in background, warm golden lighting, dignified atmosphere"
+      "text": "1816年2月20日、ローマでの初演は大荒れに。パイジエッロ支持派が客席で野次を飛ばし、舞台では役者が転んで鼻血を流し、猫まで舞台上を横切る大惨事となった。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. Gioachino Rossini standing tense in the wings of a grand Roman opera theatre in 1816, looking anxious as chaos erupts on stage beyond the curtain, warm dramatic stage lighting, blurred impression of an unruly audience, composer as the central focal figure."
     },
     {
-      "text": "一人の音楽家が二つの国の国歌に関わった例は、世界の音楽史でも極めて珍しい。日本と韓国、両国の調べに彼の名が刻まれている。",
-      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, symbolic composition of the German bandmaster standing thoughtfully at dusk between two large ornate frames, one showing faint Japanese cherry blossom motifs and the other Korean traditional patterns, sheet music scattered at his feet, contemplative atmosphere, soft twilight colors"
+      "text": "怖くなったロッシーニは、2日目の公演を欠席して自宅に。夜更け、窓の外に松明の明かりと大きな騒ぎ声が広がり、暴徒に襲われると思い込んで近くの馬小屋に隠れてしまった。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. Gioachino Rossini alone at night, peeking fearfully out of a window of his Roman lodging, torchlight glow and shadows visible outside, tense anxious expression, dark blue nocturnal atmosphere, dramatic painterly lighting."
     },
     {
-      "text": "1916年8月6日、エッケルトはこの世を去った。彼が編曲した「君が代」の旋律は、百年以上たった今も日本の国歌として歌われ続けている。",
-      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, an elderly German bandmaster in his final years sitting peacefully by a window with a faint glowing musical score on his lap, warm sunset light streaming in, serene and reflective mood, muted warm color palette conveying a quiet legacy"
+      "text": "実はその騒ぎは、大成功に喜ぶ観客たちの声だった。『セビリアの理髪師』は一夜で評価が逆転し、今では世界で最も愛されるオペラの一つとして愛され続けている。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. Gioachino Rossini standing relieved and joyful outside a grand Roman theatre at night, surrounded by warm torchlight and an impression of a cheering celebratory crowd, festive Romantic-era atmosphere, painterly illustration."
     }
   ],
-  "fb_caption": "【今日は何の日・音楽史】8月6日🎵\n\n「君が代」を編曲したのは、実はドイツ人だった——という事実、ご存知でしたか?\n\nフランツ・エッケルトは明治時代の日本に招かれ、日本の国歌「君が代」に和声をつけた人物。ところが彼の物語はそれだけでは終わりません。その後、大韓帝国からも招かれ、今度は「愛国歌」という全く新しい国歌を一から作曲したのです。\n\n一人の音楽家が二つの国の国歌に関わるという、世界的にも極めて珍しい経歴。1916年8月6日、彼はこの世を去りましたが、彼が遺した旋律は今もなお歌い継がれています。\n\n忙しい毎日の中でも、こうしたクラシック音楽の奥深いエピソードに触れてみませんか?\nチャンネルではこうした音楽史の物語をわかりやすく紹介しています🎻\n👉 https://www.youtube.com/@busy_classical_notes\n\n#クラシック音楽 #今日は何の日 #音楽史 #君が代 #フランツエッケルト",
-  "ig_caption": "【今日は何の日・音楽史】8月6日🎵\n\n「君が代」を編曲したのは、実はドイツ人だった——という事実、ご存知でしたか?\n\nフランツ・エッケルトは明治時代の日本に招かれ、日本の国歌「君が代」に和声をつけた人物。しかし物語はそれだけでは終わりません。その後、大韓帝国からも招かれ、今度は「愛国歌」という全く新しい国歌を一から作曲したのです。\n\n一人の音楽家が二つの国の国歌に関わるという、世界的にも極めて珍しい経歴。1916年8月6日、彼はこの世を去りましたが、遺した旋律は今もなお歌い継がれています。\n\n忙しい毎日でも、少しだけクラシック音楽の物語に触れてみませんか?\n続きはプロフィールのリンクからチェックしてみてください🎻\n\n#クラシック音楽 #今日は何の日 #音楽史 #君が代 #作曲家のエピソード #クラシック好きと繋がりたい",
-  "youtube_caption": "【今日は何の日・音楽史】8月6日🎵\n\n「君が代」を編曲したのは、実はドイツ人だった——という事実、ご存知でしたか?\n\nフランツ・エッケルトは明治時代の日本に招かれ、日本の国歌「君が代」に和声をつけた人物。しかし物語はそれだけでは終わりません。その後、大韓帝国からも招かれ、今度は「愛国歌」という全く新しい国歌を一から作曲したのです。\n\n一人の音楽家が二つの国の国歌に関わるという、世界的にも極めて珍しい経歴。1916年8月6日、彼はこの世を去りましたが、遺した旋律は今もなお歌い継がれています。\n\nこうしたクラシック音楽にまつわる意外なエピソード、これからもコミュニティ投稿でお届けしていきます🎻\n\n#クラシック音楽 #今日は何の日 #音楽史 #君が代",
+  "fb_caption": "「セビリアの理髪師」は今や世界で最も愛されるオペラの一つ。でも、その初演は歴史的な大惨敗でした。\n\n早筆で知られたロッシーニは、先輩作曲家パイジエッロも手がけた人気戯曲を、わずか3週間足らずで新作オペラに書き上げます。ところが1816年2月20日、ローマでの初演当日は大荒れに。パイジエッロ支持派が客席で野次を飛ばし、役者は舞台で転んで鼻血を流し、なんと猫まで舞台を横切る大惨事となりました。\n\nショックを受けたロッシーニは2日目の公演を欠席し、自宅にこもります。夜更け、窓の外に松明の明かりと大きな騒ぎ声が広がり、暴徒に襲われると思い込んで近くの馬小屋に身を隠したそうです。\n\nしかし実際には、それは大成功に喜ぶ観客たちの歓声でした。たった一夜で評価は逆転し、以来200年以上、世界中の舞台で愛され続けています。\n\n「忙しい大人のためのクラシック音楽ノート」では、こうした作曲家たちの知られざる物語を毎日お届けしています。続きはYouTubeチャンネルトップからぜひご覧ください。\n▶ (チャンネルトップURL)\n\n#ロッシーニ #セビリアの理髪師 #クラシック音楽 #今日は何の日 #音楽史",
+  "ig_caption": "世界で最も愛されるオペラの一つ「セビリアの理髪師」。でも初演は、まさかの大惨敗だったって知っていましたか？\n\n早筆で知られたロッシーニは、先輩パイジエッロも手がけた人気戯曲を、わずか3週間足らずで新作オペラに仕上げます。しかし1816年2月20日の初演当日、客席からは野次が飛び、役者は舞台で転んで鼻血を流し、猫まで舞台を横切る大惨事に…。\n\nショックを受けたロッシーニは2日目の公演を欠席し自宅にこもりますが、夜更けに外の騒ぎを暴徒と誤解して馬小屋に身を隠してしまいます。\n\nでも実際には、それは大成功を祝う観客たちの歓声でした。たった一夜で評価は逆転し、200年以上経った今も世界中で愛され続けています。\n\n「忙しい大人のためのクラシック音楽ノート」では、こうした作曲家たちのちょっと意外な物語を毎日発信中。続きはプロフィールのリンクからチェックしてみてください✨\n\n#ロッシーニ #セビリアの理髪師 #クラシック音楽 #今日は何の日 #音楽史 #オペラ #豆知識",
+  "youtube_caption": "「セビリアの理髪師」は今や世界で最も愛されるオペラの一つですが、その初演は歴史的な大惨敗でした。\n\n早筆で知られたロッシーニは、先輩パイジエッロも手がけた人気戯曲を、わずか3週間足らずで新作オペラに書き上げます。ところが1816年2月20日の初演当日、客席からは野次が飛び、役者は舞台で転んで鼻血を流し、猫まで舞台を横切る大惨事となりました。\n\nショックを受けたロッシーニは2日目の公演を欠席し自宅にこもりますが、夜更けに外の騒ぎを暴徒と誤解して近くの馬小屋に身を隠してしまいます。\n\nでも実際には、それは大成功を祝う観客たちの歓声でした。たった一夜で評価は逆転し、以来200年以上、世界中の舞台で愛され続けています。\n\nこうした作曲家たちの知られざる物語を、これからも毎日お届けしていきます。良ければチャンネルの他の動画もぜひご覧ください。\n\n#ロッシーニ #セビリアの理髪師 #クラシック音楽 #今日は何の日",
   "youtube_link": null
 }
