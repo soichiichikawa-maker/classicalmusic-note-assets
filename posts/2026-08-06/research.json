@@ -1,30 +1,31 @@
 {
-  "composer": "エルネスト・レクオナ",
-  "event_summary": "1895年8月6日、キューバ・ハバナに生まれた作曲家エルネスト・レクオナの生誕日。子供の頃からピアノに没頭し、後に代表曲「マラゲーニャ」(組曲『アンダルシア』所収)で世界的な名声を得た。米国で「キューバのガーシュウィン」と称されるほど国際的に活躍したが、1959年のキューバ革命後に祖国を離れ、1963年にスペイン領カナリア諸島(テネリフェ島)で生涯を閉じた。没後も「マラゲーニャ」は世界中のピアニスト・ギタリストに演奏され続けている。",
+  "composer": "フランツ・エッケルト",
+  "event_summary": "8月6日は、ドイツ出身の音楽家フランツ・エッケルト(1852-1916)の命日(1916年8月6日没)。日本の宮内省に招かれ「君が代」の和声編曲を手がけた後、大韓帝国に招かれ「愛国歌」を一から作曲するという、二つの国の国歌に関わった稀有な経歴を持つ人物。日本語Wikipedia「8月6日」の項目で命日が確認できる。知名度は一般的なクラシック作曲家(Bach等)クラスには及ばないが、「君が代」という誰もが知る固有名詞と、日韓両国の国歌に関わったという強いフックがあるため採用した。",
   "sources": [
-    "https://blogs.loc.gov/nls-music-notes/2017/08/?gca=109"
+    "https://ja.wikipedia.org/wiki/8%E6%9C%886%E6%97%A5"
   ],
-  "hook_copy": "5歳でピアノに出会った天才が生んだ『マラゲーニャ』の物語",
-  "portrait_prompt": "Illustrated cinematic bust portrait of Cuban composer Ernesto Lecuona, early 20th century elegant suit with bow tie, neatly groomed mustache, warm confident expression, softly lit, oil-painting style, painterly rendering, not photorealistic, simple muted solid-color background, simple bust-to-shoulder composition, no text",
+  "hook_copy": "日本と韓国、両方の国歌を手がけた謎の作曲家",
+  "portrait_prompt": "Illustrated cinematic portrait, painterly oil-painting style, not photorealistic, bust-to-shoulder composition of a 19th-century German bandmaster in his early 60s, neat mustache, formal Meiji-era military band uniform with high collar and brass buttons, dignified calm expression, plain muted solid-color background, soft studio lighting, simple uncluttered composition suitable for framing",
   "middle_slides": [
     {
-      "text": "1895年8月6日、キューバの首都ハバナに生まれたレクオナ。幼少期からピアノに没頭し、たちまち天才少年として注目を集めた。",
-      "image_prompt": "oil-painting style painterly illustration of a young Cuban boy prodigy playing an upright piano in a warm colonial Havana parlor, sunlight streaming through wooden shutters, late 19th century Cuban interior, family listening in soft admiration, warm golden color palette, not photorealistic, no text"
+      "text": "明治時代の日本に招かれたドイツ人音楽家フランツ・エッケルト。宮内省の依頼で、雅楽の旋律に和声をつけ、国歌「君が代」を編曲した人物である。",
+      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, a 19th-century German bandmaster in formal uniform seated at a writing desk inside a Japanese imperial court hall, traditional gagaku instruments like sho and koto placed nearby, soft candlelight, composing sheet music, elegant Meiji-era Japanese architecture in background, warm nostalgic tones"
     },
     {
-      "text": "1933年に発表した組曲『アンダルシア』の中の一曲『マラゲーニャ』は、たちまち世界中のピアニストやギタリストに愛される名曲となった。",
-      "image_prompt": "oil-painting style painterly illustration of an adult Cuban composer Ernesto Lecuona seated at a grand piano composing music, sheet music scattered on the piano and floor, warm lamp light, elegant early 20th century study, romantic Spanish-Cuban atmosphere, not photorealistic, no text"
+      "text": "その後エッケルトは大韓帝国からも招かれ、皇帝高宗の依頼を受け、新しい国歌「愛国歌」を一から作曲。今度は旋律まで自ら手がけている。",
+      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, the same German bandmaster now older standing in a grand Korean imperial palace hall with traditional dancheong ceiling patterns, composing at a desk with manuscript paper, Korean imperial guards' banners subtly visible in background, warm golden lighting, dignified atmosphere"
     },
     {
-      "text": "その才能は国境を越え、『キューバのガーシュウィン』と称されるほどに。アメリカやヨーロッパでも喝采を浴び、名声は世界へ広がった。",
-      "image_prompt": "oil-painting style painterly illustration of a distinguished Cuban composer in white tie performing on a grand concert hall stage, grand piano, ornate theater architecture, warm stage lighting, elegant audience silhouettes in soft background, painterly not photorealistic, no text"
+      "text": "一人の音楽家が二つの国の国歌に関わった例は、世界の音楽史でも極めて珍しい。日本と韓国、両国の調べに彼の名が刻まれている。",
+      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, symbolic composition of the German bandmaster standing thoughtfully at dusk between two large ornate frames, one showing faint Japanese cherry blossom motifs and the other Korean traditional patterns, sheet music scattered at his feet, contemplative atmosphere, soft twilight colors"
     },
     {
-      "text": "1960年、故郷キューバを離れ、大西洋のカナリア諸島へ。1963年にその地で生涯を閉じたが、『マラゲーニャ』の旋律は今も世界中で奏でられている。",
-      "image_prompt": "oil-painting style painterly illustration of an elderly Cuban composer standing on a cliffside overlooking the Atlantic ocean at sunset, Canary Islands volcanic coastline, contemplative peaceful mood, warm orange and blue twilight palette, painterly not photorealistic, no text"
+      "text": "1916年8月6日、エッケルトはこの世を去った。彼が編曲した「君が代」の旋律は、百年以上たった今も日本の国歌として歌われ続けている。",
+      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, an elderly German bandmaster in his final years sitting peacefully by a window with a faint glowing musical score on his lap, warm sunset light streaming in, serene and reflective mood, muted warm color palette conveying a quiet legacy"
     }
   ],
-  "fb_caption": "🎹 今日は何の日(音楽史)- 8月6日\n\n1895年の今日、キューバ・ハバナで一人の男の子が生まれました。その名はエルネスト・レクオナ。\n\n幼くしてピアノに夢中になった彼は、やがて組曲『アンダルシア』の中の一曲「マラゲーニャ」で世界中を魅了する作曲家に成長します。あの情熱的でエキゾチックな旋律、聴けば「あ、これか!」と思う方も多いはず。\n\nアメリカでは「キューバのガーシュウィン」と呼ばれるほどの人気を博し、国際的なステージで喝采を浴びました。しかし1959年のキューバ革命後、祖国を離れて大西洋のカナリア諸島へ。1963年、その地で静かに生涯を閉じます。\n\nそれでも「マラゲーニャ」は今も世界中のピアニストやギタリストに愛奏され、彼の名前を音楽史に刻み続けています。\n\n忙しい大人のための音楽トリビア、今日も一つ増えました🎶\n▶️ もっと読みたい方はチャンネルトップからバックナンバーもチェックしてみてください。\n\n#クラシック音楽 #今日は何の日 #音楽史 #エルネストレクオナ #マラゲーニャ #キューバ音楽 #忙しい大人のためのクラシック音楽ノート",
-  "ig_caption": "🎹 今日は何の日(音楽史)- 8月6日\n\n1895年の今日、キューバ・ハバナに生まれた作曲家エルネスト・レクオナ。\n\n幼い頃からピアノに夢中になった彼は、後に組曲『アンダルシア』の一曲「マラゲーニャ」で世界中を魅了する存在に。あの旋律、耳にしたことがある方も多いはずです。\n\nアメリカでは「キューバのガーシュウィン」と称されるほどの人気を誇りましたが、1959年のキューバ革命後に祖国を離れ、1963年に大西洋のカナリア諸島でその生涯を閉じました。\n\nそれでも「マラゲーニャ」は今も世界中で演奏され続け、彼の名前を音楽史に刻んでいます。\n\n忙しい大人のための音楽トリビア、今日はキューバから🎶\n\n続きやバックナンバーはプロフィールのリンクからチェックしてみてください✨\n\n#クラシック音楽 #今日は何の日 #音楽史トリビア #エルネストレクオナ #マラゲーニャ #キューバ音楽 #忙しい大人のためのクラシック音楽ノート #作曲家のエピソード",
+  "fb_caption": "【今日は何の日・音楽史】8月6日🎵\n\n「君が代」を編曲したのは、実はドイツ人だった——という事実、ご存知でしたか?\n\nフランツ・エッケルトは明治時代の日本に招かれ、日本の国歌「君が代」に和声をつけた人物。ところが彼の物語はそれだけでは終わりません。その後、大韓帝国からも招かれ、今度は「愛国歌」という全く新しい国歌を一から作曲したのです。\n\n一人の音楽家が二つの国の国歌に関わるという、世界的にも極めて珍しい経歴。1916年8月6日、彼はこの世を去りましたが、彼が遺した旋律は今もなお歌い継がれています。\n\n忙しい毎日の中でも、こうしたクラシック音楽の奥深いエピソードに触れてみませんか?\nチャンネルではこうした音楽史の物語をわかりやすく紹介しています🎻\n👉 https://www.youtube.com/@busy_classical_notes\n\n#クラシック音楽 #今日は何の日 #音楽史 #君が代 #フランツエッケルト",
+  "ig_caption": "【今日は何の日・音楽史】8月6日🎵\n\n「君が代」を編曲したのは、実はドイツ人だった——という事実、ご存知でしたか?\n\nフランツ・エッケルトは明治時代の日本に招かれ、日本の国歌「君が代」に和声をつけた人物。しかし物語はそれだけでは終わりません。その後、大韓帝国からも招かれ、今度は「愛国歌」という全く新しい国歌を一から作曲したのです。\n\n一人の音楽家が二つの国の国歌に関わるという、世界的にも極めて珍しい経歴。1916年8月6日、彼はこの世を去りましたが、遺した旋律は今もなお歌い継がれています。\n\n忙しい毎日でも、少しだけクラシック音楽の物語に触れてみませんか?\n続きはプロフィールのリンクからチェックしてみてください🎻\n\n#クラシック音楽 #今日は何の日 #音楽史 #君が代 #作曲家のエピソード #クラシック好きと繋がりたい",
+  "youtube_caption": "【今日は何の日・音楽史】8月6日🎵\n\n「君が代」を編曲したのは、実はドイツ人だった——という事実、ご存知でしたか?\n\nフランツ・エッケルトは明治時代の日本に招かれ、日本の国歌「君が代」に和声をつけた人物。しかし物語はそれだけでは終わりません。その後、大韓帝国からも招かれ、今度は「愛国歌」という全く新しい国歌を一から作曲したのです。\n\n一人の音楽家が二つの国の国歌に関わるという、世界的にも極めて珍しい経歴。1916年8月6日、彼はこの世を去りましたが、遺した旋律は今もなお歌い継がれています。\n\nこうしたクラシック音楽にまつわる意外なエピソード、これからもコミュニティ投稿でお届けしていきます🎻\n\n#クラシック音楽 #今日は何の日 #音楽史 #君が代",
   "youtube_link": null
 }
