@@ -1,36 +1,37 @@
 {
-  "composer": "Prokofiev",
-  "event_summary": "1912年8月7日(グレゴリオ暦。ユリウス暦では7月25日)、モスクワにて22歳の音楽院生セルゲイ・プロコフィエフが自作のピアノ協奏曲第1番 変ニ長調 op.10を、コンスタンチン・サラジェフ指揮のオーケストラと共に初演。これがプロコフィエフにとって初めてオーケストラと共演する舞台だった。聴衆は熱狂しアンコールを求めたが、批評家からは「原始的な騒音」「拘束服が必要だ」等の酷評を受けた。2年後の1914年5月18日、彼はサンクトペテルブルク音楽院の卒業コンクール(アントン・ルビンシテイン賞)で、規定の抜け道を突いてあえて自作のこの協奏曲を演奏。審査員長は彼の音楽を「有害な傾向に満ちている」と評していたアレクサンドル・グラズノフだったが、審査団は渋々ながらもプロコフィエフに最高賞(グランドピアノ授与)を与えた。",
+  "composer": "Bizet",
+  "event_summary": "日付一致なし(優先順位2)。ビゼーの歌劇『カルメン』(1875年3月3日パリ・オペラコミック座で初演)は、際どい題材(裏切りと殺人)ゆえ上演前から難色を示され、初演は酷評・不入りに終わった。ビゼー自身「完全な失敗作」と信じ込んだまま、初演からわずか3か月後の1875年6月3日、36歳で心臓発作により急逝。しかしその後10年足らずのうちに『カルメン』は世界で最も上演される人気オペラの一つとなり、ハバネラや闘牛士の歌は今も世界中で愛されている。",
   "sources": [
-    "https://interlude.hk/prokofiev-piano-concerto-1premiered-today-1912/",
-    "https://en.wikipedia.org/wiki/Piano_Concerto_No._1_(Prokofiev)",
-    "https://sin80.com/en/work/prokofiev-piano-concerto-no1",
-    "https://houstonsymphony.org/prokofiev-piano-concerto-1/",
-    "https://lansdowneso.org/prokofiev-piano-concerto-1/",
-    "https://musopen.org/music/43018-piano-concerto-no-1-op-10/"
+    "https://mahlerfoundation.org/mahler/contemporaries/georges-bizet/",
+    "https://interlude.hk/the-insecurity-of-love-carmen-1875/",
+    "https://www.operaphila.org/whats-on/on-stage-2017-2018/carmen/composer/",
+    "https://www.classicfm.com/composers/bizet/carmen-bizet-disaster-premiere/",
+    "https://en.wikipedia.org/wiki/Carmen",
+    "https://www.cbcmusic.ca/posts/19266/bizet-carmen-classical-de-composition-tom-allen"
   ],
-  "hook_copy": "「拘束服が要る」と酷評された曲が、音楽院最高の栄誉を勝ち取った",
-  "portrait_prompt": "Illustrated cinematic portrait of a young early-20th-century Russian composer-pianist in his early twenties, short neat hair, confident intense expression, wearing a formal early 1900s dark suit with high collar, bust-to-shoulder composition, painterly oil-painting style, soft dramatic lighting, plain muted solid-color background, not photorealistic, no text",
+  "hook_copy": "『カルメン』は[R]大不評[/R]のまま作曲家死去、後に[G]世界一人気のオペラ[/G]に",
+  "portrait_prompt": "Illustrated cinematic portrait of a 19th-century French composer, Georges Bizet, dark neat mustache and beard, wavy dark hair, wearing a black formal 1870s frock coat with white cravat, bust-up shoulder composition, melancholic thoughtful expression, oil-painting style, painterly rendering, not photorealistic, plain muted dark background, soft dramatic lighting",
   "middle_slides": [
     {
-      "text": "1912年8月7日、モスクワ。22歳の音楽院生プロコフィエフが自作のピアノ協奏曲第1番を、初めてオーケストラと共に披露した。",
-      "image_prompt": "Oil-painting style illustration of a young confident Russian composer-pianist in early 1900s formal suit seated at a grand piano on a concert hall stage in Moscow, an orchestra behind him mid-performance, warm stage lighting, painterly brushstrokes, cinematic composition, not photorealistic, no text"
+      "text": "ビゼーは、裏切りと殺人が渦巻くジプシー女カルメンの物語を、パリのオペラ・コミック座のために作曲したが、あまりに際どい題材に劇場側は難色を示した。",
+      "image_prompt": "Oil-painting style illustration of composer Georges Bizet in a 19th-century Paris study, writing music manuscript at a candlelit desk, sheets of opera score scattered around, a faint ghostly image of a fiery Spanish gypsy dancer swirling in the background smoke, painterly rendering, not photorealistic, warm dim lighting"
     },
     {
-      "text": "演奏会場は聴衆が熱狂し何度もアンコールを求めたが、辛口の批評家たちは「原始的な騒音」であり「拘束服が必要だ」とまで酷評した。",
-      "image_prompt": "Oil-painting style illustration of the same young Russian composer-pianist bowing on stage toward an enthusiastically applauding audience in an ornate early 1900s concert hall, dramatic warm lighting contrasted with a few stern shadowy figures scribbling notes in the front row, painterly cinematic style, not photorealistic, no text"
+      "text": "1875年3月3日の初演は酷評の嵐となり、客席は次第に白け、ビゼー自身も自作を「完全な失敗作」だと信じて落胆し、支持者はわずかだった。",
+      "image_prompt": "Oil-painting style illustration of a 19th-century Parisian opera house interior during a premiere, Georges Bizet standing backstage in shadow with a devastated expression, distant audience in ornate seats looking cold and unimpressed, dim gaslight glow, painterly rendering, not photorealistic"
     },
     {
-      "text": "2年後の卒業試験、規則の抜け穴を突いて自作の協奏曲を演奏した。審査員長は彼の音楽を「退廃的」と嫌っていたグラズノフだった。",
-      "image_prompt": "Oil-painting style illustration of the same young Russian composer-pianist performing intensely at a grand piano before a long formal panel of stern-faced examiners seated at a dark wooden table in an academic hall, dramatic chiaroscuro lighting, painterly cinematic composition, not photorealistic, no text"
+      "text": "その3か月後、ビゼーは心臓発作のため36歳の若さで急逝。カルメンが世界中で愛される日を、彼はついに生きて見ることはなかった。",
+      "image_prompt": "Oil-painting style illustration of Georges Bizet resting in a dim quiet 19th-century Parisian bedroom, pale and weakened, soft melancholic light through a curtained window, an unfinished opera score visible on a nearby table, painterly rendering, not photorealistic, somber muted tones"
     },
     {
-      "text": "演奏は聴衆の心を掴み、グラズノフ率いる審査員団は渋々ながら最高栄誉のアントン・ルビンシテイン賞をプロコフィエフに授与した。",
-      "image_prompt": "Oil-painting style illustration of the same young Russian composer-pianist standing triumphantly beside a grand piano being presented as a prize in a grand academic hall, warm golden light, a sense of quiet victory and pride on his face, painterly cinematic style, not photorealistic, no text"
+      "text": "しかしその後わずか10年ほどで『カルメン』は世界屈指の人気オペラへと変貌し、ハバネラや闘牛士の歌は今も世界中で歌い継がれている。",
+      "image_prompt": "Oil-painting style illustration of a grand opera stage decades later, a triumphant Spanish gypsy Carmen character in vivid red dress dancing under bright spotlights, a packed enthusiastic audience silhouette in the foreground, vibrant warm celebratory colors, painterly rendering, not photorealistic"
     }
   ],
-  "fb_caption": "【今日は何の日・音楽史】1912年8月7日、モスクワ🎹\n\n22歳の音楽院生だったプロコフィエフが、自作のピアノ協奏曲第1番を初めてオーケストラと共演で世に送り出しました。\n\n聴衆は熱狂してアンコールを連呼したのに、批評家は「原始的な騒音」「拘束服が必要だ」と酷評。それでも彼はこの\"問題作\"を諦めませんでした。\n\n2年後、卒業コンクールでこの曲を再び披露。審査員長は彼の音楽を毛嫌いしていたグラズノフでしたが、渋々ながらも最高栄誉のアントン・ルビンシテイン賞(副賞はグランドピアノ!)を授与せざるを得ませんでした。\n\n酷評された曲が、最も認めたくなかった人の手で最高の賞に輝く——皮肉だけど痛快なエピソードですよね。\n\nもっと面白いクラシックの裏話はチャンネルでたっぷりご紹介しています。ぜひ他の動画もチェックしてみてください🎶\n👉 YouTube「忙しい大人のためのクラシック音楽ノート」チャンネルトップから",
-  "ig_caption": "【今日は何の日・音楽史】1912年8月7日、モスクワ🎹\n\n22歳のプロコフィエフが、自作のピアノ協奏曲第1番を初めてオーケストラと共演で初演しました。\n\n客席は熱狂してアンコール続出だったのに、批評家からは「原始的な騒音」「拘束服が必要」とまさかの酷評😳\n\nそれでも2年後、卒業コンクールでこの曲を再演。審査員長は彼の音楽を嫌っていたグラズノフでしたが、渋々ながら最高栄誉のアントン・ルビンシテイン賞を授与することに。\n\n酷評された曲が、一番の批判者の手で最高の栄冠を掴む——なんとも痛快な逆転劇です🎻\n\n▶️ もっと面白いクラシックの裏話、プロフィールのリンクから見られます。ぜひチェックしてみてください✨\n\n#クラシック音楽 #プロコフィエフ #今日は何の日 #音楽史 #ピアノ協奏曲 #クラシック豆知識 #忙しい大人のためのクラシック音楽ノート",
-  "youtube_caption": "【今日は何の日・音楽史】1912年8月7日、モスクワ🎹\n\n22歳の音楽院生だったプロコフィエフが、自作のピアノ協奏曲第1番を初めてオーケストラと共演で世に送り出しました。\n\n聴衆は熱狂してアンコールを連呼したのに、批評家は「原始的な騒音」「拘束服が必要だ」と酷評。それでも彼はこの\"問題作\"を諦めませんでした。\n\n2年後、卒業コンクールでこの曲を再び披露。審査員長は彼の音楽を毛嫌いしていたグラズノフでしたが、渋々ながらも最高栄誉のアントン・ルビンシテイン賞(副賞はグランドピアノ!)を授与せざるを得ませんでした。\n\n酷評された曲が、最も認めたくなかった人の手で最高の賞に輝く——皮肉だけど痛快なエピソードですよね。\n\nこういうクラシックの裏話が好きな方は、チャンネルの他の動画もぜひ覗いてみてください🎶",
+  "is_date_match": false,
+  "fb_caption": "【音楽史コラム】今も世界中の歌劇場で愛される『カルメン』。実はその初演は、作曲家ビゼー本人が「完全な失敗作」だと思い込むほどの酷評ぶりだったことをご存知でしょうか。\n\n1875年3月3日、パリのオペラ・コミック座で初演された『カルメン』は、ジプシー女の情熱と裏切り、殺人という当時としては際どすぎる題材が災いし、観客も批評家も冷ややかな反応でした。落胆したビゼーは、まさかこの作品が後世まで愛され続けるとは想像もできなかったはずです。\n\nそのわずか3か月後、ビゼーは36歳という若さで急逝。失意のまま世を去った彼は、『カルメン』が世界屈指の人気オペラへと変貌を遂げる姿を、ついに見ることはありませんでした。ハバネラや闘牛士の歌は、今もなお世界中の舞台で歌い継がれています。\n\n忙しい毎日の合間に、こうした音楽史の物語に触れてみませんか。チャンネルではクラシック音楽をやさしく解説しています。ぜひトップページからご覧ください。\n",
+  "ig_caption": "【音楽史コラム】\n\n今や世界中の歌劇場で愛される『カルメン』。でもその初演は、作曲家ビゼー自身が「完全な失敗作」と思い込むほどの惨憺たるものだったって知っていましたか？\n\n1875年3月3日、パリのオペラ・コミック座。裏切りと殺人が渦巻くジプシー女の物語は、当時としてはあまりに際どく、観客も批評家も冷ややか。落胆したビゼーは、この作品が後世に愛され続けるとは想像すらできませんでした。\n\nそのわずか3か月後、ビゼーは36歳で急逝。失意のまま世を去った彼は、『カルメン』が世界屈指の人気オペラへと変わる姿を見ることはありませんでした。ハバネラや闘牛士の歌は、今も世界中で歌い継がれています。\n\n忙しい毎日にひと息、クラシックの物語をお届けしています。続きはプロフィールのリンクからチェックしてみてください。\n\n#クラシック音楽 #音楽史 #ビゼー #カルメン #オペラ #今日は何の日 #クラシック初心者 #大人の教養",
+  "youtube_caption": "【音楽史コラム】今も世界中の歌劇場で愛される『カルメン』。実はその初演は、作曲家ビゼー本人が「完全な失敗作」だと思い込むほどの酷評ぶりだったことをご存知でしょうか。\n\n1875年3月3日、パリのオペラ・コミック座で初演された『カルメン』は、ジプシー女の情熱と裏切り、殺人という当時としては際どすぎる題材が災いし、観客も批評家も冷ややかな反応でした。落胆したビゼーは、まさかこの作品が後世まで愛され続けるとは想像もできなかったはずです。\n\nそのわずか3か月後、ビゼーは36歳という若さで急逝。失意のまま世を去った彼は、『カルメン』が世界屈指の人気オペラへと変貌を遂げる姿を、ついに見ることはありませんでした。ハバネラや闘牛士の歌は、今もなお世界中の舞台で歌い継がれています。\n\nこうした作曲家たちのドラマを、これからも動画でわかりやすくお届けしていきます。よければ他の投稿もチェックしてみてください。",
   "youtube_link": null
 }
