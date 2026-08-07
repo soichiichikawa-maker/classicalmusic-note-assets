@@ -1,0 +1,36 @@
+{
+  "composer": "Prokofiev",
+  "event_summary": "1912年8月7日(グレゴリオ暦。ユリウス暦では7月25日)、モスクワにて22歳の音楽院生セルゲイ・プロコフィエフが自作のピアノ協奏曲第1番 変ニ長調 op.10を、コンスタンチン・サラジェフ指揮のオーケストラと共に初演。これがプロコフィエフにとって初めてオーケストラと共演する舞台だった。聴衆は熱狂しアンコールを求めたが、批評家からは「原始的な騒音」「拘束服が必要だ」等の酷評を受けた。2年後の1914年5月18日、彼はサンクトペテルブルク音楽院の卒業コンクール(アントン・ルビンシテイン賞)で、規定の抜け道を突いてあえて自作のこの協奏曲を演奏。審査員長は彼の音楽を「有害な傾向に満ちている」と評していたアレクサンドル・グラズノフだったが、審査団は渋々ながらもプロコフィエフに最高賞(グランドピアノ授与)を与えた。",
+  "sources": [
+    "https://interlude.hk/prokofiev-piano-concerto-1premiered-today-1912/",
+    "https://en.wikipedia.org/wiki/Piano_Concerto_No._1_(Prokofiev)",
+    "https://sin80.com/en/work/prokofiev-piano-concerto-no1",
+    "https://houstonsymphony.org/prokofiev-piano-concerto-1/",
+    "https://lansdowneso.org/prokofiev-piano-concerto-1/",
+    "https://musopen.org/music/43018-piano-concerto-no-1-op-10/"
+  ],
+  "hook_copy": "「拘束服が要る」と酷評された曲が、音楽院最高の栄誉を勝ち取った",
+  "portrait_prompt": "Illustrated cinematic portrait of a young early-20th-century Russian composer-pianist in his early twenties, short neat hair, confident intense expression, wearing a formal early 1900s dark suit with high collar, bust-to-shoulder composition, painterly oil-painting style, soft dramatic lighting, plain muted solid-color background, not photorealistic, no text",
+  "middle_slides": [
+    {
+      "text": "1912年8月7日、モスクワ。22歳の音楽院生プロコフィエフが自作のピアノ協奏曲第1番を、初めてオーケストラと共に披露した。",
+      "image_prompt": "Oil-painting style illustration of a young confident Russian composer-pianist in early 1900s formal suit seated at a grand piano on a concert hall stage in Moscow, an orchestra behind him mid-performance, warm stage lighting, painterly brushstrokes, cinematic composition, not photorealistic, no text"
+    },
+    {
+      "text": "演奏会場は聴衆が熱狂し何度もアンコールを求めたが、辛口の批評家たちは「原始的な騒音」であり「拘束服が必要だ」とまで酷評した。",
+      "image_prompt": "Oil-painting style illustration of the same young Russian composer-pianist bowing on stage toward an enthusiastically applauding audience in an ornate early 1900s concert hall, dramatic warm lighting contrasted with a few stern shadowy figures scribbling notes in the front row, painterly cinematic style, not photorealistic, no text"
+    },
+    {
+      "text": "2年後の卒業試験、規則の抜け穴を突いて自作の協奏曲を演奏した。審査員長は彼の音楽を「退廃的」と嫌っていたグラズノフだった。",
+      "image_prompt": "Oil-painting style illustration of the same young Russian composer-pianist performing intensely at a grand piano before a long formal panel of stern-faced examiners seated at a dark wooden table in an academic hall, dramatic chiaroscuro lighting, painterly cinematic composition, not photorealistic, no text"
+    },
+    {
+      "text": "演奏は聴衆の心を掴み、グラズノフ率いる審査員団は渋々ながら最高栄誉のアントン・ルビンシテイン賞をプロコフィエフに授与した。",
+      "image_prompt": "Oil-painting style illustration of the same young Russian composer-pianist standing triumphantly beside a grand piano being presented as a prize in a grand academic hall, warm golden light, a sense of quiet victory and pride on his face, painterly cinematic style, not photorealistic, no text"
+    }
+  ],
+  "fb_caption": "【今日は何の日・音楽史】1912年8月7日、モスクワ🎹\n\n22歳の音楽院生だったプロコフィエフが、自作のピアノ協奏曲第1番を初めてオーケストラと共演で世に送り出しました。\n\n聴衆は熱狂してアンコールを連呼したのに、批評家は「原始的な騒音」「拘束服が必要だ」と酷評。それでも彼はこの\"問題作\"を諦めませんでした。\n\n2年後、卒業コンクールでこの曲を再び披露。審査員長は彼の音楽を毛嫌いしていたグラズノフでしたが、渋々ながらも最高栄誉のアントン・ルビンシテイン賞(副賞はグランドピアノ!)を授与せざるを得ませんでした。\n\n酷評された曲が、最も認めたくなかった人の手で最高の賞に輝く——皮肉だけど痛快なエピソードですよね。\n\nもっと面白いクラシックの裏話はチャンネルでたっぷりご紹介しています。ぜひ他の動画もチェックしてみてください🎶\n👉 YouTube「忙しい大人のためのクラシック音楽ノート」チャンネルトップから",
+  "ig_caption": "【今日は何の日・音楽史】1912年8月7日、モスクワ🎹\n\n22歳のプロコフィエフが、自作のピアノ協奏曲第1番を初めてオーケストラと共演で初演しました。\n\n客席は熱狂してアンコール続出だったのに、批評家からは「原始的な騒音」「拘束服が必要」とまさかの酷評😳\n\nそれでも2年後、卒業コンクールでこの曲を再演。審査員長は彼の音楽を嫌っていたグラズノフでしたが、渋々ながら最高栄誉のアントン・ルビンシテイン賞を授与することに。\n\n酷評された曲が、一番の批判者の手で最高の栄冠を掴む——なんとも痛快な逆転劇です🎻\n\n▶️ もっと面白いクラシックの裏話、プロフィールのリンクから見られます。ぜひチェックしてみてください✨\n\n#クラシック音楽 #プロコフィエフ #今日は何の日 #音楽史 #ピアノ協奏曲 #クラシック豆知識 #忙しい大人のためのクラシック音楽ノート",
+  "youtube_caption": "【今日は何の日・音楽史】1912年8月7日、モスクワ🎹\n\n22歳の音楽院生だったプロコフィエフが、自作のピアノ協奏曲第1番を初めてオーケストラと共演で世に送り出しました。\n\n聴衆は熱狂してアンコールを連呼したのに、批評家は「原始的な騒音」「拘束服が必要だ」と酷評。それでも彼はこの\"問題作\"を諦めませんでした。\n\n2年後、卒業コンクールでこの曲を再び披露。審査員長は彼の音楽を毛嫌いしていたグラズノフでしたが、渋々ながらも最高栄誉のアントン・ルビンシテイン賞(副賞はグランドピアノ!)を授与せざるを得ませんでした。\n\n酷評された曲が、最も認めたくなかった人の手で最高の賞に輝く——皮肉だけど痛快なエピソードですよね。\n\nこういうクラシックの裏話が好きな方は、チャンネルの他の動画もぜひ覗いてみてください🎶",
+  "youtube_link": null
+}
