@@ -1,0 +1,36 @@
+{
+  "composer": "Saint-Saens",
+  "event_summary": "2026年8月8日に該当する50人リスト内作曲家の音楽史イベントは複数ソースで確認できなかったため、優先順位2に従い日付非依存の逸話を採用。サン=サーンスが1886年に『動物の謝肉祭』を書き上げたが、自身の「大真面目な作曲家」というイメージを損なうことを恐れ、『白鳥』以外の公開・出版を生前禁止し、遺言で死後の発表を指定。1921年の死後、1922年に出版・初演され、熱狂的に受け入れられて代表作となったというエピソードを採用(is_date_match=false)。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Carnival_of_the_Animals",
+    "https://theclassicalmusicminute.substack.com/p/carnival-of-the-animals-the-masterpiece",
+    "https://stickynotespodcast.libsyn.com/saint-saens-the-carnival-of-the-animals",
+    "https://www.anchorageballet.org/post/the-history-of-carnival-of-the-animals",
+    "https://interlude.hk/on-this-day-26-february-saint-saens-the-carnival-of-animals-was-premiered/"
+  ],
+  "hook_copy": "今や大人気の「動物の謝肉祭」、[G]作曲者本人が[/G][R]死ぬまで封印[/R]した",
+  "portrait_prompt": "Illustrated cinematic bust portrait of Camille Saint-Saëns, elegant 19th century French composer with neat mustache and short beard, formal black tailcoat with white cravat, painterly oil-painting style, not photorealistic, plain muted dark background, simple composition suitable for framing, no text",
+  "middle_slides": [
+    {
+      "text": "1886年、交響曲第3番に行き詰まったサン=サーンスは息抜きに、動物たちをユーモラスに描いた組曲『動物の謝肉祭』を書き上げた。",
+      "image_prompt": "Oil-painting style scene of Camille Saint-Saëns sitting at a wooden writing desk in a cozy Austrian village cottage in summer, sunlight through window, musical manuscript paper scattered, playful sketches of animals like lions and swans faintly visible on the pages, painterly cinematic rendering, not photorealistic, no text"
+    },
+    {
+      "text": "友人たちを招いた内輪の演奏会は大成功。だが茶目っ気たっぷりのこの曲が、生涯かけて築いた「大真面目な作曲家」のイメージを壊すと彼は恐れた。",
+      "image_prompt": "Oil-painting style depiction of Camille Saint-Saëns performing at a grand piano in an elegant 19th century Parisian salon, small group of well-dressed guests listening with delight by candlelight, warm intimate atmosphere, painterly cinematic rendering, not photorealistic, no text"
+    },
+    {
+      "text": "サン=サーンスは「白鳥」以外の全曲の公開・出版を生前は固く禁止し、死後に発表するようにと自ら遺言にまで明記していたという。",
+      "image_prompt": "Oil-painting style image of an elderly Camille Saint-Saëns seated sternly at a study desk, sealing a rolled manuscript with wax and a stamp, a locked wooden drawer and quill nearby, dramatic warm lamplight, painterly cinematic rendering, not photorealistic, no text"
+    },
+    {
+      "text": "没後の1922年、ついに解禁された『動物の謝肉祭』。初公開は熱狂的な喝采を浴び、今では彼の代表作として世界中で愛されている。",
+      "image_prompt": "Oil-painting style scene of a grand Parisian concert hall filled with an enthusiastic applauding audience, orchestra on stage mid-performance, opulent early 20th century architecture, warm golden stage lighting, painterly cinematic rendering, not photorealistic, no text"
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "【音楽史コラム】今や世界中の子どもから大人まで愛される『動物の謝肉祭』。実はこの曲、作曲者サン=サーンス自身が生涯にわたって「公開禁止」にしていたのをご存知でしょうか。\n\n1886年、交響曲第3番の作曲に行き詰まっていたサン=サーンスは、息抜きのつもりでライオンやゾウ、白鳥など動物たちをユーモラスに描いた組曲を書き上げます。友人たちを招いた内輪の演奏会は大成功でしたが、この茶目っ気たっぷりの作品が「大真面目な作曲家」としての自分のイメージを壊してしまうと、彼はひどく恐れました。\n\n結果、『白鳥』以外の全曲の公開・出版を生前は固く禁止。死後に発表するようにと、自ら遺言にまで明記していたのです。\n\n没後の1922年、ついに解禁されたこの曲は熱狂的な喝采を浴び、今では彼の代表作として世界中で愛されています。作曲者本人が隠したがった曲が、いちばんの人気作になる――音楽史はときにこんな皮肉を見せてくれます。\n\n▼忙しい大人のためのクラシック音楽ノート、他の動画もぜひチャンネルトップからご覧ください。",
+  "ig_caption": "今や世界中で愛される『動物の謝肉祭』。実はこの曲、作曲者サン=サーンス自身が「公開禁止」にしていた曲だったって知っていましたか？\n\n1886年、交響曲第3番に行き詰まっていたサン=サーンスは、息抜きに動物たちをユーモラスに描いた組曲を書き上げます。友人内輪の演奏会は大成功。でも彼は、この茶目っ気たっぷりな作品が「大真面目な作曲家」のイメージを壊してしまうと恐れました。\n\n結果、『白鳥』以外の全曲を生前は固く封印し、死後に発表するよう遺言にまで明記。没後の1922年にようやく解禁されると、熱狂的な喝采を浴び、今では彼の代表作に。\n\n作曲者本人が隠したがった曲が、いちばんの人気作になった――そんな音楽史の面白いパラドックス、続きはプロフィールのリンクからチェックしてみてください🎻\n\n#クラシック音楽 #サンサーンス #動物の謝肉祭 #音楽豆知識 #クラシック初心者",
+  "youtube_caption": "【音楽史コラム】今や大人気の『動物の謝肉祭』、実は作曲者サン=サーンス自身が生涯「公開禁止」にしていた曲だったのをご存知でしょうか。\n\n1886年、交響曲第3番に行き詰まっていたサン=サーンスは、息抜きに動物たちをユーモラスに描いた組曲を書き上げます。友人を招いた内輪の演奏会は大成功でしたが、この茶目っ気たっぷりの作品が「大真面目な作曲家」というイメージを壊すことを彼は恐れました。\n\nそのため『白鳥』以外の全曲の公開・出版を生前は固く禁止し、死後に発表するようにと自ら遺言にまで明記。没後の1922年についに解禁されると熱狂的な喝采を浴び、今では彼の代表作として世界中で愛されています。\n\n作曲者本人が隠したがった曲が、いちばんの人気作になる――そんな音楽史の面白いエピソードでした。ぜひ他の動画もあわせてご覧ください。",
+  "youtube_link": null
+}
