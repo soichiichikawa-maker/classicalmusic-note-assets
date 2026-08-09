@@ -1,0 +1,37 @@
+{
+  "composer": "Shostakovich",
+  "event_summary": "1936年、スターリンが観劇中に途中退席し、翌日Pravda紙が「Muddle Instead of Music」でショスタコーヴィチを\"人民の敵\"扱いした事件。その後1941-42年、ナチス包囲下のレニングラードで飢餓に苦しみながらも生存者楽団が交響曲第7番「レニングラード」を1942年8月9日に初演し、スピーカーでドイツ軍陣地にも届けられ士気戦の武器となった。奇しくも同じ8月9日はショスタコーヴィチ自身の命日(1975年)でもある。日付は複数ソース(Wikipedia、Britannica等)で確認済み。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
+    "https://en.wikipedia.org/wiki/Leningrad_premi%C3%A8re_of_Shostakovich's_Symphony_No._7",
+    "https://www.britannica.com/topic/Leningrad-Symphony-No-7",
+    "https://en.wikipedia.org/wiki/Muddle_Instead_of_Music",
+    "https://www.carnegiehall.org/Explore/Articles/2021/03/11/Shostakovich-and-the-Soviet-State",
+    "https://www.yourclassical.org/story/2016/08/18/composer-corner-shostakovich"
+  ],
+  "hook_copy": "『[R]人民の敵[/R]』と呼ばれた男の曲が、[G]飢えた都市を救った[/G]",
+  "portrait_prompt": "Illustrated cinematic bust portrait of composer Dmitri Shostakovich, round spectacles, gaunt serious expression, mid-20th-century Soviet-era attire, painterly oil-painting style, soft muted color palette, plain near-solid dark background, not photorealistic, simple composition from chest up",
+  "middle_slides": [
+    {
+      "text": "1936年、観劇中のスターリンが途中退席。翌日『人民の敵』と新聞に名指しされたショスタコーヴィチは、来る日も来る日も逮捕を恐れて過ごした。",
+      "image_prompt": "Oil painting style illustration of young Dmitri Shostakovich standing pale-faced in a dim Soviet theater lobby, clutching a newspaper, eyes filled with dread, dark dramatic shadows, painterly brushstrokes, not photorealistic"
+    },
+    {
+      "text": "1941年、ナチス軍がレニングラードを包囲。餓死者が続出する地獄の中、ショスタコーヴィチは交響曲第7番の作曲に没頭した。",
+      "image_prompt": "Oil painting style illustration of Dmitri Shostakovich composing at a piano in a cold dark room, gaunt and focused, a besieged snow-covered city with distant fires visible through the window, painterly rendering, not photorealistic"
+    },
+    {
+      "text": "1942年8月9日――ちょうど今日と同じ日付に、飢えて倒れる奏者もいた中、演奏は決行された。曲はスピーカーで包囲するドイツ軍陣地にまで届けられた。",
+      "image_prompt": "Oil painting style scene inside a grand but war-worn concert hall in besieged Leningrad, gaunt musicians performing with empty chairs scattered among them symbolizing fallen colleagues, loudspeaker horns visible near windows, dramatic candlelight, painterly, not photorealistic"
+    },
+    {
+      "text": "演奏前、ソ連軍は砲撃でドイツ軍の砲を沈黙させ舞台を守った。かつて『人民の敵』と呼ばれた曲は、この日、国を鼓舞する英雄の調べに変わった。",
+      "image_prompt": "Oil painting style triumphant scene of an audience in besieged Leningrad rising for a standing ovation in a grand concert hall, warm golden light breaking through tall windows, painterly rendering, not photorealistic"
+    }
+  ],
+  "is_date_match": true,
+  "fb_caption": "【音楽史】8月9日は、ショスタコーヴィチの命日(1975年)であり、同時にあの「レニングラード交響曲」がナチス包囲下のレニングラードで初演された日(1942年)でもあります。\n\n1936年、観劇に訪れたスターリンが公演中に途中退席。翌日、新聞に「人民の敵」と名指しされたショスタコーヴィチは、いつ逮捕されてもおかしくない恐怖の日々を過ごしました。\n\nそれから5年後の1941年、ナチス軍によってレニングラードが包囲され、街は餓死者が続出する地獄と化します。ショスタコーヴィチはその渦中で交響曲第7番の作曲に没頭しました。\n\nそして1942年8月9日、飢えで倒れる奏者もいた中、演奏は決行。ソ連軍は砲撃でドイツ軍の砲を沈黙させて舞台を守り、曲はスピーカーで包囲するドイツ軍陣地にまで届けられたのです。\n\nかつて「人民の敵」と呼ばれた作曲家の音楽は、この日、国を鼓舞する英雄の調べへと姿を変えました。\n\n▼詳しくはYouTubeチャンネル「忙しい大人のためのクラシック音楽ノート」概要欄のリンクからご覧ください。",
+  "ig_caption": "【音楽史】8月9日は、ショスタコーヴィチの命日(1975年)であり、同時にあの「レニングラード交響曲」がナチス包囲下のレニングラードで初演された日(1942年)でもあります。\n\n1936年、観劇中のスターリンが途中退席。翌日「人民の敵」と新聞に名指しされたショスタコーヴィチは、逮捕を恐れる日々を過ごしました。\n\n1941年、レニングラードがナチス軍に包囲され、街は餓死者が続出する地獄に。そんな中、彼は交響曲第7番の作曲に没頭します。\n\n1942年8月9日、飢えで倒れる奏者もいた中、演奏は決行。曲はスピーカーで包囲するドイツ軍陣地にまで届けられました。\n\n「人民の敵」と呼ばれた曲は、この日、国を鼓舞する英雄の調べに変わったのです。\n\n続きはプロフィールのリンクからチェックしてみてください🎻",
+  "youtube_caption": "8月9日は、ショスタコーヴィチの命日(1975年)であり、同時にあの「レニングラード交響曲」がナチス包囲下のレニングラードで初演された日(1942年)でもあります。\n\n1936年、観劇中のスターリンが途中退席。翌日「人民の敵」と新聞に名指しされたショスタコーヴィチは、逮捕を恐れる日々を過ごしました。\n\n1941年、レニングラードがナチス軍に包囲され、街は餓死者が続出する地獄に。そんな中、彼は交響曲第7番の作曲に没頭します。\n\n1942年8月9日、飢えで倒れる奏者もいた中、演奏は決行。曲はスピーカーで包囲するドイツ軍陣地にまで届けられました。\n\n「人民の敵」と呼ばれた曲は、この日、国を鼓舞する英雄の調べへと姿を変えたのです。歴史が動いた瞬間を、ぜひ想像しながら聴いてみてください。",
+  "youtube_link": null
+}
