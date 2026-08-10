@@ -1,35 +1,35 @@
 {
-  "composer": "Vivaldi",
-  "event_summary": "2026年8月10日という日付に完全一致する50人リスト内の音楽史イベントは複数ソースで確認できなかった(Janacekの命日は8月12日で不一致)。そのため優先順位2に従い、日付とは無関係に「評価の逆転」型の面白いエピソードを持つヴィヴァルディを採用。生前はヨーロッパ中の宮廷で称賛された人気ヴァイオリン奏者・作曲家だったが、後ろ盾を求めてウィーンに移住した直後に頼みのカール6世が急死し、その約1年後に貧困のまま死去、簡素な墓に葬られた。以後約200年忘れられていたが、20世紀に楽譜が再発見され『四季』は今日世界で最も演奏される曲の一つとなっている。",
+  "composer": "Handel",
+  "event_summary": "2026年8月10日は50人リスト内の作曲家の誕生日・命日・重要な出来事に一致するものが確認できなかった(ミヒャエル・ハイドンやグラズノフ等の命日/誕生日はリスト外のため対象外)。そのため優先順位2に従い、日付とは無関係の逸話として、ヘンデルが1741年に破産寸前・\"もう終わった作曲家\"と噂される中、わずか24日間(8月22日〜9月14日)で全260ページに及ぶ『メサイア』を書き上げたエピソードを採用した。複数の信頼できるソース(Wikipedia、udiscovermusic、The Tabernacle Choir)で24日間という期間、食事・睡眠を惜しんで作曲したこと、\"ハレルヤ\"作曲時に涙を流したという逸話が確認できた。",
   "sources": [
-    "https://en.wikipedia.org/wiki/Antonio_Vivaldi",
-    "https://www.baroque.org/baroque/composers",
-    "https://en.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek",
-    "https://ja.wikipedia.org/wiki/8%E6%9C%8810%E6%97%A5"
+    "https://en.wikipedia.org/wiki/Messiah_(Handel)",
+    "https://www.udiscovermusic.com/classical-features/handel-messiah/",
+    "https://www.thetabernaclechoir.org/articles/history-of-handels-hallelujah-chorus.html?lang=eng",
+    "https://www.practicespaceapp.com/music-practice/2022/12/7/history-of-handels-messiah"
   ],
-  "hook_copy": "『四季』の巨匠、死後は[R]無縁墓地[/R]。[G]200年後、世界一人気の作曲家[/G]に",
-  "portrait_prompt": "Illustrated cinematic portrait, oil-painting style, painterly rendering, not photorealistic. Bust-to-shoulder view of a Baroque-era Italian composer with distinctive red hair, wearing a dark clerical-style coat with white collar, dignified yet intense expression, holding a violin bow subtly. Plain muted dark background, soft dramatic lighting, classical European 18th-century atmosphere.",
+  "hook_copy": "[R]破産寸前[/R]の失敗作曲家。[G]24日[/G]で書いた曲が、[G]世界の定番[/G]になった",
+  "portrait_prompt": "Illustrated cinematic portrait of a middle-aged Baroque-era composer (George Frideric Handel), bust-up to shoulders, wearing a powdered wig and dark 18th-century coat, weary but determined expression, soft warm lighting, oil-painting style, painterly rendering, not photorealistic, plain muted background, simple composition suitable for cropping into an oval frame",
   "middle_slides": [
     {
-      "text": "「赤毛の司祭」と呼ばれたヴィヴァルディは、生前ヨーロッパ中の宮廷でその超絶技巧を絶賛され、莫大な富と名声を手にした人気作曲家だった。",
-      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. A red-haired Baroque composer in clerical coat passionately playing violin on an ornate stage before grand candlelit European court hall, dramatic warm lighting, elegant Baroque architecture, sense of triumph and admiration, only this single figure depicted clearly, audience implied only as soft blurred silhouettes."
+      "text": "1741年、ヘンデルは50代半ば。人気だったオペラは廃れ、借金を抱え\"もう終わった作曲家\"と噂され、告別公演すら不評だった。",
+      "image_prompt": "Oil-painting style portrait of a dejected middle-aged Baroque composer sitting alone in a dim London room, unpaid bills and old opera scores scattered on a desk, candlelight, melancholic atmosphere, painterly rendering, not photorealistic"
     },
     {
-      "text": "だが晩年、支援を求めて神聖ローマ皇帝カール6世を頼りウィーンへ移住。ところが、その皇帝が到着からわずか数ヶ月で急死してしまう。",
-      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. The same red-haired Baroque composer, older and weary, standing alone with a small travel case before the grand gates of an imposing Viennese palace at dusk, hopeful yet anxious expression, muted golden autumn light, sense of uncertainty and isolation, only this single figure depicted."
+      "text": "友人チャールズ・ジェネンズから聖書の台本を受け取ったヘンデルは、ダブリンの慈善団体から\"債務者を救う\"ための新作委嘱を受けた。",
+      "image_prompt": "Oil-painting style scene of a Baroque composer receiving a bound manuscript libretto from a friend in a candlelit study, hopeful expression, letters and a charity commission document on the table, painterly rendering, not photorealistic"
     },
     {
-      "text": "頼みの綱を失ったヴィヴァルディは、その後わずか1年足らずで貧困のまま息を引き取り、簡素な共同墓地に葬られ、名前すら忘れられていった。",
-      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. An elderly red-haired composer sitting alone in a dim, sparsely furnished room, faint candlelight, worn clothing, melancholic quiet atmosphere, a simple modest gravestone faintly visible through a small window in soft shadow, only this single figure depicted clearly."
+      "text": "自室にこもったヘンデルは、食事も眠りも忘れて作曲に没頭。\"ハレルヤ\"を書き終えた時、彼は涙を流し\"天国が見えた\"と語った。",
+      "image_prompt": "Oil-painting style depiction of a Baroque composer hunched over a desk covered in manuscript pages late at night, candle burning low, tears in his eyes, look of overwhelming inspiration, painterly rendering, not photorealistic"
     },
     {
-      "text": "だが約200年後、埋もれていた楽譜が発見され、『四季』は世界で最も演奏される名曲として蘇り、彼は歴史的巨匠として復活を遂げた。",
-      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. Radiant golden light streaming over aged manuscript pages scattered on an old wooden desk, the ghostly translucent figure of the red-haired Baroque composer emerging softly amid the glow, evoking triumphant rebirth and legacy, warm luminous atmosphere, only this single figure depicted."
+      "text": "完成までわずか24日、260ページ。翌年ダブリンで初演されたこの曲は、今や世界最高峰の合唱曲としてクリスマスに歌い継がれている。",
+      "image_prompt": "Oil-painting style triumphant scene of an 18th-century Dublin concert hall filled with an audience and choir performing a grand oratorio, candlelit chandeliers, composer watching proudly from the side, painterly rendering, not photorealistic"
     }
   ],
   "is_date_match": false,
-  "fb_caption": "【音楽史コラム】『四季』で知られるヴィヴァルディ。生前は\"赤毛の司祭\"としてヨーロッパ中の宮廷を熱狂させた人気作曲家でした。しかし晩年、支援を求めてウィーンへ移住した直後、頼みの皇帝カール6世が急死。その約1年後、ヴィヴァルディは貧困のまま息を引き取り、簡素な共同墓地に葬られました。\n\n名前も楽譜も約200年間忘れられていましたが、20世紀に楽譜が再発見され、今では『四季』は世界で最も演奏される名曲のひとつに。栄光→没落→奇跡の復活という、クラシック音楽史でも異例の物語です。\n\n続きの解説や他の作曲家エピソードは、YouTube「忙しい大人のためのクラシック音楽ノート」でチェックしてみてください。▶︎ YouTubeで「忙しい大人のためのクラシック音楽ノート」を検索",
-  "ig_caption": "【音楽史コラム】『四季』のヴィヴァルディ、実は死後めちゃ悲惨だった話。\n\n生前は\"赤毛の司祭\"としてヨーロッパ中の宮廷を熱狂させた人気ヴァイオリン奏者・作曲家。でも晩年、支援を求めてウィーンへ移住した直後、頼みの皇帝カール6世が急死。\n\nその約1年後、ヴィヴァルディは貧困のまま生涯を終え、簡素な共同墓地へ。名前も楽譜も約200年間、歴史の中に埋もれていました。\n\nでも20世紀、忘れられていた楽譜が再発見。今では『四季』は世界で最も演奏される名曲のひとつに。\n\n栄光→没落→奇跡の復活。クラシック音楽史に残るこの物語、続きはプロフィールのリンクから覗いてみてください🎻\n\n#ヴィヴァルディ #四季 #クラシック音楽 #音楽史 #バロック音楽",
-  "youtube_caption": "【音楽史コラム】『四季』で知られるヴィヴァルディ。生前は\"赤毛の司祭\"としてヨーロッパ中の宮廷を熱狂させた人気作曲家でした。\n\nしかし晩年、支援を求めてウィーンへ移住した直後、頼みの皇帝カール6世が急死。その約1年後、ヴィヴァルディは貧困のまま息を引き取り、簡素な共同墓地に葬られました。\n\n名前も楽譜も約200年間忘れられていましたが、20世紀に楽譜が再発見され、今では『四季』は世界で最も演奏される名曲のひとつに。栄光から没落、そして奇跡の復活まで——クラシック音楽史でも異例の物語です。\n\n他の作曲家の知られざるエピソードも投稿しているので、チャンネルの他の動画もぜひ覗いてみてください。",
+  "fb_caption": "【音楽史コラム】\"終わった作曲家\"が起こした24日間の奇跡\n\n1741年、ヘンデルは借金を抱え、人気オペラも下火。ロンドンでは\"もう終わった作曲家\"とまで噂されていました。\n\nそんな彼が、友人から聖書の台本を受け取り、ダブリンの慈善団体からの依頼で書き始めたのが『メサイア』。自室にこもり、食事も眠りも忘れて没頭したその期間はわずか24日間、原稿は260ページに及びました。\"ハレルヤ\"を書き終えた瞬間、彼は涙を流し「天国が見えた」と語ったと伝えられています。\n\n翌年ダブリンで初演されたこの曲は、今や世界中のクリスマスで歌われる合唱曲の代表作に。人生最大のどん底から生まれた24日間の集中力が、300年近く語り継がれる名曲を生みました。\n\nもっとクラシック音楽の物語を知りたい方は、チャンネルトップからぜひ他の動画もご覧ください。\nhttps://www.youtube.com/@busy_adults_classical_notes (チャンネルトップ)",
+  "ig_caption": "【音楽史コラム】\"終わった作曲家\"が起こした24日間の奇跡\n\n1741年、ヘンデルは借金を抱え、人気オペラも下火。ロンドンでは\"もう終わった作曲家\"とまで噂されていました。\n\nそんな彼が、友人から聖書の台本を受け取り、ダブリンの慈善団体からの依頼で書き始めたのが『メサイア』。自室にこもり、食事も眠りも忘れて没頭したその期間はわずか24日間、原稿は260ページに及びました。\"ハレルヤ\"を書き終えた瞬間、彼は涙を流し「天国が見えた」と語ったと伝えられています。\n\n翌年ダブリンで初演されたこの曲は、今や世界中のクリスマスで歌われる合唱曲の代表作に。人生最大のどん底から生まれた24日間の集中力が、300年近く語り継がれる名曲を生みました。\n\n続きや他の作曲家エピソードはプロフィールのリンクからチェックしてみてください♪\n#ヘンデル #メサイア #ハレルヤ #クラシック音楽 #音楽史 #クラシック好き #忙しい大人のためのクラシック音楽ノート",
+  "youtube_caption": "【音楽史コラム】\"終わった作曲家\"が起こした24日間の奇跡\n\n1741年、ヘンデルは借金を抱え、人気オペラも下火。ロンドンでは\"もう終わった作曲家\"とまで噂されていました。\n\nそんな彼が、友人から聖書の台本を受け取り、ダブリンの慈善団体からの依頼で書き始めたのが『メサイア』。自室にこもり、食事も眠りも忘れて没頭したその期間はわずか24日間、原稿は260ページに及びました。\"ハレルヤ\"を書き終えた瞬間、彼は涙を流し「天国が見えた」と語ったと伝えられています。\n\n翌年ダブリンで初演されたこの曲は、今や世界中のクリスマスで歌われる合唱曲の代表作に。人生最大のどん底から生まれた24日間の集中力が、300年近く語り継がれる名曲を生みました。\n\nこのチャンネルでは、こうしたクラシック音楽の知られざる物語を紹介しています。ぜひ他の投稿もチェックしてみてください。",
   "youtube_link": null
 }
