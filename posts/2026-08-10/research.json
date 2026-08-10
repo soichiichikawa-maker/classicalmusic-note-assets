@@ -1,35 +1,37 @@
 {
-  "composer": "Handel",
-  "event_summary": "2026年8月10日は50人リスト内の作曲家の誕生日・命日・重要な出来事に一致するものが確認できなかった(ミヒャエル・ハイドンやグラズノフ等の命日/誕生日はリスト外のため対象外)。そのため優先順位2に従い、日付とは無関係の逸話として、ヘンデルが1741年に破産寸前・\"もう終わった作曲家\"と噂される中、わずか24日間(8月22日〜9月14日)で全260ページに及ぶ『メサイア』を書き上げたエピソードを採用した。複数の信頼できるソース(Wikipedia、udiscovermusic、The Tabernacle Choir)で24日間という期間、食事・睡眠を惜しんで作曲したこと、\"ハレルヤ\"作曲時に涙を流したという逸話が確認できた。",
+  "composer": "パガニーニ",
+  "event_summary": "2026年8月10日と50人リスト内作曲家の誕生日・命日・重要な出来事との一致は複数ソースで確認できなかったため、優先順位2に基づき日付非依存の逸話を採用。ニコロ・パガニーニが1840年5月27日に57歳で急死した際、臨終の儀式を「まだ早い」と拒んだこと、および「悪魔と契約した」との根強い噂により、カトリック教会が彼の遺体の正式な埋葬を拒否した史実を使用。遺体は地下室や隔離施設(ハンセン病療養所)、搾油小屋などを転々とし、教皇への嘆願を経てジェノヴァへの移送が許されるまで4年、最終的にパルマの墓地に埋葬されるまでには死後36年(1876年)を要し、さらに1896年に新墓地へ再埋葬された。",
   "sources": [
-    "https://en.wikipedia.org/wiki/Messiah_(Handel)",
-    "https://www.udiscovermusic.com/classical-features/handel-messiah/",
-    "https://www.thetabernaclechoir.org/articles/history-of-handels-hallelujah-chorus.html?lang=eng",
-    "https://www.practicespaceapp.com/music-practice/2022/12/7/history-of-handels-messiah"
+    "https://www.atlasobscura.com/places/tomb-of-niccolo-paganini",
+    "https://www.classicals.de/paganini",
+    "https://www.classical-music.com/features/composers/composers-missing-body-parts",
+    "https://interlude.hk/on-this-day-27-may-niccolo-paganini-died/",
+    "https://timenote.info/en/Niccol-Paganini",
+    "https://www.thestrad.com/for-subscribers/paganinis-body-was-buried-and-re-buried-no-less-than-nine-times-from-the-archive-november-1932/15492.article"
   ],
-  "hook_copy": "[R]破産寸前[/R]の失敗作曲家。[G]24日[/G]で書いた曲が、[G]世界の定番[/G]になった",
-  "portrait_prompt": "Illustrated cinematic portrait of a middle-aged Baroque-era composer (George Frideric Handel), bust-up to shoulders, wearing a powdered wig and dark 18th-century coat, weary but determined expression, soft warm lighting, oil-painting style, painterly rendering, not photorealistic, plain muted background, simple composition suitable for cropping into an oval frame",
+  "hook_copy": "[R]悪魔と契約[/R]したと噂された天才は、死後[G]36年間[/G]埋葬を拒まれた",
+  "portrait_prompt": "Illustrated cinematic oil-painting style portrait of Niccolò Paganini, gaunt pale face, long dark hair, intense piercing eyes, holding a violin close to his chest, dramatic chiaroscuro lighting, bust-to-shoulder composition, plain dark muted background, painterly brushstrokes, not photorealistic, no text",
   "middle_slides": [
     {
-      "text": "1741年、ヘンデルは50代半ば。人気だったオペラは廃れ、借金を抱え\"もう終わった作曲家\"と噂され、告別公演すら不評だった。",
-      "image_prompt": "Oil-painting style portrait of a dejected middle-aged Baroque composer sitting alone in a dim London room, unpaid bills and old opera scores scattered on a desk, candlelight, melancholic atmosphere, painterly rendering, not photorealistic"
+      "text": "19世紀の舞台で、痩せこけた体から人間離れした演奏を繰り出すパガニーニに、客席は震え上がり「悪魔と契約したに違いない」と噂するほどだった。",
+      "image_prompt": "Oil-painting style illustration of gaunt violinist Niccolò Paganini performing on a candlelit 19th-century concert stage, dramatic dark background, awestruck silhouetted audience in shadow, intense spotlight on his thin figure and violin, painterly brushwork, cinematic composition, not photorealistic, no text"
     },
     {
-      "text": "友人チャールズ・ジェネンズから聖書の台本を受け取ったヘンデルは、ダブリンの慈善団体から\"債務者を救う\"ための新作委嘱を受けた。",
-      "image_prompt": "Oil-painting style scene of a Baroque composer receiving a bound manuscript libretto from a friend in a candlelit study, hopeful expression, letters and a charity commission document on the table, painterly rendering, not photorealistic"
+      "text": "1840年、パガニーニは\"まだ早い\"と臨終の儀式を拒み、その1週間後に57歳で急死した。教会は「悪魔の手先」との噂を理由に埋葬を拒んだ。",
+      "image_prompt": "Oil-painting style illustration of Niccolò Paganini lying gravely ill in a dim candlelit room in Nice, a priest standing at the doorway arriving too late, somber muted colors, painterly rendering, cinematic composition, not photorealistic, no text"
     },
     {
-      "text": "自室にこもったヘンデルは、食事も眠りも忘れて作曲に没頭。\"ハレルヤ\"を書き終えた時、彼は涙を流し\"天国が見えた\"と語った。",
-      "image_prompt": "Oil-painting style depiction of a Baroque composer hunched over a desk covered in manuscript pages late at night, candle burning low, tears in his eyes, look of overwhelming inspiration, painterly rendering, not photorealistic"
+      "text": "遺体は埋葬されるどころか、地下室や隔離施設、さらには搾油小屋まで転々と運ばれ続けた。教会の許しが出るまで実に4年もかかった。",
+      "image_prompt": "Oil-painting style illustration of a plain wooden coffin being quietly transported at night by lantern light along a rocky Mediterranean coastline, shadowy figures carrying it toward a dim stone building, somber atmosphere, painterly brushstrokes, cinematic composition, not photorealistic, no text"
     },
     {
-      "text": "完成までわずか24日、260ページ。翌年ダブリンで初演されたこの曲は、今や世界最高峰の合唱曲としてクリスマスに歌い継がれている。",
-      "image_prompt": "Oil-painting style triumphant scene of an 18th-century Dublin concert hall filled with an audience and choir performing a grand oratorio, candlelit chandeliers, composer watching proudly from the side, painterly rendering, not photorealistic"
+      "text": "教会からの完全な赦しが出たのは、死後実に36年目。1876年、パガニーニはようやくパルマの墓地で静かに眠ることができたのだった。",
+      "image_prompt": "Oil-painting style illustration of a quiet sunlit cemetery in Parma, Italy, an ornate 19th-century marble tomb, soft warm golden light, peaceful atmosphere, painterly rendering, cinematic composition, not photorealistic, no text"
     }
   ],
   "is_date_match": false,
-  "fb_caption": "【音楽史コラム】\"終わった作曲家\"が起こした24日間の奇跡\n\n1741年、ヘンデルは借金を抱え、人気オペラも下火。ロンドンでは\"もう終わった作曲家\"とまで噂されていました。\n\nそんな彼が、友人から聖書の台本を受け取り、ダブリンの慈善団体からの依頼で書き始めたのが『メサイア』。自室にこもり、食事も眠りも忘れて没頭したその期間はわずか24日間、原稿は260ページに及びました。\"ハレルヤ\"を書き終えた瞬間、彼は涙を流し「天国が見えた」と語ったと伝えられています。\n\n翌年ダブリンで初演されたこの曲は、今や世界中のクリスマスで歌われる合唱曲の代表作に。人生最大のどん底から生まれた24日間の集中力が、300年近く語り継がれる名曲を生みました。\n\nもっとクラシック音楽の物語を知りたい方は、チャンネルトップからぜひ他の動画もご覧ください。\nhttps://www.youtube.com/@busy_adults_classical_notes (チャンネルトップ)",
-  "ig_caption": "【音楽史コラム】\"終わった作曲家\"が起こした24日間の奇跡\n\n1741年、ヘンデルは借金を抱え、人気オペラも下火。ロンドンでは\"もう終わった作曲家\"とまで噂されていました。\n\nそんな彼が、友人から聖書の台本を受け取り、ダブリンの慈善団体からの依頼で書き始めたのが『メサイア』。自室にこもり、食事も眠りも忘れて没頭したその期間はわずか24日間、原稿は260ページに及びました。\"ハレルヤ\"を書き終えた瞬間、彼は涙を流し「天国が見えた」と語ったと伝えられています。\n\n翌年ダブリンで初演されたこの曲は、今や世界中のクリスマスで歌われる合唱曲の代表作に。人生最大のどん底から生まれた24日間の集中力が、300年近く語り継がれる名曲を生みました。\n\n続きや他の作曲家エピソードはプロフィールのリンクからチェックしてみてください♪\n#ヘンデル #メサイア #ハレルヤ #クラシック音楽 #音楽史 #クラシック好き #忙しい大人のためのクラシック音楽ノート",
-  "youtube_caption": "【音楽史コラム】\"終わった作曲家\"が起こした24日間の奇跡\n\n1741年、ヘンデルは借金を抱え、人気オペラも下火。ロンドンでは\"もう終わった作曲家\"とまで噂されていました。\n\nそんな彼が、友人から聖書の台本を受け取り、ダブリンの慈善団体からの依頼で書き始めたのが『メサイア』。自室にこもり、食事も眠りも忘れて没頭したその期間はわずか24日間、原稿は260ページに及びました。\"ハレルヤ\"を書き終えた瞬間、彼は涙を流し「天国が見えた」と語ったと伝えられています。\n\n翌年ダブリンで初演されたこの曲は、今や世界中のクリスマスで歌われる合唱曲の代表作に。人生最大のどん底から生まれた24日間の集中力が、300年近く語り継がれる名曲を生みました。\n\nこのチャンネルでは、こうしたクラシック音楽の知られざる物語を紹介しています。ぜひ他の投稿もチェックしてみてください。",
+  "fb_caption": "【音楽史コラム】史上最強のヴァイオリニストは、なぜ36年間も埋葬を拒まれたのか。\n\n「悪魔に魂を売った」――ニコロ・パガニーニの神業のような演奏は、そんな噂を生むほど常識外れでした。1840年、57歳で急死した彼は「臨終の儀式はまだ早い」と受けずに息を引き取ったことも重なり、カトリック教会から正式な埋葬を拒否されてしまいます。\n\n遺体は地下室や隔離施設、搾油小屋まで転々とし、教皇への嘆願を経てようやくジェノヴァへ移送されるまで4年。そして死後実に36年目の1876年、パルマの墓地でようやく静かに眠ることができました。\n\n天才の演奏が、死後にまで\"呪い\"のような扱いを受けた――クラシック音楽史でも異色のエピソードです。\n\nチャンネルでは、こうした作曲家たちの知られざる物語を紹介しています。\n▶ 続きはYouTube「忙しい大人のためのクラシック音楽ノート」で\nhttps://www.youtube.com/@busyadults_classicalnotes",
+  "ig_caption": "「悪魔に魂を売った」と噂された天才は、死後36年間も埋葬を拒まれた——\n\nニコロ・パガニーニの演奏は、あまりに人間離れしていたため「悪魔と契約したに違いない」という噂が絶えませんでした。1840年、57歳で急死した際、彼は臨終の儀式を「まだ早い」と拒んでいたこともあり、教会は正式な埋葬を許しませんでした。\n\n遺体は地下室や隔離施設、搾油小屋まで転々とし、教皇への嘆願でジェノヴァへ移送されるまで4年。最終的にパルマの墓地に眠るまでには、死後36年もの時間が必要でした。\n\n天才の栄光と、死後の長い流転。クラシック音楽史の奥深さを感じるエピソードです。\n\nもっと知りたい方は、プロフィールのリンクからチャンネルをチェックしてみてください。\n\n#パガニーニ #クラシック音楽 #音楽史 #ヴァイオリン #豆知識 #忙しい大人のためのクラシック音楽ノート",
+  "youtube_caption": "史上最強のヴァイオリニストは、なぜ36年間も埋葬を拒まれたのか。\n\n「悪魔に魂を売った」――ニコロ・パガニーニの神業のような演奏は、そんな噂を生むほど常識外れでした。1840年、57歳で急死した彼は「臨終の儀式はまだ早い」と受けなかったこともあり、教会から正式な埋葬を拒否されます。\n\n遺体は地下室や隔離施設、搾油小屋まで転々とし、教皇への嘆願を経てジェノヴァへ移送されるまで4年。そして死後実に36年目の1876年、パルマの墓地でようやく静かに眠ることができました。\n\n天才の演奏が、死後にまで\"呪い\"のような扱いを受けた——クラシック音楽史でも異色のエピソードです。こうした作曲家たちの知られざる物語、ぜひ他の投稿もチェックしてみてください。",
   "youtube_link": null
 }
