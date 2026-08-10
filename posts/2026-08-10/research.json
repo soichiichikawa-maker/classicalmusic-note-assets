@@ -1,35 +1,36 @@
 {
-  "composer": "パガニーニ",
-  "event_summary": "2026年8月10日に該当する50人リスト内作曲家の誕生日・命日・重要事項の一致は複数ソースで確認できなかったため、優先順位2に基づき日付とは無関係の逸話を採用。パガニーニの超絶技巧が「悪魔との契約」という噂を生み、死後は教会から埋葬を拒否され、遺体が最終的にパルマで正式に埋葬されるまで36年(1840年死去→1876年埋葬)を要したという事実を、複数の英語ソース(todayifoundout, Atlas Obscura, ClassicFM, HushedUpHistory等)で確認した。",
+  "composer": "ビゼー",
+  "event_summary": "2026年8月10日は50人リスト内作曲家の誕生日・命日と一致しなかったため(Wikipedia等でAugust10生まれの著名作曲家はグラズノフやミヒャエル・ハイドンだがいずれもリスト対象外/リストのHaydnはヨーゼフ・ハイドンを指すため不一致)、優先順位2に従い日付非依存の逸話としてビゼーの『カルメン』初演失敗と3ヶ月後の急逝、その後の評価逆転エピソードを採用した。",
   "sources": [
-    "https://www.todayifoundout.com/index.php/2015/06/famous-violinist-paganini-really-sell-soul-devil/",
-    "https://www.atlasobscura.com/places/tomb-of-niccolo-paganini",
-    "https://www.classicfm.com/composers/paganini/niccolo-gifted-violinist-deal-with-devil/",
-    "https://husheduphistory.com/post/152559204788/devil-on-his-shoulder-niccolo-paganini-and-his"
+    "https://www.wmht.org/blogs/composers/georges-bizet-1/",
+    "https://www.ebsco.com/research-starters/history/bizets-carmen-premieres-paris",
+    "https://www.classical-music.com/features/composers/georges-bizet",
+    "https://en.wikipedia.org/wiki/Carmen",
+    "https://www.classicfm.com/composers/bizet/carmen-bizet-disaster-premiere/"
   ],
-  "hook_copy": "[G]悪魔と契約[/G]した天才、その死後[R]36年間も埋葬を拒否[/R]された",
-  "portrait_prompt": "Illustrated cinematic portrait of a 19th-century Italian violin virtuoso, gaunt pale face, long dark hair, intense dark eyes, dressed entirely in black romantic-era attire, holding a violin close to his chest, oil-painting style, painterly rendering, dramatic chiaroscuro lighting, simple dark muted background, bust-to-shoulder composition, not photorealistic, no text",
+  "hook_copy": "『カルメン』初演は[R]大失敗[/R]。[G]3ヶ月後[/G]、本人は知らず世を去った",
+  "portrait_prompt": "Illustrated cinematic bust portrait of French composer Georges Bizet, 19th-century attire with dark coat and cravat, thoughtful melancholic expression, neat beard and mustache, painterly rendering, oil-painting style, soft warm lighting, plain muted solid-color background, simple bust-to-shoulder composition, not photorealistic, no text",
   "middle_slides": [
     {
-      "text": "19世紀ヨーロッパの客席は震えた。あり得ない速さの弓さばきに、噂では母親が息子の魂と引き換えに悪魔と契約したとまで言われた。",
-      "image_prompt": "Oil-painting style illustration of a gaunt pale violinist in black romantic-era clothing performing on a dimly lit 19th-century concert stage, audience silhouettes in the foreground gasping in awe and fear, dramatic candlelight, painterly brushstrokes, cinematic composition, not photorealistic, no text"
+      "text": "1875年3月3日、パリのオペラコミック座で『カルメン』が初演された。客席は困惑と拒絶の空気に包まれ、拍手はほとんど起こらなかった。",
+      "image_prompt": "Oil-painting style painterly illustration of a 19th-century Parisian opera house interior during a tense premiere night, audience in evening dress looking cold and disapproving, dim gaslight glow, ornate red velvet seats, not photorealistic, no text, no composer figure needed on stage"
     },
     {
-      "text": "実際のパガニーニは敬虔なカトリック教徒で、教皇レオ12世から名誉ある黄金の拍章勲章まで授けられていた。それでも悪魔の噂は消えなかった。",
-      "image_prompt": "Oil-painting style illustration of a gaunt pale 19th-century violinist kneeling to receive a golden papal honor medal from a robed church official in an ornate hall, warm golden light contrasting with his dark somber attire, painterly rendering, cinematic composition, not photorealistic, no text"
+      "text": "批評家たちは容赦なく酷評し、劇場は客足をつなぐため無料券まで配った。ビゼー自身も、この作品は完全な失敗だと思い込んでいた。",
+      "image_prompt": "Oil-painting style painterly illustration of composer Georges Bizet sitting alone at a wooden desk late at night, holding a newspaper with a discouraged expression, candlelight, scattered manuscript pages, melancholic mood, not photorealistic, no text"
     },
     {
-      "text": "死の淵にあってなお、彼は終油の儀式を「まだ早い」と頑なに拒否した。数日後、聖職者が駆けつける前に息を引き取ってしまったのだ。",
-      "image_prompt": "Oil-painting style illustration of a gaunt pale violinist lying in a dim candle-lit 19th-century sickroom, a priest standing hesitantly at the doorway being waved away, muted somber colors, painterly brushstrokes, cinematic composition, not photorealistic, no text"
+      "text": "初演からちょうど3ヶ月後の6月3日深夜、ビゼーは心臓発作で急逝した。享年36。彼はカルメンの真の価値を知ることなく世を去った。",
+      "image_prompt": "Oil-painting style painterly illustration of a dim quiet 19th-century Parisian bedroom at night, a single lit candle beside a bed, somber and still atmosphere, symbolic representation of a composer's final night, not photorealistic, no text, no explicit death depiction"
     },
     {
-      "text": "教会は埋葬を拒否し、遺体はニースの地下室から工場の貯蔵樽まで転々とした。ようやく埋葬されたのは、実に36年後のパルマだった。",
-      "image_prompt": "Oil-painting style illustration of a plain wooden coffin being quietly transported by cloaked figures through a shadowy Italian cellar and past an old olive oil factory at night, moody blue-grey tones, painterly rendering, cinematic composition, not photorealistic, no text"
+      "text": "だが死の直後から評価は逆転した。わずか数年後には欧州各国で成功を収め、現在『カルメン』は世界で最も上演される演目の一つとなっている。",
+      "image_prompt": "Oil-painting style painterly illustration of a grand European opera house packed with an enthusiastic audience giving a standing ovation, bright warm stage lights, festive triumphant atmosphere, not photorealistic, no text, no composer figure present"
     }
   ],
   "is_date_match": false,
-  "fb_caption": "音楽史コラム🎻天才ヴァイオリニスト、パガニーニの超絶技巧は「悪魔との契約」と噂されるほどでした。しかしその死後、教会から36年間も埋葬を拒まれるという意外な顛末が待っていました。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nパガニーニの遺体が転々とした36年間の全貌は、YouTubeチャンネル「忙しい大人のためのクラシック音楽ノート」で詳しく解説しています。続きはYouTubeでチェック！",
-  "ig_caption": "音楽史コラム🎻天才ヴァイオリニスト、パガニーニの超絶技巧は「悪魔との契約」と噂されるほどでした。しかしその死後、教会から36年間も埋葬を拒まれるという意外な顛末が待っていました。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n悪魔の噂と36年の埋葬拒否、驚きの顛末をお見逃しなく。フォロー＆保存でいつでも読み返せます✨",
-  "youtube_caption": "音楽史コラム🎻天才ヴァイオリニスト、パガニーニの超絶技巧は「悪魔との契約」と噂されるほどでした。しかしその死後、教会から36年間も埋葬を拒まれるという意外な顛末が待っていました。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nパガニーニにまつわる伝説の続きが気になる方は、チャンネル内の他の動画もぜひチェックしてみてください🎻",
+  "fb_caption": "音楽史コラム🎭 ビゼーの遺作『カルメン』は初演で酷評され、彼は失敗作だと思い込んだまま3ヶ月後に世を去った。だが死後、世界的な名作へと評価は逆転した。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n『カルメン』誕生の裏側をもっと詳しく知りたい方は、YouTubeチャンネルもチェックしてみてください→ https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "音楽史コラム🎭 ビゼーの遺作『カルメン』は初演で酷評され、彼は失敗作だと思い込んだまま3ヶ月後に世を去った。だが死後、世界的な名作へと評価は逆転した。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nフォロー＆保存でこの続きもお見逃しなく。次はどんな作曲家の意外な裏側に出会えるか、お楽しみに🎻",
+  "youtube_caption": "音楽史コラム🎭 ビゼーの遺作『カルメン』は初演で酷評され、彼は失敗作だと思い込んだまま3ヶ月後に世を去った。だが死後、世界的な名作へと評価は逆転した。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nビゼーとカルメンにまつわるこの物語、チャンネルの解説動画でもじっくりご紹介しています。ぜひ覗いてみてください。",
   "youtube_link": null
 }
