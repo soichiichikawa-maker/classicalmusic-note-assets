@@ -1,37 +1,36 @@
 {
-  "composer": "パガニーニ",
-  "event_summary": "2026年8月10日と50人リスト内作曲家の誕生日・命日・重要な出来事との一致は複数ソースで確認できなかったため、優先順位2に基づき日付非依存の逸話を採用。ニコロ・パガニーニが1840年5月27日に57歳で急死した際、臨終の儀式を「まだ早い」と拒んだこと、および「悪魔と契約した」との根強い噂により、カトリック教会が彼の遺体の正式な埋葬を拒否した史実を使用。遺体は地下室や隔離施設(ハンセン病療養所)、搾油小屋などを転々とし、教皇への嘆願を経てジェノヴァへの移送が許されるまで4年、最終的にパルマの墓地に埋葬されるまでには死後36年(1876年)を要し、さらに1896年に新墓地へ再埋葬された。",
+  "composer": "ストラヴィンスキー",
+  "event_summary": "2026年8月10日に該当する50人リスト内作曲家の誕生日・命日・重要な出来事は複数ソース照合の結果確認できなかったため、優先順位2に切替。日付とは無関係に、1913年5月29日にパリで行われたストラヴィンスキー『春の祭典』初演の大混乱と、その裏でディアギレフがスキャンダルを歓迎していたという逸話を採用(evaluation reversal + motive twist)。直近使用済み作曲家(Prokofiev, Rossini, Saint-Saens, Shostakovich, Butterworth, Paganini)とは重複しない。",
   "sources": [
-    "https://www.atlasobscura.com/places/tomb-of-niccolo-paganini",
-    "https://www.classicals.de/paganini",
-    "https://www.classical-music.com/features/composers/composers-missing-body-parts",
-    "https://interlude.hk/on-this-day-27-may-niccolo-paganini-died/",
-    "https://timenote.info/en/Niccol-Paganini",
-    "https://www.thestrad.com/for-subscribers/paganinis-body-was-buried-and-re-buried-no-less-than-nine-times-from-the-archive-november-1932/15492.article"
+    "https://interlude.hk/the-riot-of-spring/",
+    "https://www.classicfm.com/composers/stravinsky/news/rite-and-the-riot/",
+    "https://will.illinois.edu/clefnotes/entry/did-the-rite-of-spring-really-incite-a-riot",
+    "https://blogs.loc.gov/loc/2009/05/all-publicity-is-good/",
+    "https://www.history.com/this-day-in-history/may-29/controversial-ballet-le-sacre-du-printemps-performed-in-paris"
   ],
-  "hook_copy": "[R]悪魔と契約[/R]したと噂された天才は、死後[G]36年間[/G]埋葬を拒まれた",
-  "portrait_prompt": "Illustrated cinematic oil-painting style portrait of Niccolò Paganini, gaunt pale face, long dark hair, intense piercing eyes, holding a violin close to his chest, dramatic chiaroscuro lighting, bust-to-shoulder composition, plain dark muted background, painterly brushstrokes, not photorealistic, no text",
+  "hook_copy": "パリの客席は[R]大暴動[/R]寸前、仕掛け人は[G]主催者自身[/G]だった",
+  "portrait_prompt": "Illustrated cinematic style portrait of composer Igor Stravinsky, bust-to-shoulder composition, round wire glasses, sharp intellectual features, high collar and dark early 20th-century jacket, plain muted olive-grey background, painterly rendering, not photorealistic, soft studio lighting, no text.",
   "middle_slides": [
     {
-      "text": "19世紀の舞台で、痩せこけた体から人間離れした演奏を繰り出すパガニーニに、客席は震え上がり「悪魔と契約したに違いない」と噂するほどだった。",
-      "image_prompt": "Oil-painting style illustration of gaunt violinist Niccolò Paganini performing on a candlelit 19th-century concert stage, dramatic dark background, awestruck silhouetted audience in shadow, intense spotlight on his thin figure and violin, painterly brushwork, cinematic composition, not photorealistic, no text"
+      "text": "1913年5月29日、パリの新しいシャンゼリゼ劇場に、社交界の名士たちが詰めかけた。ストラヴィンスキーの新作バレエ『春の祭典』、いよいよ幕が上がる。",
+      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, young Igor Stravinsky seated tensely in an ornate Parisian theatre box in 1913, elegant evening attire, dim gaslight glow, red velvet curtain about to rise, anticipation and nervousness on his face, no text."
     },
     {
-      "text": "1840年、パガニーニは\"まだ早い\"と臨終の儀式を拒み、その1週間後に57歳で急死した。教会は「悪魔の手先」との噂を理由に埋葬を拒んだ。",
-      "image_prompt": "Oil-painting style illustration of Niccolò Paganini lying gravely ill in a dim candlelit room in Nice, a priest standing at the doorway arriving too late, somber muted colors, painterly rendering, cinematic composition, not photorealistic, no text"
+      "text": "バスーンの不気味な旋律が流れ始めた瞬間から、客席はざわめき出し、やがて怒号と殴打が飛び交う大混乱へと発展、警官まで出動する騒ぎになった。",
+      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, Igor Stravinsky gripping his seat amid a chaotic, shadowy theatre audience erupting in uproar around him, dramatic tension, dim 1913 Paris theatre interior, painterly chaos, no text."
     },
     {
-      "text": "遺体は埋葬されるどころか、地下室や隔離施設、さらには搾油小屋まで転々と運ばれ続けた。教会の許しが出るまで実に4年もかかった。",
-      "image_prompt": "Oil-painting style illustration of a plain wooden coffin being quietly transported at night by lantern light along a rocky Mediterranean coastline, shadowy figures carrying it toward a dim stone building, somber atmosphere, painterly brushstrokes, cinematic composition, not photorealistic, no text"
+      "text": "騒動の中心にいた主催者ディアギレフは、少しも動じなかった。事前に「激しい議論を呼ぶ」と宣伝していた彼は、この混乱すら歓迎していたという。",
+      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, Igor Stravinsky standing backstage in a dim red-curtained corridor, tense and distressed expression, distant blurred silhouette of a calm figure watching the commotion beyond, painterly shadows, no text."
     },
     {
-      "text": "教会からの完全な赦しが出たのは、死後実に36年目。1876年、パガニーニはようやくパルマの墓地で静かに眠ることができたのだった。",
-      "image_prompt": "Oil-painting style illustration of a quiet sunlit cemetery in Parma, Italy, an ornate 19th-century marble tomb, soft warm golden light, peaceful atmosphere, painterly rendering, cinematic composition, not photorealistic, no text"
+      "text": "大荒れの初演からわずか数年後、『春の祭典』は20世紀を代表する傑作として、今なお世界中のコンサートホールで演奏され続けている。",
+      "image_prompt": "oil-painting style, painterly rendering, not photorealistic, mature Igor Stravinsky standing proudly in a grand golden concert hall years later, warm triumphant lighting, orchestra and admiring audience softly rendered in the background, no text."
     }
   ],
   "is_date_match": false,
-  "fb_caption": "【音楽史コラム】史上最強のヴァイオリニストは、なぜ36年間も埋葬を拒まれたのか。\n\n「悪魔に魂を売った」――ニコロ・パガニーニの神業のような演奏は、そんな噂を生むほど常識外れでした。1840年、57歳で急死した彼は「臨終の儀式はまだ早い」と受けずに息を引き取ったことも重なり、カトリック教会から正式な埋葬を拒否されてしまいます。\n\n遺体は地下室や隔離施設、搾油小屋まで転々とし、教皇への嘆願を経てようやくジェノヴァへ移送されるまで4年。そして死後実に36年目の1876年、パルマの墓地でようやく静かに眠ることができました。\n\n天才の演奏が、死後にまで\"呪い\"のような扱いを受けた――クラシック音楽史でも異色のエピソードです。\n\nチャンネルでは、こうした作曲家たちの知られざる物語を紹介しています。\n▶ 続きはYouTube「忙しい大人のためのクラシック音楽ノート」で\nhttps://www.youtube.com/@busyadults_classicalnotes",
-  "ig_caption": "「悪魔に魂を売った」と噂された天才は、死後36年間も埋葬を拒まれた——\n\nニコロ・パガニーニの演奏は、あまりに人間離れしていたため「悪魔と契約したに違いない」という噂が絶えませんでした。1840年、57歳で急死した際、彼は臨終の儀式を「まだ早い」と拒んでいたこともあり、教会は正式な埋葬を許しませんでした。\n\n遺体は地下室や隔離施設、搾油小屋まで転々とし、教皇への嘆願でジェノヴァへ移送されるまで4年。最終的にパルマの墓地に眠るまでには、死後36年もの時間が必要でした。\n\n天才の栄光と、死後の長い流転。クラシック音楽史の奥深さを感じるエピソードです。\n\nもっと知りたい方は、プロフィールのリンクからチャンネルをチェックしてみてください。\n\n#パガニーニ #クラシック音楽 #音楽史 #ヴァイオリン #豆知識 #忙しい大人のためのクラシック音楽ノート",
-  "youtube_caption": "史上最強のヴァイオリニストは、なぜ36年間も埋葬を拒まれたのか。\n\n「悪魔に魂を売った」――ニコロ・パガニーニの神業のような演奏は、そんな噂を生むほど常識外れでした。1840年、57歳で急死した彼は「臨終の儀式はまだ早い」と受けなかったこともあり、教会から正式な埋葬を拒否されます。\n\n遺体は地下室や隔離施設、搾油小屋まで転々とし、教皇への嘆願を経てジェノヴァへ移送されるまで4年。そして死後実に36年目の1876年、パルマの墓地でようやく静かに眠ることができました。\n\n天才の演奏が、死後にまで\"呪い\"のような扱いを受けた——クラシック音楽史でも異色のエピソードです。こうした作曲家たちの知られざる物語、ぜひ他の投稿もチェックしてみてください。",
+  "fb_caption": "【音楽史コラム】20世紀最大の\"スキャンダル\"、実は歓迎されていた?\n\n1913年5月29日、パリ。ストラヴィンスキーの新作バレエ『春の祭典』の初演は、幕が開いた直後から客席が大荒れ。怒号と殴打が飛び交い、警官まで出動する騒ぎになったと伝えられています。\n\n普通なら関係者は真っ青になるはず。ですが主催者セルゲイ・ディアギレフは違いました。事前に「激しい議論を呼ぶ」と宣伝していた彼にとって、この大混乱こそ狙い通りだったのかもしれません。\n\nあの夜の大荒れから一世紀以上。『春の祭典』は今や20世紀を代表する傑作として、世界中のオーケストラで演奏され続けています。\n\nクラシックの\"意外な裏側\"をもっと知りたい方は、YouTubeチャンネル「忙しい大人のためのクラシック音楽ノート」をチェックしてみてください。",
+  "ig_caption": "20世紀最大の\"スキャンダル\"、実は歓迎されていた?🎭\n\n1913年5月29日、パリ。ストラヴィンスキーの新作バレエ『春の祭典』初演は、幕が開いた直後から客席が大荒れ。怒号と殴打が飛び交う大混乱に発展したと言われています。\n\n普通なら真っ青になるはずの状況。でも主催者ディアギレフは動じませんでした。事前に「激しい議論を呼ぶ」と宣伝していた彼にとって、このスキャンダルこそ狙い通りだったのかもしれません。\n\nあの夜の大混乱から一世紀以上。『春の祭典』は今や20世紀を代表する傑作として、世界中で演奏され続けています。\n\nクラシックの\"意外な裏側\"、もっと知りたい方はプロフィールのリンクからチェックしてみてください🎼\n\n#クラシック音楽 #ストラヴィンスキー #春の祭典 #音楽史 #クラシック好き #バレエリュス",
+  "youtube_caption": "【音楽史コラム】20世紀最大の\"スキャンダル\"、実は歓迎されていた?\n\n1913年5月29日、パリ。ストラヴィンスキーの新作バレエ『春の祭典』初演は、幕が開いた直後から客席が大荒れ。怒号と殴打が飛び交う大混乱に発展したと伝えられています。\n\n普通なら関係者は真っ青になるはずの状況。ですが主催者セルゲイ・ディアギレフは動じませんでした。事前に「激しい議論を呼ぶ」と宣伝していた彼にとって、この騒動こそ狙い通りだったのかもしれません。\n\nあの夜の大混乱から一世紀以上。『春の祭典』は今や20世紀を代表する傑作として、世界中のオーケストラで演奏され続けています。\n\nこうしたクラシックの\"意外な裏側\"に興味がある方は、チャンネルの他の動画もぜひ覗いてみてください。",
   "youtube_link": null
 }
