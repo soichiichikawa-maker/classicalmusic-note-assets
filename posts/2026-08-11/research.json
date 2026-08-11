@@ -1,0 +1,35 @@
+{
+  "composer": "ラフマニノフ",
+  "event_summary": "2026年8月11日に該当する50人リスト内作曲家の誕生日・命日・重要event一致は複数ソースで確認できず(is_date_match=false)。優先順位2に従い、日付とは無関係だが「評価の逆転」「動機の裏切り」の要素が強いラフマニノフの逸話(交響曲第1番の酷評による3年間のスランプと、精神科医ニコライ・ダールの催眠療法による回復、そしてその主治医に献呈されたピアノ協奏曲第2番の大成功)を採用。複数の音楽解説サイト・Wikipedia等で日付・経緯とも一致を確認。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Piano_Concerto_No._2_(Rachmaninoff)",
+    "https://usuo.org/explore/2022/04/rachmaninoff-piano-concerto-no-2/",
+    "https://pacificsymphony.blog/2025/09/03/a-massive-case-of-writers-block-finally-smashed-to-bits/",
+    "https://www.wrti.org/arts-desk/2017-10-30/how-hypnosis-helped-rachmaninoff-compose-his-beloved-piano-concerto-no-2"
+  ],
+  "hook_copy": "23歳の初演は[R]大失敗[/R]。3年後の名曲は、[G]恋人でなく主治医[/G]に捧げられた",
+  "portrait_prompt": "Illustrated cinematic portrait of a young 19th-century Russian composer, Sergei Rachmaninoff, bust-to-shoulder view, tall serious features, short dark hair, wearing a dark formal high-collared coat, melancholic yet dignified expression, painterly oil-painting style, soft dramatic lighting, plain muted background, not photorealistic",
+  "middle_slides": [
+    {
+      "text": "1897年、23歳のラフマニノフが発表した交響曲第1番は、指揮者の乱れた演奏も重なり、聴衆と批評家から酷評の嵐を受けてしまう。",
+      "image_prompt": "Oil-painting style illustration of a young 19th-century Russian composer standing backstage in a grand concert hall, shocked and humiliated expression, distant audience booing in dim background, dramatic chiaroscuro lighting, painterly brushstrokes, not photorealistic"
+    },
+    {
+      "text": "以来3年近く、新しい曲がほとんど書けない不振に沈んだ。家族の勧めで精神科医ニコライ・ダールのもとへ日々通い、催眠療法を受け始める。",
+      "image_prompt": "Oil-painting style illustration of a despondent young Russian composer sitting in a dim study room, empty music manuscript on the desk, a kind elderly physician in Victorian attire speaking gently to him in a softly lit consulting room, painterly muted colors, not photorealistic"
+    },
+    {
+      "text": "半年後、自信を取り戻したラフマニノフは久々に筆を執り、ピアノ協奏曲第2番を完成させると、感謝のしるしとして主治医ダールへ献呈した。",
+      "image_prompt": "Oil-painting style illustration of a young Russian composer joyfully composing at a grand piano by candlelight, manuscript pages scattered with warm golden light, renewed energy and hope in his expression, painterly rendering, not photorealistic"
+    },
+    {
+      "text": "1901年、モスクワでの初演は熱狂的な成功を収め、酷評された交響曲の記憶を吹き払った。この協奏曲は今も世界中で愛される名曲となっている。",
+      "image_prompt": "Oil-painting style illustration of a young Russian composer performing triumphantly at a grand piano on a lit concert stage in Moscow, enthusiastic audience silhouettes applauding in warm golden glow, grand romantic atmosphere, painterly brushstrokes, not photorealistic"
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "音楽史コラム：23歳のラフマニノフが発表した交響曲第1番は酷評され、彼は3年間ほとんど作曲できないほどの不振に陥った🎹。回復のきっかけは精神科医との催眠療法で、感謝を込めて献呈した曲が、名曲ピアノ協奏曲第2番として今も愛されている。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこの\"献呈の物語\"の続き、ラフマニノフの人生をもっと知りたい方はYouTubeチャンネルもチェックしてみてください→ https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "音楽史コラム：23歳のラフマニノフが発表した交響曲第1番は酷評され、彼は3年間ほとんど作曲できないほどの不振に陥った🎹。回復のきっかけは精神科医との催眠療法で、感謝を込めて献呈した曲が、名曲ピアノ協奏曲第2番として今も愛されている。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこの逆転劇、保存して何度でも読み返してほしい📌 フォローしておけば次の音楽史コラムも見逃しません。",
+  "youtube_caption": "音楽史コラム：23歳のラフマニノフが発表した交響曲第1番は酷評され、彼は3年間ほとんど作曲できないほどの不振に陥った🎹。回復のきっかけは精神科医との催眠療法で、感謝を込めて献呈した曲が、名曲ピアノ協奏曲第2番として今も愛されている。\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nラフマニノフのように、逆境から名曲が生まれた作曲家の物語は他にもたくさんあります。気になった方は他の投稿もぜひチェックしてみてください🎵",
+  "youtube_link": null
+}
