@@ -1,0 +1,34 @@
+{
+  "composer": "ドヴォルザーク",
+  "event_summary": "アントニン・ドヴォルザークは生涯を通じて鉄道に強い情熱を持ち、プラハの主要駅に通い詰めて時刻表を丸暗記するほどの「鉄道オタク」だった。娘と交際していた弟子ヨゼフ・スークに、夜明けの列車の機関車番号を記録させて報告させたという逸話が複数の資料で確認されている。",
+  "sources": [
+    "https://www.mentalfloss.com/article/85744/famous-composer-who-was-obsessed-trains",
+    "https://www.classicfm.com/composers/dvorak/guides/antonin-dvorak-trainspotter/",
+    "https://www.classical-music.com/articles/composer-obsessions"
+  ],
+  "hook_copy": "『新世界』の作者は[G]鉄道オタク[/G]、弟子に夜明けの列車番号を記録させた",
+  "portrait_prompt": "Illustrated cinematic portrait of the 19th-century Czech composer Antonín Dvořák, bust-to-shoulder composition, middle-aged man with a full grey-streaked beard and mustache, receding dark hair, deep expressive eyes, wearing a dark Victorian-era formal coat with high collar and cravat. Painterly rendering, soft dramatic lighting, rich warm tones, not photorealistic, illustrative style. Plain muted solid-color background (deep neutral brown or charcoal gradient), no text, no objects, simple uncluttered composition suitable for cropping into an oval frame.",
+  "middle_slides": [
+    {
+      "text": "『新世界』の作曲家ドヴォルザークは少年時代、故郷ネラホゼヴェスに鉄道が開通し、駅前の自宅から蒸気機関車の走る姿に釘付けになった。",
+      "image_prompt": "Oil-painting style illustration of a young boy in mid-19th-century rural Bohemian clothing standing transfixed outside a small countryside house near a newly built railway station, staring in wonder at a steam locomotive with billowing white smoke passing along the tracks at golden late-afternoon light. Painterly brushstrokes, warm nostalgic color palette, romantic countryside atmosphere, not photorealistic, no text, no other people prominent, focus on the boy and the steam train."
+    },
+    {
+      "text": "名声を得た後も駅通いは続き、プラハの主要駅で機関車の時刻表を丸暗記。運転士たちと世界情勢や技術の話をするのが日課だった。",
+      "image_prompt": "Oil-painting style illustration of a bearded middle-aged 19th-century composer in a dark formal coat standing on a bustling Prague railway station platform, gazing intently at a large steam locomotive, engaging in animated conversation with a train engineer in work uniform beside the wheels and steam. Painterly rendering, warm gaslight and steam-filled atmosphere, richly detailed Victorian train station architecture, not photorealistic, no text, only the composer and the engineer present."
+    },
+    {
+      "text": "ある日、未来の娘婿となる弟子スークに命じた。夜明け前に駅へ行き、ウィーン行き特急の機関車番号を双眼鏡で確認して報告せよ、と。",
+      "image_prompt": "Oil-painting style illustration set in the dim blue light of pre-dawn at a grand European railway station, a bearded 19th-century composer in a dark coat instructing a younger clean-shaven man holding a pair of binoculars, both standing on the platform as a distant express steam locomotive approaches through mist. Painterly, moody atmospheric lighting, cool dawn tones mixed with warm lantern glow, not photorealistic, no text, only these two figures present."
+    },
+    {
+      "text": "結果、番号は不正確だった。ドヴォルザークは『こんな奴には娘はやれん』と、半分本気で難色を示したという名物エピソードとして今も愛されている。",
+      "image_prompt": "Oil-painting style illustration of a bearded 19th-century composer in a dark formal coat standing indoors in a warmly lit study, arms crossed with a skeptical half-amused expression, a small notebook with scribbled numbers on a wooden table beside him, evoking mild disapproval and dry humor. Painterly rendering, warm domestic interior lighting, rich browns and ambers, not photorealistic, no text, only the composer present in the scene."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "音楽史コラム：『新世界交響曲』の巨匠ドヴォルザークには、知られざる鉄道への情熱があった🎵\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nドヴォルザークの人間味あふれる小話、続きはチャンネルでもご紹介しています。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "音楽史コラム：『新世界交響曲』の巨匠ドヴォルザークには、知られざる鉄道への情熱があった🎵\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこんな人間味あふれる話、保存して後で読み返したくなりますね。フォロー＆保存でお見逃しなく。",
+  "youtube_caption": "音楽史コラム：『新世界交響曲』の巨匠ドヴォルザークには、知られざる鉄道への情熱があった🎵\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nクラシック作曲家の人間味あふれる小話は他にもたくさん。ぜひチャンネルの動画もチェックしてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH"
+}
