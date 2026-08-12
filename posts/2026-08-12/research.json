@@ -1,34 +1,35 @@
 {
-  "composer": "ドヴォルザーク",
-  "event_summary": "アントニン・ドヴォルザークは生涯を通じて鉄道に強い情熱を持ち、プラハの主要駅に通い詰めて時刻表を丸暗記するほどの「鉄道オタク」だった。娘と交際していた弟子ヨゼフ・スークに、夜明けの列車の機関車番号を記録させて報告させたという逸話が複数の資料で確認されている。",
+  "composer": "ベルリオーズ",
+  "event_summary": "1831年、作曲家エクトル・ベルリオーズは婚約者マリー・モークが富豪カミーユ・プレイエルと結婚すると知り、激怒して殺人と自殺の計画を立てた。毒薬とピストル、女性用の変装まで用意したが、パリへ向かう道中で思い直し計画を断念した。この激情の体験は、代表作『幻想交響曲』が持つ狂気と情熱の物語性に深く結びついている。",
   "sources": [
-    "https://www.mentalfloss.com/article/85744/famous-composer-who-was-obsessed-trains",
-    "https://www.classicfm.com/composers/dvorak/guides/antonin-dvorak-trainspotter/",
-    "https://www.classical-music.com/articles/composer-obsessions"
+    "https://nashvillelifestyles.com/nashville-calendar/things-to-do/fun-facts-about-symphonie-fantastique/",
+    "http://drfuddlesmusicalblog.blogspot.com/2015/08/the-composer-and-his-muse-harriet.html",
+    "https://bachtrack.com/at-home-guide-symphonie-fantastique-berlioz-september-2017",
+    "https://study.com/academy/lesson/hector-berlioz-biography-music.html"
   ],
-  "hook_copy": "『新世界』の作者は[G]鉄道オタク[/G]、弟子に夜明けの列車番号を記録させた",
-  "portrait_prompt": "Illustrated cinematic portrait of the 19th-century Czech composer Antonín Dvořák, bust-to-shoulder composition, middle-aged man with a full grey-streaked beard and mustache, receding dark hair, deep expressive eyes, wearing a dark Victorian-era formal coat with high collar and cravat. Painterly rendering, soft dramatic lighting, rich warm tones, not photorealistic, illustrative style. Plain muted solid-color background (deep neutral brown or charcoal gradient), no text, no objects, simple uncluttered composition suitable for cropping into an oval frame.",
+  "hook_copy": "婚約者に裏切られた作曲家、[R]殺人計画[/R]の果てに[G]名曲[/G]誕生",
+  "portrait_prompt": "Illustrated cinematic portrait of the young French Romantic composer Hector Berlioz, bust-to-shoulder composition, wild tousled reddish-brown hair swept back dramatically, sharp aquiline features, intense soulful eyes, high white collar and dark early 19th-century cravat and coat, painterly rendering with soft dramatic lighting, not photorealistic, plain muted neutral background suitable for cropping into an oval frame, no text.",
   "middle_slides": [
     {
-      "text": "『新世界』の作曲家ドヴォルザークは少年時代、故郷ネラホゼヴェスに鉄道が開通し、駅前の自宅から蒸気機関車の走る姿に釘付けになった。",
-      "image_prompt": "Oil-painting style illustration of a young boy in mid-19th-century rural Bohemian clothing standing transfixed outside a small countryside house near a newly built railway station, staring in wonder at a steam locomotive with billowing white smoke passing along the tracks at golden late-afternoon light. Painterly brushstrokes, warm nostalgic color palette, romantic countryside atmosphere, not photorealistic, no text, no other people prominent, focus on the boy and the steam train."
+      "text": "1830年、24歳のベルリオーズはピアニストのマリー・モークと婚約し、イタリア留学中だった。誰もが、順風満帆な恋だと思っていた。",
+      "image_prompt": "Oil-painting style illustration of a young 24-year-old Hector Berlioz in early 19th-century attire, standing joyfully on a sunlit Italian hillside terrace overlooking Rome, romantic golden afternoon light, hopeful expression gazing toward the horizon, a letter tucked in his coat pocket, painterly brushstrokes, warm optimistic color palette, not photorealistic, no text, no other people prominently visible."
     },
     {
-      "text": "名声を得た後も駅通いは続き、プラハの主要駅で機関車の時刻表を丸暗記。運転士たちと世界情勢や技術の話をするのが日課だった。",
-      "image_prompt": "Oil-painting style illustration of a bearded middle-aged 19th-century composer in a dark formal coat standing on a bustling Prague railway station platform, gazing intently at a large steam locomotive, engaging in animated conversation with a train engineer in work uniform beside the wheels and steam. Painterly rendering, warm gaslight and steam-filled atmosphere, richly detailed Victorian train station architecture, not photorealistic, no text, only the composer and the engineer present."
+      "text": "留学中、彼はマリーの母からの手紙で衝撃の事実を知る。婚約破棄、そして富豪カミーユ・プレイエルとの結婚。手の震えが止まらぬほどの怒りに包まれた。",
+      "image_prompt": "Oil-painting style illustration of Hector Berlioz alone in a dim candlelit room in Italy, clutching a crumpled letter with trembling hands, face contorted in shock and rage, dramatic chiaroscuro lighting, dark stormy color palette, wind blowing the curtains, painterly brushstrokes, not photorealistic, no text, no other people."
     },
     {
-      "text": "ある日、未来の娘婿となる弟子スークに命じた。夜明け前に駅へ行き、ウィーン行き特急の機関車番号を双眼鏡で確認して報告せよ、と。",
-      "image_prompt": "Oil-painting style illustration set in the dim blue light of pre-dawn at a grand European railway station, a bearded 19th-century composer in a dark coat instructing a younger clean-shaven man holding a pair of binoculars, both standing on the platform as a distant express steam locomotive approaches through mist. Painterly, moody atmospheric lighting, cool dawn tones mixed with warm lantern glow, not photorealistic, no text, only these two figures present."
+      "text": "彼は毒薬とピストル、そしてメイド服の変装まで用意し、パリで3人を殺め自らも命を絶つ計画を立てた。だが道中、決意は揺らいでいく。",
+      "image_prompt": "Oil-painting style illustration of Hector Berlioz travelling by horse-drawn coach at night toward Paris, a small vial of poison and a pistol glinting on the seat beside a folded maid's disguise dress, his face torn between grim determination and rising doubt, moody dark blue and black tones lit by a single lantern, painterly brushstrokes, dramatic and tense atmosphere, not photorealistic, no text, no other people."
     },
     {
-      "text": "結果、番号は不正確だった。ドヴォルザークは『こんな奴には娘はやれん』と、半分本気で難色を示したという名物エピソードとして今も愛されている。",
-      "image_prompt": "Oil-painting style illustration of a bearded 19th-century composer in a dark formal coat standing indoors in a warmly lit study, arms crossed with a skeptical half-amused expression, a small notebook with scribbled numbers on a wooden table beside him, evoking mild disapproval and dry humor. Painterly rendering, warm domestic interior lighting, rich browns and ambers, not photorealistic, no text, only the composer present in the scene."
+      "text": "衣装を旅先に置き忘れたことで、彼は殺人計画を断念する。後年、この情熱は交響曲に姿を変え、初恋の女優ハリエットを妻として迎えることになった。",
+      "image_prompt": "Oil-painting style illustration of Hector Berlioz seated at a writing desk by candlelight, composing music with fervent inspiration, sheet music scattered around him, his earlier turmoil transformed into creative passion, warm golden lamplight contrasted with a faint ghostly vision of a woman's silhouette in the background suggesting his muse, painterly brushstrokes, romantic and triumphant mood, not photorealistic, no text, only Berlioz clearly depicted."
     }
   ],
   "is_date_match": false,
-  "fb_caption": "音楽史コラム：『新世界交響曲』の巨匠ドヴォルザークには、知られざる鉄道への情熱があった🎵\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nドヴォルザークの人間味あふれる小話、続きはチャンネルでもご紹介しています。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
-  "ig_caption": "音楽史コラム：『新世界交響曲』の巨匠ドヴォルザークには、知られざる鉄道への情熱があった🎵\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこんな人間味あふれる話、保存して後で読み返したくなりますね。フォロー＆保存でお見逃しなく。",
-  "youtube_caption": "音楽史コラム：『新世界交響曲』の巨匠ドヴォルザークには、知られざる鉄道への情熱があった🎵\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nクラシック作曲家の人間味あふれる小話は他にもたくさん。ぜひチャンネルの動画もチェックしてみてください。",
+  "fb_caption": "音楽史コラム:ベルリオーズは婚約者に裏切られた末、殺人計画まで立てた作曲家でした。その激情から生まれたのが名曲『幻想交響曲』です🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "音楽史コラム:ベルリオーズは婚約者に裏切られた末、殺人計画まで立てた作曲家でした。その激情から生まれたのが名曲『幻想交響曲』です🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "音楽史コラム:ベルリオーズは婚約者に裏切られた末、殺人計画まで立てた作曲家でした。その激情から生まれたのが名曲『幻想交響曲』です🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n激情がそのまま名曲になった瞬間を、チャンネル内の他の作曲家エピソードでも味わってみてください。",
   "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH"
 }
