@@ -1,0 +1,31 @@
+{
+  "composer": "ハイドン",
+  "event_summary": "1772年、ハイドンは雇い主エステルハージ侯の別荘滞在が長引き、家族に会えず不満を募らせる楽団員たちのために交響曲第45番『告別』を作曲。終楽章で演奏中に楽団員が一人ずつ蝋燭を消して退場するという演出で、暗に休暇を求めるメッセージを送った。侯はその意図をすぐに理解し、翌日には全員に帰郷を許可した。",
+  "sources": [
+    "https://interlude.hk/do-you-know-the-strange-story-behind-haydns-farewell-symphony/",
+    "https://thelistenersclub.com/2014/01/15/hey-nickcan-we-go-home-now/",
+    "https://www.laphil.com/musicdb/pieces/4007/symphony-no-45-farewell",
+    "https://arts.ucdavis.edu/post/haydn-symphony-no-45-farewell"
+  ],
+  "hook_copy": "[G]演奏中に楽団員が一人ずつ消える[/G]曲、実は[R]上司への抗議[/R]だった",
+  "portrait_prompt": "Illustrated cinematic portrait of the 18th-century composer Joseph Haydn, bust-to-shoulder framing, powdered white wig with side curls, dignified aristocratic Classical-era attire with a dark coat and white cravat, warm gentle expression with a subtle knowing smile, soft directional lighting on the face, painterly rendering in the style of a classical oil portrait, not photorealistic, plain muted solid-color background (dark neutral tone), no text, no signature, no frame, high detail brushwork suitable for cropping into an ornate frame",
+  "middle_slides": [
+    {
+      "text": "1772年、ハイドンの楽団員たちは、雇い主エステルハージ侯の別荘での滞在を予定より大幅に延長され、家族と離れて不満を募らせていた。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of an 18th-century Classical-era orchestra chamber at a grand countryside palace estate at dusk. A group of weary court musicians in period costume sit near candlelit music stands with their instruments, their faces showing quiet fatigue and longing, some gazing wistfully toward distant windows as if thinking of home. Composer Joseph Haydn, in powdered wig and formal coat, stands to the side observing them with a thoughtful, sympathetic expression. Warm candle glow, rich Baroque interior details, soft chiaroscuro lighting, no text, no signage"
+    },
+    {
+      "text": "そこでハイドンは一計を案じ、交響曲第45番の終楽章で、演奏中に楽団員が一人ずつ蝋燭を消して静かに退場していく演出を仕込んだ。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, depicting Joseph Haydn in powdered wig and Classical-era coat, seated at a wooden desk in a candlelit study late at night, quill in hand, composing music on parchment with a sly, clever smile as if devising a secret plan. Scattered sheet music covers the desk, a single candle casts warm flickering light across his focused face, shadows deepen the mood of quiet scheming, rich warm tones, no text, no visible musical notation legible, no signage"
+    },
+    {
+      "text": "翌日、意図を悟ったエステルハージ侯は『みんなが帰るなら、我々も帰らねばなるまい』と述べ、楽団員たちにすぐさま帰郷を許可した。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of a grand 18th-century palace hall at night during a concert finale. Rows of candlelit music stands stand mostly empty, with only a few flickering candles remaining lit, smoke wisps rising from recently extinguished candles. Composer Joseph Haydn stands centrally near his own music stand, one hand near a candle, glancing calmly toward an ornate doorway where the last musicians are quietly departing into shadow. Moody warm-to-dark lighting transition, dramatic chiaroscuro, elegant Baroque architecture, no text, no signage"
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "音楽史コラムです。ハイドンは不満を伝えるため、演奏中に楽団員が一人ずつ舞台から消えていく交響曲を書きました。雇い主はすぐに意図を汲み取り、翌日には全員を帰宅させています🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "音楽史コラムです。ハイドンは不満を伝えるため、演奏中に楽団員が一人ずつ舞台から消えていく交響曲を書きました。雇い主はすぐに意図を汲み取り、翌日には全員を帰宅させています🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "音楽史コラムです。ハイドンは不満を伝えるため、演奏中に楽団員が一人ずつ舞台から消えていく交響曲を書きました。雇い主はすぐに意図を汲み取り、翌日には全員を帰宅させています🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nハイドンのユーモラスな逸話にご興味があれば、チャンネルの他の動画もチェックしてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH"
+}
