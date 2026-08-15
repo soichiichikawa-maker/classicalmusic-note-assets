@@ -1,0 +1,34 @@
+{
+  "composer": "パガニーニ",
+  "event_summary": "ヴァイオリニストのニコロ・パガニーニは、あまりの超絶技巧ゆえに「悪魔と契約した」という噂がヨーロッパ中に広まった人物。実際には母テレーザが見た夢のお告げを信じ、幼い息子に厳しい稽古を課したことが天才誕生のきっかけだったとされる。複数の文献で、ウィーンでの演奏会で観客が「弓に悪魔が見えた」と証言した逸話が確認できる。",
+  "sources": [
+    "https://www.todayifoundout.com/index.php/2015/06/famous-violinist-paganini-really-sell-soul-devil/",
+    "https://www.classicfm.com/composers/paganini/niccolo-gifted-violinist-deal-with-devil/",
+    "https://www.biography.com/musician/niccolo-paganini"
+  ],
+  "hook_copy": "[R]悪魔と契約[/R]したはずだった。正体は[G]母の祈りが生んだ天才[/G]。",
+  "portrait_prompt": "Illustrated cinematic portrait of Niccolò Paganini, gaunt pale face with sharp angular features, deep-set dark intense eyes, long dark wavy hair falling past his shoulders, thin lips, dressed in an early 19th-century black tailcoat with a white cravat, bust-to-shoulder composition facing slightly to one side, dramatic chiaroscuro lighting emphasizing his hollow cheeks and hypnotic gaze, painterly rendering, not photorealistic, background a flat muted dark reddish-brown solid color with no gradient or vignette, painting fills the entire canvas edge to edge with no border, no frame, no empty margin, no text.",
+  "middle_slides": [
+    {
+      "text": "19世紀、ヴァイオリニストのニコロ・パガニーニが弾くと、客席から悲鳴が上がった。「あれは人間の技ではない、悪魔の仕業だ」と噂された。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic, dramatic 19th-century concert hall scene, gaunt pale violinist Niccolò Paganini on stage bathed in a single dim spotlight, his long dark hair wild as he plays with fierce intensity, bow arm blurred in supernatural motion, shadowy silhouettes of an audience in the foreground recoiling in shock and fear, some hands raised to open mouths as if screaming, deep chiaroscuro lighting, warm candlelit glow contrasted with heavy shadows, gothic and eerie atmosphere, no text."
+    },
+    {
+      "text": "ウィーンでの演奏会では「弓の先に悪魔が見えた」という証言も。別の公演では、演奏中に彼の弓先に雷が落ちたと語られ、噂はヨーロッパ中に広がった。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic, ornate Vienna concert hall interior, gaunt pale violinist Niccolò Paganini standing center stage under flickering candlelight, his bow tip glowing with an eerie supernatural light as if a ghostly devilish shape flickers at its point, a dramatic bolt of lightning striking down toward his bow from a shadowy ceiling, terrified audience silhouettes in ornate box seats gasping, rich reds and golds of Viennese architecture, heavy chiaroscuro and dramatic shadows, gothic mysterious atmosphere, no text."
+    },
+    {
+      "text": "だが真相は違った。母テレーザが見た夢のお告げを信じ、幼い息子に厳しい稽古を課しただけだった。悪魔ではなく、母の一途な願いが天才を育てた。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic, tender intimate scene inside a modest 19th-century Italian home at night, a devoted mother figure kneeling beside a small bed where a young boy sleeps, her hands clasped in prayer, soft candlelight illuminating her face with warmth and hope, a small violin resting nearby on a wooden chair, warm golden lighting contrasted with soft shadows, tender and hopeful atmosphere, no text."
+    },
+    {
+      "text": "死後も「悪魔の申し子」という異名は残ったが、超絶技巧の正体は、母の祈りに応えようと努力を重ねた、一人の人間の物語だった。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic, symbolic composition showing an elderly gaunt Niccolò Paganini seated alone in dim candlelight, violin and bow resting across his lap, his weathered pale face turned upward with a contemplative expression, faint ghostly echo of his younger self playing violin fading into shadow behind him, warm flickering candle glow mixed with deep somber shadows, reflective solemn atmosphere evoking legacy and memory, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "ニコロ・パガニーニにまつわる音楽史コラム。「悪魔と契約した」と噂されるほどの超絶技巧の裏には、母の祈りという人間味あふれる物語があった🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nくわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=HhKyHnM4Vnk",
+  "ig_caption": "ニコロ・パガニーニにまつわる音楽史コラム。「悪魔と契約した」と噂されるほどの超絶技巧の裏には、母の祈りという人間味あふれる物語があった🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "ニコロ・パガニーニにまつわる音楽史コラム。「悪魔と契約した」と噂されるほどの超絶技巧の裏には、母の祈りという人間味あふれる物語があった🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nパガニーニを特集した動画では、彼の”悪魔の申し子”伝説をさらに深掘りしています。あわせてチェックしてみてください。",
+  "youtube_link": "https://www.youtube.com/watch?v=HhKyHnM4Vnk"
+}
