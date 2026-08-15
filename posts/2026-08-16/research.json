@@ -1,0 +1,34 @@
+{
+  "composer": "ヘンデル",
+  "event_summary": "1749年、英国王ジョージ2世は戦争終結を祝う祝典のためヘンデルに音楽を依頼した。本番前のリハーサルには1万2千人が殺到しロンドン橋が渋滞したが、肝心の本番の花火は不発とパビリオン炎上という大失敗に終わった。しかしヘンデルの音楽自体は今も名曲として残っている。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Music_for_the_Royal_Fireworks",
+    "https://www.classicfm.com/composers/handel/music/george-frideric-handel-music-royal-fireworks/",
+    "https://thelistenersclub.com/2024/02/28/handels-music-for-the-royal-fireworks-a-festive-celebration/"
+  ],
+  "hook_copy": "リハーサルに[G]1万2千人殺到[/G]、本番の花火は[R]まさかの炎上[/R]で逃げ惑う",
+  "portrait_prompt": "Illustrated cinematic portrait of George Frideric Handel, the Baroque composer, painterly rendering, not photorealistic. Bust-to-shoulders view, wearing an 18th-century powdered white curled wig and an elegant dark velvet coat with a white lace jabot. Dignified, composed expression, three-quarter angle facing slightly toward viewer. Soft cinematic lighting with warm golden tones on his face. Background is a plain, near-solid muted brown-gold color with no texture or vignette. The painting fills the entire canvas edge to edge with no border, no frame, no vignette, no darkened edges—full bleed composition.",
+  "middle_slides": [
+    {
+      "text": "1749年、英国王ジョージ2世は戦争終結を祝う祝典のため、ヘンデルに大規模な祝典音楽を依頼した。ただし条件は「弦楽器禁止」だった。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic. Handel in an 18th-century study, seated at a wooden writing desk covered with manuscript paper and a quill pen, composing music by candlelight. A royal messenger in formal court attire stands beside him presenting a sealed decree. In the background, a rack of string instruments (violins, a cello) sits crossed out or pushed aside and covered with cloth, symbolizing a ban on strings, hinting at the 'no strings allowed' condition. Warm, dramatic Baroque lighting, rich browns and golds."
+    },
+    {
+      "text": "本番前のリハーサルにはチケットが飛ぶように売れ、何と1万2千人が殺到。ロンドン橋は馬車で埋まり、3時間もの大渋滞が発生した。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic. A grand stone bridge over the Thames at dusk, packed shoulder-to-shoulder with an enormous crowd of 18th-century Londoners in period dress, horse-drawn carriages jammed bumper to bumper causing chaos and congestion. Lanterns glow, people wave tickets and craning necks with excitement toward a distant rehearsal pavilion. Wide sweeping composition emphasizing the massive scale of the crowd and gridlocked carriages. Rich atmospheric Baroque color palette of amber, grey stone, and torchlight."
+    },
+    {
+      "text": "本番当日はあいにくの雨。仕掛け花火の多くが不発に終わり、さらに巨大なパビリオンに火が燃え移って観客は悲鳴を上げて逃げ惑った。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic. A dramatic nighttime scene in a London park during a rain shower: an elaborate wooden fireworks pavilion with classical columns is engulfed in roaring flames and thick smoke, sparks scattering into the rainy sky. A large crowd of elegantly dressed 18th-century spectators screams and scrambles away in panic, some shielding their faces, umbrellas and hats flying. Chaotic, dynamic composition with dramatic firelight contrasted against dark stormy clouds and rain streaks."
+    },
+    {
+      "text": "花火は大失敗に終わったが、ヘンデルが書いた音楽そのものは輝きを失わず、今も世界中の祝祭で演奏され続ける名曲として残った。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic. Handel standing triumphantly with a serene, proud expression before a grand orchestra performing under a clear starry night sky at an open-air festival, radiant golden light glowing around him and the musicians, symbolizing his music's enduring brilliance despite the fireworks disaster. Joyful audience in period and timeless festive attire in the background, warm celebratory atmosphere, painterly Baroque-inspired lighting with glowing highlights."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "音楽史コラムとして、ヘンデル『王宮の花火の音楽』にまつわる逸話をご紹介します。本番の花火は大惨事に終わりましたが、彼の音楽だけは色褪せず今も愛され続けています🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nくわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=iwuPGFqoWhM",
+  "ig_caption": "音楽史コラムとして、ヘンデル『王宮の花火の音楽』にまつわる逸話をご紹介します。本番の花火は大惨事に終わりましたが、彼の音楽だけは色褪せず今も愛され続けています🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "音楽史コラムとして、ヘンデル『王宮の花火の音楽』にまつわる逸話をご紹介します。本番の花火は大惨事に終わりましたが、彼の音楽だけは色褪せず今も愛され続けています🎻\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nヘンデルの音楽をもっと深く知りたい方は、チャンネルのヘンデル特集動画もぜひご覧ください。",
+  "youtube_link": "https://www.youtube.com/watch?v=iwuPGFqoWhM"
+}
