@@ -1,0 +1,35 @@
+{
+  "composer": "リスト",
+  "event_summary": "1837年3月31日、パリのベルジョヨーゾ侯爵夫人邸で行われたイタリア難民支援の慈善演奏会が、実はリストとライバル・タールベルクの伝説的な『ピアノ対決』の舞台となった。両者は互いに知らせず新曲まで用意して対決したが、侯爵夫人の判定は『タールベルクは世界一のピアニスト、リストは唯一のピアニスト』という曖昧な言葉で、勝敗はつかなかった。",
+  "sources": [
+    "https://interlude.hk/franz-liszt-versus-sigismond-thalberg/",
+    "https://www.pianostreet.com/blog/articles/the-battle-between-il-penseroso-and-the-old-arpeggio-4945/",
+    "https://en.wikipedia.org/wiki/1837_in_music",
+    "https://research.piano.or.jp/series/s_chopinmonogatari/2004/11/028_1.html"
+  ],
+  "hook_copy": "「和解」の演奏会が[G]ピアノ史上最大の対決[/G]に、判定は[R]痛み分け[/R]",
+  "portrait_prompt": "Illustrated cinematic portrait of a young Franz Liszt at age 25 in the 1830s, bust and shoulders composition, dramatic romantic-era hairstyle with long dark flowing hair swept back, intense passionate gaze, pale aristocratic complexion, wearing a dark formal 19th-century frock coat with white cravat, painterly rendering with visible brushstrokes, not photorealistic, soft dramatic side lighting emphasizing cheekbones and jawline, background is a plain muted solid dark tone with subtle gradient, no vignette, no border, no frame, no text, artwork extends fully edge to edge filling the entire canvas with no margin or empty space at the borders.",
+  "middle_slides": [
+    {
+      "text": "1836年、新星タールベルクの登場でパリの人気を独占された25歳のリストは、旅先のスイスから大慌てで帰国し、雪辱を誓った。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of a young 19th-century Romantic pianist Franz Liszt hastily departing from a Swiss alpine landscape, standing beside a horse-drawn carriage with luggage being loaded in urgency, dramatic mountain scenery with mist and pine trees in the background, his long dark hair windswept, wearing a dark travel coat, expression of fierce determination and resolve, warm dusky golden light suggesting departure at dawn, visible brushstrokes, rich romantic-era color palette, no text, no other musicians present."
+    },
+    {
+      "text": "1837年、新聞を巻き込む舌戦の末、タールベルクはパリ音楽院で、リストは3000人収容のオペラ座で、それぞれ単独公演を強行した。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of Franz Liszt performing alone on a grand stage inside a vast 19th-century Parisian opera house with towering red velvet curtains, ornate gilded balconies rising far into the distance suggesting a massive 3000-seat auditorium, he sits at a grand piano in passionate mid-performance with flowing hair and dramatic gesture, dramatic spotlight from above illuminating him against the vast empty grandeur of the hall, rich warm theatrical lighting, visible brushstrokes, no text, no other musicians present."
+    },
+    {
+      "text": "イタリア難民支援を名目に、侯爵夫人ベルジョヨーゾが慈善演奏会を企画。両者は互いに知らせず新曲を用意し、同じ舞台で激突した。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of Franz Liszt seated at an ornate grand piano in an opulent 19th-century Parisian salon with crystal chandeliers, gilded mirrors, silk drapery and elegant guests seated in rows watching, he plays with intense focused expression and dramatic hand gestures over the keys, warm candlelight glowing throughout the aristocratic salon, rich romantic color palette, visible brushstrokes, no text, only Liszt depicted as the featured performer at the piano."
+    },
+    {
+      "text": "侯爵夫人の判定は「タールベルクは世界一のピアニスト、リストは唯一のピアニスト」。曖昧な言葉で両者とも勝者となり、決着はつかなかった。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of Franz Liszt standing beside a grand piano in an elegant 19th-century Parisian salon after a performance, calm contemplative expression with a faint enigmatic smile, surrounded by soft ambient candlelight and elegant drapery, the mood quiet and reflective suggesting an ambiguous resolution, warm muted golden tones, visible brushstrokes, rich romantic-era atmosphere, no text, no other musicians present."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "音楽史コラム：1837年、リストとライバル・タールベルクの人気争いは、慈善演奏会の場を借りた伝説のピアノ対決に発展しました。侯爵夫人の判定は両者を称える曖昧な言葉で、勝敗は最後までつかないまま幕を閉じました🎹\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "音楽史コラム：1837年、リストとライバル・タールベルクの人気争いは、慈善演奏会の場を借りた伝説のピアノ対決に発展しました。侯爵夫人の判定は両者を称える曖昧な言葉で、勝敗は最後までつかないまま幕を閉じました🎹\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "音楽史コラム：1837年、リストとライバル・タールベルクの人気争いは、慈善演奏会の場を借りた伝説のピアノ対決に発展しました。侯爵夫人の判定は両者を称える曖昧な言葉で、勝敗は最後までつかないまま幕を閉じました🎹\n\n「時間がない」「余裕がない」——そんな毎日を送っていませんか。\n仕事に、家事に、やることに追われて、気づけば一日が終わっている。\nそんな日々を過ごす方も多いのではないでしょうか。\n\n「忙しい大人のためのクラシック音楽ノート」では、そんな日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nリストの超絶技巧がどれほどのものだったのか、演奏解説の動画もぜひチェックしてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH"
+}
