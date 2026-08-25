@@ -1,0 +1,36 @@
+{
+  "composer": "メンデルスゾーン",
+  "event_summary": "バッハの死後79年間、代表作『マタイ受難曲』はほとんど演奏されず忘れ去られていたが、1829年にわずか20歳のメンデルスゾーンがベルリンで復活上演を指揮し、大成功を収めた。この公演が「バッハ・ルネサンス」の起点となり、以後バッハは西洋音楽史の中心的存在として再評価されていく。長い空白期間と若き指揮者という組み合わせが強いスケール感を生むエピソード。",
+  "sources": [
+    "https://www.classical-music.com/features/composers/how-mendelssohn-helped-bring-bachs-st-matthew-passion-back-to-life",
+    "https://robertgreenbergmusic.com/music-history-monday-the-revival-begins/",
+    "https://en.wikipedia.org/wiki/1829_in_music",
+    "https://festivalbachmontreal.com/en/bach-mendelssohn-the-tale-of-a-resurrection/"
+  ],
+  "hook_copy": "[G]死後79年[/G]忘れられたバッハの傑作を、[G]20歳の若者[/G]が甦らせた",
+  "portrait_prompt": "Illustrated cinematic portrait of a young 19th-century German composer, Felix Mendelssohn, around twenty years old, bust-to-shoulder composition. He has dark curly hair swept back, a refined youthful face with intelligent, gentle eyes, and wears formal early Romantic-era attire: a high white collar, dark cravat, and a black tailored coat. Painterly rendering with soft directional lighting reminiscent of oil portraiture, rich but not photorealistic textures, subtle brushstroke detail on skin and fabric. Background is a smooth, muted solid tone (deep neutral brown or soft charcoal gradient) with no texture, no vignette, no border, no frame lines. The illustration fills the entire canvas edge to edge with no empty margin or darkening at the corners. No text, no signature, no watermark.",
+  "middle_slides": [
+    {
+      "text": "1750年にバッハが世を去ってから79年間、大作『マタイ受難曲』はほとんど演奏されることなく、人々の記憶から忘れ去られていた。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic: a dim, dusty archive room lit by a single candle, where a young Felix Mendelssohn in early Romantic-era clothing gently lifts a thick, aged, dust-covered manuscript bound in worn leather from a forgotten shelf. Cobwebs drift in the corners, faint golden candlelight catches drifting dust motes, evoking decades of neglect and silence. Moody, warm-dark color palette, dramatic chiaroscuro lighting. No text, no other people, no modern elements."
+    },
+    {
+      "text": "1829年、まだ20歳の青年フェリックス・メンデルスゾーンがベルリンでこの曲の復活演奏を指揮する。周囲は無謀だと危ぶんだ。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic: a youthful Felix Mendelssohn, only twenty years old, stands confidently at a wooden conductor's podium inside a grand Berlin concert hall of the 1820s, baton raised, facing an orchestra and chorus mid-rehearsal. Some musicians in the background exchange skeptical, uncertain glances, candle-lit sconces line the walls, creating tension between his youthful determination and the surrounding doubt. Rich warm lighting, dramatic composition emphasizing his small figure against the large hall. No text, no modern elements."
+    },
+    {
+      "text": "会場は満員となり、公演は熱狂のうちに大成功。これがきっかけとなり、バッハの音楽が再評価される\"バッハ・ルネサンス\"が始まった。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic: a triumphant concert scene in a packed 19th-century Berlin concert hall, Felix Mendelssohn conducting passionately at the podium with arms raised, orchestra and choir performing behind him, the audience filling every seat, some standing in awe, warm golden chandelier light illuminating the jubilant atmosphere. Dynamic brushwork conveying excitement and grandeur, dramatic contrast of light and shadow. No text, no modern elements."
+    },
+    {
+      "text": "以来200年近く、『マタイ受難曲』は世界中で演奏され続けている。若きメンデルスゾーンの一歩が、音楽史の流れそのものを変えた。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic: a symbolic, atmospheric scene of Felix Mendelssohn standing alone on an empty concert stage after a performance, bathed in a soft shaft of light from above, his silhouette calm and reflective, the vast dark auditorium stretching endlessly behind him suggesting the passage of time and enduring legacy. Subtle warm highlights on his figure, deep painterly shadows elsewhere, evoking timelessness and historical significance. No text, no other people, no modern elements."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1750年にバッハが世を去ってから79年間、傑作『マタイ受難曲』は忘れ去られたままだった。この歴史的な\"復活\"を成し遂げたのは、当時まだ20歳だったメンデルスゾーンだった✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1750年にバッハが世を去ってから79年間、傑作『マタイ受難曲』は忘れ去られたままだった。この歴史的な\"復活\"を成し遂げたのは、当時まだ20歳だったメンデルスゾーンだった✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1750年にバッハが世を去ってから79年間、傑作『マタイ受難曲』は忘れ去られたままだった。この歴史的な\"復活\"を成し遂げたのは、当時まだ20歳だったメンデルスゾーンだった✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nバッハとメンデルスゾーン、二人の天才をつなぐ物語をもっと知りたい方は、チャンネルの他の動画もぜひご覧ください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null
+}
