@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-08-25 メンデルスゾーン - YouTube投稿用素材</title>
+<style>
+body { font-family: -apple-system, "Hiragino Sans", sans-serif; max-width: 720px;
+       margin: 0 auto; padding: 16px; background: #fafafa; color: #222; }
+h1 { font-size: 1.1rem; }
+.zip-btn { display: inline-block; margin: 8px 0 20px; padding: 10px 18px;
+           background: #2563eb; color: #fff; text-decoration: none; border-radius: 8px;
+           font-weight: bold; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        gap: 8px; margin-bottom: 24px; }
+.grid img { width: 100%; border-radius: 8px; display: block; }
+.caption-box { position: relative; }
+pre { white-space: pre-wrap; word-break: break-word; background: #fff; border: 1px solid #ddd;
+      border-radius: 8px; padding: 14px; font-family: inherit; font-size: 0.95rem; }
+.copy-btn { padding: 8px 16px; border: none; border-radius: 8px; background: #16a34a;
+            color: #fff; font-weight: bold; cursor: pointer; margin-bottom: 8px; }
+.copy-btn.copied { background: #6b7280; }
+</style>
+</head>
+<body>
+  <h1>2026-08-25「メンデルスゾーン」YouTube投稿用素材</h1>
+  <a class="zip-btn" href="/classicalmusic-note-assets/posts/2026-08-25/youtube_assets.zip" download>全画像をダウンロード(ZIP)</a>
+  <div class="grid">
+    <img src="/classicalmusic-note-assets/posts/2026-08-25/slide1_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-25/slide2_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-25/slide3_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-25/slide4_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-25/slide5_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-25/slide6_square.png" alt="slide">
+  </div>
+  <h2>YouTube用キャプション</h2>
+  <div class="caption-box">
+    <button id="copy-btn" class="copy-btn" onclick="copyCaption()">コピー</button>
+    <pre id="caption">1750年にバッハが世を去ってから79年間、傑作『マタイ受難曲』は忘れ去られたままだった。この歴史的な&quot;復活&quot;を成し遂げたのは、当時まだ20歳だったメンデルスゾーンだった✨
+
+「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、
+ほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。
+指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の
+ドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、
+毎日少しずつお届けしています。
+
+難しい知識は必要ありません。ただ、物語として楽しんでいただければ、
+それだけで十分です。
+
+バッハとメンデルスゾーン、二人の天才をつなぐ物語をもっと知りたい方は、チャンネルの他の動画もぜひご覧ください。</pre>
+  </div>
+  <script>
+function copyCaption() {
+  const text = document.getElementById('caption').innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById('copy-btn');
+    const original = btn.textContent;
+    btn.textContent = 'コピーしました';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = original; btn.classList.remove('copied'); }, 1500);
+  });
+}
+</script>
+</body>
+</html>
