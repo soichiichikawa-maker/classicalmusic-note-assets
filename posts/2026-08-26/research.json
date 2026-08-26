@@ -7,23 +7,23 @@
     "https://coloradosymphony.org/a-symphony-of-farewell-mahlers-ninth/"
   ],
   "hook_copy": "[G]\"呪い\"を避けたはず[/G]が、[R]結局その通りの運命をたどった[/R]",
-  "portrait_prompt": "Illustrated cinematic portrait of Gustav Mahler, bust-to-shoulder composition, intense angular face with round wire-rimmed glasses, thick dark hair swept back, neat mustache, wearing a formal early 20th-century black coat with white collar and dark cravat, dramatic side lighting with warm amber highlights and deep shadows, painterly brushwork, not photorealistic, plain muted dark background with subtle tonal gradient, no vignette, no border, no frame, artwork extending fully to all four edges of the canvas, no text.",
+  "portrait_prompt": "Illustrated cinematic portrait of Gustav Mahler, a gaunt intense Austrian composer in his late 40s, angular face with high cheekbones, round wire-rimmed spectacles, short dark hair, thin mustache, wearing a formal early 1900s black suit with high collar and cravat, bust-to-shoulder composition, dramatic yet painterly lighting, expressive contemplative gaze, plain muted solid background (deep charcoal gray), painterly rendering, not photorealistic, artwork filling the entire canvas edge to edge with no border, no frame, no vignette, no empty margin around the edges.",
   "middle_slides": [
     {
       "text": "マーラーは敬愛するベートーヴェンやブルックナーが、交響曲第9番を書いた後に世を去った事実に気づき、深い恐れを抱いていた。",
-      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of composer Gustav Mahler alone at night in a dim candlelit study, seated at a wooden desk covered with manuscript paper and a quill pen, his face turned with a troubled, fearful expression, deep shadows looming behind him on the wall subtly resembling tall tombstone-like shapes, warm candle glow contrasted with cold dark blue shadows, dramatic chiaroscuro lighting, no text, no other people."
+      "image_prompt": "Oil-painting style illustration of Gustav Mahler standing alone in a dim candle-lit study, holding open sheet music scores bearing the names Beethoven and Bruckner, his face shadowed with dread and unease, gothic wooden bookshelves and busts of old composers in the background, moody chiaroscuro lighting, painterly brushstrokes, not photorealistic, no text anywhere in the image."
     },
     {
       "text": "そこで彼は、第8番の次に書いた作品にあえて\"9\"という数字を与えず、「大地の歌」という歌曲的な交響曲として世に送り出した。",
-      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of composer Gustav Mahler standing by a tall window in a study, holding a manuscript titled with musical notation only (no legible text), his expression calm and quietly relieved, soft autumn light streaming in, hints of an East Asian inspired landscape painting or scroll visible on the wall behind him evoking a song-like symphonic mood, warm golden and amber tones, gentle painterly brushstrokes, no text, no other people."
+      "image_prompt": "Oil-painting style illustration of Gustav Mahler seated at a candle-lit writing desk late at night, quill in hand, composing on a manuscript page, his expression thoughtful and resolute as if making a deliberate decision, a faint vision of rolling hills and distant mountains glowing softly through the window suggesting 'Das Lied von der Erde', warm lamplight contrasting with dark surroundings, painterly rendering, not photorealistic, no text anywhere in the image."
     },
     {
       "text": "だが結局、彼は数字上の\"正式な第9番\"の交響曲を書き上げたが、続く第10番の作曲中に肺炎にかかり、志半ばのまま息を引き取った。",
-      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of composer Gustav Mahler seated at his desk late at night, pale and fatigued, wrapped in a shawl, surrounded by scattered manuscript pages of symphonic scores, one hand pressed to his chest as if coughing, dim flickering candlelight casting long shadows, somber cool color palette with muted blues and grays, atmosphere of quiet determination fading into illness, no text, no other people."
+      "image_prompt": "Oil-painting style illustration of Gustav Mahler lying weakened in a dim bedroom, propped against pillows, unfinished manuscript pages scattered on a nearby desk bathed in fading light, his face pale and fatigued yet peaceful, heavy curtains and soft muted colors evoking illness and quiet finality, painterly brushwork, not photorealistic, no text anywhere in the image."
     },
     {
       "text": "しかし、その回避策も結局は運命を遅らせただけに終わった。彼は自ら語った「呪い」を証明するかのように、51歳の生涯を閉じたのである。",
-      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of composer Gustav Mahler lying in a modest bed near a window, weak and pale, moonlight pouring softly over him, his manuscript papers resting nearby on a nightstand, a serene yet resigned expression on his face, faint ethereal shadow patterns on the wall subtly suggesting an unfinished numeral shape, deep blue and silver nocturnal tones, tranquil and melancholic mood, no text, no other people."
+      "image_prompt": "Oil-painting style illustration of Gustav Mahler standing at the edge of a vast twilight landscape, his figure small against dramatic darkening clouds and fading golden light on the horizon, symbolizing fate closing in, cloak softly billowing, somber atmospheric painterly style, rich shadows, not photorealistic, no text anywhere in the image."
     }
   ],
   "is_date_match": false,
