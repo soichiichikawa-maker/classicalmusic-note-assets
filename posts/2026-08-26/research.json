@@ -1,0 +1,35 @@
+{
+  "composer": "マーラー",
+  "event_summary": "マーラーは、敬愛するベートーヴェンやブルックナーが交響曲第9番を書いた後に世を去った事実に恐れを抱き、自身の9作目の交響曲にはあえて番号を付けず「大地の歌」と名付けた。しかしその後に書いた\"正式な\"第9番を完成させ、続く第10番の作曲中に肺炎にかかり、51歳で急死してしまう。「呪い」を回避しようとした本人が、結局その通りの運命をたどったという逸話である。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Curse_of_the_ninth",
+    "https://www.classicfm.com/discover-music/curse-of-the-ninth/",
+    "https://coloradosymphony.org/a-symphony-of-farewell-mahlers-ninth/"
+  ],
+  "hook_copy": "[G]\"呪い\"を避けたはず[/G]が、[R]結局その通りの運命をたどった[/R]",
+  "portrait_prompt": "Illustrated cinematic portrait of Gustav Mahler, bust-to-shoulder composition, intense angular face with round wire-rimmed glasses, thick dark hair swept back, neat mustache, wearing a formal early 20th-century black coat with white collar and dark cravat, dramatic side lighting with warm amber highlights and deep shadows, painterly brushwork, not photorealistic, plain muted dark background with subtle tonal gradient, no vignette, no border, no frame, artwork extending fully to all four edges of the canvas, no text.",
+  "middle_slides": [
+    {
+      "text": "マーラーは敬愛するベートーヴェンやブルックナーが、交響曲第9番を書いた後に世を去った事実に気づき、深い恐れを抱いていた。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of composer Gustav Mahler alone at night in a dim candlelit study, seated at a wooden desk covered with manuscript paper and a quill pen, his face turned with a troubled, fearful expression, deep shadows looming behind him on the wall subtly resembling tall tombstone-like shapes, warm candle glow contrasted with cold dark blue shadows, dramatic chiaroscuro lighting, no text, no other people."
+    },
+    {
+      "text": "そこで彼は、第8番の次に書いた作品にあえて\"9\"という数字を与えず、「大地の歌」という歌曲的な交響曲として世に送り出した。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of composer Gustav Mahler standing by a tall window in a study, holding a manuscript titled with musical notation only (no legible text), his expression calm and quietly relieved, soft autumn light streaming in, hints of an East Asian inspired landscape painting or scroll visible on the wall behind him evoking a song-like symphonic mood, warm golden and amber tones, gentle painterly brushstrokes, no text, no other people."
+    },
+    {
+      "text": "だが結局、彼は数字上の\"正式な第9番\"の交響曲を書き上げたが、続く第10番の作曲中に肺炎にかかり、志半ばのまま息を引き取った。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of composer Gustav Mahler seated at his desk late at night, pale and fatigued, wrapped in a shawl, surrounded by scattered manuscript pages of symphonic scores, one hand pressed to his chest as if coughing, dim flickering candlelight casting long shadows, somber cool color palette with muted blues and grays, atmosphere of quiet determination fading into illness, no text, no other people."
+    },
+    {
+      "text": "しかし、その回避策も結局は運命を遅らせただけに終わった。彼は自ら語った「呪い」を証明するかのように、51歳の生涯を閉じたのである。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of composer Gustav Mahler lying in a modest bed near a window, weak and pale, moonlight pouring softly over him, his manuscript papers resting nearby on a nightstand, a serene yet resigned expression on his face, faint ethereal shadow patterns on the wall subtly suggesting an unfinished numeral shape, deep blue and silver nocturnal tones, tranquil and melancholic mood, no text, no other people."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "ベートーヴェンやブルックナーは、交響曲第9番を書き上げた後に世を去っていた。この\"呪い\"を恐れたマーラーは数字を隠して回避を試みたが、結局は同じ運命をたどることになった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "ベートーヴェンやブルックナーは、交響曲第9番を書き上げた後に世を去っていた。この\"呪い\"を恐れたマーラーは数字を隠して回避を試みたが、結局は同じ運命をたどることになった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "ベートーヴェンやブルックナーは、交響曲第9番を書き上げた後に世を去っていた。この\"呪い\"を恐れたマーラーは数字を隠して回避を試みたが、結局は同じ運命をたどることになった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこの\"呪い\"の物語が気になった方は、他の作曲家たちの意外な逸話もぜひご覧ください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null
+}
