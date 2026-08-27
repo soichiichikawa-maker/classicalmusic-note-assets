@@ -1,0 +1,36 @@
+{
+  "composer": "パッヘルベル",
+  "event_summary": "パッヘルベルの「カノン」は生前ほとんど知られず、出版もされないまま250年以上も音楽史の片隅で忘れられていた。1919年に手稿が学術的に発見され、さらに1968年のパイヤール盤の大ヒットをきっかけに、結婚式の定番曲として世界中に広まった。特定の記念日ではないが、クラシック史上屈指の“逆転ヒット”として紹介する。",
+  "sources": [
+    "https://interlude.hk/how-did-pachelbels-canon-become-so-popular/",
+    "https://www.britannica.com/topic/Pachelbels-Canon",
+    "https://en.wikipedia.org/wiki/Pachelbel%27s_Canon",
+    "https://www.celebratewithmusic.co.uk/the-pachelbel-canon/"
+  ],
+  "hook_copy": "世界中の花嫁が歩くあの曲、実は[G]260年間[/G][R]黙殺[/R]されていた",
+  "portrait_prompt": "Illustrated cinematic portrait of Johann Pachelbel, a 17th-century German Baroque composer and organist, middle-aged man with a soft rounded face, warm brown eyes, wearing a period-accurate curled Baroque wig, dressed in a dark velvet coat with a white lace cravat. Bust-to-shoulder composition, facing slightly to one side with a calm, dignified expression. Background is a smooth, muted solid tone (deep warm brown or dark olive) with soft even lighting, no vignette, no border, no frame, no texture edges. Painterly rendering in the style of a classical oil painting, rich brushstroke texture, warm chiaroscuro lighting on the face. The illustration fills the entire canvas edge to edge with no empty margins, no darkened corners, and no outline anywhere. No text, no letters, no watermark.",
+  "middle_slides": [
+    {
+      "text": "バロック時代、パッヘルベルはドイツ有数のオルガン奏者として高い評価を得ていた。若きバッハ一族とも親交が深い実力者だった。",
+      "image_prompt": "Oil-painting style illustration of Johann Pachelbel as a respected Baroque organist, seated at a grand wooden pipe organ inside a candlelit German church, hands poised on the keys, richly dressed in period coat and curled wig, warm golden light streaming through stained glass windows, ornate carved organ pipes rising behind him, painterly brushstrokes, dramatic chiaroscuro lighting, no text, not photorealistic."
+    },
+    {
+      "text": "生前に出版されることはなく、たった1枚の手稿だけが後世に伝わった。作品は250年以上、音楽史の片隅で存在すら忘れられていた。",
+      "image_prompt": "Oil-painting style illustration of a dim, dusty archive room with a single aged manuscript page lying alone on a wooden desk, faint candlelight illuminating the yellowed paper covered in handwritten musical notation, cobwebs and shadows suggesting decades of neglect, no people visible, somber muted color palette of browns and grays, painterly texture, evocative of forgotten history, no text legible, not photorealistic."
+    },
+    {
+      "text": "転機は1919年。ドイツの音楽学者ベックマンが埋もれていた手稿をようやく発見し、出版にこぎつけたことで再評価の道が開かれた。",
+      "image_prompt": "Oil-painting style illustration of an early 20th-century German musicologist in a wire-rimmed spectacles and a tweed coat, discovering an old manuscript in a dusty library archive, holding the fragile yellowed pages up toward a shaft of light from a tall window, shelves of old books and papers surrounding him, warm sepia and amber tones, painterly brushwork, sense of revelation and discovery, no text legible, not photorealistic."
+    },
+    {
+      "text": "決定打は1968年、フランスの指揮者パイヤールによる録音が大ヒット。以来260年越しに、結婚式の定番曲として世界中へ広まった。",
+      "image_prompt": "Oil-painting style illustration of an elegant outdoor wedding scene in soft golden late-1960s light, a bride in a flowing white gown walking down an aisle lined with flowers and guests, joyful atmosphere, warm sunlight filtering through trees, romantic and celebratory mood, painterly impressionistic brushstrokes, soft focus background, no text, not photorealistic."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "世界中の結婚式で欠かせないあの旋律は、作曲から260年近く誰の目にも留まらなかった。パッヘルベルの『カノン』は、1968年のたった1枚の録音で息を吹き返した曲だ🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "世界中の結婚式で欠かせないあの旋律は、作曲から260年近く誰の目にも留まらなかった。パッヘルベルの『カノン』は、1968年のたった1枚の録音で息を吹き返した曲だ🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "世界中の結婚式で欠かせないあの旋律は、作曲から260年近く誰の目にも留まらなかった。パッヘルベルの『カノン』は、1968年のたった1枚の録音で息を吹き返した曲だ🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n250年越しの逆転劇、次はどの作曲家の“忘れられた真実”を知りたいですか?ぜひコメントで教えてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null
+}
