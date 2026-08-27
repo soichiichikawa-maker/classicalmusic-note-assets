@@ -8,23 +8,23 @@
     "https://www.celebratewithmusic.co.uk/the-pachelbel-canon/"
   ],
   "hook_copy": "世界中の花嫁が歩くあの曲、実は[G]260年間[/G][R]黙殺[/R]されていた",
-  "portrait_prompt": "Illustrated cinematic portrait of Johann Pachelbel, a 17th-century German Baroque composer and organist, middle-aged man with a soft rounded face, warm brown eyes, wearing a period-accurate curled Baroque wig, dressed in a dark velvet coat with a white lace cravat. Bust-to-shoulder composition, facing slightly to one side with a calm, dignified expression. Background is a smooth, muted solid tone (deep warm brown or dark olive) with soft even lighting, no vignette, no border, no frame, no texture edges. Painterly rendering in the style of a classical oil painting, rich brushstroke texture, warm chiaroscuro lighting on the face. The illustration fills the entire canvas edge to edge with no empty margins, no darkened corners, and no outline anywhere. No text, no letters, no watermark.",
+  "portrait_prompt": "Illustrated cinematic portrait of a Baroque-era German composer, Johann Pachelbel, in his 40s, bust-to-shoulder composition, wearing a dark 17th-century coat with a white lace cravat, a period-appropriate long curled brown wig, dignified and thoughtful expression, soft warm side lighting reminiscent of candlelight, painterly rendering, not photorealistic, plain muted solid dark brown background, painting fills the entire canvas edge to edge with no border, no frame, no vignette, no empty margin around the edges.",
   "middle_slides": [
     {
       "text": "バロック時代、パッヘルベルはドイツ有数のオルガン奏者として高い評価を得ていた。若きバッハ一族とも親交が深い実力者だった。",
-      "image_prompt": "Oil-painting style illustration of Johann Pachelbel as a respected Baroque organist, seated at a grand wooden pipe organ inside a candlelit German church, hands poised on the keys, richly dressed in period coat and curled wig, warm golden light streaming through stained glass windows, ornate carved organ pipes rising behind him, painterly brushstrokes, dramatic chiaroscuro lighting, no text, not photorealistic."
+      "image_prompt": "Oil-painting style scene of a distinguished Baroque German organist in period costume with a curled wig, confidently seated at a grand baroque pipe organ inside a candlelit German church, hands poised on the keys, ornate golden organ pipes towering behind him, warm chiaroscuro lighting, painterly brushstrokes, not photorealistic, no text."
     },
     {
       "text": "生前に出版されることはなく、たった1枚の手稿だけが後世に伝わった。作品は250年以上、音楽史の片隅で存在すら忘れられていた。",
-      "image_prompt": "Oil-painting style illustration of a dim, dusty archive room with a single aged manuscript page lying alone on a wooden desk, faint candlelight illuminating the yellowed paper covered in handwritten musical notation, cobwebs and shadows suggesting decades of neglect, no people visible, somber muted color palette of browns and grays, painterly texture, evocative of forgotten history, no text legible, not photorealistic."
+      "image_prompt": "Oil-painting style scene of a single yellowed, weathered manuscript sheet of music resting alone on an old wooden desk in a dim, dusty forgotten room, cobwebs and faint dust motes in a shaft of pale light, candle burnt low beside it, sense of long neglect and passing centuries, painterly rendering, not photorealistic, no text, no people."
     },
     {
       "text": "転機は1919年。ドイツの音楽学者ベックマンが埋もれていた手稿をようやく発見し、出版にこぎつけたことで再評価の道が開かれた。",
-      "image_prompt": "Oil-painting style illustration of an early 20th-century German musicologist in a wire-rimmed spectacles and a tweed coat, discovering an old manuscript in a dusty library archive, holding the fragile yellowed pages up toward a shaft of light from a tall window, shelves of old books and papers surrounding him, warm sepia and amber tones, painterly brushwork, sense of revelation and discovery, no text legible, not photorealistic."
+      "image_prompt": "Oil-painting style scene of a 19th-century-attired German music scholar discovering a dusty old manuscript among stacks of forgotten papers and books in an archive or library, a beam of light illuminating the rediscovered sheet, sense of excitement and revelation, painterly brushstrokes, warm sepia and gold tones, not photorealistic, no text."
     },
     {
       "text": "決定打は1968年、フランスの指揮者パイヤールによる録音が大ヒット。以来260年越しに、結婚式の定番曲として世界中へ広まった。",
-      "image_prompt": "Oil-painting style illustration of an elegant outdoor wedding scene in soft golden late-1960s light, a bride in a flowing white gown walking down an aisle lined with flowers and guests, joyful atmosphere, warm sunlight filtering through trees, romantic and celebratory mood, painterly impressionistic brushstrokes, soft focus background, no text, not photorealistic."
+      "image_prompt": "Oil-painting style scene depicting a joyous wedding processional in a sunlit church, a bride walking down the aisle strewn with flowers, elegant guests seated on either side, warm golden light streaming through stained glass windows, romantic and celebratory atmosphere, painterly rendering, not photorealistic, no text, no visible faces in sharp detail."
     }
   ],
   "is_date_match": false,
