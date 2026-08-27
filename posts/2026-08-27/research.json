@@ -7,24 +7,24 @@
     "https://en.wikipedia.org/wiki/Pachelbel%27s_Canon",
     "https://www.celebratewithmusic.co.uk/the-pachelbel-canon/"
   ],
-  "hook_copy": "世界中の花嫁が歩くあの曲、実は[G]260年間[/G][R]黙殺[/R]されていた",
-  "portrait_prompt": "Illustrated cinematic portrait of a Baroque-era German composer, Johann Pachelbel, in his 40s, bust-to-shoulder composition, wearing a dark 17th-century coat with a white lace cravat, a period-appropriate long curled brown wig, dignified and thoughtful expression, soft warm side lighting reminiscent of candlelight, painterly rendering, not photorealistic, plain muted solid dark brown background, painting fills the entire canvas edge to edge with no border, no frame, no vignette, no empty margin around the edges.",
+  "hook_copy": "世界中の花嫁が歩くカノン、実は[G]260年間[/G][R]黙殺[/R]されていた",
+  "portrait_prompt": "Illustrated cinematic portrait of Johann Pachelbel, a Baroque German composer and organist from the late 17th century, bust-to-shoulder composition. He wears a curled white/grey Baroque-era wig and a dark velvet coat with a white lace cravat. Warm, dignified expression with soft directional lighting reminiscent of classical oil portraiture. Background is a flat, muted solid color (deep neutral brown or dark olive) with minimal texture, no vignette, no border, no frame. Painterly rendering, not photorealistic, brushstroke texture visible. The illustration fills the entire canvas edge-to-edge with no margins, no border, no vignette, no darkened edges — the artwork must extend fully to all four sides of the frame.",
   "middle_slides": [
     {
       "text": "バロック時代、パッヘルベルはドイツ有数のオルガン奏者として高い評価を得ていた。若きバッハ一族とも親交が深い実力者だった。",
-      "image_prompt": "Oil-painting style scene of a distinguished Baroque German organist in period costume with a curled wig, confidently seated at a grand baroque pipe organ inside a candlelit German church, hands poised on the keys, ornate golden organ pipes towering behind him, warm chiaroscuro lighting, painterly brushstrokes, not photorealistic, no text."
+      "image_prompt": "Oil-painting style illustration of Johann Pachelbel as a respected Baroque organist in Germany, seated at a grand pipe organ inside a candlelit stone church, hands poised on the keys, wearing a period wig and dark formal coat. Warm golden light filtering through stained glass windows, atmosphere of reverence and mastery. Painterly brushstrokes, rich chiaroscuro, not photorealistic. No text."
     },
     {
-      "text": "生前に出版されることはなく、たった1枚の手稿だけが後世に伝わった。作品は250年以上、音楽史の片隅で存在すら忘れられていた。",
-      "image_prompt": "Oil-painting style scene of a single yellowed, weathered manuscript sheet of music resting alone on an old wooden desk in a dim, dusty forgotten room, cobwebs and faint dust motes in a shaft of pale light, candle burnt low beside it, sense of long neglect and passing centuries, painterly rendering, not photorealistic, no text, no people."
+      "text": "生前に書かれた『カノン』は出版されることなく、たった1枚の手稿だけが後世に伝わった。作品は250年以上、存在すら忘れられていた。",
+      "image_prompt": "Oil-painting style illustration of a single aged manuscript page of musical notation resting alone on a wooden desk in a dim, dusty room, cobwebs and faint candlelight, symbolizing forgotten obscurity. Johann Pachelbel depicted faintly in the background shadows at a writing desk, quill in hand, looking contemplative as if his work will be lost to time. Muted, dusty color palette, painterly texture, not photorealistic. No text."
     },
     {
-      "text": "転機は1919年。ドイツの音楽学者ベックマンが埋もれていた手稿をようやく発見し、出版にこぎつけたことで再評価の道が開かれた。",
-      "image_prompt": "Oil-painting style scene of a 19th-century-attired German music scholar discovering a dusty old manuscript among stacks of forgotten papers and books in an archive or library, a beam of light illuminating the rediscovered sheet, sense of excitement and revelation, painterly brushstrokes, warm sepia and gold tones, not photorealistic, no text."
+      "text": "転機は1919年。音楽学者ベックマンが埋もれていた『カノン』の手稿を発見し出版にこぎつけたことで、再評価の道が開かれた。",
+      "image_prompt": "Oil-painting style illustration set in 1919, a scholarly figure in early 20th-century attire discovering and carefully unfolding an old, yellowed manuscript in a dim archive filled with towering bookshelves and stacks of papers, a shaft of light illuminating the fragile document. Johann Pachelbel's presence subtly evoked through a faded portrait hanging on the archive wall in the background. Painterly, warm sepia and amber tones, not photorealistic. No text."
     },
     {
-      "text": "決定打は1968年、フランスの指揮者パイヤールによる録音が大ヒット。以来260年越しに、結婚式の定番曲として世界中へ広まった。",
-      "image_prompt": "Oil-painting style scene depicting a joyous wedding processional in a sunlit church, a bride walking down the aisle strewn with flowers, elegant guests seated on either side, warm golden light streaming through stained glass windows, romantic and celebratory atmosphere, painterly rendering, not photorealistic, no text, no visible faces in sharp detail."
+      "text": "決定打は1968年、指揮者パイヤールによる『カノン』の録音が大ヒット。以来260年越しに、結婚式の定番曲として世界中へ広まった。",
+      "image_prompt": "Oil-painting style illustration depicting a joyful wedding scene in a sunlit church aisle, a bride walking gracefully surrounded by flowers and soft light, with a faint, ghostly translucent image of Johann Pachelbel in period Baroque dress standing unseen among the guests, symbolizing his timeless musical legacy reaching across centuries. Warm, romantic lighting, rich painterly brushwork, not photorealistic. No text."
     }
   ],
   "is_date_match": false,
