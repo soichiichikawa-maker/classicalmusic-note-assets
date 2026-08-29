@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-08-29 ショパン - 投稿用素材</title>
+<style>
+body { font-family: -apple-system, "Hiragino Sans", sans-serif; max-width: 720px;
+       margin: 0 auto; padding: 16px; background: #fafafa; color: #222; }
+h1 { font-size: 1.1rem; }
+h2 { font-size: 1rem; margin-top: 32px; border-top: 1px solid #ddd; padding-top: 20px; }
+h2:first-of-type { margin-top: 20px; border-top: none; padding-top: 0; }
+.zip-btn { display: inline-block; margin: 8px 0 20px; padding: 10px 18px;
+           background: #2563eb; color: #fff; text-decoration: none; border-radius: 8px;
+           font-weight: bold; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        gap: 8px; margin-bottom: 24px; }
+.grid img { width: 100%; border-radius: 8px; display: block; }
+.caption-box { position: relative; }
+pre { white-space: pre-wrap; word-break: break-word; background: #fff; border: 1px solid #ddd;
+      border-radius: 8px; padding: 14px; font-family: inherit; font-size: 0.95rem; }
+.copy-btn { padding: 8px 16px; border: none; border-radius: 8px; background: #16a34a;
+            color: #fff; font-weight: bold; cursor: pointer; margin-bottom: 8px; }
+.copy-btn.copied { background: #6b7280; }
+</style>
+</head>
+<body>
+  <h1>2026-08-29「ショパン」投稿用素材</h1>
+
+  <h2>YouTube投稿用素材</h2>
+  <a class="zip-btn" href="/classicalmusic-note-assets/posts/2026-08-29/youtube_assets.zip" download>全画像をダウンロード(ZIP)</a>
+  <div class="grid">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide1_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide2_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide3_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide4_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide5_square.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide6_square.png" alt="slide">
+  </div>
+  <div class="caption-box">
+    <button id="copy-btn-youtube" class="copy-btn" onclick="copyCaption('youtube')">コピー</button>
+    <pre id="caption-youtube">パリのペール・ラシェーズ墓地に眠る亡骸には、なぜか心臓だけがない。ショパンの心臓は瓶に詰められ国境を越え、今もワルシャワの教会の柱の中で静かに眠っている🎵
+
+「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、
+ほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。
+指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の
+ドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、
+毎日少しずつお届けしています。
+
+難しい知識は必要ありません。ただ、物語として楽しんでいただければ、
+それだけで十分です。
+
+ショパンの波乱の人生をもっと知りたい方は、チャンネルにある特集動画もぜひご覧ください。</pre>
+  </div>
+
+
+  <h2>Facebook投稿用素材</h2>
+  <a class="zip-btn" href="/classicalmusic-note-assets/posts/2026-08-29/facebook_assets.zip" download>全画像をダウンロード(ZIP)</a>
+  <div class="grid">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide1.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide2.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide3.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide4.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide5.png" alt="slide">
+    <img src="/classicalmusic-note-assets/posts/2026-08-29/slide6.png" alt="slide">
+  </div>
+  <div class="caption-box">
+    <button id="copy-btn-facebook" class="copy-btn" onclick="copyCaption('facebook')">コピー</button>
+    <pre id="caption-facebook">パリのペール・ラシェーズ墓地に眠る亡骸には、なぜか心臓だけがない。ショパンの心臓は瓶に詰められ国境を越え、今もワルシャワの教会の柱の中で静かに眠っている🎵
+
+「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、
+ほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。
+指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の
+ドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、
+毎日少しずつお届けしています。
+
+難しい知識は必要ありません。ただ、物語として楽しんでいただければ、
+それだけで十分です。
+
+くわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=p_ykW731wWA</pre>
+  </div>
+
+  <script>
+function copyCaption(key) {
+  const text = document.getElementById('caption-' + key).innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById('copy-btn-' + key);
+    const original = btn.textContent;
+    btn.textContent = 'コピーしました';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = original; btn.classList.remove('copied'); }, 1500);
+  });
+}
+</script>
+</body>
+</html>
