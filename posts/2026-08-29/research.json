@@ -1,0 +1,35 @@
+{
+  "composer": "ショパン",
+  "event_summary": "ショパンは1849年にパリで客死したが、遺体はパリに埋葬され、心臓だけは姉ルドヴィカの手でコニャック漬けの瓶に納められ、国境を越えてワルシャワへ運ばれた。現在もワルシャワの聖十字架教会の柱の中に安置されており、2014年の調査でも保存状態が確認されている。",
+  "sources": [
+    "https://www.atlasobscura.com/places/chopin-s-heart",
+    "https://www.pianistmagazine.com/blogs/why-is-frederic-chopins-heart-preserved-in-a-jar-in-warsaw/",
+    "https://en.wikipedia.org/wiki/Heart_of_Fr%C3%A9d%C3%A9ric_Chopin"
+  ],
+  "hook_copy": "作曲家の遺体はパリに眠る。[G]心臓[/G]だけ瓶に詰め[R]密輸[/R]された",
+  "portrait_prompt": "Illustrated cinematic portrait of Frédéric Chopin, a slender 19th-century Polish composer with dark wavy hair, pale refined features, deep-set melancholic eyes, and a high white collar with a dark cravat typical of Romantic-era fashion. Bust-to-shoulder composition, three-quarter view, soft dramatic lighting emphasizing his delicate, poetic expression. Background is a flat, muted solid tone (deep charcoal or warm sepia gradient) with no texture or vignette. Painterly rendering, not photorealistic, illustrated cinematic style. The artwork fills the entire canvas edge-to-edge with no border, no frame, no vignette, and no darkened edges. No text of any kind.",
+  "middle_slides": [
+    {
+      "text": "1849年10月、パリの一室で息を引き取ったのはフレデリック・ショパン、39歳だった。彼が遺した最期の願いは、あまりに奇妙だった。",
+      "image_prompt": "Oil-painting style scene of a dim, candlelit 19th-century Parisian bedroom in October 1849. A frail young composer, Frédéric Chopin, lies weakly in a canopied bed, his thin hand resting on the blanket, pale face turned toward a shuttered window with faint autumn light seeping through. Somber, muted color palette of deep browns and grays, soft candle glow illuminating his face, sense of quiet finality in the air. Painterly brushstrokes, not photorealistic, cinematic composition, no text."
+    },
+    {
+      "text": "その願いとは——遺体はパリに置いても構わない、ただし心臓だけは祖国ポーランドへ持ち帰ってほしい、という切実な一言だった。",
+      "image_prompt": "Oil-painting style intimate scene inside a sparse Parisian sickroom, Frédéric Chopin propped against pillows, his thin hand raised gently as if speaking a final heartfelt wish, eyes gazing toward a small framed landscape reminiscent of Poland on the wall. Warm candlelight against cool shadows, expression of quiet longing and resolve on his face, painterly and emotional atmosphere. Classical oil-painting texture, not photorealistic, no text."
+    },
+    {
+      "text": "実行したのは姉ルドヴィカ。心臓をコニャック漬けの瓶に密封し、ロシアとオーストリアの国境検問を隠し通してワルシャワへ運び込んだ。",
+      "image_prompt": "Oil-painting style historical scene at a snowy 19th-century border checkpoint between the Russian and Austrian empires at night, a solemn Polish woman in a dark traveling cloak and bonnet clutching a small sealed glass jar wrapped in cloth beneath her coat, her breath visible in the cold air, lantern light from a nearby guard post casting long shadows, tense atmosphere of secrecy. Rich painterly textures, dramatic chiaroscuro lighting, not photorealistic, no text."
+    },
+    {
+      "text": "心臓は今もワルシャワの聖十字架教会の柱の中に安置されている。2014年の調査でも、心臓は損なわれず保存されていたことが確認された。",
+      "image_prompt": "Oil-painting style interior of a grand 19th-century church with tall stone pillars and stained-glass light filtering in, focus on an ornate carved pillar where a small commemorative plaque and niche are embedded, soft golden light illuminating the stonework, quiet reverent atmosphere, dust motes floating in sunbeams. Painterly rendering with rich texture, cinematic composition, not photorealistic, no text, no people in focus."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "パリのペール・ラシェーズ墓地に眠る亡骸には、なぜか心臓だけがない。ショパンの心臓は瓶に詰められ国境を越え、今もワルシャワの教会の柱の中で静かに眠っている🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nくわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=p_ykW731wWA",
+  "ig_caption": "パリのペール・ラシェーズ墓地に眠る亡骸には、なぜか心臓だけがない。ショパンの心臓は瓶に詰められ国境を越え、今もワルシャワの教会の柱の中で静かに眠っている🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "パリのペール・ラシェーズ墓地に眠る亡骸には、なぜか心臓だけがない。ショパンの心臓は瓶に詰められ国境を越え、今もワルシャワの教会の柱の中で静かに眠っている🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nショパンの波乱の人生をもっと知りたい方は、チャンネルにある特集動画もぜひご覧ください。",
+  "youtube_link": "https://www.youtube.com/watch?v=p_ykW731wWA",
+  "today_date_label": null
+}
