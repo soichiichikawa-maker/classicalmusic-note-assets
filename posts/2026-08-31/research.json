@@ -1,0 +1,35 @@
+{
+  "composer": "ベートーヴェン",
+  "event_summary": "1824年5月7日、ウィーンでベートーヴェンの交響曲第9番『合唱付き』が初演された。既に完全に聴力を失っていた作曲家は指揮台に立ったが、演奏後の拍手に気づかず、コントラルト歌手カロリーネ・ウンガーに体を向けられて初めて5回もの熱狂的な総立ち拍手を目にした。",
+  "sources": [
+    "https://www.straightdope.com/21343382/was-beethoven-unable-to-hear-the-applause-when-the-9th-symphony-premiered",
+    "https://www.history.com/this-day-in-history/may-7/beethoven-ninth-symphony-debuts-vienna",
+    "https://fwsymphony.org/program-notes/beethoven-ludwig-van-symphony-no-9-in-d-minor-opus-125-choral"
+  ],
+  "hook_copy": "[G]完全に耳が聞こえない指揮者[/G]に、客席は[G]5回の総立ち拍手[/G]で応えた",
+  "portrait_prompt": "Portrait illustration of Ludwig van Beethoven, based on the famous 1820 Joseph Karl Stieler portrait (\"Beethoven with the Manuscript of the Missa Solemnis\"). A stern, rugged middle-aged man of about 50, with thick, wild, tousled dark greyish-brown hair swept back and to the sides, unruly and windblown around the head. Deep-set, intense dark eyes gazing into the distance with a brooding, introspective expression, furrowed prominent brow, ruddy weathered skin, a strong jaw and firm, slightly pursed mouth, a broad rounded forehead. Wearing a dark brown/black tailcoat with a high collar, a white shirt with a soft ruffled collar, and a distinctive loosely tied red-orange cravat/scarf at the neck. Bust-to-shoulder composition, three-quarter angle facing slightly to the side. Illustrated cinematic style, painterly rendering, not photorealistic. Background is a plain, muted neutral tone (soft dark olive or brown gradient) with no distinct scenery, easy to crop into an oval frame. No text or writing anywhere in the image. The painting must fill the entire canvas edge-to-edge with no border, no vignette, no frame, and no empty margin around the edges.",
+  "middle_slides": [
+    {
+      "text": "1824年5月7日のウィーン。12年ぶりに舞台へ立ったのは、既に耳が全く聞こえなくなっていた作曲家ルートヴィヒ・ヴァン・ベートーヴェンだった。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of Ludwig van Beethoven standing on a stage in a grand Vienna theater in 1824, seen from a slight distance. He has thick, wild, tousled greyish-brown hair swept back, a stern brooding expression, ruddy weathered face, wearing a dark tailcoat with a white shirt and a loosely tied red-orange cravat, matching the famous Stieler portrait likeness. He stands facing the orchestra with his back partly to the audience, illuminated by warm candlelight, the ornate theater interior with tiered balconies faintly visible in the background, conveying a solemn historic atmosphere. No text anywhere in the image."
+    },
+    {
+      "text": "壇上で指揮の真似をしながら音楽に没頭する彼をよそに、演奏が終わると客席は熱狂した拍手と歓声に包まれた。だが本人には何も聞こえていなかった。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of Ludwig van Beethoven on a conductor's podium, deeply absorbed and animatedly gesturing with his arms as if conducting, eyes closed or unfocused, completely unaware of the room around him. He has thick, wild, tousled greyish-brown hair, a strong furrowed brow, ruddy face, wearing a dark tailcoat with a white shirt and loose red-orange cravat, consistent with the Stieler portrait likeness. In the background, blurred impression of an audience rising with hands clapping and mouths open in cheers, warm golden theater lighting, dramatic contrast between his silent absorption and the crowd's unheard enthusiasm. No text anywhere in the image."
+    },
+    {
+      "text": "異変に気づいたアルト歌手カロリーネ・ウンガーが、彼の体を客席の方へそっと向けさせた。目に飛び込んできたのは、5回にも及ぶ総立ちの拍手だった。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, depicting the moment a female alto singer in an elegant early 19th-century gown gently takes Ludwig van Beethoven by the shoulders and turns him around to face the audience. Beethoven has thick, wild, tousled greyish-brown hair, a startled and moved expression on his ruddy weathered face, wearing a dark tailcoat with a white shirt and loose red-orange cravat, matching the Stieler portrait likeness. Behind them, a grand theater audience is fully standing, waving handkerchiefs and clapping enthusiastically, bathed in warm candlelight, conveying the emotional climax of the scene. No text anywhere in the image."
+    },
+    {
+      "text": "この夜の『第九』は、シラーの詩に曲を付けた初めての交響曲として音楽史に名を刻み、今も年末の風物詩として世界中で歌い継がれている。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, symbolic celebratory scene evoking Beethoven's Ninth Symphony choral finale legacy. Ludwig van Beethoven, with thick wild tousled greyish-brown hair, a stern yet serene weathered face, wearing a dark tailcoat with a white shirt and loose red-orange cravat consistent with the Stieler portrait likeness, stands solitary and dignified at the center, softly lit, surrounded by an impressionistic swirl of warm golden light suggesting music and joy radiating outward, with faint silhouettes of a full choir and orchestra in the background. Atmosphere of timeless grandeur and triumph. No text anywhere in the image."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1824年5月7日、ウィーンの劇場は5回もの熱狂的な総立ち拍手に包まれた。だが指揮台に立つ本人は、その音も歓声も一切聞こえていなかった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nくわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=iceY8eSOg5I",
+  "ig_caption": "1824年5月7日、ウィーンの劇場は5回もの熱狂的な総立ち拍手に包まれた。だが指揮台に立つ本人は、その音も歓声も一切聞こえていなかった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1824年5月7日、ウィーンの劇場は5回もの熱狂的な総立ち拍手に包まれた。だが指揮台に立つ本人は、その音も歓声も一切聞こえていなかった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n耳の聞こえなかった巨匠が第九にたどり着くまでの生涯、もっと深く知りたい方はこちらの動画もぜひ。\nhttps://www.youtube.com/watch?v=iceY8eSOg5I",
+  "youtube_link": "https://www.youtube.com/watch?v=iceY8eSOg5I",
+  "today_date_label": null
+}
