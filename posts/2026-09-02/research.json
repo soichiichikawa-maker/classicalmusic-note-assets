@@ -1,0 +1,35 @@
+{
+  "composer": "チャイコフスキー",
+  "event_summary": "指揮者としても活躍したチャイコフスキーには、指揮中に自分の頭が肩から外れて落ちると信じ込むほどの深刻な恐怖症があった。彼は本番中いつも片手で自分の首を支えながら指揮を続け、後年ようやくこの恐怖を乗り越えて成功を収めた。",
+  "sources": [
+    "https://robertgreenbergmusic.com/tchaikovsky-composer-conductor-in-america/",
+    "https://www.halidonmusic.com/en/10-facts-you-didnt-know-about-pyotr-ilyich-tchaikovsky-b8.html",
+    "https://historycollection.com/nobles-used-to-suffer-from-the-glass-delusion-and-were-terrified-of-breaking/24/"
+  ],
+  "hook_copy": "世界的指揮者が、本番のたび[G]頭が落ちる[/G]と怯え[R]首を両手で[/R]支えた",
+  "portrait_prompt": "A portrait of Pyotr Ilyich Tchaikovsky in his later years, based on the 1893 Nikolai Kuznetsov portrait: a middle-aged Russian man with neatly combed short grey hair receding slightly at the temples, a full well-groomed grey beard and grey mustache, deep-set thoughtful blue-grey eyes, a high forehead, and a somewhat gaunt, dignified face with a serious, slightly melancholic expression. He wears a plain dark formal suit jacket with a white shirt collar and a dark bow tie, no medals or decorations, understated and dignified attire typical of a 19th-century Russian gentleman. Bust-to-shoulder composition, facing slightly to one side but eyes toward the viewer. Plain muted solid-toned background (deep neutral grey or brown), illustrated cinematic style, painterly rendering, not photorealistic, oil-painting texture. No text of any kind. The painting fills the entire frame edge to edge with no border, no vignette, no empty margin around the edges.",
+  "middle_slides": [
+    {
+      "text": "1868年、モスクワで初めて指揮台に立ったチャイコフスキーは、演奏中ずっと言葉にできない奇妙な恐怖に激しく襲われ続けていた。",
+      "image_prompt": "An oil-painting style illustration of Pyotr Ilyich Tchaikovsky in 1868 Moscow, a middle-aged Russian man with neatly combed short grey-brown hair, a full well-groomed beard and mustache, high forehead, standing on a conductor's podium in a concert hall, gripping the edge of a wooden music stand with both hands, his face tense and eyes wide with visible dread and anguish, orchestra musicians blurred in soft focus behind him, warm gaslight glow, dramatic chiaroscuro lighting, painterly brushwork, not photorealistic, no text."
+    },
+    {
+      "text": "頭が肩から外れて落ちてしまうと本気で信じ込み、指揮するときはいつも左手で自分の首をきつく押さえ続け、長年舞台を避けていた。",
+      "image_prompt": "An oil-painting style illustration of Pyotr Ilyich Tchaikovsky, a middle-aged Russian man with neatly combed grey hair, full grey beard and mustache, high forehead, standing on a conductor's podium seen from a three-quarter front angle, his left hand pressed firmly against the side of his own neck as if holding his head in place, his right hand raised holding a baton toward an unseen orchestra, his expression strained and fearful, dim theatrical lighting, rich dark tones, painterly brushwork, not photorealistic, no text."
+    },
+    {
+      "text": "1887年、恐怖と向き合う覚悟で自作オペラの初演をついに指揮した。すると予想に反して、演奏は観客を熱狂させる大成功に終わった。",
+      "image_prompt": "An oil-painting style illustration of Pyotr Ilyich Tchaikovsky in 1887, a middle-aged Russian man with neatly combed grey hair, full grey beard and mustache, high forehead, standing triumphantly on a grand opera house stage facing the audience, arms slightly raised in acknowledgment, a warm golden spotlight on him, a joyous ecstatic crowd visible as silhouettes in the foreground with hands raised in applause, rich warm lighting, painterly brushwork, not photorealistic, no text."
+    },
+    {
+      "text": "以来、指揮の仕事は評判を呼び、ヨーロッパから北米まで招かれる売れっ子指揮者となった。恐怖症は生涯克服できなかったという。",
+      "image_prompt": "An oil-painting style illustration of Pyotr Ilyich Tchaikovsky, a middle-aged Russian man with neatly combed grey hair, full grey beard and mustache, high forehead, dressed in an elegant dark formal coat, standing confidently on the deck of a steamship or at a grand European railway platform with travel trunks nearby, distant skyline suggesting European and North American cities blending in the misty background, a look of quiet composed pride on his face, warm nostalgic lighting, painterly brushwork, not photorealistic, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "モスクワの指揮台に立つたび、その指揮者は片手で自分の首を押さえていた🎻。『白鳥の湖』の生みの親チャイコフスキーは、頭が肩から落ちると信じるほどの恐怖症を抱えていたのだ。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nくわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=pU4C0N2AMHM",
+  "ig_caption": "モスクワの指揮台に立つたび、その指揮者は片手で自分の首を押さえていた🎻。『白鳥の湖』の生みの親チャイコフスキーは、頭が肩から落ちると信じるほどの恐怖症を抱えていたのだ。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "モスクワの指揮台に立つたび、その指揮者は片手で自分の首を押さえていた🎻。『白鳥の湖』の生みの親チャイコフスキーは、頭が肩から落ちると信じるほどの恐怖症を抱えていたのだ。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nチャイコフスキーの知られざる一面については、チャンネルの動画でも詳しく紹介しています。ぜひご覧ください。\nhttps://www.youtube.com/watch?v=pU4C0N2AMHM",
+  "youtube_link": "https://www.youtube.com/watch?v=pU4C0N2AMHM",
+  "today_date_label": null
+}
