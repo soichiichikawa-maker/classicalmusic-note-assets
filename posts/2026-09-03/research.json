@@ -1,0 +1,36 @@
+{
+  "composer": "スメタナ",
+  "event_summary": "『モルダウ(ヴルタヴァ)』で知られるスメタナは、1874年10月に完全に聴力を失った直後、わずか19日間でこの名曲を書き上げた。皮肉にも作曲者本人はその調べを一度も耳にすることなく世を去っている。日付との一致は確認できなかったため、日付訴求は使わず純粋なエピソード紹介とした。",
+  "sources": [
+    "https://journals.publisso.de/en/journals/zaud/volume6/zaud000037",
+    "http://inmozartsfootsteps.com/1396/smetanas-deafness-and-the-moldau/",
+    "https://www.musillection.com/2026/06/vltava-the-moldau-smetana.html"
+  ],
+  "hook_copy": "[R]完全に耳が聞こえない[/R]まま、[G]わずか19日[/G]で書き上げた代表曲がある",
+  "portrait_prompt": "Portrait illustration of Czech composer Bedřich Smetana, based on the well-known 19th-century photographic portraits of Smetana reproduced on Czech banknotes and postage stamps: a man in his late forties to fifties with a high, balding forehead and receding hairline, thinning grey-brown hair swept back and longer at the sides and nape of the neck, a broad and somewhat heavy-featured face, deep-set thoughtful eyes under slightly heavy brows, a prominent thick grey-brown drooping mustache covering the upper lip, clean-shaven chin and cheeks (no full beard), dressed in a plain dark Victorian frock coat with a high white shirt collar and a simple dark cravat/bow tie, no jewelry or medals. Bust-to-shoulder composition, facing slightly to one side in a calm, dignified pose. Illustrated cinematic style, painterly rendering, not photorealistic. Background is a single flat, muted neutral tone with no texture or vignette. The illustration must fill the entire frame edge to edge, with no border, no vignette, no darkened edges, and no empty margin of any kind. No text, no letters, no watermark.",
+  "middle_slides": [
+    {
+      "text": "1874年、プラハ仮劇場の首席指揮者として国民楽派を率いていたベドルジハ・スメタナに、突然激しい耳鳴りと難聴が襲いかかった。",
+      "image_prompt": "Oil-painting style illustration, painterly rendering, not photorealistic, of a 19th-century Czech composer resembling Bedřich Smetana: balding high forehead, greying hair swept back at the sides, thick drooping grey-brown mustache, clean-shaven chin, dressed in a dark Victorian frock coat with white shirt collar and dark cravat. He stands facing forward at a conductor's podium inside the ornate Prague Provisional Theatre, baton raised, leading a blurred orchestra behind soft golden stage lighting, but his face shows sudden alarm as he presses one hand toward his ear, a first sign of distress amid the performance. Rich warm theatrical lighting, dramatic brushstrokes, no text."
+    },
+    {
+      "text": "同年10月20日、スメタナはついに完全に聴力を失った。プラハやウィーンの名医たちを頼っても、二度と音の世界は戻らなかった。",
+      "image_prompt": "Oil-painting style illustration, painterly rendering, not photorealistic, of the same 19th-century Czech composer resembling Bedřich Smetana: balding high forehead, greying hair swept back at the sides, thick drooping grey-brown mustache, clean-shaven chin, dark Victorian frock coat with white shirt collar and cravat. He sits facing forward in a dim 19th-century doctor's consulting room in Prague or Vienna, a physician gesturing gravely beside him, his own expression sorrowful and resigned as he touches his ear, heavy curtains and old medical instruments in the background, muted brown and grey tones, no text."
+    },
+    {
+      "text": "それでもスメタナは筆を止めず、1874年11月から12月にかけて、代表作『ヴルタヴァ(モルダウ)』をわずか19日で書き上げた。",
+      "image_prompt": "Oil-painting style illustration, painterly rendering, not photorealistic, of the same 19th-century Czech composer resembling Bedřich Smetana: balding high forehead, greying hair swept back at the sides, thick drooping grey-brown mustache, clean-shaven chin, dark Victorian frock coat with white shirt collar and cravat. He sits facing forward at a wooden writing desk by candlelight late at night, bent intently over sheets of handwritten music manuscript, quill or pen in hand, papers scattered around, an expression of fierce concentration and passion despite his silent world, warm candle glow illuminating his face, no text."
+    },
+    {
+      "text": "完成した『モルダウ』は今も国民的名曲として世界中で愛されているが、作曲したスメタナ自身は、その調べを一度も耳にすることなく世を去った。",
+      "image_prompt": "Oil-painting style illustration, painterly rendering, not photorealistic, of the same 19th-century Czech composer resembling Bedřich Smetana, dressed in a dark Victorian frock coat, seen entirely from behind with his back to the viewer, face not visible, standing alone on a riverside bluff overlooking the flowing Vltava river valley at dusk, greying hair visible at the back of his head, shoulders slightly slumped, the wide river and distant Prague skyline glowing softly under a fading sky, evoking quiet melancholy and irony that he can never hear the river's melody, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1874年10月、プラハ仮劇場の指揮者は突然すべての音を失った。🎻それでもスメタナは静寂の中わずか19日で代表作『モルダウ』を書き上げ、皮肉にも自らその調べを耳にすることは一度もなかった。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1874年10月、プラハ仮劇場の指揮者は突然すべての音を失った。🎻それでもスメタナは静寂の中わずか19日で代表作『モルダウ』を書き上げ、皮肉にも自らその調べを耳にすることは一度もなかった。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1874年10月、プラハ仮劇場の指揮者は突然すべての音を失った。🎻それでもスメタナは静寂の中わずか19日で代表作『モルダウ』を書き上げ、皮肉にも自らその調べを耳にすることは一度もなかった。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n耳が聞こえないまま名曲を生んだこの物語、気になった方は他の作曲家エピソードもぜひチェックしてみてください",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Smetana_LCCN2014716851_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
