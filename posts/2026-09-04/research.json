@@ -1,0 +1,38 @@
+{
+  "composer": "ブルックナー",
+  "event_summary": "1824年9月4日、オーストリアの片田舎アンスフェルデンで学校教師の家に生まれたブルックナーは、40代になってから本格的に交響曲を書き始めた。独学ゆえの自信のなさから改訂を繰り返し、ウィーン楽壇からは長年酷評され続けたが、59歳の1884年、交響曲第7番の初演でついに大成功を収めた。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anton_Bruckner",
+    "https://www.britannica.com/summary/Anton-Bruckner",
+    "https://www.yourclassical.org/story/2024/08/30/anton-bruckner-epic-symphonies-endure-200-years-after-his-birth",
+    "https://i-amabile.com/comp_day/0904",
+    "https://www.edinburghmusicreview.com/blog/anton-bruckner-birthday"
+  ],
+  "hook_copy": "[G]40歳[/G]から交響曲を書き始めた男。[G]60歳[/G]で初めて喝采を浴びた。",
+  "portrait_prompt": "Illustrated cinematic portrait of the Austrian composer Anton Bruckner (1824-1896), bust-to-shoulder composition, based on the well-known 1880s photographic portraits of him (such as the Ferry Bératon and Anton Huber photographs). Depict a heavyset, balding older man in his late fifties with a broad, round, fleshy face; a receding hairline with short-cropped grey-white hair swept back and neatly trimmed close at the sides and back of the head; small, deep-set eyes beneath a slightly furrowed brow; a bulbous nose; and a thick, well-groomed greyish-white moustache covering his upper lip, jaw otherwise clean-shaven. His skin has a plain, weathered, provincial complexion, not polished or aristocratic. He wears a plain, dark, slightly old-fashioned black frock coat buttoned up with a high white wing collar and a simple dark cravat tied at the neck — modest, unadorned, almost rustic formalwear typical of a provincial Austrian church organist rather than a fashionable Viennese gentleman, with no gold embroidery or excessive decoration. Painterly, illustrated cinematic style, not photorealistic. Background is a plain, muted, nearly solid dark tone with no texture or objects. No text, no letters, no watermark anywhere. The illustration fills the entire canvas edge to edge with no border, no frame, no vignette, and no empty margin around the figure.",
+  "middle_slides": [
+    {
+      "text": "今日9月4日は、アントン・ブルックナーの誕生日。1824年、オーストリアの小さな村で、彼は学校教師の息子として生まれた。父も祖父も教師で、彼もその道を継ぐはずだった。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of a humble small stone schoolhouse in a quiet Austrian countryside village at dawn in 1824, rolling green hills and a modest church spire in the distance, warm early morning light on the rustic building where a schoolteacher's family lived; a faint glimpse of a plain wooden cradle visible through an open window suggesting a newborn child, no readable text anywhere, no modern elements, tranquil rural 19th-century atmosphere."
+    },
+    {
+      "text": "独学で交響曲を書き始めた彼の作品は壮大すぎると受け止められ、ブラームス派の批評家たちから何十年も「支離滅裂」と酷評され続けた。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of the balding, heavyset composer Anton Bruckner alone at night in a modest study, seated at a cluttered wooden desk covered with handwritten music manuscript pages, some crumpled and scattered on the floor around him, an oil lamp casting warm light on his broad round face, small deep-set eyes, thick greyish-white moustache and short cropped grey hair at the sides of his balding head, wearing a plain dark frock coat with a white collar, his expression troubled and self-doubting as he revises a score, seen from a three-quarter front angle so his face is visible and consistent with his body's orientation, no text visible anywhere."
+    },
+    {
+      "text": "だが59歳を迎えた1884年、指揮者ハンス・リヒターの下で交響曲第7番が初演され、長年の不遇が一夜にして拍手喝采へと変わった。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of a grand 19th-century Viennese concert hall in 1884, the balding composer Anton Bruckner with his round face, small deep-set eyes, thick grey moustache and short grey hair at the sides, wearing a plain dark frock coat with white collar, standing near the stage as the audience rises in thunderous applause, warm golden stage lighting, a conductor with a baton visible near the orchestra in the background, Bruckner's expression full of overwhelmed relief and quiet joy, facing the front of the hall so his face and body orientation match, no text anywhere."
+    },
+    {
+      "text": "今では史上屈指の交響曲作曲家として名を残し、彼が生まれたこの日から202年、その壮大な音楽は世界中で演奏され続けている。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, symbolic composition showing the balding composer Anton Bruckner, recognizable by his broad round face, grey moustache and short grey hair, standing fully seen from behind with his back to the viewer and his face not visible at all, gazing out from a hilltop at dawn toward a vast luminous horizon where a grand orchestra performs in a glowing concert hall far below, golden light radiating outward symbolizing his music echoing across the world, epic and majestic atmosphere, no text anywhere."
+    }
+  ],
+  "is_date_match": true,
+  "fb_caption": "1824年9月4日、オーストリアの片田舎で生まれたのは、後に「巨人」と呼ばれる交響曲を残す作曲家だった🎻 アントン・ブルックナーは40代で交響曲を書き始めながら長年酷評され続け、60歳を目前にした第7番の初演でようやく世界に認められた。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1824年9月4日、オーストリアの片田舎で生まれたのは、後に「巨人」と呼ばれる交響曲を残す作曲家だった🎻 アントン・ブルックナーは40代で交響曲を書き始めながら長年酷評され続け、60歳を目前にした第7番の初演でようやく世界に認められた。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1824年9月4日、オーストリアの片田舎で生まれたのは、後に「巨人」と呼ばれる交響曲を残す作曲家だった🎻 アントン・ブルックナーは40代で交響曲を書き始めながら長年酷評され続け、60歳を目前にした第7番の初演でようやく世界に認められた。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n壮大な交響曲の世界に興味が湧いたら、チャンネルの解説動画もぜひチェックしてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": "9月4日",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anton_Bruckner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
