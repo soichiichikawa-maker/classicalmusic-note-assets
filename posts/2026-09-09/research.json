@@ -1,0 +1,32 @@
+{
+  "composer": "サン=サーンス",
+  "event_summary": "サン=サーンスは1886年に『動物の謝肉祭』を書いたが、あまりに滑稽で自身の“真面目な作曲家”としての評判を損なうと恐れ、生前の出版・公開演奏を禁じた。唯一「白鳥」だけが例外的に1887年に発表された。彼の死の翌年、1922年に全曲が公開初演されると絶賛され、以後サン=サーンス最大の代表作となった。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Carnival_of_the_Animals",
+    "https://www.udiscovermusic.com/classical-features/saint-saens-carnival-of-the-animals/",
+    "https://www.classicfm.com/composers/saint-saens/carnival-of-the-animals-guide/"
+  ],
+  "hook_copy": "『動物の謝肉祭』を[R]封印[/R]した本人が、[G]死後に代表作[/G]と呼ばれた",
+  "portrait_prompt": "Portrait of the French composer Camille Saint-Saëns, based on the well-known Nadar photographs of the 1890s-1900s: an elderly man with a distinctive bald pate, closely cropped white-grey hair remaining only at the sides and back of the head, a long flowing white beard covering the chin and jaw, and a neat white mustache. He has a high domed forehead, deep-set thoughtful eyes, a prominent straight nose, and a dignified, composed expression. He wears a plain dark formal frock coat with a white wing-collared shirt and a black cravat, with a small red rosette of the Legion of Honour pinned to his lapel. Bust-to-shoulders composition, facing slightly to one side toward the viewer. Illustrated cinematic style, painterly rendering, not photorealistic. Background is a simple, near-solid muted color with no texture or vignette. No text, no letters, no border, no frame, no vignette darkening at the edges — the painting must fill the entire canvas edge-to-edge.",
+  "middle_slides": [
+    {
+      "text": "1886年、大作曲家として名声を確立していたサン=サーンスが息抜きに書いた曲は、友人たちの内輪の演奏会だけで大好評を博した。",
+      "image_prompt": "An elderly bald composer with grey-white hair at the sides, a long white beard and white mustache, wearing a dark formal frock coat, sits at a piano in a cozy Parisian salon in 1886, playfully sketching music with a warm smile, surrounded by a few amused friends leaning in to listen, candlelight and wood-paneled walls, intimate and lighthearted mood, oil-painting style, painterly rendering, not photorealistic, no text."
+    },
+    {
+      "text": "しかし本人はこの曲があまりに滑稽で、真面目な作曲家という評判を壊しかねないと恐れた。公開も出版も自分の死後まで禁じたのだ。",
+      "image_prompt": "The same elderly bald composer with a long white beard and white mustache sits alone at a writing desk covered with music manuscript pages, a worried, conflicted expression on his face, one hand pressed to his forehead, a candle burning low, shadows filling the room to suggest secrecy and inner conflict, oil-painting style, painterly rendering, not photorealistic, no text."
+    },
+    {
+      "text": "唯一の例外は『白鳥』だけ。他の全曲が日の目を見たのは、死の翌年1922年に開かれた公開初演。今では彼の代表作として世界中で愛されている。",
+      "image_prompt": "A grand concert hall in 1922, filled with an enthusiastic audience rising in applause, but the elderly bald composer with a long white beard and white mustache is depicted only as a dignified framed portrait or bust displayed near the stage since he has passed away, warm golden stage lighting, atmosphere of triumphant celebration and posthumous tribute, oil-painting style, painterly rendering, not photorealistic, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1886年、休暇先で息抜きに書かれたある曲は、内輪の演奏会だけで熱狂的な支持を集めた。作曲家サン=サーンスはあまりに滑稽だと恐れて公開を禁じたが、死後にこの曲こそが彼の代表作と呼ばれるようになった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1886年、休暇先で息抜きに書かれたある曲は、内輪の演奏会だけで熱狂的な支持を集めた。作曲家サン=サーンスはあまりに滑稽だと恐れて公開を禁じたが、死後にこの曲こそが彼の代表作と呼ばれるようになった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1886年、休暇先で息抜きに書かれたある曲は、内輪の演奏会だけで熱狂的な支持を集めた。作曲家サン=サーンスはあまりに滑稽だと恐れて公開を禁じたが、死後にこの曲こそが彼の代表作と呼ばれるようになった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nサン=サーンスの人物像がもっと気になった方は、チャンネルの他の作曲家動画もぜひ覗いてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Saint-Sa%C3%ABns-circa-1880.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
