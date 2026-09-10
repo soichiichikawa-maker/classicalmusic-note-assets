@@ -1,0 +1,36 @@
+{
+  "composer": "グリーグ",
+  "event_summary": "1870年、まだ無名だったグリーグはローマでフランツ・リストに自作のピアノ協奏曲の手稿を見せた。リストはその場で一度の練習もなく全曲を初見演奏し、力強い励ましの言葉を送ったことで、この曲は後に世界的な名作となった。",
+  "sources": [
+    "https://www.bso.org/works/grieg-piano-concerto",
+    "https://theclassicnote.com/grieg-piano-concerto-a-minor-op16/",
+    "https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA67824"
+  ],
+  "hook_copy": "助成金さえ[R]断られた[/R]無名の作曲家、リストが[G]一発全曲初見演奏[/G]で称賛",
+  "portrait_prompt": "Portrait illustration of Norwegian composer Edvard Grieg as a young man in his twenties (circa 1870), based on the famous appearance later captured in Eilif Peterssen's 1891 portrait and period photographs: a slender, delicate-featured face with a high forehead, fair light-brown hair brushed back and slightly wavy, striking pale blue eyes, and his trademark thick moustache extending into a light, closely-trimmed short beard along the jawline. Fair, slightly pale complexion typical of a Norwegian. He wears a plain dark Victorian-era frock coat with a white shirt collar and a simple dark cravat/necktie, no elaborate decoration, modest and academic in style. Bust-to-shoulder composition, facing slightly toward the viewer, calm and thoughtful expression. Illustrated cinematic style, painterly rendering, not photorealistic. Background is a single flat muted color with no gradient, vignette, or border. The painting fills the entire frame edge-to-edge with no margin, no decorative border, no vignette shading at the corners. No text or lettering anywhere in the image.",
+  "middle_slides": [
+    {
+      "text": "1868年、24歳のグリーグは唯一のピアノ協奏曲を書き上げたが、国内では正当な評価を受けられず、出版の当ても立たなかった。",
+      "image_prompt": "Oil-painting style illustration of young Edvard Grieg, a slender Norwegian man in his mid-twenties with fair light-brown hair brushed back, a thick moustache and light short beard, pale blue eyes, high forehead, wearing a plain dark 19th-century frock coat with white shirt collar. He sits alone at a wooden desk in a modest, dimly-lit Norwegian study, surrounded by scattered handwritten music manuscript pages, looking down at his own score with a troubled, discouraged expression, oil lamp casting warm light, a sense of quiet disappointment and isolation. Painterly rendering, not photorealistic, no text or lettering."
+    },
+    {
+      "text": "1870年、グリーグはこの手書きの譜面だけを携えてローマへ渡り、当時最も名高いピアニスト、フランツ・リストのもとを訪ねた。",
+      "image_prompt": "Oil-painting style illustration of young Edvard Grieg, a slender Norwegian man in his mid-twenties with fair light-brown hair brushed back, a thick moustache and light short beard, pale blue eyes, wearing a dark travel coat and carrying a leather satchel with a rolled manuscript tucked under one arm, walking determinedly along a sunlit Roman street with classical stone buildings, cypress trees, and warm golden Italian light in the background, full body shown from a three-quarter front view with his face clearly visible. Painterly rendering, not photorealistic, no text or lettering."
+    },
+    {
+      "text": "リストは初めて見る手稿にも動じず、独奏とオーケストラの両方を一人で弾き切ってみせ、演奏後には力強い励ましの言葉をかけた。",
+      "image_prompt": "Oil-painting style illustration set in an elegant 19th-century Roman drawing room: young Edvard Grieg, a slender Norwegian man with fair light-brown hair brushed back, a thick moustache and light short beard, pale blue eyes, wearing a dark frock coat, stands beside a grand piano watching with wide-eyed astonishment and admiration as an older distinguished pianist with long white hair plays passionately at the keyboard, manuscript pages open on the piano stand, warm lamplight, dramatic expressive atmosphere, Grieg shown from the front with his face fully visible. Painterly rendering, not photorealistic, no text or lettering."
+    },
+    {
+      "text": "この日リストから受けた太鼓判が大きな自信となり、グリーグの協奏曲はやがて世界中で愛されるピアノ協奏曲の名作へと育っていった。",
+      "image_prompt": "Oil-painting style illustration of young Edvard Grieg, a slender Norwegian man with fair light-brown hair brushed back, a thick moustache and light short beard, pale blue eyes, wearing a dark frock coat, standing confidently in warm golden light with a faint glowing vision of a grand concert hall and orchestra silhouette in the background suggesting future fame, his expression hopeful and resolute, facing the viewer directly with a renewed sense of confidence. Painterly rendering, not photorealistic, no text or lettering."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1870年のローマ、まだ無名だったノルウェー出身の作曲家は、祖国の奨学金審査にすら苦戦していた。そこへリストが未発表の協奏曲を一度の練習もなく初見で弾き切り、『これぞ本物の北欧の音だ』と太鼓判を押した🎹。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1870年のローマ、まだ無名だったノルウェー出身の作曲家は、祖国の奨学金審査にすら苦戦していた。そこへリストが未発表の協奏曲を一度の練習もなく初見で弾き切り、『これぞ本物の北欧の音だ』と太鼓判を押した🎹。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1870年のローマ、まだ無名だったノルウェー出身の作曲家は、祖国の奨学金審査にすら苦戦していた。そこへリストが未発表の協奏曲を一度の練習もなく初見で弾き切り、『これぞ本物の北欧の音だ』と太鼓判を押した🎹。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n国境を越えて才能を認め合った作曲家たちのエピソード、チャンネルでも多数紹介しています。ぜひご覧ください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Edvard_Grieg_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
