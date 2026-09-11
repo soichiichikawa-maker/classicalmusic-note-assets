@@ -1,0 +1,37 @@
+{
+  "composer": "ヴェルディ",
+  "event_summary": "1901年1月、ヴェルディは僧侶2人とロウソク2本だけの質素な葬儀を望んで世を去ったが、ミラノの葬列にはおよそ30万人が集まり、沿道の群衆が自然発生的に《ナブッコ》の合唱「行け、我が想いよ」を歌い始めた。1か月後の改葬式ではトスカニーニが800人の合唱団でこの曲を再び捧げ、静かな見送りの願いは国民的な追悼行事へと姿を変えた。",
+  "sources": [
+    "https://italoamericano.org/nabucco-symbol-of-freedom/",
+    "https://nyfos.org/2869-2/",
+    "https://www.thecollector.com/giuseppe-verdi-bard-risogrimneto/",
+    "https://www.historytoday.com/archive/death-guiseppe-verdi"
+  ],
+  "hook_copy": "「質素な葬儀を」と遺言、[R]30万人[/R]が[G]勝手に大合唱[/G]した",
+  "portrait_prompt": "Portrait illustration of the elderly Italian composer Giuseppe Verdi, based on the famous 1886 Giovanni Boldini pastel portrait (Galleria Nazionale d'Arte Moderna, Rome). An elderly man in his seventies with a deeply lined, weathered face, deep-set dark eyes under heavy brows, a strong nose, and a full, thick white/grey beard and mustache covering the jaw and chin, with sparse white hair receding at the temples. He wears a black wide-brimmed hat, a black formal coat with wide lapels, a white shirt collar, and a black cravat tied loosely at the neck, exactly as in the historical portrait, no added jewelry or decoration. Stern, dignified, introspective expression. Bust-to-shoulder composition, three-quarter view. Illustrated cinematic style, painterly rendering, not photorealistic. Plain, near-solid muted dark background suitable for cropping into an oval frame. No text, no letters, no watermark. The illustration must fill the entire canvas edge-to-edge with no border, no vignette, no frame, no empty margin at the edges.",
+  "middle_slides": [
+    {
+      "text": "1901年1月27日、音楽家ヴェルディが87歳で息を引き取った。彼が遺していたのは「僧侶2人とロウソク2本だけでよい」という、驚くほど質素な葬儀の指示だった。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic, of an elderly Italian composer lying peacefully in a simple deathbed in a dim, modest room in Milan, January 1901. He has a full thick white beard and mustache, deep-set eyes now closed, sparse white hair, dressed in a plain white nightshirt. Beside the bed rest only two lit candles and two humble monks in dark robes praying quietly, no other mourners or grandeur, emphasizing extreme simplicity and quiet solemnity. Soft candlelight, muted browns and greys, somber cinematic composition, no text."
+    },
+    {
+      "text": "だが訃報を聞いたミラノ市民はその願いを守らなかった。柩を乗せた馬車が通ると、沿道を埋めた群衆およそ30万人が自然に歌い始めた。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic, of a horse-drawn funeral carriage carrying a plain wooden coffin moving slowly through a grand Milan street, flanked by an enormous silent crowd of about 300,000 people filling both sides of the road as far as the eye can see. Among the crowd faces begin to turn and open their mouths as if spontaneously singing. In the far background atop the coffin or in a small inset area of the composition, a dignified elderly man with a full white beard and mustache, deep-set eyes, and sparse white hair, dressed in black funeral attire, is honored in spirit. Overcast winter light, muted earthy palette, wide sweeping composition emphasizing the vast crowd, no text."
+    },
+    {
+      "text": "歌われたのはオペラ『ナブッコ』の「行け、我が想いよ」。祖国を追われた民の嘆きを歌うこの合唱は、いつしかイタリア統一運動の心の歌になっていた。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic, depicting an emotional outdoor scene in Milan where a massive crowd of common people, men and women in early 1900s clothing, stand together singing with open mouths and raised faces, tears and solemn expressions, evoking a chorus of exiled people longing for a homeland. In the sky or background, faintly rendered as a spirit or memory, the elderly composer with his thick white beard, deep-set eyes, and sparse white hair watches over the scene, dressed in black. Warm golden twilight glow contrasted with somber crowd, painterly brushwork, dramatic composition, no text."
+    },
+    {
+      "text": "1か月後の改葬式では、指揮者トスカニーニが800人の合唱団でこの曲を捧げた。質素な葬儀の願いは、結局、国民的な追悼の輪に変わっていった。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic, of a grand candlelit cathedral interior in Milan one month later, where a conductor leads a massive choir of 800 singers in solemn dark robes, mouths open in song, under soaring gothic arches. Toward the front, a solemn portrait bust or coffin adorned with laurel wreaths represents the honored elderly composer, who is faintly depicted nearby or in a memorial painting within the scene, recognizable by his thick white beard, deep-set eyes, and sparse white hair, dressed in black formal attire. Warm candlelight, rich shadows, majestic and reverent atmosphere, painterly brushwork, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "ミラノの通りを埋め尽くした30万人が、葬列に向けて突然歌い出した。静かな見送りを望んでいたヴェルディの遺言は、国全体の大合唱にとって代わられた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "ミラノの通りを埋め尽くした30万人が、葬列に向けて突然歌い出した。静かな見送りを望んでいたヴェルディの遺言は、国全体の大合唱にとって代わられた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "ミラノの通りを埋め尽くした30万人が、葬列に向けて突然歌い出した。静かな見送りを望んでいたヴェルディの遺言は、国全体の大合唱にとって代わられた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nオペラの舞台裏に隠された物語、他の投稿でもぜひチェックしてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
