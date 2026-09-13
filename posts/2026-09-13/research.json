@@ -1,0 +1,36 @@
+{
+  "composer": "エルガー",
+  "event_summary": "エルガーは楽器店を営む家に生まれ、音楽院に通わず独学で作曲を学んだ。42歳の時に発表した『エニグマ変奏曲』で名声を確立し、続く行進曲『威風堂々』第1番の成功を経て、1904年に国王からナイトの称号を授けられた。",
+  "sources": [
+    "http://orchestra.ec-net.jp/program/21st/jt20040425a.html",
+    "https://classic-info.net/pomp-circumstance/",
+    "https://violinfreaks2.com/elgar-pomp-and-circumstance/"
+  ],
+  "hook_copy": "音楽学校に一度も通わなかった作曲家が、[G]英国王室からナイト[/G]に叙された",
+  "portrait_prompt": "Portrait illustration of Sir Edward Elgar, English composer, based on his iconic Edwardian-era photographic portraits (such as the famous Herbert Barraud and Histed photographs used for banknotes and official portraits): a dignified elderly gentleman with a high, balding forehead and neatly combed thinning grey-white hair at the temples, and above all his instantly recognizable large, bushy, drooping white/grey walrus mustache covering his upper lip, deep-set thoughtful eyes, a long straight nose, and a somewhat gaunt, dignified face with visible age lines. He wears formal late Victorian/Edwardian dark wool suit with a stiff white wing-collar shirt and a dark silk cravat or necktie, no medals or sashes visible, sober and restrained attire matching real photographs of him, no invented gold embroidery or decoration. Bust-to-shoulder composition, facing slightly toward the viewer. illustrated cinematic style, painterly rendering, not photorealistic. Plain, near-solid muted background (soft dark green or warm brown tone) to fit neatly inside an oval frame. No text, no watermark, no borders. The painting must fill the entire canvas edge-to-edge with no margin, vignette, or frame border of any kind.",
+  "middle_slides": [
+    {
+      "text": "19世紀、英国の田舎町ウスターで楽器店を営む家に生まれたエドワード・エルガーは、音楽院に通うお金がなく、独学で作曲を学ぶしかなかった。",
+      "image_prompt": "Oil painting, painterly rendering, not photorealistic. Inside a modest 19th-century English music shop in the countryside town of Worcester, filled with violins, sheet music, and instrument cases on wooden shelves, a young Edward Elgar as a boy sits at a small table quietly studying a music book by candlelight or window light, surrounded by his family's instrument-shop wares. He has neat combed hair and an earnest, thoughtful young face (a youthful version of the same man later known for his large bushy mustache, high forehead). He faces forward toward his studies, absorbed and self-taught, no teacher present, warm nostalgic color palette, cinematic composition, no text."
+    },
+    {
+      "text": "正式な音楽教育を持たない彼は長らく認められず、地元の精神病院で入院患者の楽団を指導するなど、40代になっても地道な仕事で生計を立てる日々が続いていた。",
+      "image_prompt": "Oil painting, painterly rendering, not photorealistic. Inside a plain Victorian asylum hall repurposed as a rehearsal room, a middle-aged Edward Elgar—balding with thinning grey-white hair at the temples and his signature large bushy white/grey drooping mustache, dressed in a modest dark wool suit with a white wing collar—stands facing forward, conducting a ragtag amateur brass band of institutionalized patients with worn instruments. His expression is patient but weary, showing quiet determination despite obscurity. Dim, humble lighting, muted color palette conveying hardship and perseverance, cinematic composition, no text."
+    },
+    {
+      "text": "正規の音楽教育を受けなかった彼が、42歳の時に発表した『エニグマ変奏曲』で高く評価され、続く行進曲『威風堂々』で一躍イギリスを代表する作曲家となった。",
+      "image_prompt": "Oil painting, painterly rendering, not photorealistic. Edward Elgar, now in his forties, balding with grey-white hair at the temples and his iconic large bushy white/grey mustache, wearing a formal dark Edwardian suit with a wing collar, stands facing forward triumphantly in a grand Victorian concert hall, holding a conductor's baton as an orchestra performs behind him and a well-dressed audience rises in applause. Warm golden stage lighting conveys his rise to fame after the success of the Enigma Variations and Pomp and Circumstance, cinematic composition, no text."
+    },
+    {
+      "text": "その功績が認められ、音楽学校に通ったことがない彼は1904年、国王からナイトの称号を授けられるという栄誉に浴し、生涯の頂点を迎えた。",
+      "image_prompt": "Oil painting, painterly rendering, not photorealistic. In an opulent Edwardian royal ceremonial hall, Edward Elgar—balding with grey-white hair at the temples and his signature large bushy white/grey mustache, dressed in a formal black tailcoat with a white wing collar—kneels facing forward with head slightly bowed as a robed monarch touches a ceremonial sword to his shoulder in a knighting ceremony. Rich reds and golds, ornate architecture, soft dramatic lighting emphasizing the solemn honor of the moment, cinematic composition, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "19世紀末、ロンドンから離れた田舎町ウスターの楽器店に、正式な音楽教育を一度も受けていない青年がいた。その青年エドワード・エルガーは後に『威風堂々』を書き、英国王室からナイトの称号を授けられることになる🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "19世紀末、ロンドンから離れた田舎町ウスターの楽器店に、正式な音楽教育を一度も受けていない青年がいた。その青年エドワード・エルガーは後に『威風堂々』を書き、英国王室からナイトの称号を授けられることになる🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "19世紀末、ロンドンから離れた田舎町ウスターの楽器店に、正式な音楽教育を一度も受けていない青年がいた。その青年エドワード・エルガーは後に『威風堂々』を書き、英国王室からナイトの称号を授けられることになる🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n独学から英国を代表する作曲家になった彼の名曲、コミュニティのプレイリストでぜひ聴いてみてください",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Edward_Elgar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
