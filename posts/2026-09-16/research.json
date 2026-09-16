@@ -1,0 +1,37 @@
+{
+  "composer": "プロコフィエフ",
+  "event_summary": "1953年3月5日、セルゲイ・プロコフィエフはモスクワ近郊の自宅で息を引き取った。同じ日にヨシフ・スターリンも死去したため、彼の死は国内でほとんど報じられず、葬儀では花一輪すら用意できなかった。参列者はわずか40人ほどだったと伝えられている。",
+  "sources": [
+    "https://www.classical-music.com/articles/did-prokofiev-and-stalin-die-on-the-same-day",
+    "https://www.rferl.org/a/prokofiev-stalin-deaths/24920002.html",
+    "https://en.wikipedia.org/wiki/Sergei_Prokofiev",
+    "https://www.wrti.org/arts-desk/2016-02-29/when-prokofiev-and-stalin-died-on-the-same-day"
+  ],
+  "hook_copy": "[G]独裁者と同じ日[/G]に死んだ天才作曲家、[R]花は一輪もなかった[/R]",
+  "portrait_prompt": "Illustrated cinematic oil-painting-style portrait of Russian composer Sergei Prokofiev in his early sixties (as he appeared around 1950-1953), based on well-known 1940s photographic portraits of him held in the Glinka Museum of Music collection and the 1934 Pyotr Konchalovsky painting. He has a distinctly high, deeply receding hairline with the top of his head balding, and short, neatly combed grey-brown hair remaining only at the sides and back. His face is broad and oval with a strong, slightly heavy jaw, deep-set thoughtful eyes under pronounced brow ridges, a straight nose, and thin, firmly closed lips giving a serious, dignified, faintly stern expression. His skin has a mature, slightly weathered texture with subtle lines on the forehead. He wears a plain, dark, unadorned suit jacket over a white collared shirt with a simple dark necktie, no medals, no jewelry, no elaborate decoration, exactly as in his real photographic portraits. Bust-to-shoulder composition, facing slightly toward the viewer. Background is a plain, muted solid color (soft neutral grey or dark olive) with no texture or vignette. Illustrated cinematic style, painterly rendering, not photorealistic. The painting fills the entire frame edge to edge with no border, no empty margin, and no vignette darkening at the edges. No text of any kind.",
+  "middle_slides": [
+    {
+      "text": "1953年3月5日、モスクワ郊外の自宅で、作曲家セルゲイ・プロコフィエフが静かに息を引き取った。享年61歳、波乱に満ちた生涯の幕切れだった。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic illustration of an elderly Russian man in his early sixties with a high, deeply receding balding hairline and short grey-brown hair remaining at the sides, a broad oval face with a strong jaw, lying peacefully on his back in a simple modest bed in a dim, sparsely furnished Moscow apartment room at dusk, eyes gently closed, face fully visible and calm as if in his final rest, plain white shirt collar visible, soft muted lamplight falling across his face, a small writing desk with music manuscripts faintly visible in the background, melancholic quiet atmosphere, muted browns and greys, no text of any kind."
+    },
+    {
+      "text": "実はこの同じ日、ソ連の最高権力者ヨシフ・スターリンもまた息を引き取っていた。国中が独裁者の死を悼み、街は大きな混乱に包まれていった。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic illustration showing the same elderly Russian man with a high receding balding hairline and grey-brown hair at the sides, broad oval face, lying still and undisturbed in his modest bedroom in the foreground, faced toward the viewer with a calm, resigned expression, while through a window behind him a distant blurred crowd of indistinct silhouetted figures fills a grey wintry Moscow street outside in visible turmoil, contrast between the stillness of the interior and the commotion outside, muted cold color palette of greys and blues, no specific identifiable other historical figures shown, no text of any kind."
+    },
+    {
+      "text": "花屋の花はすべてスターリンの葬儀に持って行かれ、プロコフィエフの棺には一輪の花も供えられなかった。参列者はわずか40人だった。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic illustration of a modest funeral scene: the same elderly Russian man with a high receding balding hairline, grey-brown hair at the sides, broad oval face and closed eyes, lying peacefully in an open wooden coffin, face clearly visible, dressed in a plain dark suit and white shirt, completely without any flowers around him, a handful of about a dozen somber mourners in dark early-1950s coats standing quietly to the sides with heads bowed, an empty flower vase or bare table nearby emphasizing the absence of flowers, dim solemn indoor lighting, muted grey and brown tones, no text of any kind."
+    },
+    {
+      "text": "しかし70年を経た今、プロコフィエフの旋律は世界中のオーケストラで奏でられ続けている。独裁者の名は歴史に埋もれても、彼の音楽は生き続けた。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic illustration of the same Russian composer, now depicted as a warm, dignified memory rather than realistic photograph, seated at a grand piano in a softly glowing room, high receding balding hairline, grey-brown hair at the sides, broad oval face with a calm, content expression, facing slightly toward the viewer with hands resting near the piano keys, faint translucent golden light and ghostly silhouettes of an orchestra and flowing musical staff lines swirling softly in the background behind him, symbolizing his music living on through time, warm golden and amber tones contrasting with the cooler tones of the previous scenes, no text of any kind."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1953年3月5日、モスクワの花屋という花屋の在庫は、独裁者スターリンの葬儀へと運ばれていった。同じ日に世を去った作曲家セルゲイ・プロコフィエフの棺には、花一輪すら残されていなかった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1953年3月5日、モスクワの花屋という花屋の在庫は、独裁者スターリンの葬儀へと運ばれていった。同じ日に世を去った作曲家セルゲイ・プロコフィエフの棺には、花一輪すら残されていなかった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1953年3月5日、モスクワの花屋という花屋の在庫は、独裁者スターリンの葬儀へと運ばれていった。同じ日に世を去った作曲家セルゲイ・プロコフィエフの棺には、花一輪すら残されていなかった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nスターリンとの奇妙な因縁など、他の作曲家たちの知られざるエピソードもチャンネルの動画でぜひご覧ください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
