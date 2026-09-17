@@ -1,0 +1,36 @@
+{
+  "composer": "ボッケリーニ",
+  "event_summary": "ルイジ・ボッケリーニの弦楽五重奏曲ト長調の第3楽章メヌエットは、映画やCMで数えきれないほど使われる世界屈指の有名旋律だが、当時の批評家からは同時代のハイドンと比較され『ハイドンの妻』とまで揶揄された。生涯に100曲を超える弦楽五重奏曲を残した多作家でありながら、この一曲のみが独立して広まり、作曲者本人の名は今も一般にはほとんど知られていない。9月18日と直接一致する日付は確認できなかったが、認知度のギャップが際立つ好例として選定。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/String_Quintet_No._5_(Boccherini)",
+    "https://www.britannica.com/biography/Luigi-Boccherini",
+    "https://www.pcmsconcerts.org/composer/luigi-boccherini/"
+  ],
+  "hook_copy": "結婚式でも流れる[G]世界的な名旋律[/G]、作曲者は[R]ほぼ無名[/R]のまま",
+  "portrait_prompt": "Oil-painting style illustrated portrait of the young Italian composer-cellist Luigi Boccherini, based on the anonymous Italian portrait of c.1764-1767 (National Gallery of Victoria, Melbourne). A youthful man in his early twenties with a soft oval face, fair fresh complexion, gentle dark eyes and delicate features, wearing a powdered off-white full wig with tight rolled curls at the sides gathered back neatly. A large black silk neck-bow (cravat) tied prominently at the throat, over a modest cream/ivory satin coat with simple period tailoring and minimal plain trim (no gold embroidery, no excessive ornamentation, matching the understated elegance of the real portrait). Bust-to-shoulder composition, three-quarter facing view, calm composed expression. Background is a plain muted warm neutral tone (soft ochre or dusty brown), flat and unobtrusive so the portrait can be cropped into an oval frame. Illustrated cinematic painterly rendering, not photorealistic, no text, no signature, no border, no vignette, artwork filling the entire canvas edge to edge with no margin.",
+  "middle_slides": [
+    {
+      "text": "18世紀イタリア出身のチェロ奏者ルイジ・ボッケリーニは、同時代のハイドンと並び称され、生涯に100曲を超える弦楽五重奏曲を残した。",
+      "image_prompt": "Oil-painting style illustrated scene of 18th-century Italian composer Luigi Boccherini, a young man with a soft oval face and powdered off-white curled wig, wearing a black neck-bow and a modest cream satin coat, seated in a warmly lit Baroque salon confidently playing the cello, the instrument braced between his calves without an endpin, bow arm mid-stroke, stacks of handwritten string-quintet manuscripts piled on a nearby wooden table, candlelight glowing warmly, painterly brushwork, not photorealistic, full-body seated three-quarter view facing forward, no text."
+    },
+    {
+      "text": "しかしその作風はしばしば『ハイドンの妻』と揶揄され、独創性に欠ける単なる模倣者だと当時の批評家たちから冷たく評価されていた。",
+      "image_prompt": "Oil-painting style illustrated scene of the same Italian composer Luigi Boccherini, same powdered curled wig, oval youthful face and black neck-bow over a plain cream coat, now seated alone at a modest wooden writing desk in a dim candlelit room, shoulders slightly slumped, a quill resting on scattered manuscript pages, a distant window showing faint shadowy silhouettes of critics whispering outside, his expression subdued and melancholic, muted cool color palette conveying cold criticism, three-quarter view facing forward toward the desk, painterly brushwork, not photorealistic, no text."
+    },
+    {
+      "text": "ところが弦楽五重奏曲の中の、たった一つのメヌエットだけが独立して広まり、映画やCMで数えきれないほど使われる旋律になった。",
+      "image_prompt": "Oil-painting style illustrated scene of the same young Italian composer Luigi Boccherini, powdered curled wig, oval face, black neck-bow, cream coat, seated playing his cello in a glowing sunlit room, a single sheet of music on a stand before him radiating soft golden light and delicate musical notes that drift and swirl upward and outward through an open window into a bright sky, symbolizing one melody escaping into the wider world, warm luminous painterly brushwork, not photorealistic, three-quarter view facing forward, no text."
+    },
+    {
+      "text": "今や『世界一有名な旋律』のひとつに数えられながら、それを書いたルイジ・ボッケリーニ本人の名は、驚くほど知られないままだ。",
+      "image_prompt": "Oil-painting style illustrated scene of the same Italian composer Luigi Boccherini, powdered curled wig, oval youthful face, black neck-bow, cream coat, standing alone in a softly shadowed room, faint glowing musical notes and a shimmering melodic line swirl brightly in the air around him and drift out of the frame into brightness, while he himself remains dim and half in shadow, his expression quietly wistful, symbolizing the tune's fame overshadowing its forgotten composer, muted painterly contrast between his dim figure and the luminous notes, front-facing three-quarter view, painterly brushwork, not photorealistic, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "結婚式や映画で幾度となく流れてきた、あの上品なメヌエットを口ずさめる人は少なくない。だが、それを書いたルイジ・ボッケリーニの名前をすぐ言える人は驚くほど少なく、批評家からは長年『ハイドンの妻』とまで揶揄されていた。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "結婚式や映画で幾度となく流れてきた、あの上品なメヌエットを口ずさめる人は少なくない。だが、それを書いたルイジ・ボッケリーニの名前をすぐ言える人は驚くほど少なく、批評家からは長年『ハイドンの妻』とまで揶揄されていた。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "結婚式や映画で幾度となく流れてきた、あの上品なメヌエットを口ずさめる人は少なくない。だが、それを書いたルイジ・ボッケリーニの名前をすぐ言える人は驚くほど少なく、批評家からは長年『ハイドンの妻』とまで揶揄されていた。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nあのメロディ、どこで聴いたか思い出した方はぜひコメントで教えてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Portrait_de_Luigi_Boccherini%2C_1814_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
