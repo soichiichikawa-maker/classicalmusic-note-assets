@@ -1,0 +1,39 @@
+{
+  "composer": "ホルスト",
+  "event_summary": "1874年9月21日、グスターヴ・ホルストは英国チェルトナムで「フォン・ホルスト」という名で生まれた。第一次世界大戦下の反ドイツ感情の高まりでスパイと疑われ、1918年に正式に『フォン』を名前から外した。同じ1918年に代表作《惑星》が初演され、彼は『最も英国的な作曲家』として名を残すことになった。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gustav_Holst",
+    "https://holstvictorianhouse.org.uk/explore/gustav-holst-family/",
+    "https://medium.com/its-only-a-movie/gustav-holst-from-folk-tunes-to-film-music-0c11e117a8eb",
+    "https://www.newworldencyclopedia.org/entry/Gustav_Holst",
+    "https://www.bso.org/works/the-planets",
+    "https://en.wikipedia.org/wiki/1918_in_music"
+  ],
+  "hook_copy": "[G]英国代表[/G]のはずが、名前のせいで[R]スパイ容疑[/R]をかけられた",
+  "portrait_prompt": "Portrait of English composer Gustav Holst, based on the famous 1921 Herbert Lambert photograph. A lean, angular middle-aged Englishman with a balding head, thinning grey-brown hair combed back and short at the sides, a high broad forehead, deep-set thoughtful eyes, and a neatly trimmed grey-brown moustache above a calm, faintly smiling mouth. He wears round wire-rimmed spectacles. His attire is a plain dark Edwardian-era suit jacket with a white starched shirt collar and a simple dark necktie, no jewelry, no decoration. Bust-to-shoulder composition, facing slightly toward the viewer with a quiet, dignified expression. Illustrated cinematic style, painterly rendering, not photorealistic. Background is a plain muted solid tone with no vignette, no border, no frame, artwork extending fully to all four edges of the canvas with no empty margins. No text anywhere in the image.",
+  "middle_slides": [
+    {
+      "text": "今日9月21日は、グスターヴ・ホルストの152回目の誕生日にあたる。本名は\"フォン・ホルスト\"というドイツ風の響きを持つ名前だった。",
+      "image_prompt": "Oil-painting style illustration of a lean, balding Englishman in his early forties, thinning grey-brown hair combed back, high forehead, round wire-rimmed spectacles, neat trimmed moustache, wearing a plain dark Edwardian suit with white collar and tie, standing proudly in front of a modest Georgian terraced house in Cheltenham, England, soft warm daylight suggesting a birthday morning, gentle English countryside town atmosphere in the background, facing the viewer directly with body and face both frontal, painterly brushstrokes, not photorealistic, no text."
+    },
+    {
+      "text": "第一次世界大戦の英国では反ドイツ感情が広がり、田舎を散歩していたホルストが、怪しいドイツ人スパイだと通報されたこともあった。",
+      "image_prompt": "Oil-painting style illustration of the same lean, balding Englishman with thinning grey-brown hair, round wire-rimmed spectacles, and a trimmed moustache, wearing a plain dark early 20th-century suit and overcoat, walking alone along a quiet rural English countryside path during World War One, hedgerows and green fields around him, a distant village with a church spire, a pair of wary silhouetted onlookers watching him suspiciously from afar, the man shown in three-quarter side view with his face clearly visible and his body turned in the same walking direction, overcast tense atmosphere, painterly brushstrokes, not photorealistic, no text."
+    },
+    {
+      "text": "1918年、疑いを断ち切るため、ホルストは正式な手続きで「フォン」の名を消し去り、単なる「ホルスト」として生きる決意をした。",
+      "image_prompt": "Oil-painting style illustration of the same lean, balding Englishman with thinning grey-brown hair, round wire-rimmed spectacles, and a trimmed moustache, seated at a wooden writing desk in a study lit by a lamp, dipping a pen to sign an official document, dark suit with white collar and tie, a determined and resolute expression, facing forward toward the desk with his face and upper body both oriented the same way, warm interior lighting, papers and books scattered on the desk, painterly brushstrokes, not photorealistic, no text."
+    },
+    {
+      "text": "同じ1918年、代表作《惑星》が初演を迎え、ホルストは\"最も英国らしい作曲家\"として、その名を音楽史に深く刻み込んでいった。",
+      "image_prompt": "Oil-painting style illustration of the same lean, balding Englishman with thinning grey-brown hair, round wire-rimmed spectacles, and a trimmed moustache, standing on a concert podium in a grand Edwardian concert hall, one arm raised as if conducting an orchestra, dark formal suit, a faint starry night-sky glow suggested above the stage evoking the cosmos, warm golden stage lighting, audience silhouettes faintly visible in the foreground, the man facing forward toward the orchestra with body and face both oriented the same direction, triumphant atmosphere, painterly brushstrokes, not photorealistic, no text."
+    }
+  ],
+  "is_date_match": true,
+  "fb_caption": "9月21日、英国チェルトナムで生まれた赤ん坊の名には、のちに疑いの目を向けられる\"ドイツ風の響き\"があった。今日はその152年前の誕生日、《惑星》の作曲家グスターヴ・ホルストが生まれた日にあたる🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "9月21日、英国チェルトナムで生まれた赤ん坊の名には、のちに疑いの目を向けられる\"ドイツ風の響き\"があった。今日はその152年前の誕生日、《惑星》の作曲家グスターヴ・ホルストが生まれた日にあたる🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "9月21日、英国チェルトナムで生まれた赤ん坊の名には、のちに疑いの目を向けられる\"ドイツ風の響き\"があった。今日はその152年前の誕生日、《惑星》の作曲家グスターヴ・ホルストが生まれた日にあたる🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n《惑星》の壮大な響きが気になった方は、ぜひ他の投稿もチェックしてみてください♪",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": "9月21日",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Gustav-Holst-1921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
