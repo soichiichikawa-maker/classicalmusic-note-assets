@@ -1,0 +1,36 @@
+{
+  "composer": "ラヴェル",
+  "event_summary": "モーリス・ラヴェルはダンサー、イダ・ルビンシテインの依頼で『ボレロ』を作曲した。本人は友人への手紙で\"音楽が入っていない\"と自嘲し、オーケストラも演奏を渋るだろうと予想していたが、1928年の初演は熱狂的な成功を収め、後に彼の代表作となった。",
+  "sources": [
+    "https://www.classicfm.com/composers/ravel/bolero-story-why-controversial/",
+    "https://en.wikipedia.org/wiki/Bol%C3%A9ro",
+    "https://theconversation.com/decoding-the-music-masterpieces-ravels-bolero-a-sinuous-and-sexy-composition-with-no-music-in-it-149528"
+  ],
+  "hook_copy": "オーケストラに[R]演奏拒否[/R]を予想された曲が、今や[G]世界一演奏[/G]される",
+  "portrait_prompt": "An illustrated cinematic portrait of French composer Maurice Ravel, based on the iconic circa-1925 studio photograph of him held by the Bibliothèque nationale de France (the same image widely used as his definitive likeness). He has a lean, angular face with sharp cheekbones, a prominent aquiline nose, deep-set thoughtful eyes, and thin, closed lips. His dark hair, streaked with grey, is neatly combed straight back from a high forehead, cropped short and immaculately groomed. He is clean-shaven with pale, refined skin. He wears an elegant but understated dark suit jacket with a crisp white wing-collar shirt and a plain dark silk necktie, reflecting his real-life reputation as a meticulous, dapper dresser, without any invented lavish ornamentation or jewelry. Bust-to-shoulder composition, head turned slightly toward the viewer. Illustrated cinematic style, painterly rendering, not photorealistic. Background is a plain, muted solid color with no texture, gradient, or vignette. The illustration fills the entire canvas edge-to-edge with no border, frame margin, or darkened edges. No text of any kind.",
+  "middle_slides": [
+    {
+      "text": "1928年、モーリス・ラヴェルは舞踏家イダ・ルビンシテインの依頼で、単純なリズムを繰り返すだけの新作バレエ曲を書き上げた。",
+      "image_prompt": "Oil-painting style illustration, painterly rendering, not photorealistic, depicting composer Maurice Ravel alone in his study in 1928. He has a lean angular face, a prominent aquiline nose, deep-set eyes, thin lips, and short grey-streaked dark hair combed straight back, clean-shaven, wearing an elegant dark suit jacket with a white wing-collar shirt. He sits at a wooden writing desk near a window, body and face both angled toward the viewer at a three-quarter view, pen in hand over a manuscript page showing simple repeating rhythmic notation, a faint silhouette of a ballet dancer visible through the window behind him, warm lamplight, moody atmospheric tone, no text of any kind."
+    },
+    {
+      "text": "本人はこの曲について\"音楽ではない、ただのオーケストレーションの実験だ\"と友人への手紙で語り、オーケストラも演奏を渋るだろうと予想していた。",
+      "image_prompt": "Oil-painting style illustration, painterly rendering, not photorealistic, depicting composer Maurice Ravel seated alone at a writing desk at night. He has a lean angular face, a prominent aquiline nose, deep-set eyes, thin lips, and short grey-streaked dark hair combed straight back, clean-shaven, wearing a dark suit jacket and white wing-collar shirt. He is shown fully in side profile, both body and face turned the same direction, writing a letter by candlelight with a wry, doubtful expression, a half-finished musical score with sparse repetitive notation lying on the desk among a few loose papers, muted dim color palette, no text of any kind."
+    },
+    {
+      "text": "しかし1928年11月22日のパリ初演では客席が総立ちの興奮に包まれ、\"あれは狂人だ\"と叫ぶ観客まで現れるほどの熱狂ぶりだった。",
+      "image_prompt": "Oil-painting style illustration, painterly rendering, not photorealistic, depicting composer Maurice Ravel standing at the edge of an ornate Parisian theatre stage in 1928. He has a lean angular face, a prominent aquiline nose, deep-set eyes, thin lips, and short grey-streaked dark hair combed straight back, clean-shaven, dressed in a formal dark evening suit with a white wing-collar shirt. His body and face both face forward toward the viewer, calm and composed, with a glowing golden theatre interior behind him and a softly blurred impression of an ecstatic standing audience filling the ornate hall, warm dramatic stage lighting, energetic celebratory atmosphere, no text of any kind."
+    },
+    {
+      "text": "本人の予想に反し『ボレロ』は彼の代表作として世界で最も演奏されるオーケストラ曲の一つとなり、今も各地のコンサートで鳴り響いている。",
+      "image_prompt": "Oil-painting style illustration, painterly rendering, not photorealistic, depicting composer Maurice Ravel standing confidently before a grand concert hall. He has a lean angular face, a prominent aquiline nose, deep-set eyes, thin lips, and short grey-streaked dark hair combed straight back, clean-shaven, wearing an elegant dark suit jacket with a white wing-collar shirt. His body and face both face forward toward the viewer with a subtle knowing smile, a warm golden glow of stage lights and a full orchestra softly silhouetted behind him symbolizing his most famous work being performed worldwide, timeless painterly atmosphere, no text of any kind."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1928年11月22日、パリ・オペラ座の初演で\"あれは狂人だ\"と客席から叫び声が上がった。実は書いた本人が\"音楽なんて入っていない\"と自ら言い切っていた曲こそ、後に世界一演奏される『ボレロ』だった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1928年11月22日、パリ・オペラ座の初演で\"あれは狂人だ\"と客席から叫び声が上がった。実は書いた本人が\"音楽なんて入っていない\"と自ら言い切っていた曲こそ、後に世界一演奏される『ボレロ』だった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1928年11月22日、パリ・オペラ座の初演で\"あれは狂人だ\"と客席から叫び声が上がった。実は書いた本人が\"音楽なんて入っていない\"と自ら言い切っていた曲こそ、後に世界一演奏される『ボレロ』だった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n本人が手放しでは喜んでいなかったという意外な裏話、続きが気になった方はぜひコメントで感想を聞かせてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Maurice_Ravel_1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
