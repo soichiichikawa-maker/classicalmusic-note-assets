@@ -1,0 +1,36 @@
+{
+  "composer": "フォーレ",
+  "event_summary": "ガブリエル・フォーレは1905年にパリ音楽院の院長に就任し、フランス楽壇の頂点に立った。しかし同じ頃から進行性の難聴を患い、晩年はほぼ完全に聴力を失った状態で数々の傑作を作曲し続けた。周囲にはその症状をほとんど気づかせなかったという。",
+  "sources": [
+    "https://www.classicalwcrb.org/blog/2016-03-04/four-composers-and-the-music-they-never-heard",
+    "https://interlude.hk/which-classical-music-composers-were-deaf/",
+    "https://www.sfcv.org/learn/composer-gallery/gabriel-faure"
+  ],
+  "hook_copy": "パリ楽壇の頂点に立った紳士は、実は[G]自分の曲[/G]が[R]ほとんど聞こえなかった[/R]",
+  "portrait_prompt": "Illustrated cinematic portrait of the elderly French composer Gabriel Fauré, based on the well-known 1905 Pierre Petit photographic portrait of him as director of the Paris Conservatoire. Distinguished aging face with a broad forehead, deep-set thoughtful eyes, and strong prominent nose. Full head of thick white hair combed straight back off the forehead. A large, bushy, drooping white/grey walrus-style mustache covering the upper lip, a defining and clearly visible feature. Fair, slightly weathered skin with the composed, dignified expression of a man in his sixties. Wearing formal early-1900s French gentleman's attire: a dark charcoal frock coat, a stiff white wing-collar shirt, a dark silk cravat knotted at the neck, and a small round red rosette of the Legion of Honour pinned to the left lapel — no extra gold embroidery or invented decoration, matching the sober, plain elegance of the real photographs. Bust-to-shoulder composition, three-quarter angle facing slightly toward the viewer. Plain, muted solid-color background (soft neutral grey or warm dark brown). Illustrated cinematic style, painterly rendering, not photorealistic. No text of any kind. Artwork must fill the entire frame edge-to-edge, with no border, no vignette, no faded edges, no frame lines.",
+  "middle_slides": [
+    {
+      "text": "1905年、ガブリエル・フォーレはパリ音楽院の院長に就任し、保守的だった同校に次々と改革をもたらすフランス楽壇の頂点に立つ人物となった。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of an elderly French composer Gabriel Fauré: thick white hair combed back, bushy drooping white mustache, dignified aging face, wearing a dark formal frock coat with wing collar and cravat and a small red Legion of Honour rosette on the lapel. He stands confidently facing forward in a grand, ornate hallway of the Paris Conservatoire, wood-paneled walls and tall doors visible behind him, warm gaslight or morning light streaming in, portraits and busts of composers lining the corridor. His posture is upright and authoritative, hands clasped, conveying the sense of a respected new director bringing reform to a venerable institution. Muted, warm color palette evoking early 1900s Paris. No text anywhere in the image."
+    },
+    {
+      "text": "だが同じ頃から、彼は少しずつ聴力を失いはじめていた。高い音は低く、低い音は高く歪んで聞こえるという厄介な症状に悩まされていた。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of the same elderly French composer Gabriel Fauré: thick white hair combed back, bushy drooping white mustache, dignified aging face, wearing a dark formal frock coat with wing collar and cravat. He sits alone at a grand piano in a quiet, dim study, facing forward toward the viewer with a subtle look of quiet concern, one hand resting near his ear as if straining to hear, the other hand on the piano keys. Around him, faint wavy, warped visual ripples in the air suggest distorted sound spreading from the piano, rendered as soft painterly swirling lines of color rather than any text or symbols. Warm lamplight, muted brown and amber tones, a sense of solitude and quiet unease. No text anywhere in the image."
+    },
+    {
+      "text": "彼はこの深刻な難聴を周囲に一切気づかせぬまま、パリ音楽院の改革を続け、多くの弟子を育て、新作の作曲にも精力的に取り組んでいた。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of the same elderly French composer Gabriel Fauré: thick white hair combed back, bushy drooping white mustache, dignified composed face giving nothing away, wearing a dark formal frock coat with wing collar and cravat. He stands at the front of a Paris Conservatoire classroom, facing forward toward the viewer, gesturing calmly with one hand toward a chalkboard covered in musical notation, while do a group of young music students are seated with their backs to the viewer, seen from behind taking notes, faces not visible, listening attentively. Warm academic interior with tall windows, wood furniture, soft daylight. A sense of quiet dignity and hidden strain beneath a calm exterior. No text anywhere in the image."
+    },
+    {
+      "text": "1920年についに全聾となり院長を退いたが、その後も作曲を続け、自分では一音も聞けないピアノ三重奏曲や弦楽四重奏曲という傑作を残した。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of the same elderly Gabriel Fauré, now noticeably older: thick white hair combed back, bushy drooping white mustache, deeply lined dignified face, wearing a dark formal frock coat with wing collar and cravat. He sits alone at a wooden writing desk in a softly lit, quiet room, facing forward toward the viewer, pen in hand over manuscript paper covered in musical notation, a violin and cello resting silently on a stand in the shadowed background suggesting chamber music. His expression is serene and inward, eyes calm despite the surrounding silence, evoking total deafness yet unbroken creative will. Warm candlelight, deep browns and soft golds, an atmosphere of solitary late-life mastery. No text anywhere in the image."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1905年、パリ音楽院のトップに立った人物には、誰にも明かせない秘密があった。その人物ガブリエル・フォーレは、晩年ほとんど耳が聞こえないまま数々の傑作を書き続けていたのだ🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1905年、パリ音楽院のトップに立った人物には、誰にも明かせない秘密があった。その人物ガブリエル・フォーレは、晩年ほとんど耳が聞こえないまま数々の傑作を書き続けていたのだ🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1905年、パリ音楽院のトップに立った人物には、誰にも明かせない秘密があった。その人物ガブリエル・フォーレは、晩年ほとんど耳が聞こえないまま数々の傑作を書き続けていたのだ🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n静かな旋律の裏にあった知られざる闘い、気になった方はぜひ他の回もチェックしてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Faure1907.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
