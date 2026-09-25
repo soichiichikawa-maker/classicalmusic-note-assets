@@ -1,0 +1,39 @@
+{
+  "composer": "ショスタコーヴィチ",
+  "event_summary": "1936年、スターリンが観劇途中で退席した2日後、新聞『プラウダ』はショスタコーヴィチのオペラ『ムツェンスク郡のマクベス夫人』を名指しで酷評し、彼は危険人物と見なされる存在になった。逮捕を覚悟した彼は、家族を起こさぬよう鞄を玄関に置き、エレベーター横の踊り場で夜を明かしたと伝えられるが、結局連行されることはなかった。今日9月25日は、1906年に生まれた彼の誕生日である。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
+    "https://www.yourclassical.org/story/2016/08/18/composer-corner-shostakovich",
+    "https://ums.org/2025/09/30/shostakovichs-fifth-symphony-defiance-in-the-face-of-fear/",
+    "https://medium.com/@beethovennow/how-shostakovich-survived-to-protest-stalins-anti-semitism-e5abf04727fd",
+    "https://vsousa.substack.com/p/dmitri-shostakovich-and-the-fear",
+    "https://ton.bard.edu/?p=7296"
+  ],
+  "hook_copy": "新聞一本の酷評で[R]危険人物[/R]の烙印。幾夜も[G]鞄を抱えて逮捕を待った[/G]",
+  "portrait_prompt": "Illustrated cinematic portrait, painterly rendering, not photorealistic, of the young Soviet composer Dmitri Shostakovich, based on well-known 1930s photographs of him: a slender, gaunt oval face with a high forehead, thin pressed lips, and an intense, nervous, watchful expression; short dark brown hair neatly combed back with a side parting; his signature round black-rimmed glasses perched on his nose (a clearly recognizable, unmistakable feature); dressed in a plain, unadorned dark 1930s-style suit jacket with a white shirt and dark necktie, no gold trim or exaggerated decoration. Bust-to-shoulder composition, three-quarter view of the face turned slightly toward the viewer. Background is a single flat muted color with no gradient vignette. The artwork fills the entire canvas edge-to-edge with no border, margin, frame line, or darkened corners. No text or lettering anywhere in the image.",
+  "middle_slides": [
+    {
+      "text": "今日9月25日はショスタコーヴィチの誕生日。1936年、彼のオペラ『ムツェンスク郡のマクベス夫人』上演中にスターリンが途中退席し、2日後、『プラウダ』紙が酷評した。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic. A young, slender, gaunt-faced Dmitri Shostakovich with a high forehead, thin lips, short dark brown hair combed back with a side parting, and his signature round black-rimmed glasses, wearing a plain dark 1930s suit, standing tensely in the wings backstage of an ornate gilded Soviet opera house, peering out toward the grand tiered boxes where one velvet-curtained box sits conspicuously empty under dim golden stage light. His body and his anxious gaze both face the same direction, toward the empty box. Rich theatrical shadows, muted gold and deep red tones, no text anywhere."
+    },
+    {
+      "text": "見出しは「音楽のかわりに荒唐無稽」。友人や同僚には、道端で目をそらす人も現れ、仕事も家族も、いつ奪われてもおかしくない空気が街を覆った。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic. The same gaunt-faced Dmitri Shostakovich, short dark side-parted hair, round black-rimmed glasses, wearing a plain dark overcoat, walking alone down a grim grey 1930s Leningrad street, head slightly lowered, shoulders tense, his body and face both oriented forward along the pavement. In the background, blurred anonymous silhouettes of pedestrians turn their faces away from him. Overcast muted color palette, oppressive quiet atmosphere, no text anywhere."
+    },
+    {
+      "text": "逮捕を覚悟した彼は、家族を起こさぬよう鞄を一つ玄関に置き、エレベーター横の踊り場で夜を明かしたと伝えられる。そんな夜が続いたという。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic. The same gaunt-faced Dmitri Shostakovich, round black-rimmed glasses, short dark side-parted hair, wearing a rumpled shirt and trousers, sitting alone on the cold stone steps of an apartment stairwell landing beside an old elevator shaft late at night, exhausted and sleepless, facing forward toward the viewer as he sits. A single packed suitcase rests near a distant apartment door in the dim background. One flickering wall lamp casts long shadows across dark blue-grey nocturnal tones. No text anywhere."
+    },
+    {
+      "text": "結局、逮捕の夜はついに来なかった。彼はその後も交響曲を書き続け、今では20世紀を代表する作曲家として世界中で演奏されている。",
+      "image_prompt": "Oil painting, painterly style, not photorealistic. An older but still recognizable Dmitri Shostakovich, same gaunt face and signature round black-rimmed glasses, short dark hair combed back, wearing a formal dark suit, seated at a wooden desk covered with handwritten orchestral score pages, a warm lamp illuminating the manuscript. His body and calm, focused gaze both face down toward the score. In the softly lit background, the faint silhouette of a full orchestra on a grand concert stage suggests his music now performed worldwide. Warm amber and deep brown tones, no text anywhere."
+    }
+  ],
+  "is_date_match": true,
+  "fb_caption": "1936年、モスクワの劇場でスターリンが観劇中に途中退席し、2日後、新聞は名指しで酷評した。今日9月25日が誕生日のショスタコーヴィチは、幾夜も鞄を抱えて逮捕を待ったと伝えられる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1936年、モスクワの劇場でスターリンが観劇中に途中退席し、2日後、新聞は名指しで酷評した。今日9月25日が誕生日のショスタコーヴィチは、幾夜も鞄を抱えて逮捕を待ったと伝えられる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1936年、モスクワの劇場でスターリンが観劇中に途中退席し、2日後、新聞は名指しで酷評した。今日9月25日が誕生日のショスタコーヴィチは、幾夜も鞄を抱えて逮捕を待ったと伝えられる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n鞄ひとつに人生を賭けた夜が、後の傑作にどうつながったのか。他の投稿もあわせてチェックしてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": "9月25日",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
