@@ -11,7 +11,7 @@
   "portrait_prompt": "Illustrated cinematic portrait of the Russian composer Pyotr Ilyich Tchaikovsky, based directly on the attached reference photograph: a man in his late forties to early fifties with short silver-grey hair that is receding and thinning at the temples and crown, a full grey-and-white beard and moustache neatly trimmed, deep-set pale eyes with a calm, pensive expression, a broad forehead, and a slightly weathered, soft-jawed face. He wears a dark formal Victorian-era suit jacket with a matching waistcoat, a crisp white standing collar, and a dark cravat with a small decorative pin, exactly as seen in the reference image, with no added embellishment. Painterly oil-illustration style, not photorealistic, cinematic soft lighting. Bust-to-shoulder composition, facing slightly to one side as in the reference photo. Plain muted grey background, no texture or vignette. The painting must fill the entire canvas edge to edge with no border, no frame, no empty margin, and no text anywhere.",
   "middle_slides": [
     {
-      "text": "1880年、モスクワの大聖堂再建を祝う式典のため、作曲家ピョートル・イリイチ・チャイコフスキーのもとに祝典音楽の依頼が舞い込んだ。気乗りしないまま作曲に取りかかる。",
+      "text": "1880年、モスクワの大聖堂再建を祝う式典のため、作曲家チャイコフスキーのもとに祝典音楽の依頼が舞い込んだ。気乗りしないまま作曲に取りかかる。",
       "image_prompt": "Oil-painting style illustration of composer Pyotr Ilyich Tchaikovsky, a man with short grey hair receding at the temples, a full grey beard and moustache, deep-set pensive eyes, seated at a wooden writing desk in a dim 19th-century Moscow study, holding an official letter of commission with a wax seal, his expression reluctant and weary as he looks down at the paper. Warm candlelight, muted brown and grey tones, painterly brushstrokes, not photorealistic. No text anywhere."
     },
     {
