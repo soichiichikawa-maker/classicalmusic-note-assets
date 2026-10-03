@@ -1,0 +1,37 @@
+{
+  "composer": "チャイコフスキー",
+  "event_summary": "1880年、モスクワの大聖堂再建記念の委嘱で書かれた『1812年』を、チャイコフスキー自身は手紙で「たぶん大した芸術的価値はない」と評した。しかし本物の大砲の発射音まで指定した壮大な響きが聴衆を圧倒し、今や彼の代表作として世界中の演奏会や花火イベントで愛されている。",
+  "sources": [
+    "https://www.gramophone.co.uk/features/article/tchaikovsky-s-1812-overture-the-complete-guide",
+    "https://ageofrevolution.waterlooassociation.org.uk/200-object/1812-overture-pyotr-ilyich-tchaikovsky/",
+    "https://theclassicnote.com/tchaikovsky-1812-overture/",
+    "https://en.tchaikovsky-research.net/pages/The_Year_1812"
+  ],
+  "hook_copy": "本人は[R]価値なし[/R]と酷評、なのに世界は[G]大砲付き名曲[/G]に熱狂",
+  "portrait_prompt": "Illustrated cinematic portrait of the Russian composer Pyotr Ilyich Tchaikovsky, based directly on the attached reference photograph: a man in his late forties to early fifties with short silver-grey hair that is receding and thinning at the temples and crown, a full grey-and-white beard and moustache neatly trimmed, deep-set pale eyes with a calm, pensive expression, a broad forehead, and a slightly weathered, soft-jawed face. He wears a dark formal Victorian-era suit jacket with a matching waistcoat, a crisp white standing collar, and a dark cravat with a small decorative pin, exactly as seen in the reference image, with no added embellishment. Painterly oil-illustration style, not photorealistic, cinematic soft lighting. Bust-to-shoulder composition, facing slightly to one side as in the reference photo. Plain muted grey background, no texture or vignette. The painting must fill the entire canvas edge to edge with no border, no frame, no empty margin, and no text anywhere.",
+  "middle_slides": [
+    {
+      "text": "1880年、モスクワの大聖堂再建を祝う式典のため、作曲家ピョートル・イリイチ・チャイコフスキーのもとに祝典音楽の依頼が舞い込んだ。気乗りしないまま作曲に取りかかる。",
+      "image_prompt": "Oil-painting style illustration of composer Pyotr Ilyich Tchaikovsky, a man with short grey hair receding at the temples, a full grey beard and moustache, deep-set pensive eyes, seated at a wooden writing desk in a dim 19th-century Moscow study, holding an official letter of commission with a wax seal, his expression reluctant and weary as he looks down at the paper. Warm candlelight, muted brown and grey tones, painterly brushstrokes, not photorealistic. No text anywhere."
+    },
+    {
+      "text": "わずか6週間で曲を書き上げた本人は、知人への手紙で「愛情も温かみもなく書いた。たぶん大した芸術的価値はない」と手厳しく評している。",
+      "image_prompt": "Oil-painting style illustration of composer Pyotr Ilyich Tchaikovsky, a man with short grey hair receding at the temples, a full grey beard and moustache, deep-set tired eyes, seated at a cluttered writing desk late at night, surrounded by scattered sheets of music manuscript, pen in hand, a half-written letter beside him, his face showing dissatisfaction and self-doubt as candlelight flickers. Rich dark oil tones, painterly texture, dramatic chiaroscuro lighting, not photorealistic. No text anywhere."
+    },
+    {
+      "text": "しかし完成した曲は本人の予想を裏切り、実際の大砲の発射音まで楽譜に指定した壮大な響きで聴衆を圧倒し、やがて世界的な人気作となった。",
+      "image_prompt": "Oil-painting style illustration of composer Pyotr Ilyich Tchaikovsky, a man with short grey hair receding at the temples, a full grey beard and moustache, standing with arms slightly raised in triumph, viewed from the side on an outdoor stage, facing a grand orchestra and a jubilant crowd beneath a sky filled with smoke and distant cannon fire, his expression a mixture of astonishment and pride. Sweeping dramatic composition, warm golden and smoky grey tones, painterly brushwork, not photorealistic. No text anywhere."
+    },
+    {
+      "text": "今や「1812年」はアメリカ独立記念日の定番曲となり、本物の大砲音と花火とともに世界中で鳴り響く、チャイコフスキー最大のヒット作である。",
+      "image_prompt": "Oil-painting style illustration of composer Pyotr Ilyich Tchaikovsky, a man with short grey hair receding at the temples, a full grey beard and moustache, standing in the foreground at twilight, facing forward toward a vast cheering crowd gathered near a river, with fireworks bursting and faint cannon smoke rising in the night sky behind him, his expression calm and dignified. Vivid festive colors, glowing fireworks light, painterly oil texture, not photorealistic. No text anywhere."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "6週間で書き上げたオーケストラ曲を、本人は「たぶん大した芸術的価値はない」と酷評した。皮肉にも、大砲まで鳴り響くその『1812年』こそチャイコフスキーの代表作となり、今や世界中の花火大会を彩る定番曲だ🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nくわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=pU4C0N2AMHM",
+  "ig_caption": "6週間で書き上げたオーケストラ曲を、本人は「たぶん大した芸術的価値はない」と酷評した。皮肉にも、大砲まで鳴り響くその『1812年』こそチャイコフスキーの代表作となり、今や世界中の花火大会を彩る定番曲だ🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "6週間で書き上げたオーケストラ曲を、本人は「たぶん大した芸術的価値はない」と酷評した。皮肉にも、大砲まで鳴り響くその『1812年』こそチャイコフスキーの代表作となり、今や世界中の花火大会を彩る定番曲だ🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n大砲が轟く迫力の名曲について、過去に公開したチャイコフスキー特集動画もぜひあわせてご覧ください。\nhttps://www.youtube.com/watch?v=pU4C0N2AMHM",
+  "youtube_link": "https://www.youtube.com/watch?v=pU4C0N2AMHM",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
