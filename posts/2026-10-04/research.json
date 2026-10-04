@@ -1,0 +1,36 @@
+{
+  "composer": "ブラームス",
+  "event_summary": "ブラームスは交響曲第1番の完成に21年を要した。『楽聖』ベートーヴェンの存在感に押しつぶされるように筆が止まり続けたが、1876年の完成後は指揮者ハンス・フォン・ビューローに『ベートーヴェンの交響曲第10番』と評されるほどの傑作となった。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Symphony_No._1_(Brahms)",
+    "https://www.jaxsymphony.org/beethoven-to-brahms-program-notes/",
+    "https://interlude.hk/why-did-the-great-composers-rewrite-beethoven/"
+  ],
+  "hook_copy": "交響曲第1番、完成に[G]21年[/G]。巨匠の影に[R]怯えた[/R]末の[G]大逆転[/G]",
+  "portrait_prompt": "Illustrated cinematic portrait of the elderly Johannes Brahms, based directly on the famous 1880s–1890s photographic portrait: a stout man in his late fifties with a high, deeply receded hairline, thick silver-white hair swept back and slightly tousled over the ears and temples. He has a full, long white beard covering his chin and jawline, seamlessly connected to a bushy white mustache that droops over his upper lip, fully concealing his mouth. His face is broad with a strong brow, deep-set thoughtful eyes, a prominent straight nose, and visible forehead wrinkles. He wears a dark Victorian-era suit jacket with wide lapels over a waistcoat, a crisp light-colored high collared shirt, and a large, loosely knotted grayish silk cravat tied in a soft bow at the neck, with a thin watch chain draped across the waistcoat. Painterly, painterly rendering, not photorealistic, oil-painting illustrated style, bust-to-shoulder simple composition, plain muted neutral background with no pattern. No text anywhere. The illustration fills the entire canvas edge to edge with no border, no frame, no vignette, and no empty margin around the figure.",
+  "middle_slides": [
+    {
+      "text": "1854年、21歳のヨハネス・ブラームスは交響曲の構想に着手した。だが頭から離れないのは、ベートーヴェンという巨人の存在だった。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic: a young Johannes Brahms at 21 years old, with fair blond hair combed to the side, a smooth clean-shaven youthful face with deep-set thoughtful eyes, strong brow and a straight nose (the same facial structure as his later famous bearded portrait, but youthful and beardless here). He sits at a wooden writing desk cluttered with music manuscript paper and a quill, in a dim candlelit study, staring anxiously at a blank sheet of staff paper. In the shadowy background looms the faint, imposing silhouette of a classical marble bust of Beethoven on a shelf, its presence looking down over him. Warm but tense lighting, muted browns and golds, cinematic composition, no text anywhere."
+    },
+    {
+      "text": "「背後に巨人の足音を聞く気持ちが、君に分かるか」と彼は語った。他の名曲は次々と発表しながら、交響曲だけは何度も書いては破棄し、20年以上完成できなかった。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic: Johannes Brahms in his thirties, hair a darker blond beginning to thin at the temples, a mustache present but face still mostly clean along the jaw, same strong brow and deep-set eyes as his later portrait. He stands in a cluttered study at night, surrounded by crumpled and torn sheets of music manuscript scattered on the floor and desk, an oil lamp casting dramatic light. Behind him, cast large upon the wall by the lamplight, is an exaggerated, towering shadow shaped like a giant striding figure, symbolizing the looming presence of Beethoven. His expression is strained and determined. Rich chiaroscuro lighting, deep browns and ambers, cinematic composition, no text anywhere."
+    },
+    {
+      "text": "1876年、ついに完成。指揮者ハンス・フォン・ビューローは興奮気味にこう呼んだ――「これはベートーヴェンの交響曲第10番だ」と。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic: Johannes Brahms around age 43, hair light brown-gray swept back with a receding hairline, now sporting a fuller beard and mustache beginning to show streaks of gray, matching the strong brow, deep-set eyes and broad nose of his familiar older portrait. He stands on a grand concert hall stage beside a conductor in formal tailcoat who gestures animatedly and excitedly toward him, both facing each other in profile, under the warm glow of stage footlights. An orchestra with instruments is visible blurred in the background. The mood is triumphant and electric. Warm gold and deep red tones, cinematic composition, no text anywhere."
+    },
+    {
+      "text": "21年の歳月をかけて生まれたこの一曲は、今や世界中のオーケストラが演奏する定番の名作として、コンサートホールに鳴り響き続けている。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic: the elderly Johannes Brahms, with his iconic high receded hairline, thick white hair swept back, and his long full white beard connected to a bushy white mustache, dressed in a dark Victorian suit jacket, shown entirely from behind standing at the back of a grand, opulent concert hall, seen from behind with his face not visible at all. Before him, bathed in warm golden stage light, a full orchestra performs on a distant stage beneath ornate architecture and glowing chandeliers, with rows of attentive audience silhouettes seated between him and the stage. The atmosphere is majestic and timeless, symbolizing his music's enduring legacy. Rich warm lighting, painterly brushwork, cinematic composition, no text anywhere."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "19世紀ドイツ、若き作曲家は\"楽聖の後継者\"という重圧に21年も押しつぶされていた。長い格闘の末に完成したヨハネス・ブラームスの交響曲第1番は、指揮者から「ベートーヴェンの第10番」と称されるほどの傑作になった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "19世紀ドイツ、若き作曲家は\"楽聖の後継者\"という重圧に21年も押しつぶされていた。長い格闘の末に完成したヨハネス・ブラームスの交響曲第1番は、指揮者から「ベートーヴェンの第10番」と称されるほどの傑作になった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "19世紀ドイツ、若き作曲家は\"楽聖の後継者\"という重圧に21年も押しつぶされていた。長い格闘の末に完成したヨハネス・ブラームスの交響曲第1番は、指揮者から「ベートーヴェンの第10番」と称されるほどの傑作になった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n21年越しに完成したブラームスの交響曲第1番、聴くたびに重みが増す一曲です。どんな場面で聴きたいか、コメントで教えてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/JohannesBrahms_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
