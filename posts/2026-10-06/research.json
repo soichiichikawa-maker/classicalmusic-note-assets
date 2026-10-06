@@ -1,0 +1,37 @@
+{
+  "composer": "ベートーヴェン",
+  "event_summary": "1802年10月6日、ウィーン郊外の保養地ハイリゲンシュタットで、進行する難聴に苦しんでいたベートーヴェンが弟カールとヨハン宛てに手紙(通称『ハイリゲンシュタットの遺書』)を書いた。手紙には死を考えるほどの苦しみと、それでも芸術のために生き抜くという決意が記されている。この手紙は生前誰にも送られず、1827年の本人の死後に私物の中から発見され、同年10月に公表された。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heiligenstadt_Testament",
+    "https://www.classical-music.com/features/composers/heiligenstadt-testament",
+    "https://www.weblio.jp/content/%E3%83%8F%E3%82%A4%E3%83%AA%E3%82%B2%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%83%E3%83%88%E3%81%AE%E9%81%BA%E6%9B%B8",
+    "https://grokipedia.com/page/Heiligenstadt_Testament"
+  ],
+  "hook_copy": "31歳、[R]死を覚悟[/R]して書いた手紙が、[G]不滅の名曲[/G]へ変わった",
+  "portrait_prompt": "Illustrated cinematic portrait of Ludwig van Beethoven, based on Joseph Karl Stieler's 1820 portrait: a man in his late forties with a strong, broad face, furrowed brow and intense, brooding dark eyes staring directly at the viewer, thick wavy grey-white hair swept back and tousled above the forehead, ruddy flushed cheeks, clean-shaven. He wears a dark (near-black) tailored coat with a crisp white upright collar and a vivid red cravat wrapped around his neck. Bust-to-shoulder composition, plain muted neutral background with no distracting details, painterly oil-painting style, not photorealistic, no text, no logos. The illustration must fill the entire frame edge to edge with no border, no vignette, no empty margin.",
+  "middle_slides": [
+    {
+      "text": "1802年10月6日、今日と同じ日付に、ウィーン郊外の療養地でルートヴィヒ・ヴァン・ベートーヴェンは弟たちへ手紙を書き始めた。",
+      "image_prompt": "Oil-painting style illustration of a 31-year-old Ludwig van Beethoven, same strong broad face and furrowed brow and intense dark eyes as his iconic likeness, but younger with thicker, darker brown-grey wavy hair tousled above the forehead and smoother, fewer-lined skin, seated at a wooden writing desk in a modest countryside cottage room near Heiligenstadt, early evening light through a window showing an autumn village landscape outside, candle burning beside him, he leans over a sheet of paper with a quill just touching it as he begins to write a letter, wearing a loose white linen shirt with an open collar, expression troubled and pensive, facing forward toward the desk, body and face both oriented the same direction, painterly rendering, not photorealistic, no text visible on the page, full-frame composition with no border."
+    },
+    {
+      "text": "耳の病はすでに6年に及び、療養しても回復の兆しはなかった。彼は死を考えながらも、『芸術のために生き抜く』と自らに誓い、筆を走らせ続けた。",
+      "image_prompt": "Oil-painting style illustration of the same young Beethoven, broad face, furrowed brow, intense dark eyes, dark wavy hair, now shown in close-up at his writing desk by candlelight, one hand raised toward his own ear in a gesture of straining to hear, the other hand gripping a quill pressed to a half-written letter, his expression anguished and resolute at once, deep shadows from the flickering candle emphasizing the emotional weight of the moment, wearing a simple white shirt with loose cravat, facing the viewer directly with his whole body turned forward consistently, painterly rendering, not photorealistic, no text visible, full-frame composition with no border."
+    },
+    {
+      "text": "この手紙は誰にも送られることなく、机の奥深くにしまわれたまま25年の歳月を越え、1827年、本人の死後に初めて発見された。",
+      "image_prompt": "Oil-painting style illustration of the same Beethoven, still youthful with dark wavy hair and broad furrowed-browed face, in dim candlelight folding and sealing a finished letter at his desk, then placing it carefully into an open wooden drawer among other papers, his posture is seated and leaning forward toward the drawer, face turned downward toward his own hands in concentration (not toward the viewer), consistent body-and-face orientation with no twisting, somber quiet mood suggesting the letter will remain hidden for years, wearing a simple white shirt, painterly rendering, not photorealistic, no text visible on any paper, full-frame composition with no border."
+    },
+    {
+      "text": "その後の数年で生まれたのが、交響曲第3番『英雄』をはじめとする数々の傑作だった。命と向き合った一夜が、音楽史最大の飛躍点になった。",
+      "image_prompt": "Oil-painting style illustration of Ludwig van Beethoven a few years later, same broad strong face and furrowed brow and intense dark eyes as his iconic likeness, now with fuller greying wavy hair swept back and a slightly more lined, mature face, standing confidently in a grand study filled with scattered music manuscripts, one arm raised passionately as if conducting or gesturing toward an unseen orchestra while the other hand holds a pen over a large manuscript on a stand, dramatic warm lighting suggesting triumphant inspiration, wearing a dark coat with a red cravat, body facing forward with face matching the same forward orientation, painterly rendering, not photorealistic, no text visible on the manuscript, full-frame composition with no border."
+    }
+  ],
+  "is_date_match": true,
+  "fb_caption": "ちょうど224年前の今日、1802年10月6日、ウィーン郊外の保養地で一通の手紙が書かれた。死を覚悟して綴られたはずのその手紙が、ルートヴィヒ・ヴァン・ベートーヴェンを『英雄』交響曲へと突き動かす転機になった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nくわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=iceY8eSOg5I",
+  "ig_caption": "ちょうど224年前の今日、1802年10月6日、ウィーン郊外の保養地で一通の手紙が書かれた。死を覚悟して綴られたはずのその手紙が、ルートヴィヒ・ヴァン・ベートーヴェンを『英雄』交響曲へと突き動かす転機になった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "ちょうど224年前の今日、1802年10月6日、ウィーン郊外の保養地で一通の手紙が書かれた。死を覚悟して綴られたはずのその手紙が、ルートヴィヒ・ヴァン・ベートーヴェンを『英雄』交響曲へと突き動かす転機になった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n耳の苦しみを乗り越えた先に『英雄』交響曲が生まれるまでの物語、続きはこちらの動画でどうぞ",
+  "youtube_link": "https://www.youtube.com/watch?v=iceY8eSOg5I",
+  "today_date_label": "10月6日",
+  "portrait_reference_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/3840px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}
