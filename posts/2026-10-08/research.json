@@ -1,0 +1,37 @@
+{
+  "composer": "モーツァルト",
+  "event_summary": "1791年夏、匿名の依頼人(後にヴァルゼック伯爵と判明)からモーツァルトのもとにレクイエム(鎮魂曲)の作曲依頼が届いた。体調が悪化する中でも彼は作曲を続けたが、同年12月5日に未完のまま死去。弟子フランツ・クサーヴァー・ジュスマイヤーらが補筆し、現在知られる形のレクイエムとして完成・出版された。",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0_(%E3%83%A2%E3%83%BC%E3%83%84%E3%82%A1%E3%83%AB%E3%83%88)",
+    "https://en.wikipedia.org/wiki/Requiem_(Mozart)",
+    "https://www.modestosymphony.org/programnotes/may23-cl4",
+    "https://www.bozemansymphony.org/program-notes/mozarts-requiem"
+  ],
+  "hook_copy": "正体不明の依頼主は、[G]自分の作品として発表するつもり[/G]だった",
+  "portrait_prompt": "Portrait of Wolfgang Amadeus Mozart, based on the well-known Barbara Krafft posthumous portrait (the standard Wikipedia reference image of Mozart): a young adult man in his early thirties with a fair, soft oval face, light grey-blue eyes, gently arched dark eyebrows, a straight nose, and a small closed-lip smile, turning his head slightly to look back over his shoulder toward the viewer. He wears a powdered white/grey wig styled high and rolled back from the forehead with tight curls covering the ears, tied back neatly. He is dressed in a vivid red coat (not purple, not crimson-dark) with a high collar and front edges trimmed with ornate gold floral embroidery matching the reference image, worn over a white ruffled lace jabot shirt visible at the neck and chest. Skin tone is pale and smooth. illustrated cinematic style, painterly rendering, not photorealistic, soft directional lighting modeling the face. Bust-to-shoulder composition, simple plain muted warm-brown background with no texture variation, no vignette, no border, no frame, artwork filling the entire canvas edge to edge. No text, no letters, no writing anywhere in the image.",
+  "middle_slides": [
+    {
+      "text": "1791年夏、ウィーンのモーツァルトのもとに黒ずくめの使者が現れ、匿名の依頼主からレクイエム(鎮魂曲)の作曲が持ちかけられた。",
+      "image_prompt": "An oil-painting style night scene in a dim 18th-century Vienna apartment: a young adult man with a pale oval face, light grey-blue eyes, and a powdered grey-white wig with curls over the ears, wearing a simple pale dressing coat, stands facing a mysterious tall messenger dressed entirely in black with a dark hooded cloak and face obscured in shadow, who extends a sealed letter toward him in a dim candlelit doorway. The composer's face is turned toward the messenger in three-quarter view, body also facing the same direction, a look of quiet surprise on his face. Warm candlelight contrasts with deep shadows, painterly rendering, moody chiaroscuro, not photorealistic, no text anywhere in the image."
+    },
+    {
+      "text": "体調を崩しながらも作曲を続けたモーツァルトは、この曲を自分自身の葬儀のために書いているのではと周囲に漏らしていたという。",
+      "image_prompt": "An oil-painting style interior scene: the same composer, a pale-faced young man with light grey-blue eyes and a powdered grey-white curled wig, now looking gaunt and unwell with faint shadows under his eyes and a sheen of fever on his skin, sits hunched at a wooden desk covered with music manuscript paper under candlelight, quill in hand, wrapped in a loose dressing gown over his white shirt. His body and face both face slightly toward the candle and papers in a three-quarter pose, a troubled, distant expression on his face as if lost in thought about his own mortality. Dark warm tones, soft candle glow, painterly brushwork, not photorealistic, no text anywhere in the image."
+    },
+    {
+      "text": "1791年12月5日、モーツァルトは35歳でこの世を去った。レクイエムは未完のまま残され、補筆の方法を弟子に伝えていたと言われる。",
+      "image_prompt": "An oil-painting style dim bedroom scene set in late 1791: the same composer, now appearing frail and pallid, with a gaunt pale face, light grey-blue eyes half-closed, thinning hair no longer covered by his wig, lies propped up on pillows in a modest curtained bed, candlelight flickering beside scattered manuscript pages on a nearby table. His head is turned weakly toward the viewer's side in three-quarter view, matching his body's reclined orientation, a faint, solemn expression on his face. Muted, somber color palette, soft dramatic lighting, painterly rendering, not photorealistic, no text anywhere in the image."
+    },
+    {
+      "text": "弟子ジュスマイヤーが補筆を終えて納品した依頼主は、ヴァルゼック伯爵。自作として発表するはずが、今も世界中でモーツァルトの傑作として知られている。",
+      "image_prompt": "An oil-painting style still-life composition set on an ornate wooden writing desk in dim candlelight: a completed, neatly bound manuscript of musical score pages tied with ribbon, a quill resting in an inkwell, a lit candle in a brass holder, and a wax-sealed letter addressed with an elaborate red wax seal, all arranged together suggesting a finished composition about to be delivered. No people, faces, or figures are shown in this composition, only the objects themselves bathed in warm golden candlelight against a dark shadowed background. Painterly rendering, rich chiaroscuro, not photorealistic, no text anywhere in the image."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1791年の夏、ウィーンに黒ずくめの使者が現れ、依頼主を明かさないままレクイエム作曲を持ちかけた🎻。その曲を書き続けたモーツァルトは完成を見ることなく世を去り、弟子ジュスマイヤーの補筆によって後世に残された。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nくわしくはYouTubeの本編でご覧ください。https://www.youtube.com/watch?v=MT4AN4OoBuk",
+  "ig_caption": "1791年の夏、ウィーンに黒ずくめの使者が現れ、依頼主を明かさないままレクイエム作曲を持ちかけた🎻。その曲を書き続けたモーツァルトは完成を見ることなく世を去り、弟子ジュスマイヤーの補筆によって後世に残された。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1791年の夏、ウィーンに黒ずくめの使者が現れ、依頼主を明かさないままレクイエム作曲を持ちかけた🎻。その曲を書き続けたモーツァルトは完成を見ることなく世を去り、弟子ジュスマイヤーの補筆によって後世に残された。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこの依頼主の正体と曲の行方、物語の続きは解説動画でじっくり味わってみてください。",
+  "youtube_link": "https://www.youtube.com/watch?v=MT4AN4OoBuk",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
