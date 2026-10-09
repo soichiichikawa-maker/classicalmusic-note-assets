@@ -1,0 +1,38 @@
+{
+  "composer": "ベートーヴェン",
+  "event_summary": "ピアノ曲『エリーゼのために』はベートーヴェンの生前には出版されず、死後40年が経った1867年に研究者ルートヴィヒ・ノールが自筆譜を発見して初めて世に出した。だがその自筆譜は現在失われており、献辞にあった『エリーゼ』が誰を指すのかは特定されていない。テレーゼ・マルファッティの読み間違い説や、歌手エリーザベト・レッケル説など複数の説が今も併存している。",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB",
+    "https://en.wikipedia.org/wiki/F%C3%BCr_Elise",
+    "https://en.wikipedia.org/wiki/Ludwig_Nohl",
+    "https://www.lvbeethoven.org/woo059/",
+    "https://note.com/akiranaito/n/ne672fd1f15d3"
+  ],
+  "hook_copy": "世界一有名な曲なのに、[G]捧げた相手[/G]が[R]今も分からない[/R]",
+  "portrait_prompt": "Oil-painting style illustrated portrait of Ludwig van Beethoven, based on the iconic 1820 Joseph Karl Stieler portrait. A man in his late forties with a ruddy, weathered face, deep-set intense dark brown eyes under a heavily furrowed brow, a strong jaw, and a clean-shaven face (no beard, no mustache). His hair is thick, wild, and tousled, a mix of grey and white in loose waves swept back from a high forehead, with sideburns. He wears a white high upright collar wrapped with a vivid red cravat/scarf knotted at the throat, and a dark black-green tailcoat. Bust-to-shoulder composition, slightly turned pose with an intense, almost stern gaze directly at the viewer. Background is a plain muted dark neutral tone with no detail. Illustrated cinematic style, painterly rendering, not photorealistic. No text anywhere. Artwork fills the entire frame edge to edge, no border, no vignette, no empty margin.",
+  "middle_slides": [
+    {
+      "text": "ピアノ教室で誰もが一度は弾く『エリーゼのために』。作曲したルートヴィヒ・ヴァン・ベートーヴェンは、生前にこの曲を発表しなかった。",
+      "image_prompt": "Oil-painting style scene of Ludwig van Beethoven alone in a dim candlelit study, seated at a wooden writing desk, bent intently over a small piano or writing table with sheet music, pencil in hand, composing privately and showing no intention of publishing. He has the same ruddy weathered face, furrowed brow, intense dark eyes, clean-shaven jaw, and thick wild grey-white tousled hair as before, wearing a white collar, red cravat, and dark coat. The mood is private and introspective, warm candlelight against deep shadow, a modest study filled with scattered manuscript papers. No other people present, no text visible anywhere."
+    },
+    {
+      "text": "死後40年経った1867年、研究者ルートヴィヒ・ノールが自筆譜を書き写して出版した。楽譜には『エリーゼのために、4月27日』という献辞が記されていたという。",
+      "image_prompt": "Oil-painting style scene of Ludwig van Beethoven seated at a wooden desk late at night, writing by candlelight on a manuscript page, pencil in hand, in the act of inscribing a short dedication at the top of a piece of music. Same ruddy face, furrowed brow, intense dark eyes, clean-shaven jaw, thick wild grey-white tousled hair, white collar, red cravat, dark coat. The desk is scattered with loose pages and a flickering candle casts warm golden light across his focused, solemn expression. No other people present, no text or legible writing shown, just blank-looking manuscript lines."
+    },
+    {
+      "text": "だが発見された自筆譜は、その後行方不明に。テレーゼ・マルファッティの読み間違い説や、歌手エリーザベト・レッケル説など、正体には諸説ある。",
+      "image_prompt": "Oil-painting style mysterious, dim scene of Ludwig van Beethoven standing alone in a shadowy room, half-turned toward a window with faint moonlight, a loose manuscript page slipping from his hand as if fading into mist or darkness, symbolizing a lost and mysterious identity. Same ruddy face, furrowed brow, intense dark eyes, clean-shaven jaw, thick wild grey-white tousled hair, white collar, red cravat, dark coat. The atmosphere is enigmatic and melancholic, deep shadows, muted cool tones, soft uncertain light. No other people present, no text visible anywhere."
+    },
+    {
+      "text": "自筆譜が無い今、真相を確かめる術はない。それでも『エリーゼのために』という名前だけが、世界中のピアノで弾き継がれている。",
+      "image_prompt": "Oil-painting style warm, timeless scene of Ludwig van Beethoven seated at a grand piano, hands poised over the keys as if the melody still echoes through time, bathed in soft golden light. Same ruddy face, furrowed brow, intense dark eyes, clean-shaven jaw, thick wild grey-white tousled hair, white collar, red cravat, dark coat. His expression is calm and contemplative, a sense of quiet legacy and enduring music filling the room. No other people present, no text visible anywhere."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "世界中のピアノ教室で弾かれる『エリーゼのために』、実はその“エリーゼ”が誰なのか、今も分かっていない。自筆譜は1867年に発見されたが現在は失われ、テレーゼ・マルファッティ説やエリーザベト・レッケル説など諸説が残るのみだ🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=Cp99iW87AeM",
+  "ig_caption": "世界中のピアノ教室で弾かれる『エリーゼのために』、実はその“エリーゼ”が誰なのか、今も分かっていない。自筆譜は1867年に発見されたが現在は失われ、テレーゼ・マルファッティ説やエリーザベト・レッケル説など諸説が残るのみだ🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "世界中のピアノ教室で弾かれる『エリーゼのために』、実はその“エリーゼ”が誰なのか、今も分かっていない。自筆譜は1867年に発見されたが現在は失われ、テレーゼ・マルファッティ説やエリーザベト・レッケル説など諸説が残るのみだ🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nベートーヴェンにまつわる、もうひとつの“謎の恋”を追った動画もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=Cp99iW87AeM",
+  "youtube_link": "https://www.youtube.com/watch?v=Cp99iW87AeM",
+  "today_date_label": null,
+  "portrait_reference_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/3840px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}
