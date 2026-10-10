@@ -1,0 +1,41 @@
+{
+  "composer": "パイプオルガン",
+  "event_summary": "パイプオルガンの原型『ヒュドラウリス』は紀元前3世紀、ギリシャの技師クテシビオスが発明したもので、本来は剣闘士の試合やローマの見世物を盛り上げる娯楽装置だった。初期キリスト教会はこの異教的で暴力的な連想ゆえに長らく礼拝から締め出しており、現在の『楽器の王』というイメージとは正反対の出発点を持つ。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hydraulis",
+    "https://en.wikipedia.org/wiki/Pipe_organ",
+    "https://atoday.org/that-devilish-church-music/",
+    "https://www.britannica.com/art/hydraulis"
+  ],
+  "hook_copy": "教会の象徴なのに、生まれた頃は[G]剣闘士の試合[/G]を盛り上げる楽器だった",
+  "portrait_prompt": "A painterly illustrated still-life portrait of a grand baroque pipe organ facade, filling the entire frame edge to edge with no border or vignette. The organ case is built from dark ebony-black wood with rich crimson red panels accented by lavish gold leaf carvings. Tall graduated silver pipes rise in several towers, the tallest cluster at the center flanked by shorter stepped pipe clusters on each side, all with softly tapered mouths. Ornate gold rococo scrollwork, acanthus leaf carvings, and swag garlands decorate the case between the pipe towers, with circular gold rosette medallions set into the dark wood on the outer sections. At the very top, a curved broken pediment crowned with a small oval medallion bearing a simple sacred monogram, flanked by gilded urn-shaped finials and sweeping golden acrolith scrollwork extending outward on both sides like wings. A gold laurel wreath ornament sits just below the pediment at the center. The lower case features a repeating gold meander (Greek key) pattern and a row of small gold circles on dark red trim. The background is a muted, softly lit flat warm grey tone, calm and unobtrusive, so the organ itself remains the clear focal point. Illustrated cinematic style, painterly rendering, not photorealistic, no text anywhere in the image.",
+  "middle_slides": [
+    {
+      "text": "荘厳な教会音楽の象徴として知られる楽器、パイプオルガン。だがその始まりは、紀元前3世紀の古代アレクサンドリアにまでさかのぼる。",
+      "image_prompt": "A painterly oil-painting style scene set in ancient Alexandria in the 3rd century BC, warm sunlit sandstone courtyard with classical Greek columns and scrolls, in the foreground a small early water-powered hydraulis instrument with a modest cluster of slender metal pipes and a simple wooden water-reservoir mechanism resting on a stone table, hinting at the ornate pipe organ it will one day become, soft golden Mediterranean light, no people's faces in focus, atmospheric and historical, no text in the image."
+    },
+    {
+      "text": "発明したのは技師クテシビオス。水圧で空気を送るこの仕組みは、剣闘士の試合やローマの見世物を盛り上げる娯楽装置として使われた。",
+      "image_prompt": "A painterly oil-painting style scene depicting the ancient engineer Ctesibius in a workshop filled with bronze gears, water basins, and tubing, demonstrating his invention of the hydraulis, an early water-pressure pipe organ with a cluster of upright metal pipes connected to a water-filled wooden cistern; in the background through an archway a glimpse of a Roman amphitheater with gladiators and a lively crowd, the hydraulis's sound evoking the roar of the games, warm earthy tones, dramatic directional lighting, no text in the image."
+    },
+    {
+      "text": "皮肉にも初期のキリスト教会は、剣闘士や見世物を連想させるこの楽器を何世紀にもわたり礼拝から締め出し、危険な異教の音として恐れていた。",
+      "image_prompt": "A painterly oil-painting style scene inside a dim, shadowy early Christian church interior, stone walls and flickering candlelight, solemn robed clergy gesturing in refusal or wariness toward a small ornate pipe organ with silver pipes standing near the entrance as if being turned away, an atmosphere of suspicion and unease, muted cool tones contrasted with warm candle glow, figures shown from the side or back with faces not the focus, dramatic chiaroscuro lighting, no text in the image."
+    },
+    {
+      "text": "やがて教会は態度を変え、今では『楽器の王』とまで呼ばれる存在になった。生まれは剣闘士を煽る余興用でも、行き着いた先は荘厳な聖堂だった。",
+      "image_prompt": "A painterly oil-painting style scene inside a soaring, majestic baroque cathedral filled with golden light streaming through high stained-glass windows, a grand ornate pipe organ with dark wood, red and gold carved casing and towering silver pipes dominating the back wall as the radiant centerpiece of the nave, worshippers seated in pews below gazing upward in awe, rich warm lighting, triumphant and reverent mood, no text in the image."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "剣闘士の試合を煽ったローマ時代の装置が、今では『楽器の王』としてパイプオルガンの名で教会に鎮座している。紀元前3世紀に生まれてから教会に受け入れられるまで、実に1000年以上の歳月を要した🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "剣闘士の試合を煽ったローマ時代の装置が、今では『楽器の王』としてパイプオルガンの名で教会に鎮座している。紀元前3世紀に生まれてから教会に受け入れられるまで、実に1000年以上の歳月を要した🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "剣闘士の試合を煽ったローマ時代の装置が、今では『楽器の王』としてパイプオルガンの名で教会に鎮座している。紀元前3世紀に生まれてから教会に受け入れられるまで、実に1000年以上の歳月を要した🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n楽器ひとつにも、こんな壮大な物語が隠れているものですね。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "instrument",
+  "theme": "instrument",
+  "hook_pattern": "motive",
+  "caption_style": "conclusion_first",
+  "portrait_reference_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg/3840px-Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}
