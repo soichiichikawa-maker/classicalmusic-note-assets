@@ -1,0 +1,41 @@
+{
+  "composer": "バッハ",
+  "event_summary": "1717年、ドレスデンの宮廷はフランス随一の鍵盤奏者ルイ・マルシャンと、当時まだ地方の無名に近い存在だったバッハとの対決を企画した。しかし本番前夜、マルシャンは姿を消してパリへ帰り、バッハは不戦勝となった。",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%83%8F",
+    "https://note.com/musicandwords/n/n4fe499d8821f",
+    "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%B3",
+    "https://note.com/kagefumimaru/n/na682249ab528"
+  ],
+  "hook_copy": "[G]格下[/G]のはずの田舎奏者に、花形奏者は[R]本番前夜に逃げ出した[/R]。",
+  "portrait_prompt": "Portrait of Johann Sebastian Bach, based directly on the famous 1748 Haussmann portrait: a stout man in his early sixties with a stern, composed, rounded face, heavy-lidded dark eyes, pronounced nasolabial folds, a slight double chin, and a small closed mouth with a faint hint of a smile. He wears a long full-bottomed wig of white-grey curls with tight ringlets cascading past his shoulders, parted and swept back from a high forehead. He is dressed in a dark brown-black velvet coat with a row of ornate metallic buttons down the front, over a soft white linen shirt with a ruffled jabot at the neck and a loose white cuff visible at the wrist. Illustrated cinematic style, painterly rendering, not photorealistic, bust-to-shoulder composition, plain muted dark brown-grey background, no vignette, no border, no frame, art fills the entire canvas edge to edge, no text.",
+  "middle_slides": [
+    {
+      "text": "1717年9月、ザクセン選帝侯の宮廷があるドレスデンに、ヨハン・ゼバスティアン・バッハとフランス宮廷随一の奏者ルイ・マルシャンが同時に滞在していた。",
+      "image_prompt": "An oil-painting style scene of a middle-aged German baroque musician in his early thirties arriving by carriage at the grand baroque palace courtyard of Dresden at dusk in September 1717, same facial structure as the reference portrait but with a smoother, less lined face and a slightly less heavy wig of grey-white curls, wearing a plain dark coat with a white cravat, standing beside a travel coach with a leather satchel of music scores, looking up at the illuminated court buildings with quiet determination, warm torchlight and golden evening sky, painterly rendering, not photorealistic, no text."
+    },
+    {
+      "text": "宮廷は二人の鍵盤対決を企画し、街中が「どちらが勝つか」と噂した。バッハは当時まだ田舎のオルガニストに過ぎないと見なされていた。",
+      "image_prompt": "An oil-painting style scene inside an opulent Dresden court hall with courtiers and nobles whispering and gossiping in small groups near a grand harpsichord, in the background a modestly dressed German musician in his early thirties with the same facial features as the reference portrait, smoother and less aged, grey-white curled wig, plain dark coat, standing somewhat apart and overlooked near a corner, candlelight glinting off gilded walls and chandeliers, painterly rendering, not photorealistic, no text."
+    },
+    {
+      "text": "ところが対決前夜、宮廷随一の花形だったはずのマルシャンは、荷物をまとめて宿を引き払い、そのままパリへ向けて姿を消してしまった。",
+      "image_prompt": "An oil-painting style nighttime scene in a dim inn room in Dresden, a well-dressed French court musician hurriedly packing a trunk and fleeing out a door into a waiting carriage under moonlight, seen mostly from behind with his face not visible, candle guttering on a table beside scattered sheet music, a sense of urgency and secrecy, painterly rendering, not photorealistic, no text."
+    },
+    {
+      "text": "対決は不戦勝でバッハの圧勝に終わり、無名だった地方オルガニストの名はドイツ中に轟き、彼の名声を決定づける出来事となった。",
+      "image_prompt": "An oil-painting style scene of a middle-aged German baroque musician in his early thirties, same facial structure as the reference portrait but smoother and less aged, grey-white curled wig, plain dark coat with a white cravat, seated triumphantly at a grand harpsichord in a candlelit Dresden court hall, surrounded by astonished and admiring courtiers applauding, warm golden light glowing around him emphasizing his unexpected victory, painterly rendering, not photorealistic, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1717年9月、ドレスデンの貴族の館に、ヨーロッパ中の視線を集めた鍵盤対決の噂が広がっていた。だが主役のはずだったフランス随一の奏者ルイ・マルシャンは本番前夜に姿を消し、対戦相手バッハの不戦勝で幕を閉じた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=3ZhJRZyvEc0",
+  "ig_caption": "1717年9月、ドレスデンの貴族の館に、ヨーロッパ中の視線を集めた鍵盤対決の噂が広がっていた。だが主役のはずだったフランス随一の奏者ルイ・マルシャンは本番前夜に姿を消し、対戦相手バッハの不戦勝で幕を閉じた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1717年9月、ドレスデンの貴族の館に、ヨーロッパ中の視線を集めた鍵盤対決の噂が広がっていた。だが主役のはずだったフランス随一の奏者ルイ・マルシャンは本番前夜に姿を消し、対戦相手バッハの不戦勝で幕を閉じた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nバッハの生涯をたどった動画も、あわせてご覧ください。\nhttps://www.youtube.com/watch?v=3ZhJRZyvEc0",
+  "youtube_link": "https://www.youtube.com/watch?v=3ZhJRZyvEc0",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "conflict",
+  "hook_pattern": "attribute",
+  "caption_style": "scene",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
