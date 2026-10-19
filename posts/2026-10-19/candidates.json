@@ -1,0 +1,251 @@
+[
+  {
+    "composer": "ヴェルディ",
+    "event_summary": "1842年の歌劇《ナブッコ》の合唱曲で国民的人気を得たヴェルディは、オーストリア支配下のイタリア各地で「ヴィヴァ・ヴェルディ」という落書きの主役になった。実はこの言葉は国王ヴィットリオ・エマヌエーレを指す秘密の暗号で、検閲をかいくぐるイタリア統一運動の合言葉として広まった。後年ヴェルディ自身も上院議員として政治の舞台に立った。",
+    "sources": [
+      "https://www.nationalgeographic.com/history/history-magazine/article/verdi-operas-italy-national-identity",
+      "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/artists/verdi-giuseppe/",
+      "https://www.vermontpublic.org/programs/2016-06-13/timeline-viva-verdi"
+    ],
+    "hook_copy": "壁の落書きが独立運動の暗号に\nヴェルディ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ヴェルディの名前は秘密の合言葉だった",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前を主語にして分かりやすいが、驚きの強さではB・Cにやや劣る。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/artists/verdi-giuseppe/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "名詞句・名前主役",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "壁の落書きが独立運動の暗号に",
+        "support_text": "ヴェルディ",
+        "rank": 1,
+        "recommendation_reason": "具体的な出来事(壁の落書き)から入り、「暗号」という意外性を一語で伝えられるため最も惹きつけやすい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.vermontpublic.org/programs/2016-06-13/timeline-viva-verdi",
+          "https://www.nationalgeographic.com/history/history-magazine/article/verdi-operas-italy-national-identity"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "出来事主役・名詞句",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ壁に「ヴィヴァ・ヴェルディ」?",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "疑問形で好奇心を喚起できるが、固有名詞がやや長く視認性でBにわずかに劣る。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.vermontpublic.org/programs/2016-06-13/timeline-viva-verdi"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "短い問い",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1842年、歌劇《ナブッコ》の合唱曲が、オーストリア支配下にあったイタリアの人々の心を強く揺さぶり、ヴェルディは一躍国民的英雄となった。",
+      "やがて、オーストリア支配下のイタリア各地の壁に「ヴィヴァ・ヴェルディ」という落書きが次々と現れ始めた。単なる人気の表れに見えた。",
+      "実はこの名前、「ヴィットリオ・エマヌエーレ、イタリア王」の頭文字を綴った暗号。検閲の目をかいくぐり、統一を願う合言葉として広まった。",
+      "ヴェルディは1874年、イタリア上院議員に選ばれた。音楽家でありながら政治家としても、統一国家イタリアの象徴であり続けた。"
+    ],
+    "fb_caption": "1842年、ミラノ・スカラ座。歌劇《ナブッコ》の合唱曲に、オーストリア支配下のイタリア人は熱狂した。やがて各地の壁に「ヴィヴァ・ヴェルディ」の文字が現れ始める。実はこれ、国王の名を綴った秘密の合言葉だった🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1842年、ミラノ・スカラ座。歌劇《ナブッコ》の合唱曲に、オーストリア支配下のイタリア人は熱狂した。やがて各地の壁に「ヴィヴァ・ヴェルディ」の文字が現れ始める。実はこれ、国王の名を綴った秘密の合言葉だった🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1842年、ミラノ・スカラ座。歌劇《ナブッコ》の合唱曲に、オーストリア支配下のイタリア人は熱狂した。やがて各地の壁に「ヴィヴァ・ヴェルディ」の文字が現れ始める。実はこれ、国王の名を綴った秘密の合言葉だった🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽が政治と交差した瞬間は、まだまだたくさんあります。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "出来事主役・名詞句",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "グリーグ",
+    "event_summary": "エドヴァルド・グリーグは1907年、持病の心臓・肺の疾患により64歳でベルゲンの病院で死去した。葬儀は国葬として営まれ、遺言により火葬された遺灰は自宅トロルハウゲンの湖を望む岩壁の墓に納められ、一部は湖にも撒かれた。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%B0",
+      "https://kajipon.sakura.ne.jp/haka/h-sakkyoku.htm",
+      "https://piano-journey.com/grieg-profile/"
+    ],
+    "hook_copy": "なぜ遺灰は湖に撒かれたのか\nグリーグが眠る岩壁の墓",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "グリーグの亡骸は、今どこに",
+        "support_text": "国葬の後に選ばれた安息の地",
+        "rank": 2,
+        "recommendation_reason": "名前を主役にした問いかけ。対象は明確だが『今どこに』はやや漠然としており、湖という具体語がない分、惹きが一段弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://kajipon.sakura.ne.jp/haka/h-sakkyoku.htm"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "名前主役＋疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "国葬の後、遺灰は岩壁へ",
+        "support_text": "グリーグが選んだ最後の場所",
+        "rank": 3,
+        "recommendation_reason": "出来事を主語にした断定文。事実は正確だが問いの形がなく、カード面での引きがやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%B0"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "出来事主役＋断定文",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ遺灰は湖に撒かれたのか",
+        "support_text": "グリーグが眠る岩壁の墓",
+        "rank": 1,
+        "recommendation_reason": "『湖に撒かれた』という具体的かつ意外性のある事実を問いの形で提示し、死・葬儀テーマの枠の型(問いかけ)にも最も合致する。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://kajipon.sakura.ne.jp/haka/h-sakkyoku.htm",
+          "https://piano-journey.com/grieg-profile/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "具体的事実の問いかけ",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1907年9月4日、エドヴァルド・グリーグは持病の心臓と肺の病に苦しんだ末、故郷ノルウェーのベルゲンで64年の生涯を閉じた。",
+      "葬儀は国葬として盛大に営まれ、彼が若くして亡くした親友ノルドロークを偲ぶ葬送行進曲と、ショパンの葬送行進曲が演奏された。",
+      "遺言により彼の遺体は火葬され、愛した自宅トロルハウゲンから望む湖沿いの岩壁に墓が設けられて、遺灰の一部は湖にも撒かれた。",
+      "グリーグが世を去ってから28年後、妻ニーナも90歳で世を去り、同じ岩壁の墓に夫とともに合葬され、今も静かに眠り続けている。"
+    ],
+    "fb_caption": "エドヴァルド・グリーグの亡骸は、今どこに眠っているのでしょうか。祖国ノルウェーは彼の死を国葬で悼み、遺言に従って火葬された遺灰は、自宅トロルハウゲンの湖を望む岩壁の墓に納められ、一部は湖にも撒かれました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "エドヴァルド・グリーグの亡骸は、今どこに眠っているのでしょうか。祖国ノルウェーは彼の死を国葬で悼み、遺言に従って火葬された遺灰は、自宅トロルハウゲンの湖を望む岩壁の墓に納められ、一部は湖にも撒かれました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "エドヴァルド・グリーグの亡骸は、今どこに眠っているのでしょうか。祖国ノルウェーは彼の死を国葬で悼み、遺言に従って火葬された遺灰は、自宅トロルハウゲンの湖を望む岩壁の墓に納められ、一部は湖にも撒かれました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n作曲家たちの最期をめぐる物語は、他の回でもあわせてご覧いただけます。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "具体的事実の問いかけ",
+    "caption_style": "question"
+  },
+  {
+    "composer": "マーラー",
+    "event_summary": "マーラーは1901年に出会った22歳年下のアルマへの想いを、交響曲第5番第4楽章「アダージェット」に込めたとされる。約70年後、映画『ベニスに死す』にこの曲が使われたことで、本来は愛の調べだった旋律が「死」と「喪失」を象徴する曲として世界的に知られるようになった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%9F%BF%E6%9B%B2%E7%AC%AC5%E7%95%AA_(%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC)",
+      "https://vivaclassicalmusic.com/post-89/",
+      "https://road-to-pianist.com/mahler-adagietto/"
+    ],
+    "hook_copy": "なぜ愛の曲は死の象徴になったのか\nマーラーのアダージェット",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "マーラーの愛の曲が、死の曲に",
+        "support_text": "交響曲第5番アダージェットの転身",
+        "rank": 2,
+        "recommendation_reason": "名前を主役にした断定文で対象は明確。だが『死の曲に』という結末を先出ししすぎ、問いかけ型の引きには一歩譲る。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%9F%BF%E6%9B%B2%E7%AC%AC5%E7%95%AA_(%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "名前主役＋断定文",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "なぜ愛の曲は死の象徴になったのか",
+        "support_text": "マーラーのアダージェット",
+        "rank": 1,
+        "recommendation_reason": "結末を明かさず問いの形で引きを作り、名曲の由来テーマの枠(問いかけ)に最も合致する。曲名で対象も明確。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%9F%BF%E6%9B%B2%E7%AC%AC5%E7%95%AA_(%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC)",
+          "https://vivaclassicalmusic.com/post-89/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "問いかけ＋出来事",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "恋の翌年に生まれた、死を呼ぶ旋律",
+        "support_text": "マーラー《アダージェット》の数奇",
+        "rank": 3,
+        "recommendation_reason": "時系列と結末を詩的に凝縮した案。印象的だが『死を呼ぶ』という表現が強く、問いかけ型でない点で枠の型と一致しない。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://road-to-pianist.com/mahler-adagietto/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "詩的な名詞句",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1901年、41歳のグスタフ・マーラーは22歳年下の画家アルマ・シントラーと出会い、燃えるような恋の末に婚約へと進んでいった。",
+      "翌1902年に完成した交響曲第5番の第4楽章「アダージェット」は、言葉にできない愛の告白としてアルマに捧げられたという。",
+      "だが約70年後、映画監督ヴィスコンティは『ベニスに死す』で、届かぬ美への執着と死の予感を描く場面に、この旋律を起用したのだ。",
+      "もともとはアルマへの愛の調べとして生まれたこの曲は、今では「死」と「喪失」を象徴する旋律として世界的に親しまれ続けている。"
+    ],
+    "fb_caption": "マーラーが最愛の人へ贈った曲が、なぜ「死」の象徴になったのでしょうか。交響曲第5番のアダージェットは、本来22歳年下のアルマへの愛の告白として書かれた旋律でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "マーラーが最愛の人へ贈った曲が、なぜ「死」の象徴になったのでしょうか。交響曲第5番のアダージェットは、本来22歳年下のアルマへの愛の告白として書かれた旋律でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "マーラーが最愛の人へ贈った曲が、なぜ「死」の象徴になったのでしょうか。交響曲第5番のアダージェットは、本来22歳年下のアルマへの愛の告白として書かれた旋律でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n名曲に秘められた意外な物語は、他の回でもご紹介しています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "問いかけ＋出来事",
+    "caption_style": "question"
+  }
+]
