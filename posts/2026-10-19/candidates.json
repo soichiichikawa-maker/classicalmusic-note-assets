@@ -8,70 +8,14 @@
       "https://www.vermontpublic.org/programs/2016-06-13/timeline-viva-verdi"
     ],
     "hook_copy": "壁の落書きが独立運動の暗号に\nヴェルディ",
-    "hook_options": [
-      {
-        "candidate_id": "A",
-        "headline": "ヴェルディの名前は秘密の合言葉だった",
-        "support_text": "",
-        "rank": 3,
-        "recommendation_reason": "名前を主語にして分かりやすいが、驚きの強さではB・Cにやや劣る。",
-        "payoff_slide": 3,
-        "fact_sources": [
-          "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/artists/verdi-giuseppe/"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ヴェルディ",
-        "hook_pattern": "名詞句・名前主役",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断"
-      },
-      {
-        "candidate_id": "B",
-        "headline": "壁の落書きが独立運動の暗号に",
-        "support_text": "ヴェルディ",
-        "rank": 1,
-        "recommendation_reason": "具体的な出来事(壁の落書き)から入り、「暗号」という意外性を一語で伝えられるため最も惹きつけやすい。",
-        "payoff_slide": 3,
-        "fact_sources": [
-          "https://www.vermontpublic.org/programs/2016-06-13/timeline-viva-verdi",
-          "https://www.nationalgeographic.com/history/history-magazine/article/verdi-operas-italy-national-identity"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ヴェルディ",
-        "hook_pattern": "出来事主役・名詞句",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断"
-      },
-      {
-        "candidate_id": "C",
-        "headline": "なぜ壁に「ヴィヴァ・ヴェルディ」?",
-        "support_text": "",
-        "rank": 2,
-        "recommendation_reason": "疑問形で好奇心を喚起できるが、固有名詞がやや長く視認性でBにわずかに劣る。",
-        "payoff_slide": 3,
-        "fact_sources": [
-          "https://www.vermontpublic.org/programs/2016-06-13/timeline-viva-verdi"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ヴェルディ",
-        "hook_pattern": "短い問い",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断"
-      }
-    ],
+    "hook_options": [],
     "hook_selection": null,
     "is_date_match": false,
     "middle_slides": [
       "1842年、歌劇《ナブッコ》の合唱曲が、オーストリア支配下にあったイタリアの人々の心を強く揺さぶり、ヴェルディは一躍国民的英雄となった。",
-      "やがて、オーストリア支配下のイタリア各地の壁に「ヴィヴァ・ヴェルディ」という落書きが次々と現れ始めた。単なる人気の表れに見えた。",
+      "やがてイタリア各地の壁に、「ヴィヴァ・ヴェルディ」という落書きが次々と現れ始めた。人々の熱狂を表す、ただの人気の落書きに見えた。",
       "実はこの名前、「ヴィットリオ・エマヌエーレ、イタリア王」の頭文字を綴った暗号。検閲の目をかいくぐり、統一を願う合言葉として広まった。",
-      "ヴェルディは1874年、イタリア上院議員に選ばれた。音楽家でありながら政治家としても、統一国家イタリアの象徴であり続けた。"
+      "ヴェルディは1874年、イタリア上院議員に任命された。音楽家でありながら政治家としても、統一国家イタリアの象徴であり続けた。"
     ],
     "fb_caption": "1842年、ミラノ・スカラ座。歌劇《ナブッコ》の合唱曲に、オーストリア支配下のイタリア人は熱狂した。やがて各地の壁に「ヴィヴァ・ヴェルディ」の文字が現れ始める。実はこれ、国王の名を綴った秘密の合言葉だった🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
     "ig_caption": "1842年、ミラノ・スカラ座。歌劇《ナブッコ》の合唱曲に、オーストリア支配下のイタリア人は熱狂した。やがて各地の壁に「ヴィヴァ・ヴェルディ」の文字が現れ始める。実はこれ、国王の名を綴った秘密の合言葉だった🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
