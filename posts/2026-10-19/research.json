@@ -1,0 +1,48 @@
+{
+  "composer": "ヴェルディ",
+  "event_summary": "1842年の歌劇《ナブッコ》の合唱曲で国民的人気を得たヴェルディは、オーストリア支配下のイタリア各地で「ヴィヴァ・ヴェルディ」という落書きの主役になった。実はこの言葉は国王ヴィットリオ・エマヌエーレを指す秘密の暗号で、検閲をかいくぐるイタリア統一運動の合言葉として広まった。後年ヴェルディ自身も上院議員として政治の舞台に立った。",
+  "sources": [
+    "https://www.nationalgeographic.com/history/history-magazine/article/verdi-operas-italy-national-identity",
+    "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/artists/verdi-giuseppe/",
+    "https://www.vermontpublic.org/programs/2016-06-13/timeline-viva-verdi"
+  ],
+  "hook_copy": "ヴェルディの名前は[G]秘密の合言葉[/G]だった",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "9a08ae19faa2ae86",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-10-19T08:03:57.870301+00:00",
+    "text": "ヴェルディの名前は[G]秘密の合言葉[/G]だった"
+  },
+  "portrait_prompt": "Illustrated cinematic portrait of the Italian composer Giuseppe Verdi in his elder years, based on the famous 19th-century photographic portrait of Verdi: a man in his sixties with a broad face, deep-set dark eyes under heavy, thick dark eyebrows that contrast with his greying hair, a strong straight nose, and a full bushy white-and-grey beard and mustache covering his jawline and mouth, his wavy grey-white hair swept back and receding slightly at the high temples, neatly combed. He wears a plain dark Victorian frock coat with a crisp white wing-tip collar and a dark silk bow cravat tied at the neck, no jewelry, no medals, understated and dignified. Bust-to-shoulder composition, three-quarter view, calm dignified expression. Plain muted neutral dark background, almost solid in tone. Painterly illustrated style, cinematic lighting, rich oil-painting rendering, not photorealistic. No text, no letters, no frame, no border, no vignette — artwork must fill the entire canvas edge to edge with no margin.",
+  "middle_slides": [
+    {
+      "text": "1842年、歌劇《ナブッコ》の合唱曲が、オーストリア支配下にあったイタリアの人々の心を強く揺さぶり、ヴェルディは一躍国民的英雄となった。",
+      "image_prompt": "Oil-painting style illustration of a younger Giuseppe Verdi, around 29 years old in 1842, with the same facial structure as his later portraits — deep-set dark eyes, thick dark eyebrows, a strong straight nose — but here with full dark brown hair swept back and only a short, neatly trimmed dark beard and mustache, no grey yet. He stands in the wings of La Scala opera house in Milan, dressed in an elegant dark early-Victorian coat with a white cravat, watching with quiet emotion as, beyond him, a crowded theatre audience below rises to its feet, moved to tears, many with hands over their hearts, warm golden stage lighting washing over the scene, grand velvet curtains and gilded opera boxes in the background. Verdi is shown from a three-quarter front angle so his face is clearly visible. Painterly, dramatic chiaroscuro lighting, rich brushwork, not photorealistic. No text, no letters, no signage."
+    },
+    {
+      "text": "やがてイタリア各地の壁に、「ヴィヴァ・ヴェルディ」という落書きが次々と現れ始めた。人々の熱狂を表す、ただの人気の落書きに見えた。",
+      "image_prompt": "Oil-painting style illustration set in a narrow cobblestone street of an Italian city under Austrian rule in the 1840s, nighttime, lit by a single flickering oil lamp. A weathered plaster wall fills part of the frame, covered in rough chalk and charcoal scribbles and scratches (abstract marks only, no legible letters or words). A young Giuseppe Verdi — dark wavy hair swept back, short trimmed dark beard, strong straight nose, deep-set dark eyes, the same facial structure as his later portraits — walks past the wall in a dark overcoat, seen in full profile so his face is clearly visible in the lamplight, glancing toward the scrawled wall with a faint knowing expression. Moody, atmospheric chiaroscuro lighting, muted earthy palette, painterly brushwork, not photorealistic. No text, no letters, no readable signage."
+    },
+    {
+      "text": "実はこの名前、「ヴィットリオ・エマヌエーレ、イタリア王」の頭文字を綴った暗号。検閲の目をかいくぐり、統一を願う合言葉として広まった。",
+      "image_prompt": "Oil-painting style illustration evoking secrecy and censorship in Austrian-occupied Italy in the 1840s: a shadowy cobblestone alley at dusk, an old stone wall covered in overlapping abstract scratches and faded chalk marks (no legible letters or words), with a hint of a hidden red-white-green tricolor sash or ribbon tucked discreetly into a crack in the stonework, symbolizing a coded message. In the background, partly obscured by shadow and an archway, stands young Giuseppe Verdi — dark wavy hair, short trimmed dark beard, strong straight nose, deep-set dark eyes, same facial structure as his later portraits — wrapped in a dark cloak, shown from a three-quarter front angle with his face visible, watching calmly from a distance as a uniformed Austrian sentry with his back turned inspects the wall nearby. Low, dramatic candlelit and torchlit lighting, moody muted palette, painterly brushwork, not photorealistic. No text, no letters, no readable signage."
+    },
+    {
+      "text": "ヴェルディは1874年、イタリア上院議員に任命された。音楽家でありながら政治家としても、統一国家イタリアの象徴であり続けた。",
+      "image_prompt": "Oil-painting style illustration of an elderly Giuseppe Verdi in 1874, inside the grand chamber of the Italian Senate in Rome. He has the same facial structure as in his iconic later portraits — deep-set dark eyes, thick dark eyebrows, strong straight nose — now with wavy grey-white hair receding at the temples and a full bushy white-and-grey beard and mustache, dignified and composed in expression, his posture upright and formal. He wears a dark formal frock coat with a white wing collar and dark cravat, standing or seated among rows of other senators rendered as soft indistinct background figures, under tall marble columns and warm chandelier light streaming through high windows. Verdi faces forward, his face clearly visible, exuding quiet statesmanlike dignity. Painterly, warm golden lighting, rich brushwork, not photorealistic. No text, no letters, no signage."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1842年、ミラノ・スカラ座。歌劇《ナブッコ》の合唱曲に、オーストリア支配下のイタリア人は熱狂した。やがて各地の壁に「ヴィヴァ・ヴェルディ」の文字が現れ始める。実はこれ、国王の名を綴った秘密の合言葉だった🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1842年、ミラノ・スカラ座。歌劇《ナブッコ》の合唱曲に、オーストリア支配下のイタリア人は熱狂した。やがて各地の壁に「ヴィヴァ・ヴェルディ」の文字が現れ始める。実はこれ、国王の名を綴った秘密の合言葉だった🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1842年、ミラノ・スカラ座。歌劇《ナブッコ》の合唱曲に、オーストリア支配下のイタリア人は熱狂した。やがて各地の壁に「ヴィヴァ・ヴェルディ」の文字が現れ始める。実はこれ、国王の名を綴った秘密の合言葉だった🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽が政治と交差した瞬間は、まだまだたくさんあります。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "politics_war",
+  "hook_pattern": null,
+  "caption_style": "scene",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
