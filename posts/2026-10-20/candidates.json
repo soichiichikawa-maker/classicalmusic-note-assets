@@ -1,0 +1,250 @@
+[
+  {
+    "composer": "ワーグナー",
+    "event_summary": "1842年10月20日、借金に苦しみパリから帰国したワーグナーの歌劇《リエンツィ》がドレスデンでついに初演された。6時間を超える大作だったにもかかわらず熱狂的な成功を収め、これが出世作となって翌年の宮廷楽長就任につながった。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rienzi",
+      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%84%E3%82%A3",
+      "https://www.bayreuther-festspiele.de/en/programm/auffuehrungen/rienzi-2/",
+      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%A3%E3%83%AB%E3%83%88%E3%83%BB%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%8A%E3%83%BC"
+    ],
+    "hook_copy": "パリで拒絶、ドレスデンで熱狂\nワーグナー",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ワーグナー、借金地獄から楽長へ",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "作曲家名を主語にして結果を端的に示す安定型。初見でも対象と転身の内容が一目で伝わる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%A3%E3%83%AB%E3%83%88%E3%83%BB%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%8A%E3%83%BC"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ワーグナー",
+        "hook_pattern": "名前+結果提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "6時間の初演で人生が変わった作曲家",
+        "support_text": "ワーグナー",
+        "rank": 3,
+        "recommendation_reason": "出来事を主語にして好奇心を煽るが、A・Cと比べ結末の具体性がやや弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://thelistenersclub.com/2022/07/01/wagners-rienzi-overture-a-glorious-remnant-of-youthful-indiscretion/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ワーグナー",
+        "hook_pattern": "出来事+人物補足型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "パリで拒絶、ドレスデンで熱狂",
+        "support_text": "ワーグナー",
+        "rank": 1,
+        "recommendation_reason": "before/afterの対比構造で結末の落差を一瞬で見せられ、最も強いフックになる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.bruzanemediabase.com/en/exploration/works/rienzi-nuitter-guilliaume-wagner"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ワーグナー",
+        "hook_pattern": "対比(before/after)型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "今日10月20日は、パリでオペラを拒まれ借金取りに追われた無名作曲家ワーグナーが、故郷ドレスデンで運命の初演に挑んだ日だ。",
+      "この日上演されたのは、全5幕・上演時間6時間を超える大作《リエンツィ》。台本も作曲も、すべて彼自身の手によるものだった。",
+      "当時革命前夜の熱気に満ちていたドレスデンの客席は、6時間を超える上演にもかかわらず熱狂に包まれ、初演は空前の大成功を収めた。",
+      "この成功がきっかけとなり、ワーグナーは翌年ドレスデン宮廷楽長に就任した。パリでの借金だらけの亡命生活は、こうして幕を閉じた。"
+    ],
+    "fb_caption": "借金取りに追われパリを追い出された無名作曲家が、半年後には宮廷楽長に上り詰めた。今日10月20日は、リヒャルト・ワーグナーの出世作《リエンツィ》がドレスデンで初演された日。6時間を超える大作は、革命前夜の熱気の中で空前の成功を収めた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "借金取りに追われパリを追い出された無名作曲家が、半年後には宮廷楽長に上り詰めた。今日10月20日は、リヒャルト・ワーグナーの出世作《リエンツィ》がドレスデンで初演された日。6時間を超える大作は、革命前夜の熱気の中で空前の成功を収めた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "借金取りに追われパリを追い出された無名作曲家が、半年後には宮廷楽長に上り詰めた。今日10月20日は、リヒャルト・ワーグナーの出世作《リエンツィ》がドレスデンで初演された日。6時間を超える大作は、革命前夜の熱気の中で空前の成功を収めた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nワーグナーの波乱に満ちた生涯は、また別の投稿でも紹介していきます。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "premiere",
+    "hook_pattern": "対比(before/after)型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "エルガー",
+    "event_summary": "1898年、エドワード・エルガーは即興で弾いた旋律をもとに、友人たちの肖像を描いた14の変奏曲《エニグマ変奏曲》を作曲した。本人は『演奏されないもう一つの主題が全曲に隠されている』と語ったが、その正体を明かさないまま世を去り、今も謎として残っている。",
+    "sources": [
+      "https://www.worldfolksong.com/classical/elgar/enigma-variations.html",
+      "https://classic.music.coocan.jp/orch/elgar/enigma.htm",
+      "https://puresmilesaiko.com/elger-eniguma-variation/",
+      "https://www.h-ongendo.com/post/%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E5%A4%89%E5%A5%8F%E6%9B%B2"
+    ],
+    "hook_copy": "今も解けない「隠れた主題」\nエルガーのエニグマ変奏曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "エルガー、楽譜に残した未解決の謎",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前主役で明快だが、謎の具体像がB・Cより伝わりにくい。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://classic.music.coocan.jp/orch/elgar/enigma.htm"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "名前+謎提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "今も解けない「隠れた主題」",
+        "support_text": "エルガーのエニグマ変奏曲",
+        "rank": 1,
+        "recommendation_reason": "問いかけ型で好奇心を最大化しつつ、対象（曲名・作曲家）を補足で明示できる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.worldfolksong.com/classical/elgar/enigma-variations.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "問い型+事象補足",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "友人の肖像に隠れた、幻の旋律",
+        "support_text": "エルガー",
+        "rank": 2,
+        "recommendation_reason": "詩的な言い回しで曲の構造（友人の肖像＋隠された旋律）を同時に見せられる次点案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://puresmilesaiko.com/elger-eniguma-variation/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "詩的描写型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1898年のある夜、作曲家エドワード・エルガーがピアノで弾いた旋律に、妻アリスが「素敵だけど何の曲?」と尋ねたことから物語は始まる。",
+      "この旋律をもとにエルガーは全14の変奏を書き上げ、親友イェーガーには「ニムロッド」という愛称を与え、音楽の中に温かく描き込んだ。",
+      "しかしエルガーは、実際には音として鳴らないもう一つの主題が全曲に隠されていると語り、その正体を最後まで一切明かさなかった。",
+      "1934年にエルガーが世を去ってから90年以上、「隠れた主題」の正体はなお謎のまま、音楽ファンの間でいまだに議論が続いている。"
+    ],
+    "fb_caption": "いまも解けない暗号が、名曲の中に隠されている。エドワード・エルガーの《エニグマ変奏曲》には、本人が明かさなかった『もう一つの主題』が存在する。14の変奏は友人たちの肖像だが、その裏に流れるはずの旋律の正体は、100年以上経った今も謎のままだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "いまも解けない暗号が、名曲の中に隠されている。エドワード・エルガーの《エニグマ変奏曲》には、本人が明かさなかった『もう一つの主題』が存在する。14の変奏は友人たちの肖像だが、その裏に流れるはずの旋律の正体は、100年以上経った今も謎のままだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "いまも解けない暗号が、名曲の中に隠されている。エドワード・エルガーの《エニグマ変奏曲》には、本人が明かさなかった『もう一つの主題』が存在する。14の変奏は友人たちの肖像だが、その裏に流れるはずの旋律の正体は、100年以上経った今も謎のままだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nエルガーにまつわる他のエピソードも、随時お届けしていきます。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "問い型+事象補足",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ドヴォルザーク",
+    "event_summary": "ドヴォルザークは若き日にピアノの教え子ヨゼフィーナに恋をして失恋し、後にその妹アンナと結婚して家庭を築いた。晩年、アメリカでチェロ協奏曲を作曲中にヨゼフィーナの病状を知り、完成後に終楽章へ64小節を追加して彼女が愛した歌のメロディを織り込んだ。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%83%B3%E3%83%BB%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF",
+      "https://www.alpacablog.jp/entry/dvorak-vc-concerto",
+      "https://vivaclassicalmusic.com/post-886/"
+    ],
+    "hook_copy": "失恋の相手の死に、名曲で応えた\nドヴォルザーク",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ドヴォルザーク、亡き初恋へ64小節",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "数字を使った具体性はあるが、名前先行で感情面の引きがB・Cよりやや弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://vivaclassicalmusic.com/post-886/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "名前+数字訴求型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "失恋の相手の死に、名曲で応えた",
+        "support_text": "ドヴォルザーク",
+        "rank": 1,
+        "recommendation_reason": "出来事を主語にして「どう応えたのか」という好奇心を作りつつ、対象を補足で明示できる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.alpacablog.jp/entry/dvorak-vc-concerto"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "出来事+人物補足型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "妻の姉への想いが、協奏曲に残る",
+        "support_text": "ドヴォルザーク",
+        "rank": 2,
+        "recommendation_reason": "家族関係の意外性（妻の姉）を前面に出す次点案。Bよりやや間接的。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%83%B3%E3%83%BB%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "関係性訴求型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "音楽教師として生計を立てていた若きドヴォルザークは、教え子チェルマーク家の姉娘ヨゼフィーナに恋をし、プロポーズするも実らなかった。",
+      "失意の末、ドヴォルザークはヨゼフィーナの妹アンナと結婚し、9人の子に恵まれたが、初恋の面影を密かに歌曲へ残し続けていた。",
+      "1895年、アメリカで『チェロ協奏曲』を作曲していたドヴォルザークのもとに、ヨゼフィーナが重い病に倒れたとの知らせが届いた。",
+      "帰国直後にヨゼフィーナの訃報を受けた彼は、協奏曲の終楽章に64小節を書き加え、彼女の愛唱歌『ひとりにさせて』を永遠に刻んだ。"
+    ],
+    "fb_caption": "失恋した初恋の人の死に、彼は64小節で応えた。アントニン・ドヴォルザークは若き日に恋したヨゼフィーナに振られ、後にその妹アンナと結婚して幸せな家庭を築いた。しかし晩年、アメリカでチェロ協奏曲を作曲中にヨゼフィーナの訃報を受け取ると、終楽章に彼女の愛唱歌を書き加え、消えない想いを音楽に刻んだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "失恋した初恋の人の死に、彼は64小節で応えた。アントニン・ドヴォルザークは若き日に恋したヨゼフィーナに振られ、後にその妹アンナと結婚して幸せな家庭を築いた。しかし晩年、アメリカでチェロ協奏曲を作曲中にヨゼフィーナの訃報を受け取ると、終楽章に彼女の愛唱歌を書き加え、消えない想いを音楽に刻んだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "失恋した初恋の人の死に、彼は64小節で応えた。アントニン・ドヴォルザークは若き日に恋したヨゼフィーナに振られ、後にその妹アンナと結婚して幸せな家庭を築いた。しかし晩年、アメリカでチェロ協奏曲を作曲中にヨゼフィーナの訃報を受け取ると、終楽章に彼女の愛唱歌を書き加え、消えない想いを音楽に刻んだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nドヴォルザークの知られざる素顔も、また別の回でご紹介します。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "love_family",
+    "hook_pattern": "出来事+人物補足型",
+    "caption_style": "conclusion_first"
+  }
+]
