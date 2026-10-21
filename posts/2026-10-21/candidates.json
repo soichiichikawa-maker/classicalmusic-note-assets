@@ -1,0 +1,250 @@
+[
+  {
+    "composer": "グリーグ",
+    "event_summary": "1899年9月、グリーグはパリの名門コロンヌ管弦楽団からの指揮依頼を、ドレフュス事件における不正義への抗議として公然と拒否した。この手紙が新聞に掲載されると激しい賛否を呼び、脅迫状や友人関係の破綻を招いたが、1903年には警官の護衛のもとで演奏会を実現させている。",
+    "sources": [
+      "https://www.classical-music.com/composers/dreyfus-affair-caused-grieg-to-boycott-paris/",
+      "https://www.legaltoday.com/opinion/articulos-de-opinion/grieg-y-el-caso-dreyfus-2024-01-10/",
+      "https://greatcomposers.nifc.pl/en/grieg/catalogs/places/515_paris"
+    ],
+    "hook_copy": "抗議の手紙が招いた死の脅迫\n作曲家グリーグの決断",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "グリーグ、パリ公演を拒否",
+        "support_text": "抗議の手紙、死の脅迫も",
+        "rank": 3,
+        "recommendation_reason": "作曲家名を主役にした素直な入口。事実は伝わるが驚きの核心(脅迫)が後回しになり弱め。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.classical-music.com/composers/dreyfus-affair-caused-grieg-to-boycott-paris/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "人物名+行動の名詞句",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "抗議の手紙が招いた死の脅迫",
+        "support_text": "作曲家グリーグの決断",
+        "rank": 1,
+        "recommendation_reason": "出来事(脅迫状)を先出しし、誰が・なぜをすぐ知りたくなる構成。具体性が高く停止率が見込める。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.classical-music.com/composers/dreyfus-affair-caused-grieg-to-boycott-paris/",
+          "https://www.legaltoday.com/opinion/articulos-de-opinion/grieg-y-el-caso-dreyfus-2024-01-10/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "出来事先出し+因果を問う",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ブーイングの中、指揮棒を振った",
+        "support_text": "グリーグが貫いた信念",
+        "rank": 2,
+        "recommendation_reason": "物語の結末(1903年の演奏会)を先に見せる構成。情景が浮かびやすいが、脅迫状ほどの初速インパクトはない。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.legaltoday.com/opinion/articulos-de-opinion/grieg-y-el-caso-dreyfus-2024-01-10/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "クライマックス場面の提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1899年9月、パリの名門コロンヌ管弦楽団から、指揮者コロンヌを通じ、作曲家グリーグへ自作演奏会の指揮依頼が届いた。普段なら迷わず受ける栄誉だった。",
+      "しかしグリーグは「法と正義への仕打ちに嫌悪を覚え、パリの聴衆の前には立てない」と出演を拒否。ドレフュス事件への抗議だった。",
+      "この手紙がドイツの新聞に載ると物議を醸し、賛否両論の嵐に。脅迫状が殺到し、友人関係も壊れ、演奏依頼は次々キャンセルされた。",
+      "1903年、グリーグはパリに戻り警官の護衛のもとで指揮台に立った。ブーイングを浴びながらも演奏をやり遂げ、信念を貫いた。"
+    ],
+    "fb_caption": "1899年9月、パリ。名門コロンヌ管弦楽団からの招待に、作曲家グリーグが返した答えは「ノー」だった。理由は、ドレフュス事件をめぐるフランスの不正義への抗議。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1899年9月、パリ。名門コロンヌ管弦楽団からの招待に、作曲家グリーグが返した答えは「ノー」だった。理由は、ドレフュス事件をめぐるフランスの不正義への抗議。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1899年9月、パリ。名門コロンヌ管弦楽団からの招待に、作曲家グリーグが返した答えは「ノー」だった。理由は、ドレフュス事件をめぐるフランスの不正義への抗議。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n祖国ノルウェーを愛したグリーグの、信念を貫く生き方にも思いを馳せてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "出来事先出し+因果を問う",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "シューベルト",
+    "event_summary": "シューベルトが1826年に書き上げた交響曲第9番《ザ・グレート》は、演奏困難とされてウィーン楽友協会に却下され、作曲家の死後も長らく忘れられていた。死後10年を経てウィーンを訪れたシューマンが自筆譜を発見し、メンデルスゾーンの指揮で1839年に初演が実現、今日の評価につながった。",
+    "sources": [
+      "https://classical.music.apple.com/jp/work/franz-schubert-1797-pp53",
+      "https://www.atsutake.com/schubert-symphony-c-major-the-great-first/",
+      "https://classic-info.net/schubert-symphony-no8-great/"
+    ],
+    "hook_copy": "却下された超大作、誰が甦らせた?\nシューベルトの交響曲第9番",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "シューベルト最大の交響曲、幻に?",
+        "support_text": "ウィーンは演奏不可能と却下",
+        "rank": 2,
+        "recommendation_reason": "名前と結果を先に示す構成。分かりやすいが「誰が救ったか」という謎の牽引力がやや弱い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://classic-info.net/schubert-symphony-no8-great/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "人物名+疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "却下された超大作、誰が甦らせた?",
+        "support_text": "シューベルトの交響曲第9番",
+        "rank": 1,
+        "recommendation_reason": "「却下」という具体的事実と「誰が」という謎を同時に提示し、最後まで読みたくなる牽引力が強い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://classic-info.net/schubert-symphony-no8-great/",
+          "https://www.atsutake.com/schubert-symphony-c-major-the-great-first/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "出来事先出し+誰がを問う",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "死後11年、ほこりの中の傑作",
+        "support_text": "シューベルト最後の交響曲",
+        "rank": 3,
+        "recommendation_reason": "発見シーンの情景を前面に出す案。絵になるが「何が起きたか」の輪郭がやや掴みにくい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.atsutake.com/schubert-symphony-c-major-the-great-first/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "情景描写型の名詞句",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1826年、シューベルトは生涯最大規模の大作、交響曲第9番を書き上げ、満を持してウィーン楽友協会へ提出した会心作だった。",
+      "しかし「演奏困難で長すぎる」との理由で却下され、1828年の再提出も退けられたまま、同年シューベルトは31歳で世を去った。",
+      "死後10年、ウィーンを訪れたシューマンが、兄フェルディナントの家でほこりをかぶった自筆譜を見つけ、曲の価値をすぐに見抜いた。",
+      "シューマンの依頼で1839年、メンデルスゾーンがライプツィヒで初演し、大成功を収めた。曲は「ザ・グレート」と呼ばれ今も愛されている。"
+    ],
+    "fb_caption": "シューベルト最後の交響曲は、なぜ長い間「幻」のままだったのでしょうか?完成から死後10年以上、楽譜は兄の家で静かに眠り続けていました。🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "ig_caption": "シューベルト最後の交響曲は、なぜ長い間「幻」のままだったのでしょうか?完成から死後10年以上、楽譜は兄の家で静かに眠り続けていました。🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "シューベルト最後の交響曲は、なぜ長い間「幻」のままだったのでしょうか?完成から死後10年以上、楽譜は兄の家で静かに眠り続けていました。🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n死後に「王」と呼ばれるようになったシューベルトの生涯を描いた動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "youtube_link": "https://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "出来事先出し+誰がを問う",
+    "caption_style": "question"
+  },
+  {
+    "composer": "クラリネット",
+    "event_summary": "クラリネットは18世紀初頭、ドイツの楽器職人ヨハン・クリストフ・デンナーが古楽器シャリュモーを改良して生まれた、比較的新しい木管楽器である。モーツァルトらがその音色に惹かれて名曲を残したことで広く普及した。現在では軍楽隊からジャズまで、クラシックの枠を超えて幅広く使われている。",
+    "sources": [
+      "https://www.yamaha.com/ja/musical_instrument_guide/clarinet/structure/",
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%8D%E3%83%83%E3%83%88",
+      "https://ontomo-mag.com/article/column/shun-gakugo30/"
+    ],
+    "hook_copy": "クラリネット、実は300年しかない楽器",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "クラリネット、実は300年しかない楽器",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "誰もが知る楽器名を主語にし、「歴史が浅い」という意外性を数字で即座に伝えられる。情報量も適切で初見で惹きがある。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://www.yamaha.com/ja/musical_instrument_guide/clarinet/structure/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "クラリネット",
+        "hook_pattern": "名前主役+数字の意外性",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "シャリュモーを改造したら、名器になった",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "出来事主役で誕生の過程を示す案。「シャリュモー」という馴染みの薄い語から入るため、Aよりやや伝わりにくい。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%8D%E3%83%83%E3%83%88"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シャリュモー／クラリネット",
+        "hook_pattern": "出来事主役+改造ストーリー",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "モーツァルトが惚れた新楽器、正体はクラリネット",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "著名人の名前を借りて興味を引く案だが、文字数が長くなりがちで情報量過多になるため第3案とした。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/shun-gakugo30/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "クラリネット",
+        "hook_pattern": "著名人の名前+正体明かし",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "クラリネットの起源は、17世紀ヨーロッパで使われたシャリュモーという素朴な古楽器で、息を吹き込むだけのシンプルな笛だった。",
+      "18世紀初頭、ドイツ・ニュルンベルクの楽器職人ヨハン・クリストフ・デンナーが、音域を広げるキイを追加して改良を加えたのだった。",
+      "この新しい音色にモーツァルトが惹かれ、クラリネット五重奏曲や協奏曲の名作を書いたことで一気に普及し、オーケストラに欠かせない存在となった。",
+      "そんなクラリネットは、今では軍楽隊からジャズのビッグバンド、吹奏楽まで、クラシックという枠を飛び越えて世界中で愛される楽器になっている。"
+    ],
+    "fb_caption": "クラリネット、実はオーケストラの中では意外と「新参者」だということをご存知でしょうか?🎵 18世紀初頭、ドイツの職人デンナーが古楽器シャリュモーを改良して誕生し、モーツァルトの名曲によって一気に広まりました。今や軍楽隊からジャズまで、幅広いジャンルで愛される万能選手です。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "クラリネット、実はオーケストラの中では意外と「新参者」だということをご存知でしょうか?🎵 18世紀初頭、ドイツの職人デンナーが古楽器シャリュモーを改良して誕生し、モーツァルトの名曲によって一気に広まりました。今や軍楽隊からジャズまで、幅広いジャンルで愛される万能選手です。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "クラリネット、実はオーケストラの中では意外と「新参者」だということをご存知でしょうか?🎵 18世紀初頭、ドイツの職人デンナーが古楽器シャリュモーを改良して誕生し、モーツァルトの名曲によって一気に広まりました。今や軍楽隊からジャズまで、幅広いジャンルで愛される万能選手です。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n何気なく聴いているクラリネットの音色にも、300年の物語が詰まっています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "名前主役+数字の意外性",
+    "caption_style": "question"
+  }
+]
