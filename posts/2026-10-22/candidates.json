@@ -1,0 +1,259 @@
+[
+  {
+    "composer": "シベリウス",
+    "event_summary": "1899年、帝政ロシアの支配下で検閲に苦しんでいたフィンランドで、シベリウスは『新聞の日』の愛国劇のための音楽を依頼された。終曲『フィンランドは目覚める』が独立心を強く喚起したためロシア政府から目をつけられ、人々は曲名を『即興曲』などに変えながら演奏を続けた。1900年に独立した交響詩として改訂され『フィンランディア』と名付けられ、1917年のフィンランド独立を後押しする象徴曲となった。",
+    "sources": [
+      "https://www.kateigaho.com/article/detail/175460",
+      "https://ontomo-mag.com/article/column/suomi-japan-100-year-sibelius/",
+      "https://www.worldfolksong.com/classical/sibelius/finlandia.html",
+      "https://en.wikipedia.org/wiki/Finlandia",
+      "https://bachtrack.com/feature-at-home-guide-finlandia-sibelius-centenary-december-2017/amp=1"
+    ],
+    "hook_copy": "ロシアが恐れた名曲、7つの偽名で生き延びた\nシベリウス",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ロシアが恐れた名曲、7つの偽名で生き延びた",
+        "support_text": "シベリウス",
+        "rank": 1,
+        "recommendation_reason": "『ロシアが恐れた』という緊張感と『7つの偽名』という具体的数字で、何の曲か気になる強いギャップを作れるため最有力。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.worldfolksong.com/classical/sibelius/finlandia.html",
+          "https://en.wikipedia.org/wiki/Finlandia"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シベリウス",
+        "hook_pattern": "結末提示＋数字訴求（出来事主体）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "名前を変えて生き延びた『禁断の愛国歌』",
+        "support_text": "シベリウス",
+        "rank": 2,
+        "recommendation_reason": "詩的な言い回しで興味を引けるが、Aほど具体的な数字訴求がなくインパクトはやや弱い次点案。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.kateigaho.com/article/detail/175460",
+          "https://bachtrack.com/feature-at-home-guide-finlandia-sibelius-centenary-december-2017/amp=1"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シベリウス",
+        "hook_pattern": "結末提示＋比喩表現（出来事主体）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "シベリウスの愛国曲、禁止されても鳴り続けた",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前を主語にして素直に説明する案。情報は正確だが意外性のインパクトが弱く第3案とした。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/suomi-japan-100-year-sibelius/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シベリウス",
+        "hook_pattern": "結末提示（名前主体）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1899年、帝政ロシアの支配下にあったフィンランドで、作曲家ジャン・シベリウスは『新聞の日』の愛国劇のための音楽を依頼された。",
+      "クライマックス『フィンランドは目覚める』は人々の独立心をかき立て、危険視した帝政ロシアはこの曲名での演奏を禁じてしまった。",
+      "人々は曲名を『即興曲』や『幸福な気分』などと次々に変え、ロシアの検閲をかいくぐりながら各地でこっそり演奏を続けていった。",
+      "翌1900年、独立した交響詩として生まれ変わったこの曲は『フィンランディア』と名付けられ、1917年のフィンランド独立を後押しした。"
+    ],
+    "fb_caption": "ロシア帝国が本気で恐れた1曲は、名前を7つに変えながら生き延びた。シベリウスが愛国劇のために書いた終曲は、のちに『フィンランディア』として独立運動の象徴になった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "ロシア帝国が本気で恐れた1曲は、名前を7つに変えながら生き延びた。シベリウスが愛国劇のために書いた終曲は、のちに『フィンランディア』として独立運動の象徴になった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "ロシア帝国が本気で恐れた1曲は、名前を7つに変えながら生き延びた。シベリウスが愛国劇のために書いた終曲は、のちに『フィンランディア』として独立運動の象徴になった🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nフィンランドの独立運動を支えたこの名曲、ぜひ原曲を聴きながら歴史に思いを馳せてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "結末提示＋数字訴求（出来事主体）",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "パーセル",
+    "event_summary": "1695年11月、ヘンリー・パーセルはキャリア絶頂期にわずか36歳で急死した。もともと肺を患っていたが、ある晩遅く帰宅した際に妻に家の中に入れてもらえず、寒空の下で体調を崩したのが引き金になったという逸話が伝わっている。亡骸は栄誉としてウェストミンスター寺院のオルガンの真下に葬られた。",
+    "sources": [
+      "https://rochade.hatenablog.com/entry/2025/05/17/190000",
+      "https://musicmicrocosmos.seesaa.net/article/202108article_2.html",
+      "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%91%E3%83%BC%E3%82%BB%E3%83%AB",
+      "https://note.com/retrouveetchange/n/n5f3ad159e9f8",
+      "https://appollonia.net/472"
+    ],
+    "hook_copy": "妻に閉め出された末に急死、36歳の作曲家\nパーセル",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "妻に閉め出された末に急死、36歳の作曲家",
+        "support_text": "パーセル",
+        "rank": 1,
+        "recommendation_reason": "『妻に閉め出された』という意外な原因と『急死』という結末を直結させ、具体的で強いギャップを作れるため最有力。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://musicmicrocosmos.seesaa.net/article/202108article_2.html",
+          "https://note.com/retrouveetchange/n/n5f3ad159e9f8"
+        ],
+        "fact_status": "verified",
+        "subject_label": "パーセル",
+        "hook_pattern": "結末提示＋原因明示（出来事主体）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "名誉の埋葬先は、まさかのオルガン真下",
+        "support_text": "パーセル",
+        "rank": 2,
+        "recommendation_reason": "死後の栄誉という意外な着地点に焦点を当てた案。死因より埋葬の意外性を推したい場合の次点。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%91%E3%83%BC%E3%82%BB%E3%83%AB"
+        ],
+        "fact_status": "verified",
+        "subject_label": "パーセル",
+        "hook_pattern": "結末提示（場所の意外性）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "パーセル、絶頂期に36歳で急逝した理由",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前を主語にした素直な説明文。情報は正確だが『なぜ』への引きがAより弱いため第3案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://rochade.hatenablog.com/entry/2025/05/17/190000"
+        ],
+        "fact_status": "verified",
+        "subject_label": "パーセル",
+        "hook_pattern": "結末提示（名前主体）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "バロック期のイギリスを代表する作曲家ヘンリー・パーセルは、宮廷オルガン奏者としても重用され、数々の名曲を世に送り出していた。",
+      "ある晩、酒場から遅く帰宅したパーセルを、怒った妻は戸を閉めて中に入れず、寒空の下で一夜を過ごさせたという逸話が伝わっている。",
+      "もともと肺を病んでいたパーセルは、この一件をきっかけに体調を急速に崩し、わずか数日後、36歳の若さで世を去ってしまった。",
+      "亡骸は栄誉として、ウェストミンスター寺院のオルガンの真下に葬られ、その功績は今も多くの音楽家から敬意を払われ続けている。"
+    ],
+    "fb_caption": "パーセルは、絶頂期にわずか36歳で急死した。妻に閉め出された晩に体調を崩したという逸話が伝わるが、亡骸は栄誉としてウェストミンスター寺院のオルガンの真下に葬られた🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "パーセルは、絶頂期にわずか36歳で急死した。妻に閉め出された晩に体調を崩したという逸話が伝わるが、亡骸は栄誉としてウェストミンスター寺院のオルガンの真下に葬られた🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "パーセルは、絶頂期にわずか36歳で急死した。妻に閉め出された晩に体調を崩したという逸話が伝わるが、亡骸は栄誉としてウェストミンスター寺院のオルガンの真下に葬られた🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nパーセルが遺した数々の名旋律にも、ぜひ耳を傾けてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "結末提示＋原因明示（出来事主体）",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "モンテヴェルディ",
+    "event_summary": "1600年、音楽理論家アルトゥージはモンテヴェルディの不協和音の自由な使用を「規則違反」と酷評する本を出版した。モンテヴェルディは1605年に反論し「第一作法」「第二作法」という概念を提示、この対立は教会の異端審問にまで発展しかねない緊張をはらんでいたが、最終的に彼の新様式が西洋音楽の主流となった。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Giovanni_Artusi",
+      "https://en.wikipedia.org/wiki/Seconda_pratica",
+      "https://sscm-jscm.org/jscm-issues/volume-18-no-1/seconda-pratica-counterpoint-and-politics/",
+      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%8B%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B8"
+    ],
+    "hook_copy": "規則違反の音楽、なぜ批判された?\nモンテヴェルディ対アルトゥージ論争",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "規則違反の音楽、なぜ批判された?",
+        "support_text": "モンテヴェルディ対アルトゥージ論争",
+        "rank": 1,
+        "recommendation_reason": "疑問文で始めつつ対立構図を補足で明示し、答え(後に主流化した)への引きを作る。問いかけ型の中でも最も簡潔に対象と謎を両立できている。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Giovanni_Artusi",
+          "https://en.wikipedia.org/wiki/Seconda_pratica"
+        ],
+        "fact_status": "verified",
+        "subject_label": "モンテヴェルディ",
+        "hook_pattern": "問いかけから入る:疑問文+対立構図の提示",
+        "evidence_level": "same_format_reference",
+        "reference_ids": [
+          "ig_carousel:f79c8c1ebf9c55a8"
+        ],
+        "reference_metric_basis": "到達(reach)／公開二週間以上の記録／投稿日が前後一週間の同媒体・同形式の投稿（自分を除き三件以上）の累計中央値と比較。比較側も公開二週間以上。固定の公開後日数ではない。",
+        "reference_limitations": "同日数の比較ではなく観測日の異なる累計。題材・知名度・公開時刻等の影響を含み、フック単独の効果ではない。research.jsonからの文面で、公開画像との一致は未確認。到達・閲覧の比較であり、停止率・保存・シェアの良さを示さない。好調側・弱め側の端から選んだ参考例で、全体の代表例とは限らない。"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "モンテヴェルディを葬ろうとした男",
+        "support_text": "批判の行方は、音楽史を変えた",
+        "rank": 2,
+        "recommendation_reason": "敵役アルトゥージを主語にした案。人物の対立構図は伝わるが、疑問文ではなく断定文のため型の指定(問いかけから入る)との整合はAよりやや弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Giovanni_Artusi"
+        ],
+        "fact_status": "verified",
+        "subject_label": "モンテヴェルディ",
+        "hook_pattern": "出来事主役:対立の仕掛け人を先出し",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "酷評から5年、反論が音楽を変えた",
+        "support_text": "モンテヴェルディ対アルトゥージ",
+        "rank": 3,
+        "recommendation_reason": "時系列(5年)を軸にした案。経過は分かりやすいが「なぜ批判されたか」という謎の入口が弱く、問いかけ型としての初速はAに劣ると判断。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Seconda_pratica"
+        ],
+        "fact_status": "verified",
+        "subject_label": "モンテヴェルディ",
+        "hook_pattern": "出来事主役:経過時間を先出し",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1600年、ボローニャの理論家アルトゥージが、作曲家クラウディオ・モンテヴェルディの譜面を「乱暴で下品」と酷評する本を出版した。",
+      "実はこの論争、単なる作曲家同士の芸術論争ではなく、教会の異端審問が関与しかねないほど危険な対立だったとさえ言われている。",
+      "1605年、モンテヴェルディは曲集の序文で反論し、作曲法を「第一作法」と「第二作法」に分けて、歌詞の感情表現を正当化した。",
+      "結局「正しい」はずのアルトゥージ側の理論ではなく、モンテヴェルディの第二作法こそが、後の西洋音楽の主流になっていったのだった。"
+    ],
+    "fb_caption": "なぜ「規則違反」と酷評された音楽が、後に西洋音楽の主流になったのでしょうか。1600年、理論家アルトゥージとモンテヴェルディの間で起きた論争の顛末です🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "なぜ「規則違反」と酷評された音楽が、後に西洋音楽の主流になったのでしょうか。1600年、理論家アルトゥージとモンテヴェルディの間で起きた論争の顛末です🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜ「規則違反」と酷評された音楽が、後に西洋音楽の主流になったのでしょうか。1600年、理論家アルトゥージとモンテヴェルディの間で起きた論争の顛末です🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n400年前の「対立」が生んだ音楽、ぜひ一度聴いてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "conflict",
+    "hook_pattern": "問いかけから入る:疑問文+対立構図の提示",
+    "caption_style": "question"
+  }
+]
