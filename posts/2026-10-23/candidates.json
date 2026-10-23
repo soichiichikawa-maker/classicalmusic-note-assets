@@ -1,0 +1,250 @@
+[
+  {
+    "composer": "ドニゼッティ",
+    "event_summary": "1832年、ミラノのカノッビアーナ劇場で新作オペラを委嘱されていた作曲家が本番直前に仕事を放棄し、代役として速筆で知られるドニゼッティに白羽の矢が立った。台本をわずか1週間で入手し、作曲もたった2週間というスピードで仕上げたにもかかわらず、完成した『愛の妙薬』は初演から大成功を収めた。以後200年近く世界中の歌劇場で愛される人気演目となっている。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%84%9B%E3%81%AE%E5%A6%99%E8%96%AC",
+      "https://www.suac.ac.jp/opera/blog/2022/01/00097/",
+      "https://chichibuopera.com/%E3%82%AA%E3%83%9A%E3%83%A9%E3%80%8C%E6%84%9B%E3%81%AE%E5%A6%99%E8%96%AC%E3%80%8D/"
+    ],
+    "hook_copy": "ドニゼッティ、代役依頼からわずか2週間で名曲完成",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ドニゼッティ、名曲をわずか2週間で書いた",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前を主語にして人物の速筆ぶりを端的に示す案。次点として分かりやすいが数字の意外性がBよりやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E6%84%9B%E3%81%AE%E5%A6%99%E8%96%AC"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドニゼッティ",
+        "hook_pattern": "名前主役・事実直叙型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ドニゼッティ、代役依頼からわずか2週間で名曲完成",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "「代役」という出来事の意外性と「2週間」という具体的な数字を組み合わせ、最も手が止まりやすい構成。対象名も含み対象理解も明確。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E6%84%9B%E3%81%AE%E5%A6%99%E8%96%AC",
+          "https://www.suac.ac.jp/opera/blog/2022/01/00097/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドニゼッティ",
+        "hook_pattern": "出来事主役・数字訴求型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ドニゼッティの名曲、完成までわずか何日？",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "問いかけ型。好奇心は刺激するが具体性がA・Bより弱く第3案とした。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://chichibuopera.com/%E3%82%AA%E3%83%9A%E3%83%A9%E3%80%8C%E6%84%9B%E3%81%AE%E5%A6%99%E8%96%AC%E3%80%8D/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドニゼッティ",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1832年、ミラノのカノッビアーナ劇場。新作オペラを依頼されていた作曲家が、本番わずか1か月前に突然その仕事を放棄してしまった。",
+      "困り果てた支配人は、速筆で評判のガエターノ・ドニゼッティに泣きつき、台本作家フェリーチェ・ロマーニとの新作オペラ制作を依頼した。",
+      "ドニゼッティは台本をわずか1週間で入手すると、そこからたった2週間というスピードで全曲を一気に書き上げてしまったという。",
+      "1832年5月12日に初演された「愛の妙薬」は、この急ごしらえにもかかわらず空前の大成功を収め、今も世界中の歌劇場で愛され続けている。"
+    ],
+    "fb_caption": "なぜ『愛の妙薬』はたった2週間で書き上げられたのでしょうか？ミラノの劇場が土壇場で依頼した代役が、速筆で知られるドニゼッティでした🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "なぜ『愛の妙薬』はたった2週間で書き上げられたのでしょうか？ミラノの劇場が土壇場で依頼した代役が、速筆で知られるドニゼッティでした🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜ『愛の妙薬』はたった2週間で書き上げられたのでしょうか？ミラノの劇場が土壇場で依頼した代役が、速筆で知られるドニゼッティでした🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽史には、こうした驚異のスピード創作のエピソードがまだまだ眠っています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "出来事主役・数字訴求型",
+    "caption_style": "question"
+  },
+  {
+    "composer": "コープランド",
+    "event_summary": "1953年、冷戦下のアメリカで吹き荒れた赤狩りの中、アメリカを代表する作曲家アーロン・コープランドが上院の委員会に召喚され「共産主義の同調者」ではないかと尋問を受けた。その余波で代表作『リンカーンの肖像』はアイゼンハワー大統領就任式の演奏曲目から外されてしまう。コープランドは冷静に証言を貫き、後に大統領自由勲章を受章するまでに名誉を回復した。",
+    "sources": [
+      "https://americansymphony.org/concert-notes/aaron-copland-canticle-of-freedom/",
+      "https://chicagomaroon.com/12761/arts/aaron-copland-the-man-his-music-and-mccarthyism/",
+      "https://musicacademy.org/resonance-07-03-2020/"
+    ],
+    "hook_copy": "コープランド、赤狩りの嵐で代表作が就任式から消えた",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "アーロン・コープランド、赤狩りの標的に",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前主役の端的な提示。状況説明に留まり具体的な被害が見えないため第3案とした。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://musicacademy.org/resonance-07-03-2020/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "名前主役・端的提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "コープランド、赤狩りの嵐で代表作が就任式から消えた",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "「大統領就任式から消えた」という具体的な被害を提示でき、政治に翻弄された実害が一目で伝わる。対象名も含み対象理解も明確。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://americansymphony.org/concert-notes/aaron-copland-canticle-of-freedom/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "出来事主役・被害提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "コープランドの代表作、なぜ就任式から消えたのか",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "問いかけ型。Bに近い強さだが疑問形のぶん着地が一歩弱く次点とした。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://chicagomaroon.com/12761/arts/aaron-copland-the-man-his-music-and-mccarthyism/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1953年、冷戦下のアメリカ。ワシントンの上院公聴会室に、アメリカを代表する作曲家アーロン・コープランドが呼び出されていた。",
+      "赤狩りの嵐が吹き荒れる中、マッカーシー上院議員の委員会は、彼を「共産主義の同調者」ではないかと執拗に問い詰めたのだった。",
+      "彼の代表作「リンカーンの肖像」でさえ、この疑惑騒動のあおりを受けて、アイゼンハワー大統領の就任式典から外されてしまった。",
+      "それでもコープランドは堂々と冷静に受け答えを貫き通し、容疑は晴れ、後に大統領自由勲章という最高の栄誉まで受けることになった。"
+    ],
+    "fb_caption": "1953年、冷戦下のワシントン。公聴会に呼ばれたのは、作曲家アーロン・コープランドでした。「共産主義の同調者」と疑われ、代表作『リンカーンの肖像』は大統領就任式の曲目から外されてしまいます🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1953年、冷戦下のワシントン。公聴会に呼ばれたのは、作曲家アーロン・コープランドでした。「共産主義の同調者」と疑われ、代表作『リンカーンの肖像』は大統領就任式の曲目から外されてしまいます🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1953年、冷戦下のワシントン。公聴会に呼ばれたのは、作曲家アーロン・コープランドでした。「共産主義の同調者」と疑われ、代表作『リンカーンの肖像』は大統領就任式の曲目から外されてしまいます🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n政治に翻弄された作曲家は、コープランドだけではありません。音楽史にはそんな物語がまだまだ眠っています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "出来事主役・被害提示型",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "アルベニス",
+    "event_summary": "1900年、ヨーロッパの舞台で活躍していたピアニスト、イサーク・アルベニスは腎臓の病であるブライト病と診断された。演奏活動が難しくなる中でも彼は作曲を続け、1905年から故郷スペインの風景を音で描く組曲『イベリア』に取り組んだ。1908年に全12曲を完成させ、翌1909年に48歳で世を去ったが、同作は今もピアノ音楽の最高峰のひとつとされている。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%99%E3%83%8B%E3%82%B9",
+      "https://en.wikipedia.org/wiki/Isaac_Alb%C3%A9niz",
+      "https://www.classicals.de/albeniz"
+    ],
+    "hook_copy": "アルベニス、腎臓病と闘いながらピアノ最高峰の曲を生んだ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "アルベニス、病と闘いながら書いた最高傑作",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前主役で端的に状況を伝える案。良案だが「腎臓病」という具体名が無く次点とした。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Isaac_Alb%C3%A9niz"
+        ],
+        "fact_status": "verified",
+        "subject_label": "アルベニス",
+        "hook_pattern": "名前主役・端的提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "アルベニス、腎臓病と闘いながらピアノ最高峰の曲を生んだ",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "病名を具体的に示しつつ「最高峰」という結果との落差で手を止めやすい。対象名も含み対象理解も明確。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%99%E3%83%8B%E3%82%B9",
+          "https://www.classicals.de/albeniz"
+        ],
+        "fact_status": "verified",
+        "subject_label": "アルベニス",
+        "hook_pattern": "出来事主役・病名×結果対比型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "アルベニスは病に蝕まれながら、なぜ最高傑作を書けたのか",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "問いかけ型。Bと近い内容だが疑問形で着地がやや弱く第3案とした。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Isaac_Alb%C3%A9niz"
+        ],
+        "fact_status": "verified",
+        "subject_label": "アルベニス",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1900年、ヨーロッパの舞台で活躍していたピアニスト、イサーク・アルベニスは、腎臓の病、ブライト病と診断されてしまった。",
+      "ピアニストとしての演奏活動は体力的に困難になったが、彼はそれでも病身をおして、作曲の仕事だけに軸足を移すことを決意した。",
+      "病に蝕まれながらも、1905年から彼は、故郷スペインの風景を音で描き出す組曲「イベリア」の作曲へと静かに着手していった。",
+      "1908年に全12曲を完成させたアルベニスは、翌年48歳で世を去ったが、「イベリア」は今なおピアノ音楽の最高峰とされている。"
+    ],
+    "fb_caption": "1900年、ヨーロッパの舞台で活躍していたピアニスト、イサーク・アルベニスは腎臓の病、ブライト病と診断されました。それでも病身をおして作曲を続け、晩年に書き上げたのが最高傑作『イベリア』です🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1900年、ヨーロッパの舞台で活躍していたピアニスト、イサーク・アルベニスは腎臓の病、ブライト病と診断されました。それでも病身をおして作曲を続け、晩年に書き上げたのが最高傑作『イベリア』です🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1900年、ヨーロッパの舞台で活躍していたピアニスト、イサーク・アルベニスは腎臓の病、ブライト病と診断されました。それでも病身をおして作曲を続け、晩年に書き上げたのが最高傑作『イベリア』です🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n病と向き合いながら名作を生んだ作曲家の物語は、他にもたくさんあります。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "出来事主役・病名×結果対比型",
+    "caption_style": "scene"
+  }
+]
