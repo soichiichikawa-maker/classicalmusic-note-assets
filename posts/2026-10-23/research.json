@@ -1,0 +1,49 @@
+{
+  "composer": "ワーグナー",
+  "event_summary": "1842年10月20日、借金に苦しみパリから帰国したワーグナーの歌劇《リエンツィ》がドレスデンでついに初演された。6時間を超える大作だったにもかかわらず熱狂的な成功を収め、これが出世作となって翌年の宮廷楽長就任につながった。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rienzi",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%84%E3%82%A3",
+    "https://www.bayreuther-festspiele.de/en/programm/auffuehrungen/rienzi-2/",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%A3%E3%83%AB%E3%83%88%E3%83%BB%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%8A%E3%83%BC"
+  ],
+  "hook_copy": "ワーグナー、[R]借金地獄[/R]から[G]大逆転[/G]した一夜",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "7a7600f01df9b5b9",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-10-23T07:46:49.730637+00:00",
+    "text": "ワーグナー、[R]借金地獄[/R]から[G]大逆転[/G]した一夜"
+  },
+  "portrait_prompt": "A dignified bust-to-shoulder illustrated portrait of the composer Richard Wagner in his later years, based directly on the attached reference photograph: a high, balding forehead with dark hair graying at the temples, thinning sharply on top and swept back and to the sides in loose waves, deep-set stern eyes beneath heavy brows, a strong prominent straight nose, thin firm lips, a slightly soft double chin, long dark mutton-chop sideburns running down along the jawline while the cheeks and chin remain clean-shaven, an intense penetrating gaze directed at the viewer. He wears a dark velvet frock coat over a crisp white shirt collar, with a large dark silk cravat loosely knotted into a soft bow and fastened with a small pin at the throat. Illustrated cinematic style, painterly rendering, not photorealistic. Simple bust-to-shoulder composition facing forward, plain muted neutral gray background with soft even lighting, painted completely edge-to-edge with no border, frame, vignette, or empty margin at the canvas edges. No text.",
+  "middle_slides": [
+    {
+      "text": "1842年、パリでオペラを拒まれ、借金取りに追われた無名の作曲家ワーグナーは、少年時代を過ごしたドレスデンで運命の初演に挑もうとしていた。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic, of a young Richard Wagner at 29 years old in 1842 — the same man as the reference portrait, with the same deep-set eyes, strong straight nose, thin lips and wide forehead, but with fuller dark brown hair combed back without graying or balding, and only faint short sideburns. He wears a worn, slightly shabby dark overcoat, standing full-face at the edge of a dim Parisian street at dusk, a look of anxious determination on his face, faint shadowy silhouettes of creditors and the grey rooftops of Paris fading behind him, as if turning his back on the city to set off toward Dresden; moody blue-grey twilight lighting, single figure, no text."
+    },
+    {
+      "text": "この日上演されたのは、全5幕・上演時間6時間を超える大作《リエンツィ》。台本も作曲も、すべて彼自身の手によるものだった。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic, of young Richard Wagner at 29 — same man as the reference portrait, same deep-set eyes, strong nose, wide forehead, fuller dark hair without graying, faint sideburns — seated intently at a candlelit writing desk late at night, hunched forward in concentration, quill in hand, surrounded by towering stacks of handwritten manuscript pages covered with both musical notation and text, a thick bound score titled nothing visible lying open before him, warm golden candlelight illuminating his focused face from below, deep shadows filling the modest room, single figure, no text."
+    },
+    {
+      "text": "1842年10月20日、ドレスデン宮廷歌劇場。6時間を超える長丁場にもかかわらず客席は熱狂に包まれ、《リエンツィ》の初演は空前の大成功を収めた。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic, of young Richard Wagner at 29 — same man as the reference portrait, same deep-set eyes, strong nose, wide forehead, fuller dark hair without graying, faint sideburns — standing in an ornate opera box of the grand Dresden Court Theatre, viewed from a three-quarter front angle, overwhelmed with emotion as he looks out toward a glittering chandelier-lit auditorium, with a blurred impression of an enthusiastic audience rising in applause below, rich red velvet and gold décor, warm theatrical lighting, single clear figure in focus, no text."
+    },
+    {
+      "text": "この成功がきっかけとなり、ワーグナーは翌年ドレスデン宮廷楽長に就任した。パリで借金にまみれた苦難の日々は、こうして幕を閉じた。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic, of young Richard Wagner at 29 — same man as the reference portrait, same deep-set eyes, strong nose, wide forehead, fuller dark hair without graying, faint sideburns — now dressed in a formal dark tailcoat as newly appointed Royal Saxon Court Conductor, standing confidently facing forward with a conductor's baton held at his side, a proud composed expression, the grand façade of the Dresden Court Theatre visible softly in the background bathed in warm daylight, a sense of triumph and new beginning, single figure, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "借金取りに追われ、パリで夢破れた無名作曲家が、一夜にして逆転した。1842年10月20日、リヒャルト・ワーグナーの出世作《リエンツィ》がドレスデンで初演。6時間を超える大作は空前の成功を収め、彼は翌年、宮廷楽長に就任した🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "借金取りに追われ、パリで夢破れた無名作曲家が、一夜にして逆転した。1842年10月20日、リヒャルト・ワーグナーの出世作《リエンツィ》がドレスデンで初演。6時間を超える大作は空前の成功を収め、彼は翌年、宮廷楽長に就任した🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "借金取りに追われ、パリで夢破れた無名作曲家が、一夜にして逆転した。1842年10月20日、リヒャルト・ワーグナーの出世作《リエンツィ》がドレスデンで初演。6時間を超える大作は空前の成功を収め、彼は翌年、宮廷楽長に就任した🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nワーグナーの波乱に満ちた生涯は、また別の投稿でも紹介していきます。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "premiere",
+  "hook_pattern": null,
+  "caption_style": "conclusion_first",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/RichardWagner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}
