@@ -1,0 +1,253 @@
+[
+  {
+    "composer": "ショパン",
+    "event_summary": "1830年、20歳のショパンは演奏旅行のため祖国ポーランドを離れた。直後にワルシャワでロシア支配への武装蜂起（11月蜂起）が起こるが、病弱な彼は参加できず、旅先シュトゥットガルトで蜂起鎮圧とワルシャワ陥落の報を受けて絶望する。その感情から生まれたのが、後に「革命のエチュード」と呼ばれる名曲である。",
+    "sources": [
+      "https://fchopin.net/etude10-12/",
+      "https://www.worldfolksong.com/classical/chopin/etude/revolutionary.html",
+      "https://tsvocalschool.com/classic/post-384/"
+    ],
+    "hook_copy": "戦えなかった男が遺した「革命」\nショパンの慟哭",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "戦えなかった男が遺した「革命」",
+        "support_text": "ショパンの慟哭",
+        "rank": 1,
+        "recommendation_reason": "蜂起に参加できなかったという意外な結末を先に示し、名曲誕生の経緯への興味を引く王道の結末先出しパターン。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://fchopin.net/etude10-12/",
+          "https://www.worldfolksong.com/classical/chopin/etude/revolutionary.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショパン",
+        "hook_pattern": "結末から入る：参加できなかった蜂起の代わりに生まれた名曲を先出し",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "陥落の報せが生んだ名曲",
+        "support_text": "ショパン「革命」",
+        "rank": 2,
+        "recommendation_reason": "史実（陥落）を主語にすることで出来事の重大さを先に伝えられるが、曲名を知らない人には伝わりにくい。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://fchopin.net/etude10-12/",
+          "https://tsvocalschool.com/classic/post-384/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショパン",
+        "hook_pattern": "出来事主役：ワルシャワ陥落という史実を先に提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "戦えぬ体、代わりに鍵盤で戦った",
+        "support_text": "ショパンの怒り",
+        "rank": 3,
+        "recommendation_reason": "詩的な対比表現だが、曲名や具体的出来事が明示されず初見での理解がやや遅れる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.worldfolksong.com/classical/chopin/etude/revolutionary.html",
+          "https://tsvocalschool.com/classic/post-384/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショパン",
+        "hook_pattern": "対比型：戦えない体と鍵盤での抵抗を対比",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1830年11月、20歳のショパンは祖国ポーランドを離れ、音楽の都ウィーンへ演奏旅行に旅立った。希望に満ちた船出のはずだった。",
+      "出発から間もなく、祖国ワルシャワでロシア支配への「11月蜂起」が勃発した。体が弱かった彼は、戦列に加わることができなかった。",
+      "1831年、旅の途中シュトゥットガルトに滞在していたショパンのもとに、ワルシャワ陥落の報が届いた。怒りと絶望が彼を襲った。",
+      "その感情を鍵盤にぶつけて生まれたのが「革命のエチュード」だ。祖国を守れなかった男の慟哭は、今も世界中で奏でられ続けている。"
+    ],
+    "fb_caption": "病で戦列に加われなかったショパンの悲しみが、後世に残る名曲を生んだ。1830年の武装蜂起とワルシャワ陥落の報せが、20歳の青年の怒りを「革命のエチュード」に変えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=p_ykW731wWA",
+    "ig_caption": "病で戦列に加われなかったショパンの悲しみが、後世に残る名曲を生んだ。1830年の武装蜂起とワルシャワ陥落の報せが、20歳の青年の怒りを「革命のエチュード」に変えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "病で戦列に加われなかったショパンの悲しみが、後世に残る名曲を生んだ。1830年の武装蜂起とワルシャワ陥落の報せが、20歳の青年の怒りを「革命のエチュード」に変えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n祖国を失った“ピアノの詩人”、ショパンの生涯をたどった動画もあわせてご覧ください。\nhttps://www.youtube.com/watch?v=p_ykW731wWA",
+    "youtube_link": "https://www.youtube.com/watch?v=p_ykW731wWA",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "結末から入る：参加できなかった蜂起の代わりに生まれた名曲を先出し",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "プッチーニ",
+    "event_summary": "1876年、17歳のプッチーニは教会オルガニストとして働く音楽一家の跡取りだった。ヴェルディの歌劇《アイーダ》がピサで上演されると知り徒歩で向かい、その舞台に衝撃を受けてオペラ作曲家を志す。この夜の決断が、後の《ラ・ボエーム》などの傑作へとつながった。",
+    "sources": [
+      "https://www.udiscovermusic.jp/classical-features/best-puccini-works-10-essential-pieces",
+      "https://ontomo-mag.com/article/column/puccini/",
+      "https://pietro.music.coocan.jp/storia/puccini_vita.html"
+    ],
+    "hook_copy": "ピサで観た一夜が人生を変えた\nプッチーニの転身",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "教会オルガニストの志望変更",
+        "support_text": "プッチーニ、ピサの一夜",
+        "rank": 3,
+        "recommendation_reason": "職業の変化は伝わるが、劇的な一夜の情景が薄れてしまう。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/puccini/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "出来事主役：肩書きの変化を先出し",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ピサで観た一夜が人生を変えた",
+        "support_text": "プッチーニの転身",
+        "rank": 1,
+        "recommendation_reason": "場面（ピサ）と結末（人生が変わった）を同時に示し、具体的な出来事への興味を引きやすい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.udiscovermusic.jp/classical-features/best-puccini-works-10-essential-pieces",
+          "https://pietro.music.coocan.jp/storia/puccini_vita.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "場面＋結末：地名と一夜を示し運命の転機を予告",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "歩いて向かった先に見た運命",
+        "support_text": "若き日のプッチーニ",
+        "rank": 2,
+        "recommendation_reason": "徒歩という意外な行動が気を引くが、人物名の登場がやや遅れる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.udiscovermusic.jp/classical-features/best-puccini-works-10-essential-pieces"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "行動描写型：徒歩という具体的行動を先出し",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1876年、17歳のプッチーニはイタリア・ルッカの教会でオルガニストとして働いていた。代々音楽家を輩出する家の跡取り息子だった。",
+      "1876年3月、ヴェルディの歌劇《アイーダ》がピサで上演されると知った彼は、片道約20キロの道のりを徒歩で向かったという。",
+      "舞台を観た瞬間、教会音楽家としての道を歩むはずだった17歳の青年の心に、オペラ作曲家になりたいという情熱が一気に燃え上がった。",
+      "この一夜をきっかけに彼はミラノ音楽院への進学を決意し、のちに《ラ・ボエーム》などの傑作を生む世界的な巨匠への一歩を踏み出した。"
+    ],
+    "fb_caption": "1876年、ルッカの教会でオルガンを弾いていた17歳の青年が、ピサで観たヴェルディの歌劇《アイーダ》に心を揺さぶられた。この一夜の衝撃が、後に《ラ・ボエーム》などを生む巨匠プッチーニの人生を決定づけた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=3B9aByKqBmw",
+    "ig_caption": "1876年、ルッカの教会でオルガンを弾いていた17歳の青年が、ピサで観たヴェルディの歌劇《アイーダ》に心を揺さぶられた。この一夜の衝撃が、後に《ラ・ボエーム》などを生む巨匠プッチーニの人生を決定づけた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1876年、ルッカの教会でオルガンを弾いていた17歳の青年が、ピサで観たヴェルディの歌劇《アイーダ》に心を揺さぶられた。この一夜の衝撃が、後に《ラ・ボエーム》などを生む巨匠プッチーニの人生を決定づけた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこの運命の夜を描いた動画「30キロ歩いた夜、全てはここから始まった」も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=3B9aByKqBmw",
+    "youtube_link": "https://www.youtube.com/watch?v=3B9aByKqBmw",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "場面＋結末：地名と一夜を示し運命の転機を予告",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "フルート",
+    "event_summary": "1831年、ロンドンの演奏会でドイツ人フルート職人テオバルト・ベームは、ある奏者の音量に衝撃を受けた。これをきっかけに音響学の原理に基づく改良を重ね、1847年に銀製の「ベーム式フルート」を完成させる。これが現在のモダン・フルートの原型となった。",
+    "sources": [
+      "https://www.yamaha.com/ja/musical_instrument_guide/flute/structure/",
+      "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%BC%E3%83%A0%E5%BC%8F",
+      "https://www.alsoj.net/flute/magazine/view/486/1243.html"
+    ],
+    "hook_copy": "木製の笛を金属に変えた男\nベーム式フルート",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ロンドンの一夜が変えた楽器",
+        "support_text": "フルート誕生秘話",
+        "rank": 2,
+        "recommendation_reason": "場所と時代感は伝わるが、楽器名の登場がやや遅い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%BC%E3%83%A0%E5%BC%8F"
+        ],
+        "fact_status": "verified",
+        "subject_label": "フルート",
+        "hook_pattern": "場面主役：都市と時を先出し",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "木製の笛を金属に変えた男",
+        "support_text": "ベーム式フルート",
+        "rank": 1,
+        "recommendation_reason": "素材の変化という具体的・視覚的な対比で、フルートの歴史への関心を引きやすい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.yamaha.com/ja/musical_instrument_guide/flute/structure/",
+          "https://www.alsoj.net/flute/magazine/view/486/1243.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "フルート",
+        "hook_pattern": "対比型：木製から金属への変化を先出し",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "衝撃の音量が生んだ新型フルート",
+        "support_text": "ベームの挑戦",
+        "rank": 3,
+        "recommendation_reason": "インパクトはあるが、どの楽器がどう変わったかがやや曖昧になる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%BC%E3%83%A0%E5%BC%8F"
+        ],
+        "fact_status": "verified",
+        "subject_label": "フルート",
+        "hook_pattern": "感情反応型：衝撃という感情を先出し",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1831年、ロンドンのある演奏会で、ドイツ人フルート職人テオバルト・ベームは、ある奏者が奏でる圧倒的な音量に衝撃を受けた。",
+      "当時のフルートはまだ木製で指穴も小さく、音程が不安定という大きな欠点を抱えていた。ベームはこの音をきっかけに改良を決意する。",
+      "音響学の原理をもとに、穴の位置とキーの配置を科学的に再設計し、1847年にはついに銀製の新型フルートを完成させたのである。",
+      "この1847年の「ベーム式フルート」が現在のモダン・フルートの原型となり、今でも世界中のオーケストラで使われ続けている。"
+    ],
+    "fb_caption": "1831年、ロンドンのある演奏会場。ドイツ人フルート職人テオバルト・ベームは、ある奏者の圧倒的な音量に衝撃を受けた。この出会いが、現在のモダン・フルートの原型となる「ベーム式フルート」誕生のきっかけになった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1831年、ロンドンのある演奏会場。ドイツ人フルート職人テオバルト・ベームは、ある奏者の圧倒的な音量に衝撃を受けた。この出会いが、現在のモダン・フルートの原型となる「ベーム式フルート」誕生のきっかけになった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1831年、ロンドンのある演奏会場。ドイツ人フルート職人テオバルト・ベームは、ある奏者の圧倒的な音量に衝撃を受けた。この出会いが、現在のモダン・フルートの原型となる「ベーム式フルート」誕生のきっかけになった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n楽器の進化の物語も、またどこかでお届けできればと思います。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "対比型：木製から金属への変化を先出し",
+    "caption_style": "scene"
+  }
+]
