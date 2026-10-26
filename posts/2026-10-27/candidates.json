@@ -1,0 +1,292 @@
+[
+  {
+    "composer": "パガニーニ",
+    "event_summary": "1805年、ナポレオンの妹エリザ・バチョッキがルッカ公国の統治者となり、10月27日生まれのパガニーニを宮廷楽士に迎えた。彼女の「ヴァイオリンの響きは苦手」という反応に応えるように、パガニーニはG線1本だけで弾く離れ業を磨き上げ、ナポレオンの誕生日を祝う場で披露した。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini",
+      "https://en.wikipedia.org/wiki/Sonata_Napoleone",
+      "https://note.com/nagoyaclassicca/n/nbc66fe22b4fd",
+      "https://baike.baidu.com/ja/item/%E3%83%8B%E3%82%B3%E3%83%AD%E3%83%BB%E3%83%91%E3%82%AC%E3%83%8B%E3%83%BC%E3%83%8B/1194541",
+      "https://kids.britannica.com/students/article/Niccol%C3%B2-Paganini/276245"
+    ],
+    "hook_copy": "1805年、ナポレオンの妹が召し抱えた男\nパガニーニ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "1805年、ナポレオンの妹が召し抱えた男",
+        "support_text": "パガニーニ",
+        "rank": 1,
+        "recommendation_reason": "場面から入る型に最も忠実で、年号と政治的背景を先に提示し、名前は補足で回収する構成。日付一致の訴求にも繋げやすい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini",
+          "https://note.com/nagoyaclassicca/n/nbc66fe22b4fd"
+        ],
+        "fact_status": "verified",
+        "subject_label": "パガニーニ",
+        "hook_pattern": "場面提示(年号+人物関係)から入り、名前は補足で回収",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "B",
+        "headline": "パガニーニ、G線1本で弾いた『ナポレオン』",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前主役で技巧の核心を直接見せる案。インパクトはあるが場面の政治的背景が伝わりにくい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Sonata_Napoleone",
+          "https://baike.baidu.com/ja/item/%E3%83%8B%E3%82%B3%E3%83%AD%E3%83%BB%E3%83%91%E3%82%AC%E3%83%8B%E3%83%BC%E3%83%8B/1194541"
+        ],
+        "fact_status": "verified",
+        "subject_label": "パガニーニ",
+        "hook_pattern": "名前主役+技巧の具体名を提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ナポレオンの妹の宮廷で磨かれた超絶技巧",
+        "support_text": "パガニーニ",
+        "rank": 3,
+        "recommendation_reason": "出来事主役で状況を説明する案。情報量はあるが見出しとしてのフックはやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini"
+        ],
+        "fact_status": "verified",
+        "subject_label": "パガニーニ",
+        "hook_pattern": "出来事主役+場の説明",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "1805年、ナポレオンの妹エリザ・バチョッキがルッカ公国の統治者となり、10月27日生まれの若きパガニーニを宮廷楽団に迎え入れた。",
+      "エリザ妃はヴァイオリンの響きが「神経に障る」と零しながらも、パガニーニの才能に魅せられ、次々と新しい演奏法の実験を求め続けた。",
+      "1807年、ナポレオンの誕生日を祝う宮廷の場で、パガニーニはヴァイオリンの1本の弦、G線だけで「ナポレオン・ソナタ」を弾き切ってみせた。",
+      "この挑戦で磨いた超絶技巧こそ、後の「24のカプリース」の礎となった。だがナポレオン没落と共に宮廷は消え、彼は自由な演奏家の道を選んだ。"
+    ],
+    "fb_caption": "1805年、ルッカ公国。ナポレオンの妹エリザ・バチョッキが統治するこの地で、10月27日生まれのニコロ・パガニーニは宮廷楽士として仕えていた。彼女の苦手意識が、後の超絶技巧を生むきっかけになる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=HhKyHnM4Vnk",
+    "ig_caption": "1805年、ルッカ公国。ナポレオンの妹エリザ・バチョッキが統治するこの地で、10月27日生まれのニコロ・パガニーニは宮廷楽士として仕えていた。彼女の苦手意識が、後の超絶技巧を生むきっかけになる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1805年、ルッカ公国。ナポレオンの妹エリザ・バチョッキが統治するこの地で、10月27日生まれのニコロ・パガニーニは宮廷楽士として仕えていた。彼女の苦手意識が、後の超絶技巧を生むきっかけになる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nパガニーニの波乱に満ちた生涯をたどった動画もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=HhKyHnM4Vnk",
+    "youtube_link": "https://www.youtube.com/watch?v=HhKyHnM4Vnk",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "場面提示(年号+人物関係)から入り、名前は補足で回収",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "シューベルト",
+    "event_summary": "1823年、25歳のシューベルトは重い病(梅毒)と診断され、以後健康は悪化の一途をたどった。しかし死の直前の約2年間でむしろ創作は最高潮に達し、弦楽五重奏曲ハ長調や『冬の旅』、最後の3つのピアノソナタなど音楽史に残る傑作を立て続けに完成させ、1828年に31歳で死去した。",
+    "sources": [
+      "https://seven-knives.online/franz-peter-schubert1/",
+      "https://www.atsutake.com/schubert-string-quintet/",
+      "https://www.udiscovermusic.jp/classical-features/best-schubert-works-10-essential-pieces"
+    ],
+    "hook_copy": "死の2年前が、最高傑作ラッシュだった\nシューベルト、病床の創作",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "死の2年前が、最高傑作ラッシュだった",
+        "support_text": "シューベルト、病床の創作",
+        "rank": 1,
+        "recommendation_reason": "結末(最高傑作が死の直前に集中)を先に言い切り、健康悪化という経緯への興味を強く引ける。対象名も補足で明示。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://seven-knives.online/franz-peter-schubert1/",
+          "https://www.atsutake.com/schubert-string-quintet/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "結末先出し型(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "B",
+        "headline": "シューベルト、病床で迎えた最高潮",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前主役で分かりやすいが「最高潮」が何を指すか曖昧で、数字を出したA・Cに比べ引きが弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.atsutake.com/schubert-string-quintet/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "名前主役の情景文",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "C",
+        "headline": "31歳の死の直前、傑作が集中した理由",
+        "support_text": "作曲家シューベルトの最期",
+        "rank": 2,
+        "recommendation_reason": "「理由」を問う形で興味を引けるが、Aほど即座に驚きが伝わらないため次点。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://seven-knives.online/franz-peter-schubert1/",
+          "https://www.udiscovermusic.jp/classical-features/best-schubert-works-10-essential-pieces"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "理由問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1823年、25歳のシューベルトは重い病と診断され、これ以降その体は少しずつ蝕まれていくことになる。それでも彼は筆を止めなかった。",
+      "むしろ死を意識した最後の2年間、創作意欲はかつてないほど高まっていった。まるで残された時間を惜しむように、次々と名作を書き上げていく。",
+      "死の2か月前、弦楽五重奏曲ハ長調を書き上げ、同じ時期に最後の3つのピアノソナタも一気に完成させていた。病床にいながら、筆致には一切の衰えがなかった。",
+      "1828年11月19日、シューベルトは31歳で死去。病に蝕まれた体が生み出したのは、音楽史に輝き続ける最高傑作の数々だった。"
+    ],
+    "fb_caption": "シューベルトが生涯最高の傑作を書き上げたのは、死の床に近い最後の2年間だった。25歳で重い病と診断され、残り少ない時間と知りながら、弦楽五重奏曲や『冬の旅』など不滅の名作を次々と生み出していったのだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=m8uljUEt2N0",
+    "ig_caption": "シューベルトが生涯最高の傑作を書き上げたのは、死の床に近い最後の2年間だった。25歳で重い病と診断され、残り少ない時間と知りながら、弦楽五重奏曲や『冬の旅』など不滅の名作を次々と生み出していったのだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "シューベルトが生涯最高の傑作を書き上げたのは、死の床に近い最後の2年間だった。25歳で重い病と診断され、残り少ない時間と知りながら、弦楽五重奏曲や『冬の旅』など不滅の名作を次々と生み出していったのだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n25歳で試練に直面した若き日のシューベルトを描いた動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=m8uljUEt2N0",
+    "youtube_link": "https://www.youtube.com/watch?v=m8uljUEt2N0",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "結末先出し型(出来事主役)",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ドビュッシー",
+    "event_summary": "ドビュッシーの名曲「月の光」(組曲『ベルガマスク』第3曲)は、1890年頃に作曲が始まった。その組曲名も曲名も、詩人ヴェルレーヌの詩「月の光」にある言葉に由来し、月夜に哀しげに踊る道化師たちの情景が音楽に投影されている。",
+    "sources": [
+      "https://www.worldfolksong.com/classical/debussy/clair-de-lune.html",
+      "https://filmmusik.jp/clair-de-lune/",
+      "https://tsvocalschool.com/classic/clair-de-lune/",
+      "https://music-specialty.com/classic/category89/entry2704.html"
+    ],
+    "hook_copy": "あの「月の光」、曲名の由来は？\nドビュッシーの名曲の秘密",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "あの「月の光」、曲名の由来は？",
+        "support_text": "ドビュッシーの名曲の秘密",
+        "rank": 1,
+        "recommendation_reason": "問いかけから入る型に最も忠実。誰もが知る曲名を直接問うことで、知識ギャップを生みクリックを誘える。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://filmmusik.jp/clair-de-lune/",
+          "https://www.worldfolksong.com/classical/debussy/clair-de-lune.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "直接的問いかけ(？で終える)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ドビュッシーが音にした、一篇の詩",
+        "support_text": "『月の光』の由来",
+        "rank": 2,
+        "recommendation_reason": "名前主役の断定文。詩と音楽の結びつきを情緒的に提示できるが、問いかけ型の割り当てからはやや外れる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://tsvocalschool.com/classic/clair-de-lune/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "名前主役の断定文",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ「月の光」は『ベルガマスク』なのか",
+        "support_text": "ドビュッシーの謎めいた曲名",
+        "rank": 3,
+        "recommendation_reason": "問いの対象が組曲名にまで及び情報量は多いが、一文が長くやや読みにくい。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://music-specialty.com/classic/category89/entry2704.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "曲名の謎を問う形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "ドビュッシーのピアノ曲「月の光」は、組曲『ベルガマスク組曲』の第3曲として1890年頃に書き始められた、よく知られる作品だ。",
+      "実はこの組曲名「ベルガマスク」も曲名「月の光」も、フランスの詩人ポール・ヴェルレーヌの同名の詩から着想を得たものだった。",
+      "ヴェルレーヌの詩は、月明かりの下で仮面をつけ、どこか哀しげに踊る道化師たちの姿を描いた、幻想的で物悲しい詩の一篇だった。",
+      "ドビュッシーはこの詩が持つ美しさと哀愁を、そのままピアノの詩的な響きへと見事に変え、今も世界中で愛される名曲を生み出した。"
+    ],
+    "fb_caption": "あの「月の光」というタイトル、実は誰が名付けたかご存知だろうか？ドビュッシーはこの曲に、ある詩人の一篇からインスピレーションを得ていた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "あの「月の光」というタイトル、実は誰が名付けたかご存知だろうか？ドビュッシーはこの曲に、ある詩人の一篇からインスピレーションを得ていた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "あの「月の光」というタイトル、実は誰が名付けたかご存知だろうか？ドビュッシーはこの曲に、ある詩人の一篇からインスピレーションを得ていた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n何気なく聴いている名曲にも、こうした物語が隠れています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "直接的問いかけ(？で終える)",
+    "caption_style": "question"
+  }
+]
