@@ -1,0 +1,314 @@
+[
+  {
+    "composer": "プッチーニ",
+    "event_summary": "1903年、プッチーニ家に雇われた16歳の小間使いドーリア・マンフレディは、妻エルヴィーラの激しい嫉妬にさらされ続け、1909年に自ら命を絶った。検視の結果、彼女が潔白だったことが判明し、遺族がエルヴィーラを告訴、プッチーニが多額の示談金を支払う事態に発展した。",
+    "sources": [
+      "https://tohotowa.co.jp/roh/news/2023/05/30/kaisetsu_turandot2022/",
+      "https://spice.eplus.jp/articles/318722",
+      "https://pietro.music.coocan.jp/storia/puccini_vita.html",
+      "https://eiga.com/movie/56129/"
+    ],
+    "hook_copy": "嫉妬深い妻が追い詰めた16歳\nプッチーニ家のメイド",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "プッチーニ家、使用人の自殺事件",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "事件そのものを端的に提示する名詞句型。衝撃的な結末を先に見せて興味を引くが、固有名詞が多くやや硬い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://tohotowa.co.jp/roh/news/2023/05/30/kaisetsu_turandot2022/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "名詞句による事件提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "event_centered",
+          "noun_phrase"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "B",
+        "headline": "嫉妬深い妻が追い詰めた16歳",
+        "support_text": "プッチーニ家のメイド",
+        "rank": 1,
+        "recommendation_reason": "「16歳」という具体的な数字と「追い詰めた」という動詞で緊張感を出し、誰が何をしたかが一読でわかる。名前は補足で自然に回収。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://spice.eplus.jp/articles/318722",
+          "https://pietro.music.coocan.jp/storia/puccini_vita.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "数字+動作による緊張提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number_hook",
+          "tension"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "C",
+        "headline": "名作の陰で起きた悲劇",
+        "support_text": "プッチーニとメイド、妻の嫉妬",
+        "rank": 3,
+        "recommendation_reason": "抽象的な「名作の陰で」から入るため興味は引けるが、具体性がA・Bに劣り誰の話か伝わりにくい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://eiga.com/movie/56129/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "抽象提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "abstract",
+          "mystery"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1903年、自動車事故から回復したプッチーニの屋敷に、16歳のドーリア・マンフレディが小間使いとして雇われ、夫妻に大切にされた。",
+      "社交的な夫を妻エルヴィーラは激しく疑い、根拠のないまま何年もドーリアを誹謗し続け、外も自由に歩けないほど追い詰めていった。",
+      "1909年1月、追い詰められたドーリアは服毒自殺。検視で潔白と判明し、遺族の告訴を受けプッチーニは多額の示談金を払った。"
+    ],
+    "fb_caption": "1903年、トスカーナの邸宅に16歳の小間使いが雇われました。プッチーニ夫妻に可愛がられた彼女を待っていたのは、妻の嫉妬が招いた悲劇でした。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=1tUdVI79AY4",
+    "ig_caption": "1903年、トスカーナの邸宅に16歳の小間使いが雇われました。プッチーニ夫妻に可愛がられた彼女を待っていたのは、妻の嫉妬が招いた悲劇でした。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1903年、トスカーナの邸宅に16歳の小間使いが雇われました。プッチーニ夫妻に可愛がられた彼女を待っていたのは、妻の嫉妬が招いた悲劇でした。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこの「妻の嫉妬が招いた悲劇」を描いた動画も、ぜひあわせてご覧ください。\nhttps://www.youtube.com/watch?v=1tUdVI79AY4",
+    "youtube_link": "https://www.youtube.com/watch?v=1tUdVI79AY4",
+    "subject_type": "composer",
+    "theme": "love_family",
+    "hook_pattern": "数字+動作による緊張提示",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "リスト",
+    "event_summary": "1885年、晩年のリストが書いた実験的な小品「バガテル・サン・トナリテ」は生前ほとんど顧みられず、出版されたのは作曲から71年後の1956年だった。今日では20世紀の無調音楽を先取りした先駆的な作品として再評価されている。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagatelle_sans_tonalit%C3%A9",
+      "https://en.wikipedia.org/wiki/Late_works_of_Franz_Liszt",
+      "https://imslp.org/wiki/Bagatelle_sans_tonalit%C3%A9,_S.216a_(Liszt,_Franz)",
+      "https://en.wikipedia.org/wiki/Atonality"
+    ],
+    "hook_copy": "リストが遺した「無調」への先駆け\n出版は死後70年",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "70年封印された前衛作品",
+        "support_text": "リスト最晩年の「調性のない小品」",
+        "rank": 2,
+        "recommendation_reason": "「70年封印」という数字で結末のインパクトを先出しできるが、誰の曲かは補足を読むまでわからない。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://imslp.org/wiki/Bagatelle_sans_tonalit%C3%A9,_S.216a_(Liszt,_Franz)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "数字先出し型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number_hook",
+          "event_centered"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "B",
+        "headline": "リストが遺した「無調」への先駆け",
+        "support_text": "出版は死後70年",
+        "rank": 1,
+        "recommendation_reason": "名前と功績（無調の先駆け）を同時に提示でき、補足の数字で意外性も補強できる。名前主役で説得力が高い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Late_works_of_Franz_Liszt",
+          "https://en.wikipedia.org/wiki/Atonality"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "名前+功績提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "name_centered",
+          "claim"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "C",
+        "headline": "死後70年、無名の小品が再評価",
+        "support_text": "リストの実験精神",
+        "rank": 3,
+        "recommendation_reason": "「再評価」という言葉が直接的すぎてテーマを説明してしまい、驚きが薄れる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Bagatelle_sans_tonalit%C3%A9"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "結論提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "statement"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1885年、晩年を迎えていたフランツ・リストは、特定の調を持たない実験的な小品「バガテル・サン・トナリテ」を書き上げた。",
+      "この曲は生前出版されることもなく、「メフィスト・ワルツ第4番」の下書きとして、手稿の中にひっそりと70年以上も埋もれ続けた。",
+      "出版されたのは作曲から71年後の1956年のこと。今では20世紀の無調音楽をいち早く先取りした先駆的な作品だと高く評価されている。"
+    ],
+    "fb_caption": "リストが晩年に書いた小品は、今では「無調音楽の先駆け」と呼ばれています。しかし出版されたのは作曲から71年後、1956年のことでした。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=xNBLCsDvcuE",
+    "ig_caption": "リストが晩年に書いた小品は、今では「無調音楽の先駆け」と呼ばれています。しかし出版されたのは作曲から71年後、1956年のことでした。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "リストが晩年に書いた小品は、今では「無調音楽の先駆け」と呼ばれています。しかし出版されたのは作曲から71年後、1956年のことでした。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nリストの波乱に満ちた生涯をたどった動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=xNBLCsDvcuE",
+    "youtube_link": "https://www.youtube.com/watch?v=xNBLCsDvcuE",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "名前+功績提示型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ホルスト",
+    "event_summary": "1917年の組曲「惑星」で書かれた「木星」の中間部の旋律に、ホルストは1921年、外交官セシル・スプリング・ライスの詩を乗せて讃美歌『我は汝に誓う、我が祖国よ』を完成させた。この曲は後に英国を代表する讃美歌となり、ダイアナ元妃の結婚式や葬儀でも歌われた。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/I_Vow_to_Thee,_My_Country",
+      "https://en.wikipedia.org/wiki/Thaxted_(tune)",
+      "https://www.songfacts.com/facts/gustav-holst/i-vow-to-thee-my-country",
+      "https://www.mfiles.co.uk/scores/i-vow-to-thee-my-country.htm"
+    ],
+    "hook_copy": "ホルストが『木星』を讃美歌に変えた\n原曲は組曲『惑星』より",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "王室の結婚式でも歌われる旋律の正体",
+        "support_text": "ホルスト『木星』の主題",
+        "rank": 2,
+        "recommendation_reason": "結果（王室行事での使用）から入り興味を引くが、やや情報量が多くヘッドラインが長く感じられる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.songfacts.com/facts/gustav-holst/i-vow-to-thee-my-country"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ホルスト",
+        "hook_pattern": "結果提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "event_centered",
+          "claim"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ホルストが『木星』を讃美歌に変えた",
+        "support_text": "原曲は組曲『惑星』より",
+        "rank": 1,
+        "recommendation_reason": "名前と行為（木星→讃美歌への転用）を直接示し、誰が何をしたか一目で分かる。補足で原曲の出典も明確。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/I_Vow_to_Thee,_My_Country",
+          "https://en.wikipedia.org/wiki/Thaxted_(tune)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ホルスト",
+        "hook_pattern": "名前+行為提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "name_centered",
+          "transformation"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      },
+      {
+        "candidate_id": "C",
+        "headline": "戴冠式にも響く「木星」の隠れた顔",
+        "support_text": "作曲家ホルストの知られざる転用",
+        "rank": 3,
+        "recommendation_reason": "比喩的な「隠れた顔」はやや抽象的で、具体的に何が起きたのかが見出しだけでは伝わりにくい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.mfiles.co.uk/scores/i-vow-to-thee-my-country.htm"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ホルスト",
+        "hook_pattern": "比喩提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "metaphor",
+          "mystery"
+        ],
+        "playbook_score": null,
+        "original_rank": null,
+        "playbook_approved": null
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1917年、作曲家グスターヴ・ホルストが完成させた組曲「惑星」。その「木星」の中間部には、壮大で歌うような旋律があった。",
+      "1918年、外交官セシル・スプリング・ライスが詩『我は汝に誓う、我が祖国よ』を書き上げたが、発表されないまま彼は病に倒れた。",
+      "1921年、親友ラルフ・ヴォーン・ウィリアムズらの勧めを受け、ホルストはこの詩に「木星」の旋律をあてはめ、見事に完成させた。",
+      "今では、この旋律は「ジュピター」の名でも親しまれ、英国を代表する讃美歌としてダイアナ元妃の結婚式と葬儀でも歌われている。"
+    ],
+    "fb_caption": "1917年、ホルストは組曲『惑星』の「木星」に、歌うような壮大な旋律を書き込みました。数年後、この旋律は思いがけない形で生まれ変わります。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1917年、ホルストは組曲『惑星』の「木星」に、歌うような壮大な旋律を書き込みました。数年後、この旋律は思いがけない形で生まれ変わります。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1917年、ホルストは組曲『惑星』の「木星」に、歌うような壮大な旋律を書き込みました。数年後、この旋律は思いがけない形で生まれ変わります。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n壮大な旋律に込められた知られざる物語、お楽しみいただけたでしょうか。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "名前+行為提示型",
+    "caption_style": "scene"
+  }
+]
