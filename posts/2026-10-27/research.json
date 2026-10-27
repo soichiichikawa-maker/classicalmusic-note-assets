@@ -1,0 +1,54 @@
+{
+  "composer": "パガニーニ",
+  "event_summary": "1805年、ナポレオンの妹エリザ・バチョッキがルッカ公国の統治者となり、10月27日生まれのパガニーニを宮廷楽士に迎えた。彼女の「ヴァイオリンの響きは苦手」という反応に応えるように、パガニーニはG線1本だけで弾く離れ業を磨き上げ、ナポレオンの誕生日を祝う場で披露した。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini",
+    "https://en.wikipedia.org/wiki/Sonata_Napoleone",
+    "https://note.com/nagoyaclassicca/n/nbc66fe22b4fd",
+    "https://baike.baidu.com/ja/item/%E3%83%8B%E3%82%B3%E3%83%AD%E3%83%BB%E3%83%91%E3%82%AC%E3%83%8B%E3%83%BC%E3%83%8B/1194541",
+    "https://kids.britannica.com/students/article/Niccol%C3%B2-Paganini/276245"
+  ],
+  "hook_copy": "1805年、[G]ナポレオンの妹[/G]が召し抱えた男\nパガニーニ",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "cb9d54faef3b68d3",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-10-27T07:59:52.794471+00:00",
+    "text": "1805年、[G]ナポレオンの妹[/G]が召し抱えた男\nパガニーニ"
+  },
+  "portrait_prompt": "Portrait of the Italian violinist Niccolò Paganini, based precisely on the attached reference portrait painting. Depict the exact same man: a pale, high rounded forehead, long wavy medium-brown hair with a center part, falling in loose curls past the ears down to the shoulders, framing a long narrow face. Deep-set dark eyes with a calm, faintly knowing gaze, a long straight nose, thin lips with a slight closed-mouth smile, smooth pale ivory complexion with no beard or mustache, no glasses. He wears a dark, almost black, plain double-breasted coat with a wide lapel, a tall white cravat/collar wrapped around the neck, and a small red ribbon or pin on the lapel, exactly as in the reference image — no added gold embroidery or extra ornamentation. Bust-to-shoulder composition, three-quarter turned pose facing slightly to the viewer's left as in the reference. Background is a plain, muted dark brown tone with no visible texture or objects. Illustrated cinematic style, painterly rendering, not photorealistic, soft directional lighting on the face. The illustration must fill the entire canvas edge-to-edge with no border, no vignette, no frame, and no empty margin. No text anywhere in the image.",
+  "middle_slides": [
+    {
+      "text": "1805年、ナポレオンの妹エリザ・バチョッキがルッカ公国の統治者となり、10月27日生まれの若きパガニーニを宮廷楽団に迎え入れた。",
+      "image_prompt": "A young Italian violinist with long wavy medium-brown hair falling past his ears in loose curls, a pale high forehead, deep-set dark eyes, a long straight nose and a thin elegant face, dressed in a plain dark coat with a white cravat, standing respectfully with a violin and bow held at his side in a grand but restrained early-19th-century Italian court hall in Lucca, tall windows, modest gilded moldings, soft daylight streaming in, a sense of a formal welcoming moment into a court orchestra, oil-painting style, painterly rendering, not photorealistic, no text."
+    },
+    {
+      "text": "エリザは彼の音が「神経に障る」と、演奏の途中で席を立つこともあった。だが弦2本だけの曲を聴くと、「1本でも弾けるのか」と挑んだ。",
+      "image_prompt": "The same young violinist — wavy medium-brown hair past the shoulders, pale forehead, dark eyes, thin elegant face, dark coat and white cravat — standing alone on a small court stage mid-performance, violin raised to his chin, intense focused expression, candlelight glowing warmly around him, in the foreground an ornate empty gilded chair with a lady's folded fan left abandoned on the seat, suggesting someone has just left the room, rich red drapery in the dim background, oil-painting style, painterly rendering, not photorealistic, no text."
+    },
+    {
+      "text": "1807年、ナポレオンの誕生日を祝う宮廷の場で、パガニーニはヴァイオリンの1本の弦、G線だけで「ナポレオン・ソナタ」を弾き切ってみせた。",
+      "image_prompt": "The same young violinist with long wavy medium-brown hair, pale high forehead, dark eyes and thin elegant face, dressed in a dark formal coat with white cravat, performing on a candlelit court stage decorated for a celebration with imperial laurel garlands and a draped eagle emblem in the background, his bow drawn close to the bridge of the violin near the lowest string, expression of total concentration and triumph, a grand audience suggested only as soft silhouettes and warm golden light in the distance, oil-painting style, painterly rendering, not photorealistic, no text."
+    },
+    {
+      "text": "1809年、パガニーニは宮廷を去り、自由な演奏家としてイタリア各地を巡り始める。弦1本でも弾き切るその技が、やがてヨーロッパ中を熱狂させた。",
+      "image_prompt": "The same young violinist, wavy medium-brown hair past his shoulders, pale forehead, dark eyes, thin elegant face, dressed in a dark traveling coat, walking along a sunlit Italian country road with rolling hills, cypress trees and a distant hill town, carrying a violin case under one arm, open sky and warm late-afternoon light conveying a sense of freedom and new beginnings, full figure seen from a three-quarter angle with his face visible and turned toward the path ahead, oil-painting style, painterly rendering, not photorealistic, no text."
+    }
+  ],
+  "is_date_match": true,
+  "fb_caption": "1805年、ルッカ公国。ナポレオンの妹エリザ・バチョッキが統治するこの地で、10月27日生まれのニコロ・パガニーニは宮廷楽士として仕えていた。「1本の弦でも弾けるのか」――彼女の挑戦が、G線1本の離れ業を生む。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=HhKyHnM4Vnk",
+  "ig_caption": "1805年、ルッカ公国。ナポレオンの妹エリザ・バチョッキが統治するこの地で、10月27日生まれのニコロ・パガニーニは宮廷楽士として仕えていた。「1本の弦でも弾けるのか」――彼女の挑戦が、G線1本の離れ業を生む。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1805年、ルッカ公国。ナポレオンの妹エリザ・バチョッキが統治するこの地で、10月27日生まれのニコロ・パガニーニは宮廷楽士として仕えていた。「1本の弦でも弾けるのか」――彼女の挑戦が、G線1本の離れ業を生む。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nパガニーニの波乱に満ちた生涯をたどった動画もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=HhKyHnM4Vnk",
+  "youtube_link": "https://www.youtube.com/watch?v=HhKyHnM4Vnk",
+  "today_date_label": "10月27日",
+  "subject_type": "composer",
+  "theme": "politics_war",
+  "hook_pattern": null,
+  "caption_style": "scene",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Paganini.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "hook_source": "system",
+  "hook_original": "1805年、ナポレオンの妹が召し抱えた男\nパガニーニ",
+  "hook_edit_ratio": 0.0,
+  "hook_markup_by": "human"
+}
