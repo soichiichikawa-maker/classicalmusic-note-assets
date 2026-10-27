@@ -1,0 +1,306 @@
+[
+  {
+    "composer": "スメタナ",
+    "event_summary": "1848年、24歳のスメタナはプラハで起きた反ハプスブルクの蜂起に加わり、カレル橋のバリケード設営や愛国的な行進曲の作曲で革命を支えた。蜂起はオーストリア軍に鎮圧され失敗に終わったが、彼はわずか2年後、かつて戦ったはずの皇帝フェルディナント1世の宮廷ピアニストに就任するという皮肉な転身を遂げた。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%89%E3%83%AB%E3%82%B8%E3%83%8F%E3%83%BB%E3%82%B9%E3%83%A1%E3%82%BF%E3%83%8A",
+      "https://acros.or.jp/magazine/music20.html",
+      "https://wso-tokyo.jp/pre/ma-vlast-overview/"
+    ],
+    "hook_copy": "スメタナ、かつての敵に仕える",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "革命戦士が皇帝の宮廷へ",
+        "support_text": "スメタナの転身",
+        "rank": 2,
+        "recommendation_reason": "出来事の意外性を前面に出す案。結末から入る型に合わせやすいが、対象名が補足側に回るため瞬時の認知はB案よりやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%89%E3%83%AB%E3%82%B8%E3%83%8F%E3%83%BB%E3%82%B9%E3%83%A1%E3%82%BF%E3%83%8A"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "名詞句(出来事主体)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "スメタナ、かつての敵に仕える",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "名前と結末を1文に凝縮でき、最少文字数で最大の意外性（革命家が皇帝の宮廷に）を伝えられる。結末から入る型と最も相性が良い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://acros.or.jp/magazine/music20.html",
+          "https://wso-tokyo.jp/pre/ma-vlast-overview/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "名前主体+対比断定",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ反逆者が宮廷に迎えられたのか",
+        "support_text": "スメタナ",
+        "rank": 3,
+        "recommendation_reason": "問いかけ型で興味を引くが、文字数が増え画面上の説明文に近くなり、見出しとしての切れ味はB案に劣る。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%89%E3%83%AB%E3%82%B8%E3%83%8F%E3%83%BB%E3%82%B9%E3%83%A1%E3%82%BF%E3%83%8A"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1848年、24歳のスメタナは祖国プラハの反ハプスブルク蜂起に加わり、バリケードを築き、民衆を鼓舞する行進曲も作曲した。",
+      "しかし蜂起は、まもなくオーストリア軍によって鎮圧され、若き日のスメタナが夢見ていたチェコ独立の願いは潰えてしまったのだ。",
+      "ところが2年後の1850年、なんとスメタナは、かつて戦った相手である皇帝フェルディナント1世の宮廷ピアニストに就任した。",
+      "革命で武器を取った若者は、のちにかつての敵の宮廷に仕えることになった。まさに歴史の皮肉というほかない巡り合わせだったのだ。"
+    ],
+    "fb_caption": "宮廷ピアニストに就任したのは、かつて皇帝打倒のバリケードを築いた革命家だった。1848年の蜂起に加わったスメタナは、わずか2年後、自らが戦った相手の宮廷に仕えることになる。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "宮廷ピアニストに就任したのは、かつて皇帝打倒のバリケードを築いた革命家だった。1848年の蜂起に加わったスメタナは、わずか2年後、自らが戦った相手の宮廷に仕えることになる。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "宮廷ピアニストに就任したのは、かつて皇帝打倒のバリケードを築いた革命家だった。1848年の蜂起に加わったスメタナは、わずか2年後、自らが戦った相手の宮廷に仕えることになる。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n祖国への想いを生涯貫いた作曲家の歩みに、思いを馳せてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "名前主体+対比断定",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ハイドン",
+    "event_summary": "1809年、ナポレオン軍占領下のウィーンで“交響曲の父”ハイドンが死去した。埋葬直後、熱烈な崇拝者たちがひそかに墓を掘り返して頭蓋骨を切断・持ち去り、遺体は11年間も首の無いままだった。本物の頭蓋骨はその後も複数の人の手を転々とし、死から145年後の1954年にようやく胴体と再会した。",
+    "sources": [
+      "https://www.afpbb.com/articles/-/3315751",
+      "https://m-mom.net/archives/2716",
+      "https://toshisuzuki.com/2015/10/12/post-1705/"
+    ],
+    "hook_copy": "ハイドンの頭、150年の放浪",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "死後11年、首だけ消えた",
+        "support_text": "ハイドン",
+        "rank": 3,
+        "recommendation_reason": "数字で衝撃を伝える案だが、「11年」と「150年」の2つの数字が混在する逸話のため、どちらを見出しにするか迷いが生じやすい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://m-mom.net/archives/2716"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ハイドン",
+        "hook_pattern": "数字+事件型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ハイドンの頭、150年の放浪",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前と最終的な年数を1文で提示でき、場面から入るキャプションとも噛み合う。逸話全体のスケール感が一瞬で伝わる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.afpbb.com/articles/-/3315751",
+          "https://m-mom.net/archives/2716"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ハイドン",
+        "hook_pattern": "名前主体+数字",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ遺体に頭が無かったのか",
+        "support_text": "ハイドン",
+        "rank": 1,
+        "recommendation_reason": "ミステリー調の問いかけで続きを見たくなるが、答えが複数段階（盗難・発覚・帰還）にまたがるため着地点がやや曖昧になりやすい。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://toshisuzuki.com/2015/10/12/post-1705/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ハイドン",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1809年5月31日、ナポレオン軍占領下のウィーンで、交響曲の父ハイドンは77歳の生涯を静かに閉じ、翌日ひっそり埋葬された。",
+      "ところが埋葬から数日後、ハイドンを熱烈に崇拝していた男たちが、ひそかに墓を掘り返し、頭部だけを切断して持ち去っていたのだ。",
+      "11年後の1820年、遺体をゆかりの地エステルハージ家へ改葬しようとした際、棺に頭部が無いことが発覚し、大騒ぎとなった。",
+      "その後、頭蓋骨は研究者や収集家の手を転々とし、死から145年後の1954年、ようやく2度目の葬儀を経て胴体と再会できた。"
+    ],
+    "fb_caption": "1809年5月、ナポレオン軍占領下のウィーン。“交響曲の父”ハイドンが息を引き取った数日後、何者かが密かに彼の墓を掘り返していた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1809年5月、ナポレオン軍占領下のウィーン。“交響曲の父”ハイドンが息を引き取った数日後、何者かが密かに彼の墓を掘り返していた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1809年5月、ナポレオン軍占領下のウィーン。“交響曲の父”ハイドンが息を引き取った数日後、何者かが密かに彼の墓を掘り返していた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n“交響曲の父”と呼ばれたハイドンの知られざる一面に、触れてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "名前主体+数字",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "トロンボーン",
+    "event_summary": "15世紀のヨーロッパで「サックバット」として誕生したトロンボーンは、スライドで音程を自在に変えられる珍しい楽器として、長らく教会専用の『神の楽器』扱いだった。1808年、ベートーヴェンが交響曲第5番『運命』の終楽章で世俗の交響曲に初めて導入したことをきっかけに、19世紀を通じてオーケストラに欠かせない楽器として定着していった。",
+    "sources": [
+      "https://www.yamaha.com/ja/musical_instrument_guide/trombone/structure/",
+      "https://www.musashino-music.ac.jp/guide/facilities/museum/web_museum/0063",
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%B3"
+    ],
+    "hook_copy": "トロンボーンはなぜ神の楽器なのか",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "教会専用、300年",
+        "support_text": "トロンボーンの秘密",
+        "rank": 2,
+        "recommendation_reason": "年数の意外性で惹きつける案。場面から入る型と相性が良いが、楽器名が補足側に回るため初見での認知がB案よりやや弱い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.musashino-music.ac.jp/guide/facilities/museum/web_museum/0063"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トロンボーン",
+        "hook_pattern": "数字+事実提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "トロンボーンはなぜ神の楽器なのか",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "楽器名を主語にした問いかけで、身近な楽器への意外な呼び名のギャップを一瞬で提示できる。説明せずとも中身への興味が湧く構成。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.musashino-music.ac.jp/guide/facilities/museum/web_museum/0063",
+          "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%B3"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トロンボーン",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": 0,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ベートーヴェンが変えた運命",
+        "support_text": "トロンボーンの地位",
+        "rank": 1,
+        "recommendation_reason": "作曲家名で親しみやすさを狙えるが、『運命』が交響曲タイトルか比喩か一瞬で判別しづらく、楽器そのものへの興味喚起はB案に劣る。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.yamaha.com/ja/musical_instrument_guide/trombone/structure/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トロンボーン",
+        "hook_pattern": "作曲家名+事件型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "15世紀半ばのヨーロッパで、スライドにより音程を自在に変えられる「サックバット」として、トロンボーンの原型が静かに生まれた。",
+      "教会専属の『神の楽器』として扱われた時代が約300年近くも続き、モーツァルトも『レクイエム』で神の裁きの場面にのみ使った。",
+      "1808年、ベートーヴェンは交響曲第5番『運命』の終楽章で、世俗の交響曲に初めてトロンボーンを響かせ、聴衆を大いに驚かせた。",
+      "この一曲をきっかけに、トロンボーンは19世紀を通じてオーケストラに定着し、教会専用だった楽器は世俗の主役へと完全に変わった。"
+    ],
+    "fb_caption": "15世紀のヨーロッパ、教会の薄暗い礼拝堂に響いていたのは、後に『トロンボーン』と呼ばれる楽器の原型の音色だった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "15世紀のヨーロッパ、教会の薄暗い礼拝堂に響いていたのは、後に『トロンボーン』と呼ばれる楽器の原型の音色だった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "15世紀のヨーロッパ、教会の薄暗い礼拝堂に響いていたのは、後に『トロンボーン』と呼ばれる楽器の原型の音色だった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n普段何気なく耳にする楽器にも、意外な歴史が隠れています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "問いかけ型",
+    "caption_style": "scene"
+  }
+]
