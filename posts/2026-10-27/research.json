@@ -46,7 +46,7 @@
   "theme": "politics_war",
   "hook_pattern": null,
   "caption_style": "scene",
-  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Paganini.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "portrait_reference_image_url": "https://raw.githubusercontent.com/soichiichikawa-maker/classicalmusic-note-assets/main/reference/paganini_channel_face.png",
   "hook_source": "system",
   "hook_original": "1805年、ナポレオンの妹が召し抱えた男\nパガニーニ",
   "hook_edit_ratio": 0.0,
