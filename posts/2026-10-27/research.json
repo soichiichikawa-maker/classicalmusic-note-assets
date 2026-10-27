@@ -8,14 +8,14 @@
     "https://baike.baidu.com/ja/item/%E3%83%8B%E3%82%B3%E3%83%AD%E3%83%BB%E3%83%91%E3%82%AC%E3%83%8B%E3%83%BC%E3%83%8B/1194541",
     "https://kids.britannica.com/students/article/Niccol%C3%B2-Paganini/276245"
   ],
-  "hook_copy": "1805年、[G]ナポレオンの妹[/G]が召し抱えた男\nパガニーニ",
+  "hook_copy": "今日は[G]パガニーニの誕生日[/G]\nナポレオンの妹に仕えた天才",
   "hook_options": [],
   "hook_selection": {
     "candidate_id": "custom",
-    "proposal_revision": "cb9d54faef3b68d3",
+    "proposal_revision": "28cff4b771f54e3a",
     "selected_by": "soichiichikawa-maker",
-    "approved_at": "2026-10-27T07:59:52.794471+00:00",
-    "text": "1805年、[G]ナポレオンの妹[/G]が召し抱えた男\nパガニーニ"
+    "approved_at": "2026-10-27T09:56:49.075958+00:00",
+    "text": "今日は[G]パガニーニの誕生日[/G]\nナポレオンの妹に仕えた天才"
   },
   "portrait_prompt": "Portrait of the Italian violinist Niccolò Paganini, based precisely on the attached reference image. Depict the exact same man and face: a gaunt, long narrow face with hollow cheeks and prominent cheekbones, long wavy jet-black hair parted in the center falling in loose curls to the shoulders, short dark sideburns along the jaw, a high pale forehead, piercing pale grey-blue eyes under strong dark brows, a long sharp nose, thin lips with a faint knowing closed-mouth smile, pale complexion, no glasses. He wears a black coat with a high white collar and dark cravat. Bust-to-shoulder composition, slight three-quarter turn as in the reference. Background is a plain, muted dark tone with no visible objects. Illustrated cinematic style, painterly rendering, not photorealistic, soft directional lighting on the face. The illustration must fill the entire canvas edge-to-edge with no border, no vignette, no frame, and no empty margin. No text anywhere in the image.",
   "middle_slides": [
@@ -47,8 +47,8 @@
   "hook_pattern": null,
   "caption_style": "scene",
   "portrait_reference_image_url": "https://raw.githubusercontent.com/soichiichikawa-maker/classicalmusic-note-assets/main/reference/paganini_channel_face.png",
-  "hook_source": "system",
-  "hook_original": "1805年、ナポレオンの妹が召し抱えた男\nパガニーニ",
-  "hook_edit_ratio": 0.0,
+  "hook_source": "edited",
+  "hook_original": "パガニーニ、G線1本で弾いた『ナポレオン』",
+  "hook_edit_ratio": 0.535,
   "hook_markup_by": "human"
 }
