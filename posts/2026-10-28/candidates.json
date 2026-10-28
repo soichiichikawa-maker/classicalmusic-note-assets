@@ -109,89 +109,13 @@
       "https://toshisuzuki.com/2015/10/12/post-1705/"
     ],
     "hook_copy": "ハイドンの頭、150年の放浪",
-    "hook_options": [
-      {
-        "candidate_id": "A",
-        "headline": "死後11年、首だけ消えた",
-        "support_text": "ハイドン",
-        "rank": 3,
-        "recommendation_reason": "数字で衝撃を伝える案だが、「11年」と「150年」の2つの数字が混在する逸話のため、どちらを見出しにするか迷いが生じやすい。",
-        "payoff_slide": 3,
-        "fact_sources": [
-          "https://m-mom.net/archives/2716"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ハイドン",
-        "hook_pattern": "数字+事件型",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "number",
-          "surprising_fact"
-        ],
-        "playbook_score": 0.09,
-        "original_rank": 3,
-        "playbook_approved": "2026-10-16"
-      },
-      {
-        "candidate_id": "B",
-        "headline": "ハイドンの頭、150年の放浪",
-        "support_text": "",
-        "rank": 2,
-        "recommendation_reason": "名前と最終的な年数を1文で提示でき、場面から入るキャプションとも噛み合う。逸話全体のスケール感が一瞬で伝わる。",
-        "payoff_slide": 4,
-        "fact_sources": [
-          "https://www.afpbb.com/articles/-/3315751",
-          "https://m-mom.net/archives/2716"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ハイドン",
-        "hook_pattern": "名前主体+数字",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "number",
-          "surprising_fact"
-        ],
-        "playbook_score": 0.09,
-        "original_rank": 1,
-        "playbook_approved": "2026-10-16"
-      },
-      {
-        "candidate_id": "C",
-        "headline": "なぜ遺体に頭が無かったのか",
-        "support_text": "ハイドン",
-        "rank": 1,
-        "recommendation_reason": "ミステリー調の問いかけで続きを見たくなるが、答えが複数段階（盗難・発覚・帰還）にまたがるため着地点がやや曖昧になりやすい。",
-        "payoff_slide": 2,
-        "fact_sources": [
-          "https://toshisuzuki.com/2015/10/12/post-1705/"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ハイドン",
-        "hook_pattern": "問いかけ型",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "surprising_fact"
-        ],
-        "playbook_score": 0.12,
-        "original_rank": 2,
-        "playbook_approved": "2026-10-16"
-      }
-    ],
+    "hook_options": [],
     "hook_selection": null,
     "is_date_match": false,
     "middle_slides": [
       "1809年5月31日、ナポレオン軍占領下のウィーンで、交響曲の父ハイドンは77歳の生涯を静かに閉じ、翌日ひっそり埋葬された。",
       "ところが埋葬から数日後、ハイドンを熱烈に崇拝していた男たちが、ひそかに墓を掘り返し、頭部だけを切断して持ち去っていたのだ。",
-      "11年後の1820年、遺体をゆかりの地エステルハージ家へ改葬しようとした際、棺に頭部が無いことが発覚し、大騒ぎとなった。",
+      "11年後の1820年、遺体をゆかりの地アイゼンシュタットへ改葬しようとした際、棺に頭部が無いことが発覚し、大騒ぎとなった。",
       "その後、頭蓋骨は研究者や収集家の手を転々とし、死から145年後の1954年、ようやく2度目の葬儀を経て胴体と再会できた。"
     ],
     "fb_caption": "1809年5月、ナポレオン軍占領下のウィーン。“交響曲の父”ハイドンが息を引き取った数日後、何者かが密かに彼の墓を掘り返していた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
@@ -257,7 +181,7 @@
         "reference_metric_basis": "",
         "reference_limitations": "近い同形式の実績参照がないため編集判断",
         "expression_types": [],
-        "playbook_score": 0,
+        "playbook_score": 0.0,
         "original_rank": 1,
         "playbook_approved": "2026-10-16"
       },
