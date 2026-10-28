@@ -1,0 +1,52 @@
+{
+  "composer": "ハイドン",
+  "event_summary": "1809年、ナポレオン軍占領下のウィーンで“交響曲の父”ハイドンが死去した。埋葬直後、熱烈な崇拝者たちがひそかに墓を掘り返して頭蓋骨を切断・持ち去り、遺体は11年間も首の無いままだった。本物の頭蓋骨はその後も複数の人の手を転々とし、死から145年後の1954年にようやく胴体と再会した。",
+  "sources": [
+    "https://www.afpbb.com/articles/-/3315751",
+    "https://m-mom.net/archives/2716",
+    "https://toshisuzuki.com/2015/10/12/post-1705/"
+  ],
+  "hook_copy": "なぜ遺体に[G]頭が無かった[/G]のか\nハイドン",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "50f88ebe7269dc48",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-10-28T08:12:20.926981+00:00",
+    "text": "なぜ遺体に[G]頭が無かった[/G]のか\nハイドン"
+  },
+  "portrait_prompt": "A richly painted illustrated portrait of Joseph Haydn, based directly on the attached reference portrait (in the style of Thomas Hardy's 1791 painting). Depict an elderly man around 60 years old with a fleshy, ruddy, slightly smiling round face, soft jowls, a prominent straight nose, deep-set warm brown eyes under arched eyebrows, and a receding hairline showing bare forehead at the temples. He wears a voluminous powdered white wig with tight curled rolls at the sides covering the ears. He is dressed in a dark greenish-black coat with a high collar, a soft white ruffled lace cravat at the neck, and a delicate white lace cuff visible at the wrist of his raised hand, which holds a thin rolled baton or scroll of manuscript paper. The background is a muted warm brown with a soft diffused reddish glow, kept simple and nearly solid in tone. Bust-to-shoulder composition, facing slightly to the side with eyes toward the viewer. Illustrated cinematic style, painterly rendering, not photorealistic. No text anywhere in the image. The painting must fill the entire canvas edge to edge with no border, no vignette, no frame, and no empty margin around the edges.",
+  "middle_slides": [
+    {
+      "text": "1809年5月31日、ナポレオン軍占領下のウィーンで、交響曲の父ハイドンは77歳の生涯を静かに閉じ、翌日ひっそり埋葬された。",
+      "image_prompt": "An oil-painting style scene set in a modest, dim bedchamber in Vienna in 1809, lit by a single flickering candle. An elderly man with a fleshy, ruddy face, soft jowls, a prominent straight nose, and a receding hairline, wearing a simple white sleeping cap instead of his usual powdered wig, lies peacefully in a bed with closed eyes, hands folded in quiet repose, as if having just died serenely. Through a small window in the background, distant smoke and the silhouettes of Napoleonic soldiers and a flag are faintly visible over the rooftops of occupied Vienna, suggesting the city under military occupation. The mood is solemn, hushed, and still. Painterly rendering, muted warm candlelit tones, not photorealistic, no text anywhere."
+    },
+    {
+      "text": "ところが埋葬から数日後、ハイドンを熱烈に崇拝していた男たちが、ひそかに墓を掘り返し、頭部だけを切断して持ち去っていたのだ。",
+      "image_prompt": "An oil-painting style nocturnal cemetery scene in Vienna, moonlight breaking through clouds over a modest graveyard. A freshly disturbed grave is shown with earth piled beside an open pit and a plain wooden coffin partly visible, its lid pried open at one end. Two shadowy men in dark early-19th-century coats and hats crouch furtively beside the grave, one holding a lantern, the other reaching into the coffin, their faces obscured by shadow and the brims of their hats, conveying secrecy and transgression rather than graphic detail. No clear faces are shown on the men. The composition emphasizes looming tombstones, mist, and pale moonlight for a gothic, suspenseful mood. Painterly rendering, muted blue-grey nocturnal palette, not photorealistic, no text anywhere."
+    },
+    {
+      "text": "11年後の1820年、遺体をゆかりの地アイゼンシュタットへ改葬しようとした際、棺に頭部が無いことが発覚し、大騒ぎとなった。",
+      "image_prompt": "An oil-painting style interior scene inside a stone church crypt in Eisenstadt in 1820, lit by candelabra and torchlight. A group of formally dressed aristocratic mourners and clergy in early-19th-century attire stand around an open coffin on a draped bier, their faces and gestures showing shock and dismay as they look down into the coffin. Inside the coffin, a body dressed in fine burial clothing lies headless, the area above the shoulders covered by a cloth, with no head visible, conveying the shocking discovery without graphic detail. The architecture is grand with stone arches and flickering shadows. Painterly rendering, warm candlelit tones mixed with cold stone greys, not photorealistic, no text anywhere."
+    },
+    {
+      "text": "その後、頭蓋骨は研究者や収集家の手を転々とし、死から145年後の1954年、ようやく2度目の葬儀を経て胴体と再会できた。",
+      "image_prompt": "An oil-painting style solemn funeral procession scene inside a grand cathedral in Eisenstadt in 1954, filled with soft light from tall windows. A dignified honor guard and mourners in mid-20th-century formal dress process slowly, carrying an ornate carved wooden box containing a skull toward a marble tomb where a coffin already rests, symbolizing the reunion of the skull with the body after many years apart. Nearby, a painted portrait bust or memorial image of an elderly man with a fleshy, ruddy face, soft jowls, a prominent straight nose, and a powdered white curled wig rests on the tomb, representing the composer being honored, kept respectful and non-graphic. The atmosphere is reverent and ceremonial, with soft golden light. Painterly rendering, warm and solemn palette, not photorealistic, no text anywhere."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1809年5月、ナポレオン軍占領下のウィーン。“交響曲の父”ハイドンが息を引き取った数日後、何者かが密かに彼の墓を掘り返していた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1809年5月、ナポレオン軍占領下のウィーン。“交響曲の父”ハイドンが息を引き取った数日後、何者かが密かに彼の墓を掘り返していた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1809年5月、ナポレオン軍占領下のウィーン。“交響曲の父”ハイドンが息を引き取った数日後、何者かが密かに彼の墓を掘り返していた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n“交響曲の父”と呼ばれたハイドンの知られざる一面に、触れてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "death",
+  "hook_pattern": null,
+  "caption_style": "scene",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "hook_source": "system",
+  "hook_original": "なぜ遺体に頭が無かったのか ハイドン",
+  "hook_edit_ratio": 0.0,
+  "hook_markup_by": "human"
+}
