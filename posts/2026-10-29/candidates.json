@@ -1,0 +1,323 @@
+[
+  {
+    "composer": "ショスタコーヴィチ",
+    "event_summary": "ショスタコーヴィチは1948年にヴァイオリン協奏曲第1番を書き上げたが、前衛的すぎるとして「ジダーノフ批判」の標的にされかねず、発表を見送った。スターリンの死後、雪解けの空気の中で1955年10月29日にようやく初演され、国内外で大成功を収めた。",
+    "sources": [
+      "https://www.hyperion-records.co.uk/dw.asp?dc=W17397_68313",
+      "https://en.wikipedia.org/wiki/Violin_Concerto_No._1_(Shostakovich)",
+      "https://www.boosey.com/cr/music/Dmitri-Shostakovich-Concerto-for-Violin-and-Orchestra-No-1-in-A-minor/6182",
+      "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3%E5%8D%94%E5%A5%8F%E6%9B%B2%E7%AC%AC1%E7%95%AA_(%E3%82%B7%E3%83%A7%E3%82%B9%E3%82%BF%E3%82%B3%E3%83%BC%E3%83%B4%E3%82%A3%E3%83%81)",
+      "https://www.indianapolissymphony.org/backstage/program-notes/shostakovich-concerto-no-1-in-a-minor/"
+    ],
+    "hook_copy": "ショスタコーヴィチが隠した協奏曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "7年封印された協奏曲",
+        "support_text": "ショスタコーヴィチの“幻の曲”",
+        "rank": 2,
+        "recommendation_reason": "数字(7年)で引きを作れるが、誰の曲かは補足を読むまで分からず、名前主役のBよりやや弱い",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.hyperion-records.co.uk/dw.asp?dc=W17397_68313",
+          "https://en.wikipedia.org/wiki/Violin_Concerto_No._1_(Shostakovich)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショスタコーヴィチ",
+        "hook_pattern": "数字訴求型(年数を前面に出す)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ショスタコーヴィチが隠した協奏曲",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "作曲家名を主役にしつつ「隠した」という行為で謎を作り、初見でも人物と状況が同時に伝わる",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.boosey.com/cr/music/Dmitri-Shostakovich-Concerto-for-Violin-and-Orchestra-No-1-in-A-minor/6182",
+          "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3%E5%8D%94%E5%A5%8F%E6%9B%B2%E7%AC%AC1%E7%95%AA_(%E3%82%B7%E3%83%A7%E3%82%B9%E3%82%BF%E3%82%B3%E3%83%BC%E3%83%B4%E3%82%A3%E3%83%81)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショスタコーヴィチ",
+        "hook_pattern": "人物主役型(動詞で謎を作る)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ7年も封印されたのか",
+        "support_text": "ショスタコーヴィチの協奏曲",
+        "rank": 1,
+        "recommendation_reason": "問いかけで好奇心を刺激できる定番の型。今日の枠指定に沿う安全な次点案",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.indianapolissymphony.org/backstage/program-notes/shostakovich-concerto-no-1-in-a-minor/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショスタコーヴィチ",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "1948年、ショスタコーヴィチはヴァイオリニストのダヴィッド・オイストラフのために、渾身のヴァイオリン協奏曲第1番を書き上げた。",
+      "しかし当時はソ連当局による「ジダーノフ批判」の真っ只中で、前衛的な作風は断罪の対象。発表すれば身の破滅を招きかねず、彼は楽譜を机にしまい込んだ。",
+      "転機はスターリンの死だった。雪解けの空気が流れ始めた1955年、初演の許可がようやく下り、独奏はオイストラフに託された。",
+      "今日10月29日、レニングラードで初演が行われ、作品は国内外で大成功を収めた。7年越しの「幻の協奏曲」は、ついに日の目を見た。"
+    ],
+    "fb_caption": "今日10月29日は、ある名曲が「幻の協奏曲」から解き放たれた日だとご存知でしょうか？ショスタコーヴィチが1948年に書き上げたヴァイオリン協奏曲第1番は、政治的な理由で7年間も机の中に眠っていました。1955年のこの日ようやく初演を迎え、今では代表作のひとつに数えられています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "今日10月29日は、ある名曲が「幻の協奏曲」から解き放たれた日だとご存知でしょうか？ショスタコーヴィチが1948年に書き上げたヴァイオリン協奏曲第1番は、政治的な理由で7年間も机の中に眠っていました。1955年のこの日ようやく初演を迎え、今では代表作のひとつに数えられています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "今日10月29日は、ある名曲が「幻の協奏曲」から解き放たれた日だとご存知でしょうか？ショスタコーヴィチが1948年に書き上げたヴァイオリン協奏曲第1番は、政治的な理由で7年間も机の中に眠っていました。1955年のこの日ようやく初演を迎え、今では代表作のひとつに数えられています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n政治に翻弄されながらも後世に残った、知られざる一曲のエピソードでした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "人物主役型(動詞で謎を作る)",
+    "caption_style": "question"
+  },
+  {
+    "composer": "エルガー",
+    "event_summary": "英国を代表する作曲家エルガーは、家計の事情で音楽院に進めず、15歳で学校を辞めて弁護士事務所の事務員になった。性に合わず1年ほどで退職し、音楽の道へ。22歳では精神病院の楽団指揮者という異色の職を経て力を蓄えた。",
+    "sources": [
+      "https://www.newworldencyclopedia.org/entry/Edward_Elgar",
+      "https://www.gramophone.co.uk/composers/edward-elgar-35257",
+      "https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/the-firs/sir-edward-elgar-at-the-firs",
+      "https://en.wikipedia.org/wiki/Edward_Elgar",
+      "https://en.wikipedia.org/wiki/Powick_Asylum_Music"
+    ],
+    "hook_copy": "弁護士事務所から精神病院へ\n若き日のエルガーの転身",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "エルガー、精神病院の楽団指揮者に",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "事実をそのまま提示する短文。意外性はあるが前後の経緯が見えずBよりやや弱い",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Powick_Asylum_Music"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "事実提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "弁護士事務所から精神病院へ",
+        "support_text": "若き日のエルガーの転身",
+        "rank": 1,
+        "recommendation_reason": "対照的な2つの職場を並べることで「なぜ」を生み、名前を知らない層でも状況だけで引きが作れる",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.newworldencyclopedia.org/entry/Edward_Elgar",
+          "https://www.gramophone.co.uk/composers/edward-elgar-35257"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "対比型(出来事先行)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "英国の巨匠、最初の仕事は？",
+        "support_text": "弁護士事務所のエルガー",
+        "rank": 2,
+        "recommendation_reason": "問いかけで入り、割り当て型に合致する安全な次点案",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/the-firs/sir-edward-elgar-at-the-firs"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "question"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "名門音楽院に通う夢を持ちながらも家計が許さず、エルガーは15歳で学校を辞め、地元の弁護士事務所で事務員として働き始めた。",
+      "しかし机に向かう事務仕事は性に合わず、1年ほどで退職。ピアノとバイオリンのレッスンで生計を立てる、音楽一本の道を選んだ。",
+      "22歳で就いた次の仕事は、なんと精神病院の患者たちのための楽団の指揮者。あらゆる楽器を扱う経験が、作曲家としての地力を鍛えた。",
+      "弁護士事務所の事務員だった青年は、楽団指揮者としての経験を糧に作曲を重ね、やがて英国を代表する作曲家として名を残すことになる。"
+    ],
+    "fb_caption": "英国を代表するこの作曲家、最初の職業が弁護士事務所の事務員だったのをご存知でしょうか？望んだ音楽院には進めず、15歳で法律事務所に就職したエルガー。わずか1年で退職し、22歳では精神病院の楽団指揮者という異色のキャリアを経て、音楽の道を切り拓いていきました🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "英国を代表するこの作曲家、最初の職業が弁護士事務所の事務員だったのをご存知でしょうか？望んだ音楽院には進めず、15歳で法律事務所に就職したエルガー。わずか1年で退職し、22歳では精神病院の楽団指揮者という異色のキャリアを経て、音楽の道を切り拓いていきました🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "英国を代表するこの作曲家、最初の職業が弁護士事務所の事務員だったのをご存知でしょうか？望んだ音楽院には進めず、15歳で法律事務所に就職したエルガー。わずか1年で退職し、22歳では精神病院の楽団指揮者という異色のキャリアを経て、音楽の道を切り拓いていきました🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n弁護士事務所の事務員から名作曲家へ――意外な経歴のエピソードでした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "対比型(出来事先行)",
+    "caption_style": "question"
+  },
+  {
+    "composer": "ラヴェル",
+    "event_summary": "第一次世界大戦が始まると、作曲家ラヴェルは真っ先に志願したが、小柄な体格と持病を理由に陸軍にも空軍にも入隊を拒否され続けた。それでも粘り強く志願を続け、1915年にようやくトラック運転手として従軍し、激戦地ヴェルダンへ物資を運んだ。",
+    "sources": [
+      "https://www.worldhistory.org/Maurice_Ravel/",
+      "https://www.classical-music.com/features/composers/what-did-maurice-ravel-do-during-world-war-1",
+      "https://www.rncm.ac.uk/paris-manchester-1918/musicians-front-musicians-home-front/maurice-ravel/",
+      "https://www.newworldencyclopedia.org/entry/Maurice_Ravel",
+      "https://interlude.hk/musical-voices-wwi-1914-18-ravel-berg-butterworth/"
+    ],
+    "hook_copy": "飛行士を夢見た男、トラック運転手に\n作曲家ラヴェルの従軍",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ラヴェルが選んだ戦場はトラックの荷台",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "一文で状況は伝わるが、拒否され続けた経緯が見えないためBより引きが弱い",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.worldhistory.org/Maurice_Ravel/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "事実提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "飛行士を夢見た男、トラック運転手に",
+        "support_text": "作曲家ラヴェルの従軍",
+        "rank": 1,
+        "recommendation_reason": "憧れと現実の落差を見出しだけで提示でき、作曲家名を知らない層にも状況の面白さで引きが作れる",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.classical-music.com/features/composers/what-did-maurice-ravel-do-during-world-war-1",
+          "https://www.rncm.ac.uk/paris-manchester-1918/musicians-front-musicians-home-front/maurice-ravel/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "対比型(出来事先行)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ作曲家はトラックを選んだのか",
+        "support_text": "ラヴェルの第一次大戦",
+        "rank": 2,
+        "recommendation_reason": "問いかけで入る割り当て型に合致し、理由を知りたくなる次点案",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.newworldencyclopedia.org/entry/Maurice_Ravel"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1914年、第一次世界大戦が始まると、作曲家ラヴェルは真っ先に軍への志願を望んだ。目指したのは、当時最先端だった飛行士だった。",
+      "しかし小柄な体格と年齢、さらに持病の心臓疾患を理由に、陸軍からも、憧れの空軍からも、入隊をたびたび拒否され続けてしまう。",
+      "それでも諦めなかったラヴェルは、1915年についにトラック運転手として入隊を許可され、激戦地ヴェルダンで物資輸送にあたった。",
+      "いまも語り継がれる、激戦の中で多くの友を失った経験。後の組曲「クープランの墓」は、各楽章を戦死した友人たちに静かに捧げている。"
+    ],
+    "fb_caption": "飛行機のパイロットに憧れた作曲家が、戦場で選んだのはトラックの運転席だったとご存知でしょうか？第一次世界大戦が始まると、ラヴェルは体格と持病を理由に入隊を何度も拒否されながらも志願を続け、ついにトラック運転手として激戦地ヴェルダンへ向かいました。戦争で失った友への想いは、後に名曲「クープランの墓」として結実します✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "飛行機のパイロットに憧れた作曲家が、戦場で選んだのはトラックの運転席だったとご存知でしょうか？第一次世界大戦が始まると、ラヴェルは体格と持病を理由に入隊を何度も拒否されながらも志願を続け、ついにトラック運転手として激戦地ヴェルダンへ向かいました。戦争で失った友への想いは、後に名曲「クープランの墓」として結実します✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "飛行機のパイロットに憧れた作曲家が、戦場で選んだのはトラックの運転席だったとご存知でしょうか？第一次世界大戦が始まると、ラヴェルは体格と持病を理由に入隊を何度も拒否されながらも志願を続け、ついにトラック運転手として激戦地ヴェルダンへ向かいました。戦争で失った友への想いは、後に名曲「クープランの墓」として結実します✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n作曲家が戦場で見せた、知られざる一面のエピソードでした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "対比型(出来事先行)",
+    "caption_style": "question"
+  }
+]
