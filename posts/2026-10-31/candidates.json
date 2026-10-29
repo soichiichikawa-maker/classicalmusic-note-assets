@@ -1,0 +1,315 @@
+[
+  {
+    "composer": "サン=サーンス",
+    "event_summary": "1875年10月31日、サン=サーンスはパリのシャトレ座で自作のピアノ協奏曲第4番を自ら独奏して初演した。一見2楽章に見えるが実際は性格の異なる4部分が橋渡しされる斬新な構成で、聴衆の高い評価を得た。この構造は10年後の交響曲第3番『オルガン付き』にも受け継がれている。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Piano_Concerto_No._4_(Saint-Sa%C3%ABns)",
+      "https://www.wikidata.org/wiki/Q230792",
+      "https://clintonsymphony.org/2019/04/22/lorraine-min-and-the-piano-concerto-no-4-in-c-minor-by-camille-saint-saens/"
+    ],
+    "hook_copy": "サン=サーンス、自作を自ら弾いた日",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "サン=サーンス、自作を自ら弾いた日",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前から入りつつ『自分で弾いた』という具体的行動を示すことで、肖像だけでも内容が伝わる最も直接的な入口になるため。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Piano_Concerto_No._4_(Saint-Sa%C3%ABns)",
+          "https://clintonsymphony.org/2019/04/22/lorraine-min-and-the-piano-concerto-no-4-in-c-minor-by-camille-saint-saens/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サン=サーンス",
+        "hook_pattern": "名詞+具体的行動(自演)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "2楽章に見えて実は4楽章",
+        "support_text": "サン=サーンス協奏曲第4番",
+        "rank": 1,
+        "recommendation_reason": "曲の構造の意外性を前面に出す型。音楽的には面白いが、初見では対象の顔が掴みにくくAよりやや弱い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Piano_Concerto_No._4_(Saint-Sa%C3%ABns)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サン=サーンス",
+        "hook_pattern": "構造の意外性+名詞",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "151年前の今日、新しい協奏曲誕生",
+        "support_text": "サン=サーンス",
+        "rank": 3,
+        "recommendation_reason": "日付一致を使った定型的な『today』型。汎用性は高いが、A・Bに比べて具体的な驚きが弱い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://www.wikidata.org/wiki/Q230792"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サン=サーンス",
+        "hook_pattern": "日付訴求+名詞",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "1875年10月31日、今日からちょうど151年前のこの日、パリのシャトレ座でサン=サーンスは新しい協奏曲をピアノ自身で弾き始めた。",
+      "この協奏曲は一見2楽章に見えるが、実際は性格の異なる4つの部分が滑らかに橋渡しされる、当時としては非常に大胆な構成だった。",
+      "この日、聴衆はこの新しい試みを熱狂的に受け入れ、サン=サーンス自身のピアノ演奏とともに初演は大きな成功を収め、新たな代表作となった。",
+      "この2楽章の橋渡し構造は10年後、代表作である『オルガン付き』交響曲第3番にも引き継がれ、サン=サーンスらしい作風として定着した。"
+    ],
+    "fb_caption": "1875年10月31日、パリのシャトレ座。ピアノの前に座ったのは指揮者ではなく作曲家自身でした。今日はその初演からちょうど151年。サン=サーンスが自ら弾いた新作協奏曲は、聴衆を熱狂させました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1875年10月31日、パリのシャトレ座。ピアノの前に座ったのは指揮者ではなく作曲家自身でした。今日はその初演からちょうど151年。サン=サーンスが自ら弾いた新作協奏曲は、聴衆を熱狂させました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1875年10月31日、パリのシャトレ座。ピアノの前に座ったのは指揮者ではなく作曲家自身でした。今日はその初演からちょうど151年。サン=サーンスが自ら弾いた新作協奏曲は、聴衆を熱狂させました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこうした知られざる初演秘話を、これからも紹介していきます。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "premiere",
+    "hook_pattern": "名詞+具体的行動(自演)",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ドビュッシー",
+    "event_summary": "ドビュッシーは直腸がんと闘いながら創作を続け、1918年3月25日、第一次世界大戦下のパリで55歳で死去した。ドイツ軍の砲撃が続く戦況悪化のため盛大な葬儀は許されず、わずかな参列者だけが砲弾の音の中を墓地へ向かった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%93%E3%83%A5%E3%83%83%E3%82%B7%E3%83%BC",
+      "https://ja.mahlerfoundation.org/mahler/contemporaries/claude-debussy/",
+      "https://www.ok-die.com/debussy",
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%93%E3%83%A5%E3%83%83%E3%82%B7%E3%83%BC%E3%81%AE%E5%A2%93"
+    ],
+    "hook_copy": "ドビュッシーの葬列、砲弾の中を行く",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ドビュッシーの葬列、砲弾の中を行く",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "名前と具体的な情景(砲弾の中の葬列)を直結させ、意外性と固有名詞の両立ができている。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.mahlerfoundation.org/mahler/contemporaries/claude-debussy/",
+          "https://www.ok-die.com/debussy"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "名前+情景の断定",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "砲撃下で見送られた作曲家",
+        "support_text": "ドビュッシー、最期の日",
+        "rank": 2,
+        "recommendation_reason": "出来事を主役にした案。名前を支える側に回すぶん、Aより固有名詞のフック力はやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%93%E3%83%A5%E3%83%83%E3%82%B7%E3%83%BC"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "出来事主役+名前補足",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ葬儀は人けのない道を進んだのか",
+        "support_text": "ドビュッシーの死",
+        "rank": 3,
+        "recommendation_reason": "問いの形で好奇心を引くが、答えへの直接性ではAに劣るため第3案とする。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%93%E3%83%A5%E3%83%83%E3%82%B7%E3%83%BC%E3%81%AE%E5%A2%93"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "20世紀を代表する作曲家ドビュッシーは、1909年頃から直腸がんに蝕まれ始め、1915年には人工肛門の手術を受けながらも作曲を続けた。",
+      "1918年3月25日、第一次世界大戦でドイツ軍がパリを砲撃する中、ドビュッシーは自宅で静かに息を引き取った。55歳だった。",
+      "戦況悪化のため盛大な葬儀は許されず、わずかな参列者だけが、鳴り響く砲撃の中をペール・ラシェーズ墓地へと静かに歩いて進んだという。",
+      "戦争が終結した翌1919年、ドビュッシーの遺体はパリ市内のパッシー墓地へと改葬され、ようやく安らかな眠りについたのだった。"
+    ],
+    "fb_caption": "ドビュッシーの葬列は、鳴り響く砲撃の音の中を進んだ。第一次世界大戦下の1918年3月、直腸がんに蝕まれていた作曲家は55歳でパリの自宅で息を引き取り、戦火の中でひっそりと見送られた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "ドビュッシーの葬列は、鳴り響く砲撃の音の中を進んだ。第一次世界大戦下の1918年3月、直腸がんに蝕まれていた作曲家は55歳でパリの自宅で息を引き取り、戦火の中でひっそりと見送られた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "ドビュッシーの葬列は、鳴り響く砲撃の音の中を進んだ。第一次世界大戦下の1918年3月、直腸がんに蝕まれていた作曲家は55歳でパリの自宅で息を引き取り、戦火の中でひっそりと見送られた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n激動の時代を生き抜いた作曲家の人生に、思いを馳せてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "名前+情景の断定",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "サクソフォン",
+    "event_summary": "サクソフォンの発明者アドルフ・サックスは1846年に特許を取得したが、「木管でも金管でもない」と既存の楽器業者から猛反発を受け、長期の特許訴訟の末に1856年と1873年の2度破産した。それでも楽器製作と教育を続け、サクソフォンはやがて軍楽隊やジャズで世界的な人気楽器となった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%AB%E3%83%95%E3%83%BB%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9",
+      "https://nextwindsjapan.com/knowledge-3-2-2/",
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%82%BD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%B3",
+      "https://otona-music.com/sax-history/"
+    ],
+    "hook_copy": "サクソフォンは発明者を2度破産させた",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "サクソフォンは発明者を2度破産させた",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "楽器名と意外な結末(発明者が2度破産)を直結させ、楽器の歴史に興味が無い層にも引っかかりを作れる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%AB%E3%83%95%E3%83%BB%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サクソフォン",
+        "hook_pattern": "楽器名+結果の断定",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "特許争いで潰れかけた",
+        "support_text": "サクソフォン誕生の裏側",
+        "rank": 3,
+        "recommendation_reason": "出来事主役の案。具体性はあるが、支え無しでは楽器名が伝わらずAよりフック力が弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://nextwindsjapan.com/knowledge-3-2-2/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サクソフォン",
+        "hook_pattern": "出来事主役+楽器名補足",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ発明者は2度も破産したのか",
+        "support_text": "サクソフォンの誕生秘話",
+        "rank": 2,
+        "recommendation_reason": "問い形式。好奇心は引けるが即時性ではAに劣るため第3案とする。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%82%BD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%B3"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サクソフォン",
+        "hook_pattern": "疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1840年代、ベルギーの楽器職人アドルフ・サックスは、木管の柔らかさと金管の力強さを併せ持つ新楽器サクソフォンを考案した。",
+      "1846年に特許を取得したが、新しすぎる楽器は既存の楽器商や演奏家から猛反発を受け、木管でも金管でもないと酷評され続けた。",
+      "ライバル業者は特許の正当性を執拗に訴え続け、長期化した訴訟の末、サックスは1856年と1873年の2度にわたり破産した。",
+      "それでも彼は楽器製作とパリ音楽院での指導を生涯続け、サクソフォンは軍楽隊を経て、今や世界中の音楽に欠かせない楽器となった。"
+    ],
+    "fb_caption": "サクソフォンは、発明者を2度も破産に追い込んだ楽器だった。1846年に特許を取得したアドルフ・サックスは、新しすぎる発明ゆえに同業の楽器商から激しい攻撃を受け続けたのだ。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "サクソフォンは、発明者を2度も破産に追い込んだ楽器だった。1846年に特許を取得したアドルフ・サックスは、新しすぎる発明ゆえに同業の楽器商から激しい攻撃を受け続けたのだ。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "サクソフォンは、発明者を2度も破産に追い込んだ楽器だった。1846年に特許を取得したアドルフ・サックスは、新しすぎる発明ゆえに同業の楽器商から激しい攻撃を受け続けたのだ。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n楽器ひとつにも、こんなドラマが隠れています。音楽史の面白さを感じていただけたら嬉しいです。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "楽器名+結果の断定",
+    "caption_style": "conclusion_first"
+  }
+]
