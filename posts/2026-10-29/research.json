@@ -1,0 +1,54 @@
+{
+  "composer": "ショスタコーヴィチ",
+  "event_summary": "ショスタコーヴィチは1948年にヴァイオリン協奏曲第1番を書き上げたが、前衛的すぎるとして「ジダーノフ批判」の標的にされかねず、発表を見送った。スターリンの死後、雪解けの空気の中で1955年10月29日にようやく初演され、国内外で大成功を収めた。",
+  "sources": [
+    "https://www.hyperion-records.co.uk/dw.asp?dc=W17397_68313",
+    "https://en.wikipedia.org/wiki/Violin_Concerto_No._1_(Shostakovich)",
+    "https://www.boosey.com/cr/music/Dmitri-Shostakovich-Concerto-for-Violin-and-Orchestra-No-1-in-A-minor/6182",
+    "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3%E5%8D%94%E5%A5%8F%E6%9B%B2%E7%AC%AC1%E7%95%AA_(%E3%82%B7%E3%83%A7%E3%82%B9%E3%82%BF%E3%82%B3%E3%83%BC%E3%83%B4%E3%82%A3%E3%83%81)",
+    "https://www.indianapolissymphony.org/backstage/program-notes/shostakovich-concerto-no-1-in-a-minor/"
+  ],
+  "hook_copy": "初演まで[G]7年[/G]、封じられた協奏曲\nショスタコーヴィチ",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "c54ce73d4793b69e",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-10-29T08:15:21.743049+00:00",
+    "text": "初演まで[G]7年[/G]、封じられた協奏曲\nショスタコーヴィチ"
+  },
+  "portrait_prompt": "Portrait of Dmitri Shostakovich, based on the attached reference photograph from the late 1940s: a young man in his early forties with short, neatly combed dark brown hair swept back from a high forehead, parted on the left side. He wears round eyeglasses with thin, light-colored (translucent/horn) frames. His face is oval with a straight nose, thin pressed lips, a slightly cleft chin, and a serious, composed expression, clean-shaven. He wears a dark wool suit jacket over a white collared shirt with a dark patterned necktie, knot neatly fastened. Illustrated cinematic style, painterly rendering, not photorealistic, soft directional studio lighting emphasizing the planes of the face. Simple bust-to-shoulder composition, facing slightly off-center toward the viewer. Plain muted grey background, nearly solid in color. No text, no logos. The illustration fills the entire canvas edge to edge, with no border, no frame, no vignette, and no empty margin around the image.",
+  "middle_slides": [
+    {
+      "text": "1948年、ショスタコーヴィチはヴァイオリニストのダヴィッド・オイストラフのために、渾身のヴァイオリン協奏曲第1番を書き上げた。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic, of Dmitri Shostakovich in 1948, a man in his early forties with short dark brown hair combed back, round eyeglasses with thin light-colored frames, oval face, thin lips, clean-shaven, wearing a dark suit jacket, white shirt and dark tie. He sits at a wooden desk in a modest Soviet-era study late at night, bent intently over a large manuscript score covered in handwritten notation, a pen in hand, a single desk lamp casting warm light across the pages and his focused face, shelves of books and a framed violin faintly visible in the shadows behind him, conveying passionate concentration on finishing a great violin concerto. No text or legible musical notation details, no other people in the scene."
+    },
+    {
+      "text": "しかし当時はソ連当局による「ジダーノフ批判」の真っ只中で、前衛的な作風は断罪の対象。発表すれば厳しい批判を招きかねず、彼は楽譜を机にしまい込んだ。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic, of Dmitri Shostakovich, a man in his early forties with short dark brown hair combed back, round eyeglasses with thin light-colored frames, oval face, thin lips, clean-shaven, wearing a dark suit jacket, white shirt and dark tie. He stands alone in a dim, austere room, closing a thick manuscript score and locking it into a wooden desk drawer, his expression tense and guarded, shoulders slightly hunched with worry. The lighting is cold and shadowy, with a single narrow beam of light falling across his hands and the drawer, suggesting secrecy and fear of persecution. A faint red hue in the background suggests the oppressive atmosphere of state scrutiny, without depicting any symbols or text. No other people in the scene."
+    },
+    {
+      "text": "転機はスターリンの死だった。雪解けの空気が流れ始めた1955年、初演の許可がようやく下り、独奏はオイストラフに託された。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic, of Dmitri Shostakovich, a man in his mid-to-late forties (slightly more mature than his early-forties reference look, a few touches of grey at the temples, same facial structure), short dark hair combed back, round eyeglasses with thin light-colored frames, oval face, thin lips, clean-shaven, wearing a dark suit jacket, white shirt and dark tie. He stands in a bright, airy room near a tall window with soft daylight streaming in, handing a bound manuscript score to a violinist holding a violin and bow, both men facing each other in quiet mutual respect, the atmosphere hopeful and warm after a long winter, suggesting a political and personal thaw. Soft warm lighting, no text or legible details on the score."
+    },
+    {
+      "text": "今日10月29日、レニングラードで初演が行われ、作品は国内外で大成功を収めた。7年越しの「幻の協奏曲」は、ついに日の目を見た。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic, of Dmitri Shostakovich, a man in his mid-to-late forties, short dark hair combed back, round eyeglasses with thin light-colored frames, oval face, thin lips, clean-shaven, wearing a formal dark suit jacket, white shirt and dark tie. He stands in the wings of a grand, ornate concert hall in Leningrad, facing toward a brightly lit stage where a violinist performs before a full, applauding audience seen from behind in silhouette; Shostakovich's own face is turned toward the stage in profile, filled with quiet relief and pride, warm golden stage light illuminating the scene. No text, no legible details on instruments or signage."
+    }
+  ],
+  "is_date_match": true,
+  "fb_caption": "今日10月29日は、ある名曲が「幻の協奏曲」から解き放たれた日だとご存知でしょうか？ショスタコーヴィチが1948年に書き上げたヴァイオリン協奏曲第1番は、政治的な理由で7年間も机の中に眠っていました。1955年のこの日ようやく初演を迎え、今では代表作のひとつに数えられています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "今日10月29日は、ある名曲が「幻の協奏曲」から解き放たれた日だとご存知でしょうか？ショスタコーヴィチが1948年に書き上げたヴァイオリン協奏曲第1番は、政治的な理由で7年間も机の中に眠っていました。1955年のこの日ようやく初演を迎え、今では代表作のひとつに数えられています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "今日10月29日は、ある名曲が「幻の協奏曲」から解き放たれた日だとご存知でしょうか？ショスタコーヴィチが1948年に書き上げたヴァイオリン協奏曲第1番は、政治的な理由で7年間も机の中に眠っていました。1955年のこの日ようやく初演を迎え、今では代表作のひとつに数えられています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n政治に翻弄されながらも後世に残った、知られざる一曲のエピソードでした。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": "10月29日",
+  "subject_type": "composer",
+  "theme": "forgotten",
+  "hook_pattern": null,
+  "caption_style": "question",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "hook_source": "edited",
+  "hook_original": "7年封印された協奏曲 ショスタコーヴィチの“幻の曲”",
+  "hook_edit_ratio": 0.292,
+  "hook_markup_by": "human"
+}
