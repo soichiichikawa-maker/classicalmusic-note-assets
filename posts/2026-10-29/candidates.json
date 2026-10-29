@@ -10,91 +10,12 @@
       "https://www.indianapolissymphony.org/backstage/program-notes/shostakovich-concerto-no-1-in-a-minor/"
     ],
     "hook_copy": "ショスタコーヴィチが隠した協奏曲",
-    "hook_options": [
-      {
-        "candidate_id": "A",
-        "headline": "7年封印された協奏曲",
-        "support_text": "ショスタコーヴィチの“幻の曲”",
-        "rank": 2,
-        "recommendation_reason": "数字(7年)で引きを作れるが、誰の曲かは補足を読むまで分からず、名前主役のBよりやや弱い",
-        "payoff_slide": 4,
-        "fact_sources": [
-          "https://www.hyperion-records.co.uk/dw.asp?dc=W17397_68313",
-          "https://en.wikipedia.org/wiki/Violin_Concerto_No._1_(Shostakovich)"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ショスタコーヴィチ",
-        "hook_pattern": "数字訴求型(年数を前面に出す)",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "number",
-          "proper_noun",
-          "surprising_fact"
-        ],
-        "playbook_score": 0.24,
-        "original_rank": 3,
-        "playbook_approved": "2026-10-16"
-      },
-      {
-        "candidate_id": "B",
-        "headline": "ショスタコーヴィチが隠した協奏曲",
-        "support_text": "",
-        "rank": 3,
-        "recommendation_reason": "作曲家名を主役にしつつ「隠した」という行為で謎を作り、初見でも人物と状況が同時に伝わる",
-        "payoff_slide": 2,
-        "fact_sources": [
-          "https://www.boosey.com/cr/music/Dmitri-Shostakovich-Concerto-for-Violin-and-Orchestra-No-1-in-A-minor/6182",
-          "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3%E5%8D%94%E5%A5%8F%E6%9B%B2%E7%AC%AC1%E7%95%AA_(%E3%82%B7%E3%83%A7%E3%82%B9%E3%82%BF%E3%82%B3%E3%83%BC%E3%83%B4%E3%82%A3%E3%83%81)"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ショスタコーヴィチ",
-        "hook_pattern": "人物主役型(動詞で謎を作る)",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "proper_noun"
-        ],
-        "playbook_score": 0.15,
-        "original_rank": 1,
-        "playbook_approved": "2026-10-16"
-      },
-      {
-        "candidate_id": "C",
-        "headline": "なぜ7年も封印されたのか",
-        "support_text": "ショスタコーヴィチの協奏曲",
-        "rank": 1,
-        "recommendation_reason": "問いかけで好奇心を刺激できる定番の型。今日の枠指定に沿う安全な次点案",
-        "payoff_slide": 2,
-        "fact_sources": [
-          "https://www.indianapolissymphony.org/backstage/program-notes/shostakovich-concerto-no-1-in-a-minor/"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ショスタコーヴィチ",
-        "hook_pattern": "問いかけ型",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "number",
-          "proper_noun",
-          "surprising_fact"
-        ],
-        "playbook_score": 0.24,
-        "original_rank": 2,
-        "playbook_approved": "2026-10-16"
-      }
-    ],
+    "hook_options": [],
     "hook_selection": null,
     "is_date_match": true,
     "middle_slides": [
       "1948年、ショスタコーヴィチはヴァイオリニストのダヴィッド・オイストラフのために、渾身のヴァイオリン協奏曲第1番を書き上げた。",
-      "しかし当時はソ連当局による「ジダーノフ批判」の真っ只中で、前衛的な作風は断罪の対象。発表すれば身の破滅を招きかねず、彼は楽譜を机にしまい込んだ。",
+      "しかし当時はソ連当局による「ジダーノフ批判」の真っ只中で、前衛的な作風は断罪の対象。発表すれば厳しい批判を招きかねず、彼は楽譜を机にしまい込んだ。",
       "転機はスターリンの死だった。雪解けの空気が流れ始めた1955年、初演の許可がようやく下り、独奏はオイストラフに託された。",
       "今日10月29日、レニングラードで初演が行われ、作品は国内外で大成功を収めた。7年越しの「幻の協奏曲」は、ついに日の目を見た。"
     ],
