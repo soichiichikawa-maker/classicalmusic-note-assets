@@ -1,0 +1,317 @@
+[
+  {
+    "composer": "ビゼー",
+    "event_summary": "ビゼーは《カルメン》の名旋律「ハバネラ」を書く際、耳にしたメロディを古いスペイン民謡だと思い込んでいた。実際には10年前に亡くなっていたスペインの作曲家イラディエルの楽曲「エル・アレグリート」であり、指摘を受けたビゼーは楽譜に出典を明記する一文を急いで加えることになった。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Habanera_(aria)",
+      "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier",
+      "https://www.songfacts.com/facts/georges-bizet/habanera"
+    ],
+    "hook_copy": "ビゼーが信じた\"民謡\"の正体",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ビゼーが信じた\"民謡\"の正体",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "作曲家名と問いかけを両立させ、ハバネラの意外な出自に最短で興味を引ける案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Habanera_(aria)",
+          "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ビゼー",
+        "hook_pattern": "名前主役・問いかけ型(正体)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "この名旋律、実は\"中古\"だった",
+        "support_text": "ビゼー作「カルメン」",
+        "rank": 2,
+        "recommendation_reason": "曲の意外性を強調しつつ作品名も示せるが、やや婉曲な表現になる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Habanera_(aria)",
+          "https://www.songfacts.com/facts/georges-bizet/habanera"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ビゼー",
+        "hook_pattern": "曲主役・意外性強調型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "民謡だと思って使ったら…",
+        "support_text": "ビゼー、まさかの借り物",
+        "rank": 3,
+        "recommendation_reason": "出来事を先に見せる構成だが、作曲家名の登場が遅く最初のインパクトはやや弱い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ビゼー",
+        "hook_pattern": "出来事主役・伏線提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "ビゼーはオペラ《カルメン》の名旋律「ハバネラ」を書く際、酒場で流行っていたこの旋律を古いスペイン民謡だと信じ込んで取り入れていた。",
+      "実はこの旋律、10年前に世を去っていたスペインの作曲家イラディエルが書いた「エル・アレグリート」という既存の人気曲だった。",
+      "出版後にこの事実を知らされたビゼーは大慌てで対応し、楽譜に「原曲はイラディエル」と出典を明記する一文を急いで書き加えた。",
+      "こうして生まれた「ハバネラ」は、今やオペラ史を代表する名旋律に。原曲を書いたイラディエルの名は、今もほとんど知られていない。"
+    ],
+    "fb_caption": "あの《カルメン》の「ハバネラ」、本当にビゼー自身のメロディだったのでしょうか?実はこの旋律、10年前に亡くなっていたスペインの作曲家イラディエルの「エル・アレグリート」という既存曲で、ビゼーは民謡だと思い込んで使っていました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "あの《カルメン》の「ハバネラ」、本当にビゼー自身のメロディだったのでしょうか?実はこの旋律、10年前に亡くなっていたスペインの作曲家イラディエルの「エル・アレグリート」という既存曲で、ビゼーは民謡だと思い込んで使っていました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "あの《カルメン》の「ハバネラ」、本当にビゼー自身のメロディだったのでしょうか?実はこの旋律、10年前に亡くなっていたスペインの作曲家イラディエルの「エル・アレグリート」という既存曲で、ビゼーは民謡だと思い込んで使っていました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nカルメンの名旋律、ぜひ原曲と聴き比べてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "名前主役・問いかけ型(正体)",
+    "caption_style": "question"
+  },
+  {
+    "composer": "ストラヴィンスキー",
+    "event_summary": "1938年から39年にかけて、ストラヴィンスキーは長女・妻・母を次々と結核で亡くし、自身も感染してスイスのサナトリウムで5か月間の療養生活を送った。その間も彼は筆を止めず、のちにハーバード大学で行う講義「音楽の詩学」の草稿をこの病床で書き上げていた。",
+    "sources": [
+      "https://www.britannica.com/biography/Igor-Stravinsky",
+      "https://fondation-igor-stravinsky.org/en/composer/biography/",
+      "https://interlude.hk/six-composers-who-battled-tuberculosis-how-consumption-changed-music-history/"
+    ],
+    "hook_copy": "家族を失っても、彼は書き続けた\nストラヴィンスキーと結核",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "家族を失っても、彼は書き続けた",
+        "support_text": "ストラヴィンスキーと結核",
+        "rank": 1,
+        "recommendation_reason": "結末(書き続けた事実)を先出しし、作曲家名も明示できる最もバランスの良い案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://fondation-igor-stravinsky.org/en/composer/biography/",
+          "https://www.britannica.com/biography/Igor-Stravinsky"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "結末先出し・名前併記型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "5か月の入院中に何を書いた?",
+        "support_text": "ストラヴィンスキーの結核療養",
+        "rank": 3,
+        "recommendation_reason": "問いかけで興味を引きつつ、具体的な数字(5か月)で引っかかりを作れる案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://fondation-igor-stravinsky.org/en/composer/biography/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "問いかけ型・数字訴求",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "question"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "妻も娘も母も、結核に奪われた",
+        "support_text": "ストラヴィンスキー、自らも感染",
+        "rank": 2,
+        "recommendation_reason": "衝撃的な事実の列挙で目を引くが、重さが先行し救いの要素が後回しになる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://interlude.hk/six-composers-who-battled-tuberculosis-how-consumption-changed-music-history/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "出来事主役・悲劇列挙型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1938年から39年にかけて、ストラヴィンスキーは長女リュドミラ、妻カチャ、そして母アンナを次々と結核で亡くしていった。",
+      "家族を懸命に看病するうちに本人も感染。1939年、ストラヴィンスキー自身もスイスのサナトリウムで5か月間の入院生活を送った。",
+      "それでも彼は病床で筆を止めなかった。のちにハーバード大学で語ることになる「音楽の詩学」講義の草稿を、この入院中に書き上げていたのだ。",
+      "絶望の淵から立ち直ったストラヴィンスキーは作曲を続け、戦後はアメリカに拠点を移して、88歳で世を去るまで新作を生み出し続けた。"
+    ],
+    "fb_caption": "妻と娘と母を結核で失いながら、ストラヴィンスキー自身も5か月間サナトリウムで療養していました。絶望の中でも彼は筆を止めず、のちにハーバード大学で語ることになる「音楽の詩学」の草稿を、この病床で書き上げていたのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "妻と娘と母を結核で失いながら、ストラヴィンスキー自身も5か月間サナトリウムで療養していました。絶望の中でも彼は筆を止めず、のちにハーバード大学で語ることになる「音楽の詩学」の草稿を、この病床で書き上げていたのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "妻と娘と母を結核で失いながら、ストラヴィンスキー自身も5か月間サナトリウムで療養していました。絶望の中でも彼は筆を止めず、のちにハーバード大学で語ることになる「音楽の詩学」の草稿を、この病床で書き上げていたのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n結核という試練の中でも音楽を手放さなかったストラヴィンスキーの軌跡でした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "結末先出し・名前併記型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "マーラー",
+    "event_summary": "マーラーは1897年、キャリアのためカトリックに改宗してウィーン宮廷歌劇場の音楽監督に就任し、歌劇場を世界最高水準に引き上げた。しかし反ユダヤ主義的な風潮が強まる中、1907年に長女の死や自身の心臓病の診断も重なって辞任に追い込まれ、アメリカへ渡った。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E3%81%AE%E6%AD%8C",
+      "https://recogei.ontomo-mag.com/article/special-column/p-33106/",
+      "https://rekishi-to-monogatari.net/mar57/",
+      "https://pietro.music.coocan.jp/storia/mahler_vita_opere.html"
+    ],
+    "hook_copy": "マーラー、ウィーンを追われた理由",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "マーラー、ウィーンを追われた理由",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "人物名と『追われた』という受動表現で、政治に翻弄されたテーマを直接的かつ具体的に示す。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://recogei.ontomo-mag.com/article/special-column/p-33106/",
+          "https://rekishi-to-monogatari.net/mar57/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "名詞言い切り型（人物名＋受動の結果）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "なぜ巨匠は歌劇場を去ったのか",
+        "support_text": "マーラーの決断",
+        "rank": 3,
+        "recommendation_reason": "疑問形で興味を引くが、『巨匠』という一般名詞のため対象の具体性はやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E3%81%AE%E6%AD%8C"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "疑問形（出来事を主語にした問いかけ）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "反ユダヤの嵐に追われた指揮者",
+        "support_text": "グスタフ・マーラー",
+        "rank": 2,
+        "recommendation_reason": "出来事（反ユダヤ主義）を主役にし、翻弄された構図を強く印象づける案。対象名は補足で明示。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://recogei.ontomo-mag.com/article/special-column/p-33106/",
+          "https://pietro.music.coocan.jp/storia/mahler_vita_opere.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "名詞言い切り型（出来事主語＋人物の結果）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1897年、マーラーはユダヤ人という出自ゆえキャリアのためカトリックに改宗し、ウィーン宮廷歌劇場の音楽監督についに就任した。",
+      "10年間で歌劇場を世界最高水準に引き上げたが、楽団内の対立や反ユダヤ主義的な風潮も、次第に無視できないほど強まっていった。",
+      "1907年、反ユダヤ主義の高まりに加え長女の死や自身の心臓病の診断まで重なり、マーラーはついに辞任へと追い込まれていった。",
+      "1907年末、マーラーはウィーンを去りアメリカへ渡り、メトロポリタン歌劇場やニューヨーク・フィルの指揮台で新たな道を歩み始めた。"
+    ],
+    "fb_caption": "なぜ『大地の歌』の作曲家マーラーは、絶頂期にあったウィーン宮廷歌劇場を去らねばならなかったのでしょうか？実はその背景には、根深い反ユダヤ主義の風潮がありました。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "なぜ『大地の歌』の作曲家マーラーは、絶頂期にあったウィーン宮廷歌劇場を去らねばならなかったのでしょうか？実はその背景には、根深い反ユダヤ主義の風潮がありました。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜ『大地の歌』の作曲家マーラーは、絶頂期にあったウィーン宮廷歌劇場を去らねばならなかったのでしょうか？実はその背景には、根深い反ユダヤ主義の風潮がありました。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nマーラーが遺した交響曲の数々にも、ぜひ耳を傾けてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "名詞言い切り型（人物名＋受動の結果）",
+    "caption_style": "question"
+  }
+]
