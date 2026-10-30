@@ -1,0 +1,52 @@
+{
+  "composer": "ビゼー",
+  "event_summary": "ビゼーは《カルメン》の名旋律「ハバネラ」を書く際、耳にしたメロディを古いスペイン民謡だと思い込んでいた。実際には10年前に亡くなっていたスペインの作曲家イラディエルの楽曲「エル・アレグリート」であり、指摘を受けたビゼーは楽譜に出典を明記する一文を急いで加えることになった。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Habanera_(aria)",
+    "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier",
+    "https://www.songfacts.com/facts/georges-bizet/habanera"
+  ],
+  "hook_copy": "ビゼーが信じた[G]ハバネラ[/G]の正体\n《カルメン》",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "a738bc3ed56db1d7",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-10-30T07:31:01.867445+00:00",
+    "text": "ビゼーが信じた[G]ハバネラ[/G]の正体\n《カルメン》"
+  },
+  "portrait_prompt": "Portrait of the French composer Georges Bizet in his thirties, based on a well-known 19th-century photographic portrait: thick dark curly hair swept back from a high forehead with tight voluminous curls at the crown, a full thick dark beard covering the jaw and chin connecting to a mustache, small round wire-rimmed pince-nez glasses perched on his nose, head turned in three-quarter profile facing to the side with a calm thoughtful expression, pale fair skin. He wears a plain dark Victorian-era jacket with a dark bow-style cravat tied at the collar and a small button visible at the neckline, no decorative embroidery, simple and modest tailoring. Illustrated cinematic style, painterly rendering, not photorealistic, bust-to-shoulder composition, plain muted brownish-neutral background, painting fills the entire canvas edge to edge with no border, no frame, no vignette, no text.",
+  "middle_slides": [
+    {
+      "text": "ビゼーはオペラ《カルメン》の名旋律「ハバネラ」を書く際、手に入れたこの旋律を古いスペイン民謡だと信じ込んで取り入れていた。",
+      "image_prompt": "Oil-painting style illustration of the French composer Georges Bizet, a man in his thirties with thick dark curly hair swept back, a full thick dark beard and mustache, small round wire-rimmed glasses, pale skin, wearing a plain dark Victorian jacket with a dark bow cravat, seated at a wooden writing desk in a dim candlelit study, facing forward toward the viewer as he leans over sheet music with a quill pen in hand, an expression of quiet confident inspiration, warm golden candlelight illuminating the manuscript paper covered with musical notation, painterly rendering, not photorealistic, no text visible on the page."
+    },
+    {
+      "text": "実はこの旋律、10年前に世を去っていたスペインの作曲家イラディエルが書いた「エル・アレグリート」という既存の人気曲だった。",
+      "image_prompt": "Oil-painting style illustration of the Spanish composer Sebastián Iradier, an older 19th-century gentleman with graying hair and a mustache, wearing a modest dark period coat, depicted as a faded ghostly sepia-toned figure standing in the soft background shadows of an old-fashioned parlor, while in the foreground a sheet of old weathered music manuscript titled with ornate handwriting rests on a table bathed in a single beam of light, symbolizing a forgotten melody from years past, painterly rendering, not photorealistic, no legible text on the page."
+    },
+    {
+      "text": "出版後にこの事実が伝わると、ビゼーは自作の楽譜に「原曲はイラディエル」と出典を明記する一文を、あらためて書き加えることになった。",
+      "image_prompt": "Oil-painting style illustration of the French composer Georges Bizet, a man in his thirties with thick dark curly hair swept back, a full thick dark beard and mustache, small round wire-rimmed glasses, pale skin, wearing a plain dark Victorian jacket with a dark bow cravat, seated at a cluttered writing desk in a dim study, hastily dipping a quill into an inkwell with an urgent, slightly worried expression, leaning forward over an already-printed musical score as if adding a correction, candlelight casting dramatic shadows across his face, painterly rendering, not photorealistic, no legible text on the page."
+    },
+    {
+      "text": "こうして生まれた「ハバネラ」は、今やオペラ史を代表する名旋律に。原曲を書いたイラディエルの名は、今もほとんど知られていない。",
+      "image_prompt": "Oil-painting style illustration depicting a grand 19th-century opera house stage from a low dramatic angle, ornate red velvet curtains and gilded balconies softly lit by warm stage lights, with a faint luminous ghostly silhouette of the French composer Georges Bizet, recognizable by his thick dark curly hair, full dark beard and small round glasses, standing to one side gazing at the stage with a serene proud expression as if his spirit watches his opera's triumph, atmospheric golden lighting, painterly rendering, not photorealistic, no text or signage visible anywhere in the scene."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "あの《カルメン》の「ハバネラ」、本当にビゼー自身のメロディだったのでしょうか?実はこの旋律、10年前に亡くなっていたスペインの作曲家イラディエルの「エル・アレグリート」という既存曲で、ビゼーは民謡だと思い込んで使っていました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "あの《カルメン》の「ハバネラ」、本当にビゼー自身のメロディだったのでしょうか?実はこの旋律、10年前に亡くなっていたスペインの作曲家イラディエルの「エル・アレグリート」という既存曲で、ビゼーは民謡だと思い込んで使っていました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "あの《カルメン》の「ハバネラ」、本当にビゼー自身のメロディだったのでしょうか?実はこの旋律、10年前に亡くなっていたスペインの作曲家イラディエルの「エル・アレグリート」という既存曲で、ビゼーは民謡だと思い込んで使っていました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nカルメンの名旋律、ぜひ原曲と聴き比べてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "masterpiece",
+  "hook_pattern": null,
+  "caption_style": "question",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Georges_bizet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "hook_source": "edited",
+  "hook_original": "ビゼーが信じた\"民謡\"の正体",
+  "hook_edit_ratio": 0.375,
+  "hook_markup_by": "human"
+}
