@@ -8,91 +8,13 @@
       "https://www.songfacts.com/facts/georges-bizet/habanera"
     ],
     "hook_copy": "ビゼーが信じた\"民謡\"の正体",
-    "hook_options": [
-      {
-        "candidate_id": "A",
-        "headline": "ビゼーが信じた\"民謡\"の正体",
-        "support_text": "",
-        "rank": 1,
-        "recommendation_reason": "作曲家名と問いかけを両立させ、ハバネラの意外な出自に最短で興味を引ける案。",
-        "payoff_slide": 2,
-        "fact_sources": [
-          "https://en.wikipedia.org/wiki/Habanera_(aria)",
-          "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ビゼー",
-        "hook_pattern": "名前主役・問いかけ型(正体)",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "proper_noun",
-          "surprising_fact"
-        ],
-        "playbook_score": 0.27,
-        "original_rank": 1,
-        "playbook_approved": "2026-10-16"
-      },
-      {
-        "candidate_id": "C",
-        "headline": "この名旋律、実は\"中古\"だった",
-        "support_text": "ビゼー作「カルメン」",
-        "rank": 2,
-        "recommendation_reason": "曲の意外性を強調しつつ作品名も示せるが、やや婉曲な表現になる。",
-        "payoff_slide": 2,
-        "fact_sources": [
-          "https://en.wikipedia.org/wiki/Habanera_(aria)",
-          "https://www.songfacts.com/facts/georges-bizet/habanera"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ビゼー",
-        "hook_pattern": "曲主役・意外性強調型",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "proper_noun",
-          "surprising_fact"
-        ],
-        "playbook_score": 0.27,
-        "original_rank": 2,
-        "playbook_approved": "2026-10-16"
-      },
-      {
-        "candidate_id": "B",
-        "headline": "民謡だと思って使ったら…",
-        "support_text": "ビゼー、まさかの借り物",
-        "rank": 3,
-        "recommendation_reason": "出来事を先に見せる構成だが、作曲家名の登場が遅く最初のインパクトはやや弱い。",
-        "payoff_slide": 2,
-        "fact_sources": [
-          "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier"
-        ],
-        "fact_status": "verified",
-        "subject_label": "ビゼー",
-        "hook_pattern": "出来事主役・伏線提示型",
-        "evidence_level": "editorial",
-        "reference_ids": [],
-        "reference_metric_basis": "",
-        "reference_limitations": "近い同形式の実績参照がないため編集判断",
-        "expression_types": [
-          "proper_noun",
-          "surprising_fact"
-        ],
-        "playbook_score": 0.27,
-        "original_rank": 3,
-        "playbook_approved": "2026-10-16"
-      }
-    ],
+    "hook_options": [],
     "hook_selection": null,
     "is_date_match": false,
     "middle_slides": [
-      "ビゼーはオペラ《カルメン》の名旋律「ハバネラ」を書く際、酒場で流行っていたこの旋律を古いスペイン民謡だと信じ込んで取り入れていた。",
+      "ビゼーはオペラ《カルメン》の名旋律「ハバネラ」を書く際、手に入れたこの旋律を古いスペイン民謡だと信じ込んで取り入れていた。",
       "実はこの旋律、10年前に世を去っていたスペインの作曲家イラディエルが書いた「エル・アレグリート」という既存の人気曲だった。",
-      "出版後にこの事実を知らされたビゼーは大慌てで対応し、楽譜に「原曲はイラディエル」と出典を明記する一文を急いで書き加えた。",
+      "出版後にこの事実が伝わると、ビゼーは自作の楽譜に「原曲はイラディエル」と出典を明記する一文を、あらためて書き加えることになった。",
       "こうして生まれた「ハバネラ」は、今やオペラ史を代表する名旋律に。原曲を書いたイラディエルの名は、今もほとんど知られていない。"
     ],
     "fb_caption": "あの《カルメン》の「ハバネラ」、本当にビゼー自身のメロディだったのでしょうか?実はこの旋律、10年前に亡くなっていたスペインの作曲家イラディエルの「エル・アレグリート」という既存曲で、ビゼーは民謡だと思い込んで使っていました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
