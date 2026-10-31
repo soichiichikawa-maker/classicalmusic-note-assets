@@ -1,0 +1,130 @@
+{
+  "composer": "サクソフォン",
+  "event_summary": "サクソフォンの発明者アドルフ・サックスは1846年に特許を取得したが、「木管でも金管でもない」と既存の楽器業者から猛反発を受け、長期の特許訴訟の末に1856年と1873年の2度破産した。それでも楽器製作と教育を続け、サクソフォンはやがて軍楽隊やジャズで世界的な人気楽器となった。",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%AB%E3%83%95%E3%83%BB%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://nextwindsjapan.com/knowledge-3-2-2/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%82%BD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%B3",
+    "https://otona-music.com/sax-history/"
+  ],
+  "hook_copy": "サクソフォンは発明者を2度破産させた",
+  "hook_options": [
+    {
+      "candidate_id": "A",
+      "headline": "サクソフォンは発明者を2度破産させた",
+      "support_text": "",
+      "rank": 1,
+      "recommendation_reason": "楽器名と意外な結末(発明者が2度破産)を直結させ、楽器の歴史に興味が無い層にも引っかかりを作れる。",
+      "payoff_slide": 3,
+      "fact_sources": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%AB%E3%83%95%E3%83%BB%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9"
+      ],
+      "fact_status": "verified",
+      "subject_label": "サクソフォン",
+      "hook_pattern": "楽器名+結果の断定",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [
+        "number",
+        "proper_noun",
+        "surprising_fact"
+      ],
+      "playbook_score": 0.24,
+      "original_rank": 1,
+      "playbook_approved": "2026-10-16"
+    },
+    {
+      "candidate_id": "B",
+      "headline": "特許争いで潰れかけた",
+      "support_text": "サクソフォン誕生の裏側",
+      "rank": 3,
+      "recommendation_reason": "出来事主役の案。具体性はあるが、支え無しでは楽器名が伝わらずAよりフック力が弱い。",
+      "payoff_slide": 3,
+      "fact_sources": [
+        "https://nextwindsjapan.com/knowledge-3-2-2/"
+      ],
+      "fact_status": "verified",
+      "subject_label": "サクソフォン",
+      "hook_pattern": "出来事主役+楽器名補足",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [
+        "proper_noun"
+      ],
+      "playbook_score": 0.15,
+      "original_rank": 2,
+      "playbook_approved": "2026-10-16"
+    },
+    {
+      "candidate_id": "C",
+      "headline": "なぜ発明者は2度も破産したのか",
+      "support_text": "サクソフォンの誕生秘話",
+      "rank": 2,
+      "recommendation_reason": "問い形式。好奇心は引けるが即時性ではAに劣るため第3案とする。",
+      "payoff_slide": 3,
+      "fact_sources": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%82%BD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%B3"
+      ],
+      "fact_status": "verified",
+      "subject_label": "サクソフォン",
+      "hook_pattern": "疑問形",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [
+        "number",
+        "proper_noun",
+        "surprising_fact"
+      ],
+      "playbook_score": 0.24,
+      "original_rank": 3,
+      "playbook_approved": "2026-10-16"
+    }
+  ],
+  "hook_selection": {
+    "candidate_id": "A",
+    "proposal_revision": "c2c8046822b0fe01",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-10-31T08:39:01.794283+00:00",
+    "text": "サクソフォンは発明者を2度破産させた"
+  },
+  "portrait_prompt": "A single brass saxophone displayed as a still life, illustrated cinematic style, painterly rendering, not photorealistic. The instrument has a warm gold-lacquered brass body with a long straight conical tube, an elegantly curved neck ending in a black hard-rubber mouthpiece with a metal ligature, and a wide flaring bell that curves forward and upward. Rows of circular brass keys with pearl-white touchpieces run down the front and sides of the body, connected by a network of slender metal rods, springs, and hinged key cups with leather pads. The saxophone stands upright at a slight diagonal, bell facing toward the viewer, catching soft directional light that creates warm highlights and deep amber shadows along its polished curves. Background is a deep muted solid color (dark teal or warm charcoal), subtly textured but nearly flat, with no other objects or people. The painting fills the entire canvas edge to edge, no border, no vignette, no frame, no text.",
+  "middle_slides": [
+    {
+      "text": "1840年代、ベルギーの楽器職人アドルフ・サックスは、木管の柔らかさと金管の力強さを併せ持つ新楽器サクソフォンを考案した。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. Inside a cluttered 1840s Belgian instrument workshop in Brussels, a focused craftsman in his late twenties stands at a wooden workbench, facing forward toward the viewer, examining a newly assembled brass instrument. He has neat dark hair, a trimmed mustache, and wears a simple white shirt with a dark waistcoat typical of the 1840s, sleeves rolled up. On the workbench before him lies an early prototype saxophone: a large conical brass tube with a gently curved neck, a single-reed mouthpiece, and a sparse row of brass keys with simple key cups, its bell only slightly flared compared to later models. Tools, brass tubing offcuts, clarinet and ophicleide parts hang on the walls and lie scattered around, warm lamplight glows from a single window, rich browns and ambers dominate the palette."
+    },
+    {
+      "text": "1846年に特許を取得したが、新しすぎる楽器は既存の楽器商や演奏家から猛反発を受け、木管でも金管でもないと酷評され続けた。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. A grand 19th-century Parisian music shop interior, mid-1840s. A group of formally dressed instrument dealers and musicians in dark tailcoats and top hats stand in a semicircle, their faces showing skepticism and scorn, gesturing dismissively toward a gleaming brass saxophone displayed on a velvet-draped pedestal in the center of the room. The saxophone has a conical brass body, a curved neck with dark mouthpiece, and a moderately flared bell with rows of brass keys, resting beside a rolled patent document tied with ribbon. Ornate shelves lined with violins, clarinets, and brass horns frame the background, warm gaslight illuminates the scene, rich deep reds and browns dominate the palette, tension visible in the crowd's posture and expressions."
+    },
+    {
+      "text": "ライバル業者は特許の正当性を執拗に訴え続け、長期化した訴訟の末、サックスは1856年と1873年の2度にわたり破産した。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. A somber 19th-century Parisian courtroom or legal office scene, 1850s-1870s. A dignified man in his forties to fifties with neatly combed dark hair, a trimmed mustache, and a serious, weary expression sits at a heavy wooden table, facing forward, dressed in a dark formal frock coat with a white cravat. Stacks of legal papers, ledgers, and an official stamped document are spread before him, and in the background blurred silhouettes of stern lawyers and officials stand behind a raised bench. To one side, a brass saxophone with a curved neck, dark mouthpiece, and flared bell rests upright in an open velvet-lined case, as if displayed as evidence. Muted grays, deep browns, and somber candlelight dominate the palette, conveying financial ruin and legal struggle."
+    },
+    {
+      "text": "それでも彼は楽器製作とパリ音楽院での指導を生涯続け、サクソフォンは軍楽隊を経て、今や世界中の音楽に欠かせない楽器となった。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. A warm, light-filled classroom at the Paris Conservatoire in the late 19th century. An elderly distinguished man with white hair, a full white mustache, and a dignified bearing, wearing a dark formal frock coat, stands at the front facing a group of young students seated with various saxophones in their laps, demonstrating technique with his own gleaming brass saxophone held in playing position with its curved neck and dark mouthpiece near his lips. Tall arched windows let in soft golden afternoon light, music stands and framed portraits line the walls. In the distant background through a window, a small silhouette of a military band marching outdoors with saxophones glinting in sunlight suggests the instrument's growing popularity. Rich warm ochres and soft golds dominate the palette."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "サクソフォンは、発明者を2度も破産に追い込んだ楽器だった。1846年に特許を取得したアドルフ・サックスは、新しすぎる発明ゆえに同業の楽器商から激しい攻撃を受け続けたのだ。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "サクソフォンは、発明者を2度も破産に追い込んだ楽器だった。1846年に特許を取得したアドルフ・サックスは、新しすぎる発明ゆえに同業の楽器商から激しい攻撃を受け続けたのだ。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "サクソフォンは、発明者を2度も破産に追い込んだ楽器だった。1846年に特許を取得したアドルフ・サックスは、新しすぎる発明ゆえに同業の楽器商から激しい攻撃を受け続けたのだ。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n楽器ひとつにも、こんなドラマが隠れています。音楽史の面白さを感じていただけたら嬉しいです。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "instrument",
+  "theme": "instrument",
+  "hook_pattern": "楽器名+結果の断定",
+  "caption_style": "conclusion_first",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Eight_saxophone_sizes_smaller.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "hook_source": "system",
+  "hook_original": "サクソフォンは発明者を2度破産させた",
+  "hook_edit_ratio": 0.0,
+  "hook_markup_by": null
+}
