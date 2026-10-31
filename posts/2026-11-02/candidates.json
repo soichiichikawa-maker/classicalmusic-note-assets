@@ -1,0 +1,311 @@
+[
+  {
+    "composer": "ラフマニノフ",
+    "event_summary": "1917年のロシア革命により、貴族出身のラフマニノフは身の危険を感じ、家族と共にスウェーデン経由で国外へ脱出した。革命政府に祖国の財産と地所をすべて没収され、彼は生涯二度とロシアの土を踏むことはなかった。亡命後は欧米でピアニストとして活動を続け、69歳でアメリカにて生涯を閉じた。",
+    "sources": [
+      "https://ontomo-mag.com/column2/rachmaninov-pianist-conductor02/?segment=102376",
+      "https://www.senzoku-online.jp/history/trial/question.php?pod=10&num=027&prm=07",
+      "https://www.weblio.jp/content/%E3%83%A9%E3%83%95%E3%83%9E%E3%83%8B%E3%83%8E%E3%83%95",
+      "https://asobi7.com/is-there-any-difference-between-the-film-rachmaninoffs-love-melody-and-the-true-story/"
+    ],
+    "hook_copy": "なぜ祖国に戻らなかったのか\nラフマニノフ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "なぜ祖国に戻らなかったのか",
+        "support_text": "ラフマニノフ",
+        "rank": 2,
+        "recommendation_reason": "疑問形で読者の関心を引きつつ、対象名を明示。枠の『問いかけから入る』型に最も忠実で、答えが中間スライドで明快に回収される。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ontomo-mag.com/column2/rachmaninov-pianist-conductor02/?segment=102376",
+          "https://www.weblio.jp/content/%E3%83%A9%E3%83%95%E3%83%9E%E3%83%8B%E3%83%8E%E3%83%95"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラフマニノフ",
+        "hook_pattern": "問いかけ型（なぜ〜なかったのか）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "革命で全財産を失った夜",
+        "support_text": "ラフマニノフの亡命",
+        "rank": 1,
+        "recommendation_reason": "出来事そのものを前面に出す案。衝撃の大きさは伝わるが、問いかけ型の枠趣旨からはやや外れる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.senzoku-online.jp/history/trial/question.php?pod=10&num=027&prm=07"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラフマニノフ",
+        "hook_pattern": "出来事主役・断定型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "手荷物ひとつで新大陸へ",
+        "support_text": "作曲家ラフマニノフ",
+        "rank": 3,
+        "recommendation_reason": "具体的なディテールで興味を引くが、亡命の『理由』よりも『移動』に焦点が寄り、政治・戦争というテーマ軸がやや弱まる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://asobi7.com/is-there-any-difference-between-the-film-rachmaninoffs-love-melody-and-the-true-story/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラフマニノフ",
+        "hook_pattern": "情景・描写型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1917年、ロシア革命が勃発した。貴族出身の作曲家セルゲイ・ラフマニノフは、新しい体制のもとで財産も地位も失う危険に直面していた。",
+      "家族全員の安全を守るため、ラフマニノフは演奏旅行を装い静かに祖国を離れた。向かった先はスウェーデン、そしてノルウェーだった。",
+      "革命政府によって、ロシア国内の地所も財産も完全に没収された。ラフマニノフはその後ずっと、二度と祖国の土を踏むことはなかった。",
+      "それでも彼は欧米でピアニストとして活動を続け、望郷の思いを曲に刻みながら、二度と祖国の土を踏まないまま69歳で生涯を閉じた。"
+    ],
+    "fb_caption": "なぜ、ロシアを誰より愛した作曲家が、二度と祖国の土を踏まなかったのでしょうか。1917年のロシア革命で地所も財産も失ったラフマニノフは、家族と共に国を離れ、以後アメリカでピアニストとして生涯を終えました。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=psdq8GWlNKA",
+    "ig_caption": "なぜ、ロシアを誰より愛した作曲家が、二度と祖国の土を踏まなかったのでしょうか。1917年のロシア革命で地所も財産も失ったラフマニノフは、家族と共に国を離れ、以後アメリカでピアニストとして生涯を終えました。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜ、ロシアを誰より愛した作曲家が、二度と祖国の土を踏まなかったのでしょうか。1917年のロシア革命で地所も財産も失ったラフマニノフは、家族と共に国を離れ、以後アメリカでピアニストとして生涯を終えました。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n亡命後の新生活を描いた動画「手荷物ひとつで始まった第二の人生」もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=psdq8GWlNKA",
+    "youtube_link": "https://www.youtube.com/watch?v=psdq8GWlNKA",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "問いかけ型（なぜ〜なかったのか）",
+    "caption_style": "question"
+  },
+  {
+    "composer": "グリーグ",
+    "event_summary": "1864年、グリーグはいとこで歌手のニーナ・ハーゲルップと出会い恋に落ちたが、裕福なニーナの両親は作曲家との結婚に猛反対した。二人は家族の祝福がないまま1867年に結婚し、生涯愛情深い夫婦として知られた。一人娘を幼くして亡くす悲しみも、二人の絆を揺るがすことはなかった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%B0",
+      "https://bushoojapan.com/worldhistory/musician/542",
+      "https://gohoubinet.com/hokuo/norway/grieg/"
+    ],
+    "hook_copy": "いとこ婚に猛反対された作曲家\nグリーグ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "いとこ婚に猛反対された作曲家",
+        "support_text": "グリーグ",
+        "rank": 2,
+        "recommendation_reason": "対象名と状況が一目で分かり、名前主役として最も明快。家族の反対という核心をそのまま提示できる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://bushoojapan.com/worldhistory/musician/542",
+          "https://gohoubinet.com/hokuo/norway/grieg/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "名前主役・状況提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "家族不在のまま挙げた結婚式",
+        "support_text": "グリーグとニーナ",
+        "rank": 1,
+        "recommendation_reason": "結末の場面を先に見せる案。情緒的だが『誰の話か』が一瞬分かりにくく、support_textでの補完が必須になる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%B0"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "出来事主役・場面提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "反対を押し切った24歳の決断",
+        "support_text": "作曲家グリーグ",
+        "rank": 3,
+        "recommendation_reason": "年齢という具体数字で興味を引くが、A案に比べて状況説明がやや弱く、三案中では優先度を下げた。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://gohoubinet.com/hokuo/norway/grieg/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "数字主役型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1864年、コペンハーゲン。21歳のエドヴァルド・グリーグは、いとこで歌手のニーナ・ハーゲルップと出会い、たちまち恋に落ちた。",
+      "裕福なニーナの両親は、将来が見えない作曲家との結婚に猛反対した。それでも二人は、家族が誰一人立ち会わないまま結婚式を挙げた。",
+      "1868年に生まれた一人娘は、わずか1歳1か月で病死してしまった。それでも夫婦は生涯寄り添い、同じ岩壁の下に静かに眠っている。"
+    ],
+    "fb_caption": "1864年、コペンハーゲン。21歳のグリーグは、いとこの歌手ニーナ・ハーゲルップと恋に落ちました。裕福な彼女の家族は結婚に猛反対しましたが、二人は家族のいないまま式を挙げ、生涯寄り添い続けました。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1864年、コペンハーゲン。21歳のグリーグは、いとこの歌手ニーナ・ハーゲルップと恋に落ちました。裕福な彼女の家族は結婚に猛反対しましたが、二人は家族のいないまま式を挙げ、生涯寄り添い続けました。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1864年、コペンハーゲン。21歳のグリーグは、いとこの歌手ニーナ・ハーゲルップと恋に落ちました。裕福な彼女の家族は結婚に猛反対しましたが、二人は家族のいないまま式を挙げ、生涯寄り添い続けました。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nグリーグとニーナの静かな絆に、思いを馳せてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "love_family",
+    "hook_pattern": "名前主役・状況提示型",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ヴィヴァルディ",
+    "event_summary": "ヴィヴァルディは生まれつき胸の病（喘息とされる）を抱え、司祭になってわずか1年ほどでミサを執り行う義務を免除された。これにより彼は作曲と、孤児院の少女たちへのヴァイオリン指導に専念できるようになった。結果として500曲以上の協奏曲を残し、「赤毛の司祭」としてバロック音楽史に名を刻んだ。",
+    "sources": [
+      "https://www.classical-music.com/features/composers/antonio-vivaldi",
+      "https://www.catholicnewsagency.com/news/36556/what-makes-vivaldi-unique-among-composers-he-was-a-priest",
+      "https://en.wikipedia.org/wiki/Antonio_Vivaldi"
+    ],
+    "hook_copy": "持病が生んだ「赤毛の司祭」\nヴィヴァルディ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "持病が生んだ「赤毛の司祭」",
+        "support_text": "ヴィヴァルディ",
+        "rank": 1,
+        "recommendation_reason": "意外な結末（病気がニックネームと名声を生んだ）を先に提示する枠の型に最も合致し、対象名も明確。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.classical-music.com/features/composers/antonio-vivaldi",
+          "https://en.wikipedia.org/wiki/Antonio_Vivaldi"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴィヴァルディ",
+        "hook_pattern": "結末先出し型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ミサを免除された司祭の転機",
+        "support_text": "作曲家ヴィヴァルディ",
+        "rank": 3,
+        "recommendation_reason": "出来事を淡々と提示する案。事実は正確だが『克服』という意外性がA案より伝わりにくい。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.catholicnewsagency.com/news/36556/what-makes-vivaldi-unique-among-composers-he-was-a-priest"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴィヴァルディ",
+        "hook_pattern": "出来事主役・説明型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "喘息が開いた、作曲家への道",
+        "support_text": "ヴィヴァルディの転身",
+        "rank": 2,
+        "recommendation_reason": "因果関係を端的に示す案だが、『喘息』と明言する点は推定であるため、A/B案より慎重な表現を優先した。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Antonio_Vivaldi"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴィヴァルディ",
+        "hook_pattern": "因果提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1678年、ヴェネツィアに生まれたアントニオ・ヴィヴァルディは、25歳で司祭に叙階されたが、生まれつき胸に重い持病を抱えていた。",
+      "司祭になってからわずか1年ほどで、生まれつきの重い持病を理由に、日々のミサを執り行う義務を正式に免除してもらうことになった。",
+      "司祭としての重い務めから解放されたヴィヴァルディは、次第に作曲と、孤児院育ちの少女たちへのヴァイオリン指導に打ち込んでいった。",
+      "皮肉にも、この持病がきっかけとなり、彼は作曲と演奏に専念し、500曲以上の協奏曲を生んだ「赤毛の司祭」として歴史に名を残した。"
+    ],
+    "fb_caption": "生まれつきの持病が、バロック音楽史を変えるきっかけになりました。ヴィヴァルディは司祭になってわずか1年ほどでミサの義務を免除され、空いた時間のすべてを作曲とヴァイオリン指導に注ぎ、500曲を超える協奏曲を生み出したのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=krkJJ2TI6LY",
+    "ig_caption": "生まれつきの持病が、バロック音楽史を変えるきっかけになりました。ヴィヴァルディは司祭になってわずか1年ほどでミサの義務を免除され、空いた時間のすべてを作曲とヴァイオリン指導に注ぎ、500曲を超える協奏曲を生み出したのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "生まれつきの持病が、バロック音楽史を変えるきっかけになりました。ヴィヴァルディは司祭になってわずか1年ほどでミサの義務を免除され、空いた時間のすべてを作曲とヴァイオリン指導に注ぎ、500曲を超える協奏曲を生み出したのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nヴィヴァルディの知られざる素顔に迫った動画も、ぜひご覧ください。\nhttps://www.youtube.com/watch?v=krkJJ2TI6LY",
+    "youtube_link": "https://www.youtube.com/watch?v=krkJJ2TI6LY",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "結末先出し型",
+    "caption_style": "conclusion_first"
+  }
+]
