@@ -1,0 +1,319 @@
+[
+  {
+    "composer": "ヘンデル",
+    "event_summary": "1727年6月、ヘンデルが率いたロンドンの歌劇場で、彼が抱える二大プリマドンナ、フランチェスカ・クッツォーニとファウスティーナ・ボルドーニのファン同士の対立が頂点に達した。ボノンチーニの新作上演中、興奮した客席に煽られた二人は舞台上で取っ組み合いの喧嘩を始め、公演は中断。この大騒動はのちに人気風刺劇『乞食オペラ』の題材にまでされた。",
+    "sources": [
+      "https://www.yourclassical.org/episode/2003/06/06/handels-dueling-divas",
+      "https://www.britannica.com/biography/Faustina-Bordoni",
+      "https://en.wikipedia.org/wiki/Francesca_Cuzzoni",
+      "https://interlude.hk/the-queen-amongst-the-queens/"
+    ],
+    "hook_copy": "拍手のはずが、怒号と乱闘に\nヘンデルの劇場、伝説の修羅場",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "舞台で起きた、殴り合いの乱闘",
+        "support_text": "ヘンデル劇場の二大歌姫が激突",
+        "rank": 2,
+        "recommendation_reason": "事件そのものの衝撃を名詞句で直球表示。初見でも何が起きたか一瞬でわかる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.yourclassical.org/episode/2003/06/06/handels-dueling-divas",
+          "https://www.britannica.com/biography/Faustina-Bordoni"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "事件名詞句＋劇場名で文脈補足",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ヘンデルが育てた二人の女王、全面戦争に",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "ヘンデル本人を主語にした構成。名前で入るため検索・認知のハードルは低いが意外性のインパクトはやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Francesca_Cuzzoni",
+          "https://interlude.hk/the-queen-amongst-the-queens/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "作曲家主語＋比喩（全面戦争）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "拍手のはずが、怒号と乱闘に",
+        "support_text": "ヘンデルの劇場、伝説の修羅場",
+        "rank": 1,
+        "recommendation_reason": "「拍手→乱闘」の落差で強い意外性を先出しでき、対立テーマの核（結末の意外性）に最も合致する。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.yourclassical.org/episode/2003/06/06/handels-dueling-divas",
+          "https://en.wikipedia.org/wiki/Francesca_Cuzzoni",
+          "https://interlude.hk/the-queen-amongst-the-queens/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "逆転型（期待→裏切り）の場面提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "reversal"
+        ],
+        "playbook_score": 0.26,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "ジョージ・フリデリック・ヘンデルは18世紀ロンドンの歌劇場を率い、当時絶大な人気を誇った二人のソプラノを同時に抱えていた。",
+      "二人のソプラノ、フランチェスカ・クッツォーニとファウスティーナ・ボルドーニのファン同士は客席でも対立を深め、劇場は一触即発だった。",
+      "1727年6月、ボノンチーニの新作上演中、興奮した客席に煽られた二人のソプラノは、王女も見守る舞台上で取っ組み合いを始めた。",
+      "この日の公演は大混乱で中断。ヘンデルの劇場を揺るがした大醜聞は、のちに人気風刺劇『乞食オペラ』でも笑いものにされてしまった。"
+    ],
+    "fb_caption": "1727年6月、ロンドンの劇場。拍手が鳴り止む間もなく、舞台上で二人のプリマドンナが取っ組み合いの喧嘩を始めた。ヘンデル自慢の歌劇場を揺るがした、史上最も騒がしい対立劇。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "ig_caption": "1727年6月、ロンドンの劇場。拍手が鳴り止む間もなく、舞台上で二人のプリマドンナが取っ組み合いの喧嘩を始めた。ヘンデル自慢の歌劇場を揺るがした、史上最も騒がしい対立劇。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1727年6月、ロンドンの劇場。拍手が鳴り止む間もなく、舞台上で二人のプリマドンナが取っ組み合いの喧嘩を始めた。ヘンデル自慢の歌劇場を揺るがした、史上最も騒がしい対立劇。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nヘンデルの波乱に満ちた人生をたどった動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "youtube_link": "https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "subject_type": "composer",
+    "theme": "conflict",
+    "hook_pattern": "逆転型（期待→裏切り）の場面提示",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ラフマニノフ",
+    "event_summary": "1897年、23歳のラフマニノフが発表した交響曲第1番の初演は、不出来な指揮も重なり大失敗に終わった。彼は深く傷つき、1917年の亡命の際に楽譜をロシアに残したまま二度と演奏しようとしなかったが、死後の1944年に各楽器のパート譜だけが偶然発見され、翌1945年モスクワで甦った。",
+    "sources": [
+      "https://thelistenersclub.com/2018/10/15/rachmaninovs-first-symphony-from-despair-to-posthumous-triumph/",
+      "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)",
+      "https://www.wfmt.com/2025/05/27/rachmaninoff-symphony-no-1-symphonic-dances/"
+    ],
+    "hook_copy": "なぜ楽譜は消えたのか\nラフマニノフの交響曲第1番の謎",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "消えた交響曲、48年の沈黙",
+        "support_text": "ラフマニノフの幻の交響曲第1番",
+        "rank": 2,
+        "recommendation_reason": "空白期間の長さを数字で示し、忘却の深さを印象づける構成。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://thelistenersclub.com/2018/10/15/rachmaninovs-first-symphony-from-despair-to-posthumous-triumph/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラフマニノフ",
+        "hook_pattern": "数字訴求＋対象名詞句",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ラフマニノフが葬った自作、死後に甦る",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "名前を主語にした直球表現。わかりやすいが「葬った」のインパクトはA・Cよりやや穏やか。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラフマニノフ",
+        "hook_pattern": "作曲家主語＋対比（葬る→甦る）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ楽譜は消えたのか",
+        "support_text": "ラフマニノフの交響曲第1番の謎",
+        "rank": 3,
+        "recommendation_reason": "疑問形で「忘却と再評価」テーマの核心（楽譜紛失という謎）に直接フォーカスでき、問いかけ型キャプションとも相性が良い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://thelistenersclub.com/2018/10/15/rachmaninovs-first-symphony-from-despair-to-posthumous-triumph/",
+          "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラフマニノフ",
+        "hook_pattern": "疑問形＋対象名詞句",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1897年、23歳のセルゲイ・ラフマニノフは渾身の交響曲第1番を発表したが、指揮の出来も悪く初演は惨憺たる失敗に終わった。",
+      "深く傷ついたラフマニノフは、1917年に祖国を離れる際この交響曲の楽譜をロシアに残していき、曲は長い沈黙の中に消えていった。",
+      "1944年、彼の死の翌年、紛失していた総譜の代わりに各楽器のパート譜が、レニングラード音楽院の資料庫で偶然発見されたのだった。",
+      "1945年、死後わずか2年で交響曲第1番はモスクワで甦り、再評価の末、今では世界中のオーケストラが演奏する名曲となった。"
+    ],
+    "fb_caption": "なぜラフマニノフは、渾身の交響曲を自ら封印してしまったのでしょうか。23歳での初演大失敗から半世紀近くを経て、楽譜なき名曲は思わぬ形で蘇ります。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=yTmvr3Gl02M",
+    "ig_caption": "なぜラフマニノフは、渾身の交響曲を自ら封印してしまったのでしょうか。23歳での初演大失敗から半世紀近くを経て、楽譜なき名曲は思わぬ形で蘇ります。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜラフマニノフは、渾身の交響曲を自ら封印してしまったのでしょうか。23歳での初演大失敗から半世紀近くを経て、楽譜なき名曲は思わぬ形で蘇ります。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n大きな挫折から音楽を取り戻していく姿を描いた動画も、あわせてご覧ください。\nhttps://www.youtube.com/watch?v=yTmvr3Gl02M",
+    "youtube_link": "https://www.youtube.com/watch?v=yTmvr3Gl02M",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "疑問形＋対象名詞句",
+    "caption_style": "question"
+  },
+  {
+    "composer": "メンデルスゾーン",
+    "event_summary": "フェリックス・メンデルスゾーンの祖父は啓蒙思想家モーゼス・メンデルスゾーン。一家はユダヤ教徒だったが差別を避けるため父の代でプロテスタントへ改宗し、その証として『バルトルディ』姓を名乗るよう求められた。しかし本人は生涯この姓を好まず、使い続けることはなかった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/フェリックス・メンデルスゾーン",
+      "https://kotobank.jp/word/めんでるすぞーん-1600441",
+      "https://rekisiru.com/8230/2"
+    ],
+    "hook_copy": "メンデルスゾーン、本当はバルトルディ?",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "有名な姓の裏に、もう一つの名前があった",
+        "support_text": "メンデルスゾーンの秘密",
+        "rank": 1,
+        "recommendation_reason": "名前の背後にある謎を強調する出来事主役型。固有名詞を伏せても興味を引ける第2案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/フェリックス・メンデルスゾーン"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "隠された事実提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "メンデルスゾーン、本当はバルトルディ?",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "誰もが知る名前に疑問符を付けるだけで、具体的な謎が一瞬で伝わるため推奨。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/フェリックス・メンデルスゾーン",
+          "https://rekisiru.com/8230/2"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "名前＋疑問符型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "哲学者の孫が背負った、改宗という過去",
+        "support_text": "メンデルスゾーンの出自",
+        "rank": 3,
+        "recommendation_reason": "出自の重みを前面に出す説明型。情報量はあるが初見のつかみとしてはやや間接的なため第3案とした。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://kotobank.jp/word/めんでるすぞーん-1600441"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "出自説明型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "作曲家フェリックス・メンデルスゾーンの祖父は、啓蒙思想家として知られた哲学者モーゼス・メンデルスゾーンその人に他ならなかった。",
+      "一家はもともとユダヤ教徒だったが、周囲の根強い差別を避けるため、父アブラハムの代でプロテスタントへと改宗することとなった。",
+      "改宗の証として、母方の親族にならい『バルトルディ』という姓を名乗るよう強く求められ、正式に一家の姓へ加えることとなった。",
+      "しかし本人はこの『バルトルディ』という姓を好まず、生涯『フェリックス・メンデルスゾーン』の名のみを名乗り続けたのだという。"
+    ],
+    "fb_caption": "メンデルスゾーンは生涯、もう一つの姓を名乗ることを拒み続けました。祖父は著名な哲学者モーゼス・メンデルスゾーン、一家の改宗がその姓『バルトルディ』を生んだのです✨。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "メンデルスゾーンは生涯、もう一つの姓を名乗ることを拒み続けました。祖父は著名な哲学者モーゼス・メンデルスゾーン、一家の改宗がその姓『バルトルディ』を生んだのです✨。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "メンデルスゾーンは生涯、もう一つの姓を名乗ることを拒み続けました。祖父は著名な哲学者モーゼス・メンデルスゾーン、一家の改宗がその姓『バルトルディ』を生んだのです✨。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nメンデルスゾーンの名曲の数々も、この機会にぜひ聴いてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "名前＋疑問符型",
+    "caption_style": "conclusion_first"
+  }
+]
