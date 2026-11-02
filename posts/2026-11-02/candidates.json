@@ -1,53 +1,53 @@
 [
   {
     "composer": "ラフマニノフ",
-    "event_summary": "1917年のロシア革命により、貴族出身のラフマニノフは身の危険を感じ、家族と共にスウェーデン経由で国外へ脱出した。革命政府に祖国の財産と地所をすべて没収され、彼は生涯二度とロシアの土を踏むことはなかった。亡命後は欧米でピアニストとして活動を続け、69歳でアメリカにて生涯を閉じた。",
+    "event_summary": "1897年、23歳のラフマニノフが発表した交響曲第1番の初演は、不出来な指揮も重なり大失敗に終わった。彼は深く傷つき、1917年の亡命の際に楽譜をロシアに残したまま二度と演奏しようとしなかったが、死後の1944年に各楽器のパート譜だけが偶然発見され、翌1945年モスクワで甦った。",
     "sources": [
-      "https://ontomo-mag.com/column2/rachmaninov-pianist-conductor02/?segment=102376",
-      "https://www.senzoku-online.jp/history/trial/question.php?pod=10&num=027&prm=07",
-      "https://www.weblio.jp/content/%E3%83%A9%E3%83%95%E3%83%9E%E3%83%8B%E3%83%8E%E3%83%95",
-      "https://asobi7.com/is-there-any-difference-between-the-film-rachmaninoffs-love-melody-and-the-true-story/"
+      "https://thelistenersclub.com/2018/10/15/rachmaninovs-first-symphony-from-despair-to-posthumous-triumph/",
+      "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)",
+      "https://www.wfmt.com/2025/05/27/rachmaninoff-symphony-no-1-symphonic-dances/"
     ],
-    "hook_copy": "なぜ祖国に戻らなかったのか\nラフマニノフ",
+    "hook_copy": "なぜ楽譜は消えたのか\nラフマニノフの交響曲第1番の謎",
     "hook_options": [
       {
         "candidate_id": "A",
-        "headline": "なぜ祖国に戻らなかったのか",
-        "support_text": "ラフマニノフ",
+        "headline": "消えた交響曲、48年の沈黙",
+        "support_text": "ラフマニノフの幻の交響曲第1番",
         "rank": 2,
-        "recommendation_reason": "疑問形で読者の関心を引きつつ、対象名を明示。枠の『問いかけから入る』型に最も忠実で、答えが中間スライドで明快に回収される。",
-        "payoff_slide": 3,
+        "recommendation_reason": "空白期間の長さを数字で示し、忘却の深さを印象づける構成。",
+        "payoff_slide": 4,
         "fact_sources": [
-          "https://ontomo-mag.com/column2/rachmaninov-pianist-conductor02/?segment=102376",
-          "https://www.weblio.jp/content/%E3%83%A9%E3%83%95%E3%83%9E%E3%83%8B%E3%83%8E%E3%83%95"
+          "https://thelistenersclub.com/2018/10/15/rachmaninovs-first-symphony-from-despair-to-posthumous-triumph/"
         ],
         "fact_status": "verified",
         "subject_label": "ラフマニノフ",
-        "hook_pattern": "問いかけ型（なぜ〜なかったのか）",
+        "hook_pattern": "数字訴求＋対象名詞句",
         "evidence_level": "editorial",
         "reference_ids": [],
         "reference_metric_basis": "",
         "reference_limitations": "近い同形式の実績参照がないため編集判断",
         "expression_types": [
-          "proper_noun"
+          "number",
+          "proper_noun",
+          "surprising_fact"
         ],
-        "playbook_score": 0.15,
-        "original_rank": 1,
+        "playbook_score": 0.24,
+        "original_rank": 2,
         "playbook_approved": "2026-10-16"
       },
       {
         "candidate_id": "B",
-        "headline": "革命で全財産を失った夜",
-        "support_text": "ラフマニノフの亡命",
+        "headline": "ラフマニノフが葬った自作、死後に甦る",
+        "support_text": "",
         "rank": 1,
-        "recommendation_reason": "出来事そのものを前面に出す案。衝撃の大きさは伝わるが、問いかけ型の枠趣旨からはやや外れる。",
-        "payoff_slide": 3,
+        "recommendation_reason": "名前を主語にした直球表現。わかりやすいが「葬った」のインパクトはA・Cよりやや穏やか。",
+        "payoff_slide": 4,
         "fact_sources": [
-          "https://www.senzoku-online.jp/history/trial/question.php?pod=10&num=027&prm=07"
+          "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)"
         ],
         "fact_status": "verified",
         "subject_label": "ラフマニノフ",
-        "hook_pattern": "出来事主役・断定型",
+        "hook_pattern": "作曲家主語＋対比（葬る→甦る）",
         "evidence_level": "editorial",
         "reference_ids": [],
         "reference_metric_basis": "",
@@ -57,49 +57,51 @@
           "proper_noun"
         ],
         "playbook_score": 0.3,
-        "original_rank": 2,
+        "original_rank": 3,
         "playbook_approved": "2026-10-16"
       },
       {
         "candidate_id": "C",
-        "headline": "手荷物ひとつで新大陸へ",
-        "support_text": "作曲家ラフマニノフ",
+        "headline": "なぜ楽譜は消えたのか",
+        "support_text": "ラフマニノフの交響曲第1番の謎",
         "rank": 3,
-        "recommendation_reason": "具体的なディテールで興味を引くが、亡命の『理由』よりも『移動』に焦点が寄り、政治・戦争というテーマ軸がやや弱まる。",
-        "payoff_slide": 2,
+        "recommendation_reason": "疑問形で「忘却と再評価」テーマの核心（楽譜紛失という謎）に直接フォーカスでき、問いかけ型キャプションとも相性が良い。",
+        "payoff_slide": 3,
         "fact_sources": [
-          "https://asobi7.com/is-there-any-difference-between-the-film-rachmaninoffs-love-melody-and-the-true-story/"
+          "https://thelistenersclub.com/2018/10/15/rachmaninovs-first-symphony-from-despair-to-posthumous-triumph/",
+          "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)"
         ],
         "fact_status": "verified",
         "subject_label": "ラフマニノフ",
-        "hook_pattern": "情景・描写型",
+        "hook_pattern": "疑問形＋対象名詞句",
         "evidence_level": "editorial",
         "reference_ids": [],
         "reference_metric_basis": "",
         "reference_limitations": "近い同形式の実績参照がないため編集判断",
         "expression_types": [
+          "number",
           "proper_noun"
         ],
-        "playbook_score": 0.15,
-        "original_rank": 3,
+        "playbook_score": 0.12,
+        "original_rank": 1,
         "playbook_approved": "2026-10-16"
       }
     ],
     "hook_selection": null,
     "is_date_match": false,
     "middle_slides": [
-      "1917年、ロシア革命が勃発した。貴族出身の作曲家セルゲイ・ラフマニノフは、新しい体制のもとで財産も地位も失う危険に直面していた。",
-      "家族全員の安全を守るため、ラフマニノフは演奏旅行を装い静かに祖国を離れた。向かった先はスウェーデン、そしてノルウェーだった。",
-      "革命政府によって、ロシア国内の地所も財産も完全に没収された。ラフマニノフはその後ずっと、二度と祖国の土を踏むことはなかった。",
-      "それでも彼は欧米でピアニストとして活動を続け、望郷の思いを曲に刻みながら、二度と祖国の土を踏まないまま69歳で生涯を閉じた。"
+      "1897年、23歳のセルゲイ・ラフマニノフは渾身の交響曲第1番を発表したが、指揮の出来も悪く初演は惨憺たる失敗に終わった。",
+      "深く傷ついたラフマニノフは、1917年に祖国を離れる際この交響曲の楽譜をロシアに残していき、曲は長い沈黙の中に消えていった。",
+      "1944年、彼の死の翌年、紛失していた総譜の代わりに各楽器のパート譜が、レニングラード音楽院の資料庫で偶然発見されたのだった。",
+      "1945年、死後わずか2年で交響曲第1番はモスクワで甦り、再評価の末、今では世界中のオーケストラが演奏する名曲となった。"
     ],
-    "fb_caption": "なぜ、ロシアを誰より愛した作曲家が、二度と祖国の土を踏まなかったのでしょうか。1917年のロシア革命で地所も財産も失ったラフマニノフは、家族と共に国を離れ、以後アメリカでピアニストとして生涯を終えました。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=psdq8GWlNKA",
-    "ig_caption": "なぜ、ロシアを誰より愛した作曲家が、二度と祖国の土を踏まなかったのでしょうか。1917年のロシア革命で地所も財産も失ったラフマニノフは、家族と共に国を離れ、以後アメリカでピアニストとして生涯を終えました。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
-    "youtube_caption": "なぜ、ロシアを誰より愛した作曲家が、二度と祖国の土を踏まなかったのでしょうか。1917年のロシア革命で地所も財産も失ったラフマニノフは、家族と共に国を離れ、以後アメリカでピアニストとして生涯を終えました。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n亡命後の新生活を描いた動画「手荷物ひとつで始まった第二の人生」もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=psdq8GWlNKA",
-    "youtube_link": "https://www.youtube.com/watch?v=psdq8GWlNKA",
+    "fb_caption": "なぜラフマニノフは、渾身の交響曲を自ら封印してしまったのでしょうか。23歳での初演大失敗から半世紀近くを経て、楽譜なき名曲は思わぬ形で蘇ります。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=yTmvr3Gl02M",
+    "ig_caption": "なぜラフマニノフは、渾身の交響曲を自ら封印してしまったのでしょうか。23歳での初演大失敗から半世紀近くを経て、楽譜なき名曲は思わぬ形で蘇ります。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜラフマニノフは、渾身の交響曲を自ら封印してしまったのでしょうか。23歳での初演大失敗から半世紀近くを経て、楽譜なき名曲は思わぬ形で蘇ります。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n大きな挫折から音楽を取り戻していく姿を描いた動画も、あわせてご覧ください。\nhttps://www.youtube.com/watch?v=yTmvr3Gl02M",
+    "youtube_link": "https://www.youtube.com/watch?v=yTmvr3Gl02M",
     "subject_type": "composer",
-    "theme": "politics_war",
-    "hook_pattern": "問いかけ型（なぜ〜なかったのか）",
+    "theme": "forgotten",
+    "hook_pattern": "疑問形＋対象名詞句",
     "caption_style": "question"
   },
   {
