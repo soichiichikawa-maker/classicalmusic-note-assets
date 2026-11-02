@@ -6,110 +6,32 @@
     "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)",
     "https://www.wfmt.com/2025/05/27/rachmaninoff-symphony-no-1-symphonic-dances/"
   ],
-  "hook_copy": "ラフマニノフが葬った自作、死後に甦る",
-  "hook_options": [
-    {
-      "candidate_id": "A",
-      "headline": "消えた交響曲、48年の沈黙",
-      "support_text": "ラフマニノフの幻の交響曲第1番",
-      "rank": 2,
-      "recommendation_reason": "空白期間の長さを数字で示し、忘却の深さを印象づける構成。",
-      "payoff_slide": 4,
-      "fact_sources": [
-        "https://thelistenersclub.com/2018/10/15/rachmaninovs-first-symphony-from-despair-to-posthumous-triumph/"
-      ],
-      "fact_status": "verified",
-      "subject_label": "ラフマニノフ",
-      "hook_pattern": "数字訴求＋対象名詞句",
-      "evidence_level": "editorial",
-      "reference_ids": [],
-      "reference_metric_basis": "",
-      "reference_limitations": "近い同形式の実績参照がないため編集判断",
-      "expression_types": [
-        "number",
-        "proper_noun",
-        "surprising_fact"
-      ],
-      "playbook_score": 0.24,
-      "original_rank": 2,
-      "playbook_approved": "2026-10-16"
-    },
-    {
-      "candidate_id": "B",
-      "headline": "ラフマニノフが葬った自作、死後に甦る",
-      "support_text": "",
-      "rank": 1,
-      "recommendation_reason": "名前を主語にした直球表現。わかりやすいが「葬った」のインパクトはA・Cよりやや穏やか。",
-      "payoff_slide": 4,
-      "fact_sources": [
-        "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)"
-      ],
-      "fact_status": "verified",
-      "subject_label": "ラフマニノフ",
-      "hook_pattern": "作曲家主語＋対比（葬る→甦る）",
-      "evidence_level": "editorial",
-      "reference_ids": [],
-      "reference_metric_basis": "",
-      "reference_limitations": "近い同形式の実績参照がないため編集判断",
-      "expression_types": [
-        "contrast",
-        "proper_noun"
-      ],
-      "playbook_score": 0.3,
-      "original_rank": 3,
-      "playbook_approved": "2026-10-16"
-    },
-    {
-      "candidate_id": "C",
-      "headline": "なぜ楽譜は消えたのか",
-      "support_text": "ラフマニノフの交響曲第1番の謎",
-      "rank": 3,
-      "recommendation_reason": "疑問形で「忘却と再評価」テーマの核心（楽譜紛失という謎）に直接フォーカスでき、問いかけ型キャプションとも相性が良い。",
-      "payoff_slide": 3,
-      "fact_sources": [
-        "https://thelistenersclub.com/2018/10/15/rachmaninovs-first-symphony-from-despair-to-posthumous-triumph/",
-        "https://en.wikipedia.org/wiki/Symphony_No._1_(Rachmaninoff)"
-      ],
-      "fact_status": "verified",
-      "subject_label": "ラフマニノフ",
-      "hook_pattern": "疑問形＋対象名詞句",
-      "evidence_level": "editorial",
-      "reference_ids": [],
-      "reference_metric_basis": "",
-      "reference_limitations": "近い同形式の実績参照がないため編集判断",
-      "expression_types": [
-        "number",
-        "proper_noun"
-      ],
-      "playbook_score": 0.12,
-      "original_rank": 1,
-      "playbook_approved": "2026-10-16"
-    }
-  ],
+  "hook_copy": "ラフマニノフが[R]葬った[/R]自作、死後に[G]甦る[/G]",
+  "hook_options": [],
   "hook_selection": {
-    "candidate_id": "B",
+    "candidate_id": "custom",
     "proposal_revision": "a4b68dbb5c978ef5",
     "selected_by": "soichiichikawa-maker",
-    "approved_at": "2026-11-02T07:13:36.282832+00:00",
-    "text": "ラフマニノフが葬った自作、死後に甦る"
+    "approved_at": "2026-11-02T07:48:47.395540+00:00",
+    "text": "ラフマニノフが[R]葬った[/R]自作、死後に[G]甦る[/G]"
   },
-  "portrait_prompt": "Portrait of composer Sergei Rachmaninoff, based on his well-known historical photographic portrait: a tall, lean man with a striking long face, high prominent cheekbones, a strong jaw, and deep-set piercing pale blue-gray eyes under slightly furrowed brows. He has short, dark hair neatly combed back and parted on the side, with a receding hairline at the temples. He is clean-shaven, with no mustache or beard. His expression is serious, stern, and composed, almost severe. He wears a dark formal suit jacket with a crisp white shirt collar and a dark necktie, all rendered in muted, realistic tones with no added ornamentation. Illustrated cinematic style, painterly rendering, not photorealistic. Bust-to-shoulder composition, simple and direct. Background is a plain, muted solid tone with no detail. No text anywhere in the image. The painting fills the entire canvas edge to edge, with no border, no frame, no vignette, and no empty margin around the figure.",
+  "portrait_prompt": "Illustrated cinematic portrait of Russian composer Sergei Rachmaninoff, based on the well-known photographic portrait of him as a mature man: short dark brown hair cropped close, receding at the temples with a high prominent forehead, deep-set pale grey-blue eyes under slightly heavy brows, long straight nose, strong angular jaw, clean-shaven face with a stern, serious, almost melancholic expression and tightly set thin lips. Fair, smooth skin with subtle age lines at the eyes. He wears a dark formal suit jacket over a crisp white dress shirt and a dark necktie, exactly as in the reference image, with no extra jewelry or ornamentation. Bust-to-shoulder composition, facing slightly toward the viewer. Painterly oil-portrait rendering, cinematic soft lighting, not photorealistic. Background is a plain, muted dark olive-brown tone with minimal gradation, no vignette, no border, no frame, artwork extending fully to all four edges of the canvas. No text, no signature.",
   "middle_slides": [
     {
       "text": "1897年、23歳のセルゲイ・ラフマニノフは渾身の交響曲第1番を発表したが、指揮の出来も悪く初演は惨憺たる失敗に終わった。",
-      "image_prompt": "Oil painting, painterly style, not photorealistic, of a young Sergei Rachmaninoff at age 23 in 1897: the same man with a long lean face, high cheekbones, strong jaw, deep-set pale blue-gray eyes, short dark hair combed back, clean-shaven, now depicted younger with fuller dark hair and a smoother brow. He stands alone backstage in a grand but dim St. Petersburg concert hall just after a disastrous premiere, shoulders slumped, head bowed in anguish, one hand pressed to his forehead, wearing a dark formal tailcoat and white shirt. Faint empty rows of seats and a dimly lit stage are visible in the background, conductor's podium abandoned. Moody, dark warm lighting, somber atmosphere, visible brushstrokes, oil-painting texture."
+      "image_prompt": "Oil-painting style illustration of a young Sergei Rachmaninoff at age 23 in 1897: short dark brown hair with a high forehead, deep-set grey-blue eyes, long straight nose, clean-shaven stern face but with slightly smoother, more youthful features than his later years. He sits slumped backstage in a dim St. Petersburg concert hall, elbows on knees, head bowed into one hand in visible anguish and humiliation, dressed in a formal dark tailcoat and white shirt. In the blurred background, orchestra musicians are packing up their instruments and a conductor's empty podium is visible under fading stage light, conveying the disastrous failure of the premiere. Warm but somber candle-lit tones, painterly brushwork, not photorealistic, no text."
     },
     {
       "text": "深く傷ついたラフマニノフは、1917年に祖国を離れる際この交響曲の楽譜をロシアに残していき、曲は長い沈黙の中に消えていった。",
-      "image_prompt": "Oil painting, painterly style, not photorealistic, of Sergei Rachmaninoff in 1917, the same long-faced man with high cheekbones, strong jaw, deep-set pale blue-gray eyes, dark hair combed back with a receding hairline, clean-shaven, now with a touch more gray at the temples and a weary, melancholic expression. He stands in profile beside a train station platform or ship dock at dusk, a worn suitcase in hand, gazing back over his shoulder toward a distant snowy Russian cityscape, face turned enough to show his solemn expression while his body remains angled toward departure. On a small table behind him rests a bound stack of manuscript paper, left behind and untouched. Cold blue-grey twilight tones, somber and nostalgic mood, visible brushstrokes, oil-painting texture."
+      "image_prompt": "Oil-painting style illustration of Sergei Rachmaninoff around age 44 in 1917: short dark hair receding at the temples, high forehead, deep-set grey-blue eyes, long straight nose, clean-shaven stern face matching his known portrait likeness, now with a touch more maturity in his expression. He stands at a snowy Russian train station platform at dusk, wearing a long dark winter coat and hat, suitcase in hand, glancing back over his shoulder toward a modest writing desk visible through a lit window behind him where a thick bound musical score lies abandoned on the desk. His body and face both turned back toward the window in a natural three-quarter pose, expression somber and resolute, evoking departure and leaving something precious behind. Muted blue-grey winter palette, painterly brushwork, not photorealistic, no text."
     },
     {
       "text": "1944年、彼の死の翌年、紛失していた総譜の代わりに各楽器のパート譜が、レニングラード音楽院の資料庫で偶然発見されたのだった。",
-      "image_prompt": "Oil painting, painterly style, not photorealistic, depicting a dusty archive storage room at the Leningrad Conservatory in 1944: tall wooden shelves stacked with bundles of yellowed orchestral part-sheets and old manuscripts, dim light streaming through a small window illuminating floating dust particles. On one wall hangs a faded framed photographic portrait of Sergei Rachmaninoff, the same long-faced man with high cheekbones, strong jaw, deep-set pale blue-gray eyes, dark hair now streaked with gray, clean-shaven, watching over the scene with a calm, dignified expression. No living figures present, only the discovered stacks of parts and the portrait on the wall. Warm sepia and amber tones, quiet reverent atmosphere, visible brushstrokes, oil-painting texture."
+      "image_prompt": "Oil-painting style illustration set in a dusty Leningrad Conservatory archive room in 1944: tall wooden shelves packed with yellowed folders and bound manuscripts, soft beams of light filtering through a high window illuminating floating dust particles. A pair of hands (no visible face) carefully lifts a faded stack of individual orchestral part-books tied with string from a forgotten box. On the wall nearby hangs a small framed portrait of Sergei Rachmaninoff with his short dark receding hair, deep-set grey-blue eyes, long straight nose, and stern clean-shaven face matching his known likeness, now rendered with a touch of care to suggest it as a memorial image after his death, soft shadows under the eyes suggesting the solemnity of remembrance rather than any change in his facial structure. Warm sepia and amber tones, painterly brushwork, not photorealistic, no text."
     },
     {
       "text": "1945年、死後わずか2年で交響曲第1番はモスクワで甦り、再評価の末、今では世界中のオーケストラが演奏する名曲となった。",
-      "image_prompt": "Oil painting, painterly style, not photorealistic, of a grand Moscow concert hall in 1945, filled with a full orchestra mid-performance, musicians and a conductor shown from a respectful distance with instruments raised, warm golden stage lighting, an engaged audience seated in the shadowed hall. Above the stage or near the proscenium hangs a dignified framed portrait or small bust of Sergei Rachmaninoff, the same long-faced man with high cheekbones, strong jaw, deep-set pale blue-gray eyes, graying dark hair, clean-shaven, serene and composed expression, overseeing the triumphant revival of his work. Rich warm amber and gold tones, triumphant and emotional atmosphere, visible brushstrokes, oil-painting texture."
+      "image_prompt": "Oil-painting style illustration of a grand, ornate Moscow concert hall in 1945, full orchestra performing on a brightly lit stage with a conductor mid-gesture, bows raised, music stands full of sheet music, and an enthralled audience seated in rows below, warm golden stage lighting filling the hall. Above the stage, a large framed portrait of Sergei Rachmaninoff is displayed in tribute, showing his short dark receding hair, high forehead, deep-set grey-blue eyes, long straight nose, and stern clean-shaven face exactly matching his known likeness, honoring his memory as his symphony is triumphantly revived. Rich warm reds and golds, painterly brushwork, cinematic grandeur, not photorealistic, no text."
     }
   ],
   "is_date_match": false,
@@ -120,11 +42,11 @@
   "today_date_label": null,
   "subject_type": "composer",
   "theme": "forgotten",
-  "hook_pattern": "作曲家主語＋対比（葬る→甦る）",
+  "hook_pattern": null,
   "caption_style": "question",
   "portrait_reference_image_url": "https://raw.githubusercontent.com/soichiichikawa-maker/classicalmusic-note-assets/main/reference/rachmaninoff_channel_face.png",
   "hook_source": "edited",
   "hook_original": "なぜ祖国に戻らなかったのか\nラフマニノフ",
   "hook_edit_ratio": 0.667,
-  "hook_markup_by": null
+  "hook_markup_by": "human"
 }
