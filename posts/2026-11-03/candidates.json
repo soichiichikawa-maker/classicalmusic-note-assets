@@ -1,0 +1,313 @@
+[
+  {
+    "composer": "ヴィヴァルディ",
+    "event_summary": "1725年、ヴィヴァルディは協奏曲集『和声と創意への試み』の中の一曲として《四季》を出版した。楽譜には各楽章の情景を描いた14行の詩「ソネット」が添えられており、言葉のない器楽曲でここまで具体的に情景を描写する試みは当時きわめて異例だった。この詩と音楽が一対一で対応する仕掛けこそが、300年近く経った今も《四季》が世界中で愛される理由とされている。",
+    "sources": [
+      "https://ontomo-mag.com/article/column/vivaldi-seasons-202502/",
+      "https://www.tpo.or.jp/concert/pdf/20190913-22program.pdf",
+      "https://vivaclassicalmusic.com/post-423/"
+    ],
+    "hook_copy": "ヴィヴァルディ《四季》に隠れた14行の詩",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ヴィヴァルディ《四季》に隠れた14行の詩",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "作曲家名と曲名、具体的な数字(14行)を同時に提示でき、何の話か即座に伝わる。名前主役型。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/vivaldi-seasons-202502/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴィヴァルディ",
+        "hook_pattern": "名詞句+具体的数字の提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "楽譜に書かれた「14行の詩」",
+        "support_text": "ヴィヴァルディ《四季》の秘密",
+        "rank": 2,
+        "recommendation_reason": "出来事（楽譜への書き込み）を主役にした案。曲名は補足に回し、意外性を先に出す構成。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://vivaclassicalmusic.com/post-423/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴィヴァルディ",
+        "hook_pattern": "出来事提示+補足で対象を明示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "なぜ《四季》には詩が付くのか",
+        "support_text": "ヴィヴァルディの仕掛け",
+        "rank": 3,
+        "recommendation_reason": "問いかけ型。候補1の冒頭型（問いかけ）に最も近い形だが、画面見出しとしてはやや説明的になるため次点に。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/vivaldi-seasons-202502/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴィヴァルディ",
+        "hook_pattern": "疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "ヴェネツィア出身の作曲家ヴィヴァルディは1725年、全12曲の協奏曲集『和声と創意への試み』の中の一曲として《四季》を発表した。",
+      "楽譜には各楽章ごとに、春の鳥のさえずりや夏の雷鳴など情景を描いた14行の詩「ソネット」が書き添えられ、演奏の道しるべとなった。",
+      "氷上を滑って転ぶ足音や、嵐の稲妻、酔っ払いの眠りまで、言葉のない器楽曲で情景を音にする試みは、当時の音楽界ではきわめて異例だった。",
+      "言葉と音が一対一で結びつくこの仕掛けこそが、出版されてから300年近く経った今も世界中で愛される《四季》最大の秘密と言える。"
+    ],
+    "fb_caption": "《四季》の楽譜に、実は“詩”が書き込まれていたのをご存知でしょうか？🎻 氷の上で転ぶ足音まで音で描く、ヴィヴァルディの仕掛けた秘密に迫ります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=krkJJ2TI6LY",
+    "ig_caption": "《四季》の楽譜に、実は“詩”が書き込まれていたのをご存知でしょうか？🎻 氷の上で転ぶ足音まで音で描く、ヴィヴァルディの仕掛けた秘密に迫ります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "《四季》の楽譜に、実は“詩”が書き込まれていたのをご存知でしょうか？🎻 氷の上で転ぶ足音まで音で描く、ヴィヴァルディの仕掛けた秘密に迫ります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n《四季》だけじゃないヴィヴァルディの知られざる素顔に迫る本編も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=krkJJ2TI6LY",
+    "youtube_link": "https://www.youtube.com/watch?v=krkJJ2TI6LY",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "名詞句+具体的数字の提示",
+    "caption_style": "question"
+  },
+  {
+    "composer": "チャイコフスキー",
+    "event_summary": "1893年11月、交響曲第6番「悲愴」の初演からわずか9日後にチャイコフスキーが53歳で急死した。公式死因はコレラとされたが、葬儀で遺体に親族やファンが直接触れるという不自然な光景から、同性愛スキャンダルを背景にした「自殺強要説」が長く囁かれた。現在の研究ではこの自殺説は根拠のない作り話とされ、コレラによる病死が定説となっている。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/チャイコフスキーの死",
+      "https://ja.wikipedia.org/wiki/ピョートル・チャイコフスキー",
+      "https://jmedia.wiki/53%E6%AD%B3%E3%81%A7%E7%AA%81%E7%84%B6%E4%BA%A1%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E5%8E%9F%E5%9B%A0%E3%81%AF%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AB/Death_of_Pyotr_Ilyich_Tchaikovsky"
+    ],
+    "hook_copy": "1893年、謎の急死の真相\nチャイコフスキー最期の9日間",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "1893年、謎の急死の真相",
+        "support_text": "チャイコフスキー最期の9日間",
+        "rank": 2,
+        "recommendation_reason": "場面(年号)から入りつつ謎解きへの興味を引く。割り当ての「場面から入る」型とも整合する。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/チャイコフスキーの死"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "場面主役・問い",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "チャイコフスキーの死、自殺説の真偽",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前と論点を直接提示するが、やや説明的で引きが弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/ピョートル・チャイコフスキー"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "名前主役・論点提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ遺体に誰もが触れたのか",
+        "support_text": "チャイコフスキーの死をめぐる謎",
+        "rank": 1,
+        "recommendation_reason": "具体的な異様な光景への問いで引きが強く、次点として有力。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://jmedia.wiki/53%E6%AD%B3%E3%81%A7%E7%AA%81%E7%84%B6%E4%BA%A1%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E5%8E%9F%E5%9B%A0%E3%81%AF%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AB/Death_of_Pyotr_Ilyich_Tchaikovsky"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "出来事主役・問いかけ",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1893年11月、サンクトペテルブルク。チャイコフスキーは自作の交響曲「悲愴」初演から、わずか9日後に53歳で急死した。",
+      "死因は公式にはコレラとされた。当時サンクトペテルブルクで猛威を振るっていた感染症で、生水を飲んだことが原因と説明された。",
+      "だが葬儀では、本来厳重に隔離されるはずのコレラの遺体に、親族やファンが直接触れキスまでしていた。この不自然さが「自殺強要説」を生んだ。",
+      "しかし近年の研究では、自殺説には決定的な証拠が無いことが判明した。現在ではコレラによる病死が、歴史的な定説となっている。"
+    ],
+    "fb_caption": "1893年11月、サンクトペテルブルクの一室。交響曲「悲愴」の初演からわずか9日後、チャイコフスキーは53歳で急死しました。公式の死因はコレラ。しかし葬儀での不可解な光景が、長く「自殺強要説」を囁かせることになります🎵。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=pU4C0N2AMHM",
+    "ig_caption": "1893年11月、サンクトペテルブルクの一室。交響曲「悲愴」の初演からわずか9日後、チャイコフスキーは53歳で急死しました。公式の死因はコレラ。しかし葬儀での不可解な光景が、長く「自殺強要説」を囁かせることになります🎵。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1893年11月、サンクトペテルブルクの一室。交響曲「悲愴」の初演からわずか9日後、チャイコフスキーは53歳で急死しました。公式の死因はコレラ。しかし葬儀での不可解な光景が、長く「自殺強要説」を囁かせることになります🎵。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nチャイコフスキーの物語は、こちらの動画でもご覧いただけます。\nhttps://www.youtube.com/watch?v=pU4C0N2AMHM",
+    "youtube_link": "https://www.youtube.com/watch?v=pU4C0N2AMHM",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "場面主役・問い",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ストラヴィンスキー",
+    "event_summary": "アメリカに亡命し同じロサンゼルスに住みながら、ストラヴィンスキーとシェーンベルクは長年不仲で、ほとんど顔を合わせることがなかった。作風も新古典主義と十二音技法で正反対だったが、1951年にシェーンベルクが死去した後、ストラヴィンスキーはかつて批判していた十二音技法を自ら作品に取り入れるようになった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/イーゴリ・ストラヴィンスキー",
+      "https://fictional-law.hatenablog.com/entry/2023/06/17/120000",
+      "https://note.com/newjapanphil/n/n72dd6c17f0e6"
+    ],
+    "hook_copy": "犬猿の仲が、死後に歩み寄った\nストラヴィンスキーとシェーンベルクの確執",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "犬猿の仲が、死後に歩み寄った",
+        "support_text": "ストラヴィンスキーとシェーンベルクの確執",
+        "rank": 1,
+        "recommendation_reason": "意外な結末を先に提示する割り当て型に最も合致し、興味を引く。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/イーゴリ・ストラヴィンスキー"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "結末先出し・出来事主役",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ストラヴィンスキー、宿敵の技法を取った",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前主役で結論を直接提示するが、驚きの演出がAに劣る。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://note.com/newjapanphil/n/n72dd6c17f0e6"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "名前主役・結末提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "同じ街で口をきかなかった二人の結末",
+        "support_text": "ストラヴィンスキーとシェーンベルク",
+        "rank": 3,
+        "recommendation_reason": "対立の異様さ(同じ街にいながら没交渉)を強調し、次点として有力。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://fictional-law.hatenablog.com/entry/2023/06/17/120000"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "状況主役・結末含意",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "イーゴリ・ストラヴィンスキーとアルノルト・シェーンベルクは、同じロサンゼルスの近所に暮らす20世紀音楽の二大巨頭だった。",
+      "だが二人は長年不仲で、近所に住みながら顔を合わせることすら無かった。新古典主義と十二音技法、作風も正反対のまま対立を続けた。",
+      "1951年、長年のライバルだったシェーンベルクが死去した。二人の対立は、これで唐突な幕切れを迎えたように見えたのだった。",
+      "しかしその後、ストラヴィンスキーは、かつて批判していた十二音技法を自ら取り入れ始め、新たな傑作を次々と生み出していった。"
+    ],
+    "fb_caption": "長年の宿敵が死んだ後、相手の技法を自ら取り入れる——そんな結末を迎えたのがストラヴィンスキーです。同じロサンゼルスに住みながら、アルノルト・シェーンベルクとは長年顔も合わせない険悪な関係でした🎻。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "長年の宿敵が死んだ後、相手の技法を自ら取り入れる——そんな結末を迎えたのがストラヴィンスキーです。同じロサンゼルスに住みながら、アルノルト・シェーンベルクとは長年顔も合わせない険悪な関係でした🎻。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "長年の宿敵が死んだ後、相手の技法を自ら取り入れる——そんな結末を迎えたのがストラヴィンスキーです。同じロサンゼルスに住みながら、アルノルト・シェーンベルクとは長年顔も合わせない険悪な関係でした🎻。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n対立の末にたどり着いた晩年の作風も、聴き比べてみると発見があります。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "conflict",
+    "hook_pattern": "結末先出し・出来事主役",
+    "caption_style": "conclusion_first"
+  }
+]
