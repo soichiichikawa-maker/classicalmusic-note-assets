@@ -1,0 +1,300 @@
+[
+  {
+    "composer": "メンデルスゾーン",
+    "event_summary": "1847年11月4日、フェリックス・メンデルスゾーンはライプツィヒで38歳の生涯を閉じました。半年前に最愛の姉ファニーを亡くした衝撃から立ち直れないまま体調を崩し、複数回の発作の末に姉と同じ脳卒中で息を引き取ります。今日がちょうどその命日にあたる、日付一致の逸話です。",
+    "sources": [
+      "https://interlude.hk/on-this-day-4-november-felix-mendelssohn-died/",
+      "https://www.worldhistory.org/Felix_Mendelssohn/",
+      "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+      "https://www.classicfm.com/composers/mendelssohn/guides/life-mendelssohn-his-final-year/"
+    ],
+    "hook_copy": "メンデルスゾーンは何が奪ったのか\n姉の死、半年後の最期",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "なぜ半年後に後を追ったのか",
+        "support_text": "メンデルスゾーンと姉ファニー",
+        "rank": 2,
+        "recommendation_reason": "出来事（なぜ半年で？という時間の近さ）を主役にした問いかけ。姉弟の関係性に興味がある層に刺さるが、対象名がやや後景に回る。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://interlude.hk/on-this-day-4-november-felix-mendelssohn-died/",
+          "https://www.worldhistory.org/Felix_Mendelssohn/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "出来事主役・時間差の問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": 0,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "メンデルスゾーンは何が奪ったのか",
+        "support_text": "姉の死、半年後の最期",
+        "rank": 1,
+        "recommendation_reason": "名前を主語にした直接的な問いかけで、誰の話か即座に伝わる。「何が奪ったのか」という抽象的な問いが続きへの興味を強く引く。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+          "https://www.classicfm.com/composers/mendelssohn/guides/life-mendelssohn-his-final-year/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "名前主役・抽象問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": 0,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "姉の死から、わずか半年",
+        "support_text": "メンデルスゾーン最期の謎",
+        "rank": 3,
+        "recommendation_reason": "具体的な時間の短さを数字的インパクトで見せる案。事実提示が先に立つため問いかけとしての引きはやや弱い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://interlude.hk/on-this-day-4-november-felix-mendelssohn-died/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "時間差ファクト提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": 0,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "今日11月4日は、作曲家フェリックス・メンデルスゾーンの命日。1847年、ライプツィヒで38歳の若さで息を引き取りました。",
+      "半年前、最愛の姉ファニーが脳卒中で急逝。知らせを受けた瞬間、メンデルスゾーンはその場に倒れ込み、二度と元の元気を取り戻せませんでした。",
+      "その後も体調は悪化の一途をたどり、10月末に最後の散歩へ出かけた数日後、三度目となる重い発作に襲われ、意識を失いました。",
+      "11月4日夜9時24分、妻セシルが見守るなか静かに息を引き取り、半年前に先立った姉ファニーの隣に、安らかに葬られました。"
+    ],
+    "fb_caption": "なぜ天才は、半年で姉の後を追うように旅立ったのか？今日11月4日は、フェリックス・メンデルスゾーンの命日です。1847年、38歳での早すぎる死でした。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "なぜ天才は、半年で姉の後を追うように旅立ったのか？今日11月4日は、フェリックス・メンデルスゾーンの命日です。1847年、38歳での早すぎる死でした。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜ天才は、半年で姉の後を追うように旅立ったのか？今日11月4日は、フェリックス・メンデルスゾーンの命日です。1847年、38歳での早すぎる死でした。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nメンデルスゾーンの音楽と生涯には、まだまだ知られざる物語が眠っています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "名前主役・抽象問いかけ型",
+    "caption_style": "question"
+  },
+  {
+    "composer": "ブラームス",
+    "event_summary": "1860年、ブラームスはヴァイオリニストのヨアヒムらと共に、台頭する新ドイツ楽派（リスト・ワーグナー陣営）に反対する宣言文を起草しました。十分な署名が集まる前に新聞へ流出してしまい、掲載時の署名者はわずか4人。大きな恥をかいたブラームスは、以後二度と公の論争に加わりませんでした。",
+    "sources": [
+      "https://www.classical-music.com/features/composers/war-of-the-romantics",
+      "https://mahlerfoundation.org/mahler/contemporaries/johannes-brahms/",
+      "https://www.flagstaffsymphony.org/community-news/part-three-johannes-brahms/",
+      "https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/johannes-brahms"
+    ],
+    "hook_copy": "ブラームス、まさかの返り討ち\n新ドイツ楽派への宣言文、大失敗",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "賛同者は、たった4人だった",
+        "support_text": "ブラームスの「宣戦布告」",
+        "rank": 2,
+        "recommendation_reason": "署名者の少なさという具体数字を先に見せる出来事主役型。数字のインパクトは強いが、対象名は補足に回る。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.classical-music.com/features/composers/war-of-the-romantics",
+          "https://www.flagstaffsymphony.org/community-news/part-three-johannes-brahms/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ブラームス",
+        "hook_pattern": "出来事主役・数字インパクト型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number"
+        ],
+        "playbook_score": -0.03,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ブラームス、まさかの返り討ち",
+        "support_text": "新ドイツ楽派への宣言文、大失敗",
+        "rank": 1,
+        "recommendation_reason": "名前を主語に「返り討ち」という意外な結末を直接提示。対立相手を打ち負かすはずが逆に恥をかいたという皮肉が一目で伝わる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://mahlerfoundation.org/mahler/contemporaries/johannes-brahms/",
+          "https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/johannes-brahms"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ブラームス",
+        "hook_pattern": "名前主役・結果逆転型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": 0,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "味方のはずが、敵を増やした",
+        "support_text": "ブラームスの対リスト宣言文",
+        "rank": 3,
+        "recommendation_reason": "皮肉な結果を抽象的に提示する案。意外性はあるが「誰が」「何に」が一読で伝わりにくく、優先度は下げた。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.classical-music.com/features/composers/war-of-the-romantics"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ブラームス",
+        "hook_pattern": "皮肉結果の抽象提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "reversal"
+        ],
+        "playbook_score": -0.04,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1859年、「新ドイツ楽派」を率いるリストらの理論が、すべての音楽家に支持されていると機関紙が書き立てた。ブラームスは激怒する。",
+      "翌1860年、ブラームスはヴァイオリニストのヨアヒムらと共に、新ドイツ楽派に反対する宣言文を書き上げ、多くの音楽家に署名を呼びかけた。",
+      "だが草稿は十分な署名が集まる前に新聞へ流出してしまう。掲載時に名を連ねていたのは、ブラームスを含めわずか4人だけだった。",
+      "新聞は容赦なく嘲笑し、ワーグナー陣営も猛反発した。大恥をかいたブラームスは、以後二度と公の場で論争に加わることはなかった。"
+    ],
+    "fb_caption": "署名はたった4人。ブラームスが新ドイツ楽派に挑んだ「宣言文」は、新聞に流出し大恥で幕を閉じました。リスト・ワーグナー陣営への挑戦のはずが、彼自身がその後二度と公の論争に加わらなくなるきっかけになったのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "署名はたった4人。ブラームスが新ドイツ楽派に挑んだ「宣言文」は、新聞に流出し大恥で幕を閉じました。リスト・ワーグナー陣営への挑戦のはずが、彼自身がその後二度と公の論争に加わらなくなるきっかけになったのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "署名はたった4人。ブラームスが新ドイツ楽派に挑んだ「宣言文」は、新聞に流出し大恥で幕を閉じました。リスト・ワーグナー陣営への挑戦のはずが、彼自身がその後二度と公の論争に加わらなくなるきっかけになったのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nブラームスの音楽史には、まだまだ驚きのエピソードが眠っています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "conflict",
+    "hook_pattern": "名前主役・結果逆転型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ティンパニ",
+    "event_summary": "ティンパニは長らく主音と属音による完全4度・5度の調律に限られてきました。ベートーヴェンは交響曲第7番・第8番で徐々に慣習を破り、交響曲第9番第2楽章ではついに主音ではない音をオクターブで響かせる大胆な調律を採用、ティンパニを独奏的な存在へと押し上げました。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Evolution_of_timpani_in_the_18th_and_19th_centuries",
+      "https://www.esm.rochester.edu/beethoven/symphony-no-9/",
+      "https://www.esm.rochester.edu/beethoven/symphony-no-8/",
+      "https://www.yamaha.com/ja/musical_instrument_guide/timpani/trivia/trivia005.html"
+    ],
+    "hook_copy": "ティンパニ、調律のルール破り\nベートーヴェンが選んだオクターブ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "伴奏役が、まさかの主役に",
+        "support_text": "ティンパニの革命、交響曲第9番",
+        "rank": 2,
+        "recommendation_reason": "出来事（地位の逆転）を先に見せる案。インパクトはあるが、楽器名が補足に回りやや発見性が下がる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.esm.rochester.edu/beethoven/symphony-no-9/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ティンパニ",
+        "hook_pattern": "出来事主役・地位逆転型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number"
+        ],
+        "playbook_score": -0.03,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ティンパニ、調律のルール破り",
+        "support_text": "ベートーヴェンが選んだオクターブ",
+        "rank": 1,
+        "recommendation_reason": "楽器名を主語にしつつ「ルール破り」という具体的な逸脱を提示。楽器と作曲家の両方が一目で分かり、好奇心を引く。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Evolution_of_timpani_in_the_18th_and_19th_centuries",
+          "https://www.esm.rochester.edu/beethoven/symphony-no-9/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ティンパニ",
+        "hook_pattern": "楽器主役・規則違反型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": 0,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "4度でも5度でもない音程",
+        "support_text": "ティンパニが挑んだ革新",
+        "rank": 3,
+        "recommendation_reason": "音楽理論寄りの数字提示案。専門性がやや高く、一般層には伝わりにくいため3位とした。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.yamaha.com/ja/musical_instrument_guide/timpani/trivia/trivia005.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ティンパニ",
+        "hook_pattern": "数字・理論提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number"
+        ],
+        "playbook_score": -0.03,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "オーケストラの最後列で控えめに和音を支える楽器、それがティンパニ。伝統的な調律は、主音と属音による完全4度か5度だけだった。",
+      "だがベートーヴェンは交響曲第7番で初めて短6度を採用し、続く第8番ではさらに踏み込み、前代未聞のオクターブ調律に挑んだ。",
+      "そして交響曲第9番第2楽章。ティンパニは主音ではなく第3音「ファ」のオクターブに調律され、堂々と独奏のように鳴り響いた。",
+      "伴奏に徹してきた楽器は、この瞬間だけ主役に躍り出た。ティンパニの可能性を広げたこの試みは、後世の作曲家にも大きな影響を与えた。"
+    ],
+    "fb_caption": "裏方のはずが、気づけば主役になっていた。ティンパニは長らく主音と属音による和音の支え役でしたが、ベートーヴェンは交響曲第9番の第2楽章で前例のないオクターブ調律を採用し、独奏のような存在感を与えました。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "裏方のはずが、気づけば主役になっていた。ティンパニは長らく主音と属音による和音の支え役でしたが、ベートーヴェンは交響曲第9番の第2楽章で前例のないオクターブ調律を採用し、独奏のような存在感を与えました。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "裏方のはずが、気づけば主役になっていた。ティンパニは長らく主音と属音による和音の支え役でしたが、ベートーヴェンは交響曲第9番の第2楽章で前例のないオクターブ調律を採用し、独奏のような存在感を与えました。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n打楽器ひとつで交響曲の表情が変わる、そんな奥深さをこれからも紹介していきます。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "楽器主役・規則違反型",
+    "caption_style": "conclusion_first"
+  }
+]
