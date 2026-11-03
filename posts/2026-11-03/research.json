@@ -1,0 +1,129 @@
+{
+  "composer": "ヴィヴァルディ",
+  "event_summary": "1725年、ヴィヴァルディは協奏曲集『和声と創意への試み』の中の一曲として《四季》を出版した。楽譜には各楽章の情景を描いた14行の詩「ソネット」が添えられており、言葉のない器楽曲でここまで具体的に情景を描写する試みは当時きわめて異例だった。この詩と音楽が一対一で対応する仕掛けこそが、300年近く経った今も《四季》が世界中で愛される理由とされている。",
+  "sources": [
+    "https://ontomo-mag.com/article/column/vivaldi-seasons-202502/",
+    "https://www.tpo.or.jp/concert/pdf/20190913-22program.pdf",
+    "https://vivaclassicalmusic.com/post-423/"
+  ],
+  "hook_copy": "ヴィヴァルディ《四季》に隠れた14行の詩",
+  "hook_options": [
+    {
+      "candidate_id": "A",
+      "headline": "ヴィヴァルディ《四季》に隠れた14行の詩",
+      "support_text": "",
+      "rank": 1,
+      "recommendation_reason": "作曲家名と曲名、具体的な数字(14行)を同時に提示でき、何の話か即座に伝わる。名前主役型。",
+      "payoff_slide": 2,
+      "fact_sources": [
+        "https://ontomo-mag.com/article/column/vivaldi-seasons-202502/"
+      ],
+      "fact_status": "verified",
+      "subject_label": "ヴィヴァルディ",
+      "hook_pattern": "名詞句+具体的数字の提示",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [
+        "number",
+        "proper_noun",
+        "surprising_fact"
+      ],
+      "playbook_score": 0.24,
+      "original_rank": 1,
+      "playbook_approved": "2026-10-16"
+    },
+    {
+      "candidate_id": "C",
+      "headline": "楽譜に書かれた「14行の詩」",
+      "support_text": "ヴィヴァルディ《四季》の秘密",
+      "rank": 2,
+      "recommendation_reason": "出来事（楽譜への書き込み）を主役にした案。曲名は補足に回し、意外性を先に出す構成。",
+      "payoff_slide": 2,
+      "fact_sources": [
+        "https://vivaclassicalmusic.com/post-423/"
+      ],
+      "fact_status": "verified",
+      "subject_label": "ヴィヴァルディ",
+      "hook_pattern": "出来事提示+補足で対象を明示",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [
+        "number",
+        "proper_noun",
+        "surprising_fact"
+      ],
+      "playbook_score": 0.24,
+      "original_rank": 2,
+      "playbook_approved": "2026-10-16"
+    },
+    {
+      "candidate_id": "B",
+      "headline": "なぜ《四季》には詩が付くのか",
+      "support_text": "ヴィヴァルディの仕掛け",
+      "rank": 3,
+      "recommendation_reason": "問いかけ型。候補1の冒頭型（問いかけ）に最も近い形だが、画面見出しとしてはやや説明的になるため次点に。",
+      "payoff_slide": 3,
+      "fact_sources": [
+        "https://ontomo-mag.com/article/column/vivaldi-seasons-202502/"
+      ],
+      "fact_status": "verified",
+      "subject_label": "ヴィヴァルディ",
+      "hook_pattern": "疑問形",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [
+        "proper_noun"
+      ],
+      "playbook_score": 0.15,
+      "original_rank": 3,
+      "playbook_approved": "2026-10-16"
+    }
+  ],
+  "hook_selection": {
+    "candidate_id": "A",
+    "proposal_revision": "f25f76769c08588d",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-11-03T06:10:58.812704+00:00",
+    "text": "ヴィヴァルディ《四季》に隠れた14行の詩"
+  },
+  "portrait_prompt": "Portrait of Antonio Vivaldi, based on the famous anonymous 18th-century portrait of the composer: a man with a long, thick mane of naturally wavy auburn-red curly hair cascading to shoulder length, no wig, striking vivid red hair color clearly visible as his defining feature (he was known as \"the Red Priest\"). Pale, fair complexion, high forehead, strong straight nose, thin pressed lips, pronounced nasolabial lines framing the mouth, clean-shaven face, light grey-blue eyes with a calm, composed gaze looking slightly toward the viewer. He wears plain dark clothing with a simple white collar/cravat visible at the neckline, modest and unadorned in the manner of a cleric's attire, no elaborate decoration. Illustrated cinematic style, painterly oil-painting rendering, not photorealistic. Bust-to-shoulder composition, simple plain muted background in a single soft tone. No text anywhere. The painting fills the entire canvas edge to edge with no border, no frame, no vignette, no empty margin around the figure.",
+  "middle_slides": [
+    {
+      "text": "ヴェネツィア出身の作曲家ヴィヴァルディは1725年、全12曲の協奏曲集『和声と創意への試み』の中の一曲として《四季》を発表した。",
+      "image_prompt": "Oil-painting style illustration of Antonio Vivaldi, a man with long wavy auburn-red curly hair cascading to his shoulders, pale complexion, straight nose, thin lips, clean-shaven, wearing plain dark clerical-style clothing with a simple white collar, seated at a wooden writing desk in a dim Venetian room, quill in hand, surrounded by stacks of handwritten music manuscript pages, a partial view of Venice's canals and rooftops visible through a window behind him, warm candlelight illuminating his face as he looks down thoughtfully at the pages in front of him, painterly rendering, not photorealistic, no text or writing visible on any page."
+    },
+    {
+      "text": "楽譜には各楽章ごとに、春の鳥のさえずりや夏の雷鳴など情景を描いた14行の詩「ソネット」が書き添えられ、演奏の道しるべとなった。",
+      "image_prompt": "Oil-painting style illustration of Antonio Vivaldi, a man with long wavy auburn-red curly hair cascading to his shoulders, pale complexion, straight nose, thin lips, clean-shaven, wearing plain dark clerical-style clothing with a simple white collar, standing beside a tall writing stand holding an open manuscript score, gesturing with one hand toward the page as if explaining it, soft daylight from a window, in the background a faint dreamlike vignette showing a small bird perched on a branch and distant grey storm clouds with a flash of lightning, symbolizing the vivid scenes described in his music, painterly rendering, not photorealistic, no text or writing visible on any page."
+    },
+    {
+      "text": "氷上を滑って転ぶ足音や、嵐の稲妻、酔っ払いの眠りまで、言葉のない器楽曲で情景を音にする試みは、当時の音楽界ではきわめて異例だった。",
+      "image_prompt": "Oil-painting style illustration of Antonio Vivaldi, a man with long wavy auburn-red curly hair cascading to his shoulders, pale complexion, straight nose, thin lips, clean-shaven, wearing plain dark clerical-style clothing with a simple white collar, standing by a frosted window in a dim room, one hand raised as if conducting or imagining a scene, his expression focused and inward-looking, behind him through the window a faint icy pond where tiny distant figures slip on the ice and dark storm clouds flash with lightning in the sky, dreamlike layered composition blending his figure in the foreground with the wintry and stormy vision behind, painterly rendering, not photorealistic, no text anywhere."
+    },
+    {
+      "text": "言葉と音が一対一で結びつくこの仕掛けこそが、出版されてから300年近く経った今も世界中で愛される《四季》最大の秘密と言える。",
+      "image_prompt": "Oil-painting style illustration of Antonio Vivaldi, a man with long wavy auburn-red curly hair cascading to his shoulders, pale complexion, straight nose, thin lips, clean-shaven, wearing plain dark clerical-style clothing with a simple white collar, standing confidently in soft golden light holding a rolled manuscript score close to his chest, facing the viewer with a calm, satisfied expression, behind him a faint glowing collage-like vision blending small symbols of all four seasons: spring blossoms, summer lightning, autumn leaves, and winter frost, softly merging into the warm background, painterly rendering, not photorealistic, no text anywhere."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "《四季》の楽譜に、実は“詩”が書き込まれていたのをご存知でしょうか？🎻 氷の上で転ぶ足音まで音で描く、ヴィヴァルディの仕掛けた秘密に迫ります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=krkJJ2TI6LY",
+  "ig_caption": "《四季》の楽譜に、実は“詩”が書き込まれていたのをご存知でしょうか？🎻 氷の上で転ぶ足音まで音で描く、ヴィヴァルディの仕掛けた秘密に迫ります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "《四季》の楽譜に、実は“詩”が書き込まれていたのをご存知でしょうか？🎻 氷の上で転ぶ足音まで音で描く、ヴィヴァルディの仕掛けた秘密に迫ります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n《四季》だけじゃないヴィヴァルディの知られざる素顔に迫る本編も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=krkJJ2TI6LY",
+  "youtube_link": "https://www.youtube.com/watch?v=krkJJ2TI6LY",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "masterpiece",
+  "hook_pattern": "名詞句+具体的数字の提示",
+  "caption_style": "question",
+  "portrait_reference_image_url": "https://raw.githubusercontent.com/soichiichikawa-maker/classicalmusic-note-assets/main/reference/vivaldi_channel_face.png",
+  "hook_source": "system",
+  "hook_original": "ヴィヴァルディ《四季》に隠れた14行の詩",
+  "hook_edit_ratio": 0.0,
+  "hook_markup_by": null
+}
