@@ -1,0 +1,314 @@
+[
+  {
+    "composer": "ヴォーン・ウィリアムズ",
+    "event_summary": "ヴォーン・ウィリアムズは、進化論で知られるチャールズ・ダーウィンを大叔父に持つ英国の名家に生まれた。働かずとも暮らせる裕福な身分だったが自ら音楽の道を選び、30代になっても目立った代表作がない下積み時代を過ごした。やがて37歳でラヴェルに師事し直し、後年は英国を代表する作曲家として大成した。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%95%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA",
+      "https://classical-music.fun/ralph-vaughan-williams-om-life/",
+      "https://note.com/ghoti_ish/n/n6a6c77c98551"
+    ],
+    "hook_copy": "ダーウィンの大甥?\nヴォーン・ウィリアムズの素顔",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ダーウィンの大甥?",
+        "support_text": "ヴォーン・ウィリアムズの素顔",
+        "rank": 1,
+        "recommendation_reason": "進化論のダーウィンとの血縁という誰もが知る名前を絡めた意外性が最も強く、初見で手が止まりやすい。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%95%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA",
+          "https://note.com/ghoti_ish/n/n6a6c77c98551"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴォーン・ウィリアムズ",
+        "hook_pattern": "意外な血縁を名詞で提示する驚きフック",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ヴォーン・ウィリアムズ",
+        "support_text": "進化論の家系に生まれた作曲家",
+        "rank": 3,
+        "recommendation_reason": "名前を主役に据えた直球の入口だが、Aに比べ具体的な引っかかりが弱く後点に留まる。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%95%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴォーン・ウィリアムズ",
+        "hook_pattern": "作曲家名+背景説明の直球フック",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "裕福な家で30代まで無名",
+        "support_text": "ヴォーン・ウィリアムズの下積み",
+        "rank": 2,
+        "recommendation_reason": "「恵まれた環境なのに芽が出ない」という対比が物語への興味を引くが、知名度の低さでAよりやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://classical-music.fun/ralph-vaughan-williams-om-life/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴォーン・ウィリアムズ",
+        "hook_pattern": "対比(裕福×無名)を使った状況フック",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1872年、英国の名家に生まれた作曲家ヴォーン・ウィリアムズ。母方の大叔父は、進化論で有名なチャールズ・ダーウィンだった。",
+      "実家は英国有数の名家で、働かずとも一生暮らせる財産があった。それでもヴォーン・ウィリアムズは音楽家の道を選び、王立音楽大学へ進んだ。",
+      "周囲に恵まれていたにもかかわらず、彼は30代になっても目立った代表作を書けず、同世代の作曲家たちに評価で大きく遅れを取っていた。",
+      "37歳の時、彼は自らパリのラヴェルのもとへ学びに行った。40代以降ついに花開き、今では英国を代表する作曲家として名を残している。"
+    ],
+    "fb_caption": "進化論で知られるチャールズ・ダーウィンと血のつながりがある作曲家がいた、と言われたら驚きますか?🎻 ヴォーン・ウィリアムズは、ダーウィンを大叔父に持つ名門の生まれでした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "進化論で知られるチャールズ・ダーウィンと血のつながりがある作曲家がいた、と言われたら驚きますか?🎻 ヴォーン・ウィリアムズは、ダーウィンを大叔父に持つ名門の生まれでした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "進化論で知られるチャールズ・ダーウィンと血のつながりがある作曲家がいた、と言われたら驚きますか?🎻 ヴォーン・ウィリアムズは、ダーウィンを大叔父に持つ名門の生まれでした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n恵まれた環境に甘んじず、自ら音楽の道を切り拓いた作曲家の歩みでした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "意外な血縁を名詞で提示する驚きフック",
+    "caption_style": "question"
+  },
+  {
+    "composer": "ラヴェル",
+    "event_summary": "1899年、ラヴェルは「亡き王女のためのパヴァーヌ」という物悲しい題名のピアノ曲を発表した。多くの人は実在の王女への追悼曲だと受け取ったが、ラヴェル自身は特定の人物を指したものではなく、言葉の響きが美しかったから選んだ題名だと語っている。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C",
+      "https://flote.info/ravel-pavane-winnaretta-singer/"
+    ],
+    "hook_copy": "亡き王女は実在しない\nラヴェルの名曲の題名の謎",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "亡き王女は実在しない",
+        "support_text": "ラヴェルの名曲の題名の謎",
+        "rank": 1,
+        "recommendation_reason": "通説を覆す否定形の見出しが最も強い引っかかりを生み、曲名を知る層ほど続きが気になる構成になっている。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "通説を覆す否定形フック",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ラヴェル",
+        "support_text": "「亡き王女」は誰でもなかった",
+        "rank": 3,
+        "recommendation_reason": "名前を主役にした直球案だが、Aに比べ具体性で劣り引きが弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "作曲家名+結論の直球フック",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "特定の誰かではなかった",
+        "support_text": "ラヴェル『亡き王女のパヴァーヌ』",
+        "rank": 2,
+        "recommendation_reason": "曲名を明示しつつ真相を匂わせる案で、曲を知る層には刺さるが曲名を知らない層にはAよりやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://flote.info/ravel-pavane-winnaretta-singer/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "断定文による真相提示フック",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1899年、パリ。まだ20代だったラヴェルは、1曲のピアノ曲に「亡き王女のためのパヴァーヌ」という物悲しい題名をつけた。",
+      "この曲を聴いた人の多くは、どこかの国に実在した若き王女を追悼するために書かれた、悲しい実話の曲だと長い間思い込んでいた。",
+      "だが本人がのちに語った真意は違った。特定の王女への追悼ではなく、言葉の響きが美しかったからその題名を選んだだけのことだった。",
+      "それでも今なお、この物悲しい旋律に「誰か本当の王女の物語」を重ねて聴く人は多く、言葉遊びが名曲を生んだ好例となっている。"
+    ],
+    "fb_caption": "1899年、パリ。まだ20代だったラヴェルは、1曲のピアノ曲に「亡き王女のためのパヴァーヌ」という物悲しい題名をつけました🎹。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1899年、パリ。まだ20代だったラヴェルは、1曲のピアノ曲に「亡き王女のためのパヴァーヌ」という物悲しい題名をつけました🎹。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1899年、パリ。まだ20代だったラヴェルは、1曲のピアノ曲に「亡き王女のためのパヴァーヌ」という物悲しい題名をつけました🎹。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n言葉の響きひとつから、時代を超えて愛される名曲が生まれた一例でした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "通説を覆す否定形フック",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "グリーグ",
+    "event_summary": "1860年、ライプツィヒ音楽院に留学中だった17歳のエドヴァルド・グリーグは、肋膜炎と結核を同時に患い、生死の境をさまよいました。一命は取り留めたものの左肺の機能をほぼ失い、生涯にわたり呼吸器の病に苦しみましたが、その体でピアノ協奏曲や『ペール・ギュント』など数々の名曲を生み出しました。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edvard_Grieg",
+      "https://grokipedia.com/page/Edvard_Grieg",
+      "https://www.hoffmanacademy.com/blog/who-was-edvard-grieg"
+    ],
+    "hook_copy": "17歳、片肺を失っても演奏をやめなかった\nグリーグの闘病",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "グリーグ、片肺のまま曲を書き続けた",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前主役のシンプル案。安定だが驚きの起点である「17歳」という数字が消えてしまう。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Edvard_Grieg"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "名前+状態提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "17歳、片肺を失っても演奏をやめなかった",
+        "support_text": "グリーグの闘病",
+        "rank": 3,
+        "recommendation_reason": "年齢という具体的数字と「失っても」という逆境を先出しし、克服の物語への期待を強く作れる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://grokipedia.com/page/Edvard_Grieg",
+          "https://www.hoffmanacademy.com/blog/who-was-edvard-grieg"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "年齢+逆境提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "半分の肺で書かれた、不朽の名旋律",
+        "support_text": "グリーグの持病",
+        "rank": 1,
+        "recommendation_reason": "名曲という結果を先に見せる次点案。克服のドラマよりも作品の価値に寄せたい場合に有効。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Edvard_Grieg"
+        ],
+        "fact_status": "verified",
+        "subject_label": "グリーグ",
+        "hook_pattern": "結果先出し型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1860年、ライプツィヒ音楽院で学んでいた17歳のエドヴァルド・グリーグは、肋膜炎と結核という重い病に同時に襲われました。",
+      "一命は取り留めたものの、治療の過程で左肺の機能をほぼ失い、以後は生涯にわたって重い呼吸器の病と共に生きることになりました。",
+      "半分しか機能しない肺という過酷な状態でも、グリーグはピアニストとして各地への演奏旅行を続け、作曲の手を止めませんでした。",
+      "心身の苦しみと闘いながら生み出された《ピアノ協奏曲》や《ペール・ギュント》は、今も世界中のホールで愛され続ける名曲となりました。"
+    ],
+    "fb_caption": "1860年、ライプツィヒ。音楽院で学んでいた17歳のグリーグは肋膜炎と結核に倒れ、左肺の機能をほぼ失いました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1860年、ライプツィヒ。音楽院で学んでいた17歳のグリーグは肋膜炎と結核に倒れ、左肺の機能をほぼ失いました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1860年、ライプツィヒ。音楽院で学んでいた17歳のグリーグは肋膜炎と結核に倒れ、左肺の機能をほぼ失いました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nグリーグが病と闘いながら紡いだ旋律に、改めて耳を傾けてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "年齢+逆境提示型",
+    "caption_style": "scene"
+  }
+]
