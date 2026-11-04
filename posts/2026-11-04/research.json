@@ -7,105 +7,32 @@
     "https://www.flagstaffsymphony.org/community-news/part-three-johannes-brahms/",
     "https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/johannes-brahms"
   ],
-  "hook_copy": "ブラームス、まさかの返り討ち\n新ドイツ楽派への宣言文、大失敗",
-  "hook_options": [
-    {
-      "candidate_id": "A",
-      "headline": "賛同者は、たった4人だった",
-      "support_text": "ブラームスの「宣戦布告」",
-      "rank": 2,
-      "recommendation_reason": "署名者の少なさという具体数字を先に見せる出来事主役型。数字のインパクトは強いが、対象名は補足に回る。",
-      "payoff_slide": 3,
-      "fact_sources": [
-        "https://www.classical-music.com/features/composers/war-of-the-romantics",
-        "https://www.flagstaffsymphony.org/community-news/part-three-johannes-brahms/"
-      ],
-      "fact_status": "verified",
-      "subject_label": "ブラームス",
-      "hook_pattern": "出来事主役・数字インパクト型",
-      "evidence_level": "editorial",
-      "reference_ids": [],
-      "reference_metric_basis": "",
-      "reference_limitations": "近い同形式の実績参照がないため編集判断",
-      "expression_types": [
-        "number"
-      ],
-      "playbook_score": -0.03,
-      "original_rank": 2,
-      "playbook_approved": "2026-10-16"
-    },
-    {
-      "candidate_id": "B",
-      "headline": "ブラームス、まさかの返り討ち",
-      "support_text": "新ドイツ楽派への宣言文、大失敗",
-      "rank": 1,
-      "recommendation_reason": "名前を主語に「返り討ち」という意外な結末を直接提示。対立相手を打ち負かすはずが逆に恥をかいたという皮肉が一目で伝わる。",
-      "payoff_slide": 4,
-      "fact_sources": [
-        "https://mahlerfoundation.org/mahler/contemporaries/johannes-brahms/",
-        "https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/johannes-brahms"
-      ],
-      "fact_status": "verified",
-      "subject_label": "ブラームス",
-      "hook_pattern": "名前主役・結果逆転型",
-      "evidence_level": "editorial",
-      "reference_ids": [],
-      "reference_metric_basis": "",
-      "reference_limitations": "近い同形式の実績参照がないため編集判断",
-      "expression_types": [],
-      "playbook_score": 0.0,
-      "original_rank": 1,
-      "playbook_approved": "2026-10-16"
-    },
-    {
-      "candidate_id": "C",
-      "headline": "味方のはずが、敵を増やした",
-      "support_text": "ブラームスの対リスト宣言文",
-      "rank": 3,
-      "recommendation_reason": "皮肉な結果を抽象的に提示する案。意外性はあるが「誰が」「何に」が一読で伝わりにくく、優先度は下げた。",
-      "payoff_slide": 4,
-      "fact_sources": [
-        "https://www.classical-music.com/features/composers/war-of-the-romantics"
-      ],
-      "fact_status": "verified",
-      "subject_label": "ブラームス",
-      "hook_pattern": "皮肉結果の抽象提示型",
-      "evidence_level": "editorial",
-      "reference_ids": [],
-      "reference_metric_basis": "",
-      "reference_limitations": "近い同形式の実績参照がないため編集判断",
-      "expression_types": [
-        "reversal"
-      ],
-      "playbook_score": -0.04,
-      "original_rank": 3,
-      "playbook_approved": "2026-10-16"
-    }
-  ],
+  "hook_copy": "ブラームス、まさかの[R]返り討ち[/R]\n新ドイツ楽派への宣言文、[G]大失敗[/G]",
+  "hook_options": [],
   "hook_selection": {
-    "candidate_id": "B",
+    "candidate_id": "custom",
     "proposal_revision": "7c664347645a560a",
     "selected_by": "soichiichikawa-maker",
-    "approved_at": "2026-11-04T07:41:08.489961+00:00",
-    "text": "ブラームス、まさかの返り討ち\n新ドイツ楽派への宣言文、大失敗"
+    "approved_at": "2026-11-04T09:07:41.388832+00:00",
+    "text": "ブラームス、まさかの[R]返り討ち[/R]\n新ドイツ楽派への宣言文、[G]大失敗[/G]"
   },
-  "portrait_prompt": "A dignified German composer, Johannes Brahms, depicted exactly as in his well-known late-19th-century photographic portraits: a broad, weathered face with deep-set thoughtful eyes and heavy brows, hair swept back and upward from a high forehead in waves of grey-white, and a full, long, thick grey-white beard covering the jaw and chin with a drooping bushy mustache above the lip. No glasses. He wears a dark Victorian suit jacket over a waistcoat with a loosely knotted pale silk cravat at the collar, and a delicate watch chain with a small fob draped from the waistcoat pocket. Bust-to-shoulder composition, slight three-quarter turn toward the viewer, illustrated cinematic style, painterly rendering, not photorealistic. Plain muted neutral grey-brown background. No text, no frame, no vignette, no border — the painted figure fills the entire canvas edge to edge with no margin.",
+  "portrait_prompt": "An illustrated portrait of the German composer Johannes Brahms, based directly on his famous late-19th-century photographic portrait: a heavyset man in his late fifties with a broad, lined forehead and a receding hairline, his thick silver-grey hair swept back and slightly tousled at the sides. He has a long, full, bushy white and grey beard that covers his jawline and chin, connecting seamlessly into a drooping mustache that covers his upper lip. His eyes are deep-set and piercing under strong brows, gazing slightly off to the side with a serious, dignified expression. He wears a dark Victorian-era suit jacket over a waistcoat, with a soft, loosely-knotted light-colored cravat tied in a large bow at the collar, and a silver watch chain draped across the waistcoat. Bust-to-shoulder composition, facing slightly to one side. Plain, muted neutral grey background with no texture or vignette. Illustrated cinematic style, painterly rendering, not photorealistic, rich but restrained color palette matching the black-and-white tonality of the source photograph translated into soft greys and warm skin tones. The painting fills the entire canvas edge to edge, with no border, no frame, no vignette, and no empty margin around the figure.",
   "middle_slides": [
     {
       "text": "1859年、「新ドイツ楽派」を率いるリストらの理論が、すべての音楽家に支持されていると機関紙が書き立てた。ブラームスはこれに強く反発した。",
-      "image_prompt": "Oil-painting style, painterly, not photorealistic. A bearded German composer resembling Johannes Brahms — broad face, heavy brows, hair swept back in grey-white waves, full thick grey-white beard and drooping mustache, dark Victorian suit with loose pale cravat — sits in a dim 19th-century study, gripping a printed music journal with a tense, indignant expression, brow furrowed in anger as he reads. Warm lamplight falls across his face from one side, bookshelves and papers cluttered on a wooden desk nearby. Three-quarter view, face and body both oriented toward the viewer, no text anywhere."
+      "image_prompt": "A 19th-century German study interior, oil-painting style, painterly rendering, not photorealistic. Johannes Brahms is seated at a wooden writing desk, shown from the front, a heavyset man with a broad lined forehead, receding hairline with thick grey hair swept back, deep-set eyes, and a long full grey-white beard connected to a drooping mustache. He wears a dark Victorian suit jacket and loose cravat. He holds open a printed music journal or newspaper in his hands, his brow furrowed and his expression sharply indignant as he reads an article, candlelight from an oil lamp illuminating the page and his face. Scattered papers and musical scores lie on the desk around him. Warm, dim interior lighting, dramatic oil-painting shadows. No text visible anywhere in the image."
     },
     {
       "text": "翌1860年、ブラームスはヴァイオリニストのヨアヒムらと共に、新ドイツ楽派に反対する宣言文を書き上げ、多くの音楽家に署名を呼びかけた。",
-      "image_prompt": "Oil-painting style, painterly, not photorealistic. The same bearded German composer resembling Johannes Brahms — broad face, heavy brows, swept-back grey-white hair, full thick grey-white beard and drooping mustache, dark Victorian suit with loose pale cravat — sits at a writing desk late at night beside a violinist colleague, both men bent over a handwritten manifesto, quills in hand, candlelight illuminating the paper between them. Expression focused and resolute. Three-quarter view, body and face both facing the desk and each other, no text anywhere."
+      "image_prompt": "A 19th-century study, oil-painting style, painterly rendering, not photorealistic. Johannes Brahms, a heavyset man with a broad forehead, receding hairline with thick grey hair swept back, deep-set eyes, and a long full grey-white beard connected to a drooping mustache, wearing a dark Victorian suit and loose cravat, sits alone at a writing desk facing forward, quill pen in hand, carefully composing a formal declaration on a sheet of paper covered with handwritten lines left blank for signatures. His expression is focused and resolute. Candlelight and warm lamp light illuminate the desk, with an inkwell, more blank paper, and a violin resting on a nearby chair hinting at his musical circle, though only Brahms himself is depicted. No text visible anywhere in the image."
     },
     {
       "text": "だが草稿は十分な署名が集まる前に新聞へ流出してしまう。掲載時に名を連ねていたのは、ブラームスを含めわずか4人だけだった。",
-      "image_prompt": "Oil-painting style, painterly, not photorealistic. The same bearded German composer resembling Johannes Brahms — broad face, heavy brows, swept-back grey-white hair, full thick grey-white beard and drooping mustache, dark Victorian suit with loose pale cravat — stands in a dim room holding a freshly printed newspaper close, staring at it with a stunned, dismayed expression, shoulders tense. Dramatic side lighting emphasizes his shocked face. Three-quarter view, face and body both oriented toward the viewer, no text anywhere."
+      "image_prompt": "A newspaper publishing office interior, oil-painting style, painterly rendering, not photorealistic. Johannes Brahms, a heavyset man with a broad forehead, receding hairline with thick grey hair swept back, deep-set eyes, and a long full grey-white beard connected to a drooping mustache, wearing a dark Victorian suit and loose cravat, stands facing forward holding a freshly printed newspaper in his hands, staring down at it with a stunned, dismayed expression as he realizes it has been published prematurely. Stacks of newspapers and printing equipment are visible in the dim background, warm gaslight illuminating the scene. No text visible anywhere in the image."
     },
     {
       "text": "新聞は容赦なく嘲笑し、ワーグナー陣営も猛反発した。大恥をかいたブラームスは、以後、公の場での論争から距離を置くようになった。",
-      "image_prompt": "Oil-painting style, painterly, not photorealistic. The same bearded German composer resembling Johannes Brahms — broad face, heavy brows, swept-back grey-white hair, full thick grey-white beard, dark Victorian suit — stands alone with his back fully turned to the viewer in a quiet dim room, head lowered slightly, shoulders slumped in quiet resignation, completely seen from behind with his face not visible at all. Muted cool lighting conveys isolation and withdrawal from public life. No text anywhere."
+      "image_prompt": "A quiet 19th-century study at dusk, oil-painting style, painterly rendering, not photorealistic. Johannes Brahms, a heavyset man with a broad forehead, receding hairline with thick grey hair swept back, deep-set eyes, and a long full grey-white beard connected to a drooping mustache, wearing a dark Victorian suit and loose cravat, sits alone in an armchair near a window, facing forward with a somber, withdrawn expression, his posture slightly slumped, hands resting quietly in his lap. Soft, cool evening light falls across his face, conveying quiet humiliation and a retreat from public life. The room is sparse and still, emphasizing his solitude. No text visible anywhere in the image."
     }
   ],
   "is_date_match": false,
@@ -116,11 +43,11 @@
   "today_date_label": null,
   "subject_type": "composer",
   "theme": "conflict",
-  "hook_pattern": "名前主役・結果逆転型",
+  "hook_pattern": null,
   "caption_style": "conclusion_first",
   "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/JohannesBrahms_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "hook_source": "system",
   "hook_original": "ブラームス、まさかの返り討ち\n新ドイツ楽派への宣言文、大失敗",
   "hook_edit_ratio": 0.0,
-  "hook_markup_by": null
+  "hook_markup_by": "human"
 }
