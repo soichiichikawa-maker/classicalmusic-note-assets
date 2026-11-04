@@ -1,0 +1,126 @@
+{
+  "composer": "ブラームス",
+  "event_summary": "1860年、ブラームスはヴァイオリニストのヨアヒムらと共に、台頭する新ドイツ楽派（リスト・ワーグナー陣営）に反対する宣言文を起草しました。十分な署名が集まる前に新聞へ流出してしまい、掲載時の署名者はわずか4人。大きな恥をかいたブラームスは、以後、公の場での論争から距離を置くようになりました。",
+  "sources": [
+    "https://www.classical-music.com/features/composers/war-of-the-romantics",
+    "https://mahlerfoundation.org/mahler/contemporaries/johannes-brahms/",
+    "https://www.flagstaffsymphony.org/community-news/part-three-johannes-brahms/",
+    "https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/johannes-brahms"
+  ],
+  "hook_copy": "ブラームス、まさかの返り討ち\n新ドイツ楽派への宣言文、大失敗",
+  "hook_options": [
+    {
+      "candidate_id": "A",
+      "headline": "賛同者は、たった4人だった",
+      "support_text": "ブラームスの「宣戦布告」",
+      "rank": 2,
+      "recommendation_reason": "署名者の少なさという具体数字を先に見せる出来事主役型。数字のインパクトは強いが、対象名は補足に回る。",
+      "payoff_slide": 3,
+      "fact_sources": [
+        "https://www.classical-music.com/features/composers/war-of-the-romantics",
+        "https://www.flagstaffsymphony.org/community-news/part-three-johannes-brahms/"
+      ],
+      "fact_status": "verified",
+      "subject_label": "ブラームス",
+      "hook_pattern": "出来事主役・数字インパクト型",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [
+        "number"
+      ],
+      "playbook_score": -0.03,
+      "original_rank": 2,
+      "playbook_approved": "2026-10-16"
+    },
+    {
+      "candidate_id": "B",
+      "headline": "ブラームス、まさかの返り討ち",
+      "support_text": "新ドイツ楽派への宣言文、大失敗",
+      "rank": 1,
+      "recommendation_reason": "名前を主語に「返り討ち」という意外な結末を直接提示。対立相手を打ち負かすはずが逆に恥をかいたという皮肉が一目で伝わる。",
+      "payoff_slide": 4,
+      "fact_sources": [
+        "https://mahlerfoundation.org/mahler/contemporaries/johannes-brahms/",
+        "https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/johannes-brahms"
+      ],
+      "fact_status": "verified",
+      "subject_label": "ブラームス",
+      "hook_pattern": "名前主役・結果逆転型",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [],
+      "playbook_score": 0.0,
+      "original_rank": 1,
+      "playbook_approved": "2026-10-16"
+    },
+    {
+      "candidate_id": "C",
+      "headline": "味方のはずが、敵を増やした",
+      "support_text": "ブラームスの対リスト宣言文",
+      "rank": 3,
+      "recommendation_reason": "皮肉な結果を抽象的に提示する案。意外性はあるが「誰が」「何に」が一読で伝わりにくく、優先度は下げた。",
+      "payoff_slide": 4,
+      "fact_sources": [
+        "https://www.classical-music.com/features/composers/war-of-the-romantics"
+      ],
+      "fact_status": "verified",
+      "subject_label": "ブラームス",
+      "hook_pattern": "皮肉結果の抽象提示型",
+      "evidence_level": "editorial",
+      "reference_ids": [],
+      "reference_metric_basis": "",
+      "reference_limitations": "近い同形式の実績参照がないため編集判断",
+      "expression_types": [
+        "reversal"
+      ],
+      "playbook_score": -0.04,
+      "original_rank": 3,
+      "playbook_approved": "2026-10-16"
+    }
+  ],
+  "hook_selection": {
+    "candidate_id": "B",
+    "proposal_revision": "7c664347645a560a",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-11-04T07:41:08.489961+00:00",
+    "text": "ブラームス、まさかの返り討ち\n新ドイツ楽派への宣言文、大失敗"
+  },
+  "portrait_prompt": "A dignified German composer, Johannes Brahms, depicted exactly as in his well-known late-19th-century photographic portraits: a broad, weathered face with deep-set thoughtful eyes and heavy brows, hair swept back and upward from a high forehead in waves of grey-white, and a full, long, thick grey-white beard covering the jaw and chin with a drooping bushy mustache above the lip. No glasses. He wears a dark Victorian suit jacket over a waistcoat with a loosely knotted pale silk cravat at the collar, and a delicate watch chain with a small fob draped from the waistcoat pocket. Bust-to-shoulder composition, slight three-quarter turn toward the viewer, illustrated cinematic style, painterly rendering, not photorealistic. Plain muted neutral grey-brown background. No text, no frame, no vignette, no border — the painted figure fills the entire canvas edge to edge with no margin.",
+  "middle_slides": [
+    {
+      "text": "1859年、「新ドイツ楽派」を率いるリストらの理論が、すべての音楽家に支持されていると機関紙が書き立てた。ブラームスはこれに強く反発した。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic. A bearded German composer resembling Johannes Brahms — broad face, heavy brows, hair swept back in grey-white waves, full thick grey-white beard and drooping mustache, dark Victorian suit with loose pale cravat — sits in a dim 19th-century study, gripping a printed music journal with a tense, indignant expression, brow furrowed in anger as he reads. Warm lamplight falls across his face from one side, bookshelves and papers cluttered on a wooden desk nearby. Three-quarter view, face and body both oriented toward the viewer, no text anywhere."
+    },
+    {
+      "text": "翌1860年、ブラームスはヴァイオリニストのヨアヒムらと共に、新ドイツ楽派に反対する宣言文を書き上げ、多くの音楽家に署名を呼びかけた。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic. The same bearded German composer resembling Johannes Brahms — broad face, heavy brows, swept-back grey-white hair, full thick grey-white beard and drooping mustache, dark Victorian suit with loose pale cravat — sits at a writing desk late at night beside a violinist colleague, both men bent over a handwritten manifesto, quills in hand, candlelight illuminating the paper between them. Expression focused and resolute. Three-quarter view, body and face both facing the desk and each other, no text anywhere."
+    },
+    {
+      "text": "だが草稿は十分な署名が集まる前に新聞へ流出してしまう。掲載時に名を連ねていたのは、ブラームスを含めわずか4人だけだった。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic. The same bearded German composer resembling Johannes Brahms — broad face, heavy brows, swept-back grey-white hair, full thick grey-white beard and drooping mustache, dark Victorian suit with loose pale cravat — stands in a dim room holding a freshly printed newspaper close, staring at it with a stunned, dismayed expression, shoulders tense. Dramatic side lighting emphasizes his shocked face. Three-quarter view, face and body both oriented toward the viewer, no text anywhere."
+    },
+    {
+      "text": "新聞は容赦なく嘲笑し、ワーグナー陣営も猛反発した。大恥をかいたブラームスは、以後、公の場での論争から距離を置くようになった。",
+      "image_prompt": "Oil-painting style, painterly, not photorealistic. The same bearded German composer resembling Johannes Brahms — broad face, heavy brows, swept-back grey-white hair, full thick grey-white beard, dark Victorian suit — stands alone with his back fully turned to the viewer in a quiet dim room, head lowered slightly, shoulders slumped in quiet resignation, completely seen from behind with his face not visible at all. Muted cool lighting conveys isolation and withdrawal from public life. No text anywhere."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "署名はたった4人。ブラームスが新ドイツ楽派に挑んだ「宣言文」は、新聞に流出し大恥で幕を閉じました。リスト・ワーグナー陣営への挑戦のはずが、彼自身がその後、公の論争から距離を置くきっかけになったのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "署名はたった4人。ブラームスが新ドイツ楽派に挑んだ「宣言文」は、新聞に流出し大恥で幕を閉じました。リスト・ワーグナー陣営への挑戦のはずが、彼自身がその後、公の論争から距離を置くきっかけになったのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "署名はたった4人。ブラームスが新ドイツ楽派に挑んだ「宣言文」は、新聞に流出し大恥で幕を閉じました。リスト・ワーグナー陣営への挑戦のはずが、彼自身がその後、公の論争から距離を置くきっかけになったのです。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nブラームスの音楽史には、まだまだ驚きのエピソードが眠っています。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "conflict",
+  "hook_pattern": "名前主役・結果逆転型",
+  "caption_style": "conclusion_first",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/JohannesBrahms_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "hook_source": "system",
+  "hook_original": "ブラームス、まさかの返り討ち\n新ドイツ楽派への宣言文、大失敗",
+  "hook_edit_ratio": 0.0,
+  "hook_markup_by": null
+}
