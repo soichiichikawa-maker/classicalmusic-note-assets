@@ -1,0 +1,311 @@
+[
+  {
+    "composer": "ドヴォルザーク",
+    "event_summary": "ドヴォルザークが1893年に作曲した交響曲第9番『新世界より』の第2楽章の旋律は、後に弟子フィッシャーが1922年に英語の歌詞を付けて『Goin' Home（家路）』として発表した。黒人霊歌由来と誤解されがちだが、旋律そのものはドヴォルザーク自身の創作である。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%AE%B6%E8%B7%AF_(%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF)",
+      "https://www.fostermusic.jp/products/detail/1221",
+      "https://allegro-vivace.com/contents/favorite_song/goin_home.html"
+    ],
+    "hook_copy": "黒人霊歌？正体はドヴォルザークの旋律",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "黒人霊歌？正体はドヴォルザークの旋律",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "「黒人霊歌だと思っていたものの正体」という思い込みを覆す構造が、最初の一瞬で最も強い引っかかりを作る。名前も入れて対象理解も両立できる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E5%AE%B6%E8%B7%AF_(%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "正体暴露型（思い込みを覆す名詞句）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ドヴォルザークが生んだ「幻の民謡」",
+        "support_text": "新世界より第2楽章の秘密",
+        "rank": 3,
+        "recommendation_reason": "名前を主語にした案。「幻の民謡」という造語が気になるが、Aほどの直接的な意外性はない。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.fostermusic.jp/products/detail/1221"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "名前主語＋造語フレーズ",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ黒人霊歌と呼ばれたのか",
+        "support_text": "ドヴォルザーク「新世界より」の旋律",
+        "rank": 2,
+        "recommendation_reason": "疑問形で興味は引けるが、「呼ばれたのか」という受け身表現がAの断定的な意外性より弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://allegro-vivace.com/contents/favorite_song/goin_home.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "疑問形の名詞句",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1893年、ドヴォルザークはアメリカ滞在中に交響曲第9番「新世界より」を作曲し、第2楽章に望郷の思いを込めた物悲しい旋律を刻んだ。",
+      "この旋律には黒人霊歌や先住民の伝説から受けた印象が滲んでいるが、メロディそのものはドヴォルザーク自身の創作だったと伝わる。",
+      "弟子だったウィリアム・アームズ・フィッシャーが1922年、この旋律に英語の歌詞を付けて歌曲「家路」として世に送り出した。",
+      "「家路」はやがて黒人霊歌そのものと誤解されるほど親しまれ、日本でも「遠き山に日は落ちて」の題で今も長く歌い継がれている。"
+    ],
+    "fb_caption": "多くの人が「黒人霊歌」だと信じて疑わない、あの物悲しい旋律。実はその正体は、ドヴォルザークが交響曲第9番『新世界より』に書いた自作のメロディでした🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "多くの人が「黒人霊歌」だと信じて疑わない、あの物悲しい旋律。実はその正体は、ドヴォルザークが交響曲第9番『新世界より』に書いた自作のメロディでした🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "多くの人が「黒人霊歌」だと信じて疑わない、あの物悲しい旋律。実はその正体は、ドヴォルザークが交響曲第9番『新世界より』に書いた自作のメロディでした🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n名曲に隠れたこうした由来の物語を、これからも紹介していきます。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "正体暴露型（思い込みを覆す名詞句）",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ロッシーニ",
+    "event_summary": "ロッシーニは1868年にパリ郊外パッシーで没し、ペール・ラシェーズ墓地に葬られた。1887年、イタリア政府の要請により遺骸はフィレンツェのサンタ・クローチェ聖堂に移され、現在はミケランジェロらと並んで眠っている。",
+    "sources": [
+      "https://pere-lachaise.com/tombe/rossini-gioachino/",
+      "https://www.allmusic.com/artist/gioachino-rossini-mn0000678420",
+      "https://www.santacroceopera.it/en/catalogue-of-works/gioachino-rossini-monumental-tomb-cassioli/",
+      "https://www.italyonthisday.com/2015/11/gioachino-rossini.html"
+    ],
+    "hook_copy": "ロッシーニの遺体、なぜ19年後に移された",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ロッシーニの遺体、なぜ19年後に移された",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "「なぜ」という問いかけと「19年後」という具体的な数字が、死・葬儀というテーマに最も強い引っかかりを作る。名前も自然に入る。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://pere-lachaise.com/tombe/rossini-gioachino/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ロッシーニ",
+        "hook_pattern": "疑問形（なぜ＋具体的な年数）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "なぜ遺体は国境を越えたのか",
+        "support_text": "ロッシーニ、死後の数奇な旅",
+        "rank": 2,
+        "recommendation_reason": "出来事主体の疑問形。詩的だが「国境を越えた」が比喩的で、Aより直接性に欠ける。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.italyonthisday.com/2015/11/gioachino-rossini.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ロッシーニ",
+        "hook_pattern": "疑問形＋対象名詞",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "1887年、パリの墓から消えた遺体",
+        "support_text": "ロッシーニ、死後の大移送",
+        "rank": 1,
+        "recommendation_reason": "場面提示型で情景は浮かぶが、問いかけ構文ではないため本枠の冒頭スタイルとはやや相性が弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.santacroceopera.it/en/catalogue-of-works/gioachino-rossini-monumental-tomb-cassioli/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ロッシーニ",
+        "hook_pattern": "場面提示型（年号＋状況）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1868年11月、絶大な人気を誇った作曲家ロッシーニはパリ郊外パッシーで亡くなり、盛大な葬儀の後パリのペール・ラシェーズ墓地に葬られた。",
+      "祖国イタリアでもロッシーニの名声は絶大なままで、没後19年が過ぎても遺骸を祖国へ戻すべきだという声が国民の間で高まり続けた。",
+      "1887年5月、イタリア政府の要請により遺骸は掘り起こされ、6000人を超える人々に見守られながらフィレンツェへ運ばれた。",
+      "現在ロッシーニは、ミケランジェロやガリレオ、マキャヴェリと並び、フィレンツェのサンタ・クローチェ聖堂に静かに眠っている。"
+    ],
+    "fb_caption": "なぜ、ある作曲家の亡骸は死後19年も経ってから国境を越えて運ばれたのでしょうか。ロッシーニは1868年にパリへ葬られた後、1887年にフィレンツェのサンタ・クローチェ聖堂へ移されました✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "なぜ、ある作曲家の亡骸は死後19年も経ってから国境を越えて運ばれたのでしょうか。ロッシーニは1868年にパリへ葬られた後、1887年にフィレンツェのサンタ・クローチェ聖堂へ移されました✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜ、ある作曲家の亡骸は死後19年も経ってから国境を越えて運ばれたのでしょうか。ロッシーニは1868年にパリへ葬られた後、1887年にフィレンツェのサンタ・クローチェ聖堂へ移されました✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n作曲家たちの死後の運命についても、これからも紹介していきます。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "疑問形（なぜ＋具体的な年数）",
+    "caption_style": "question"
+  },
+  {
+    "composer": "シューマン",
+    "event_summary": "1837年に結婚を申し込んだシューマンに対し、クララの父フリードリヒ・ヴィークは猛反対し交際を禁じた。1839年、シューマンはライプツィヒの裁判所に訴え、1年以上の法廷闘争の末、1840年に結婚を勝ち取った。",
+    "sources": [
+      "https://interlude.hk/composers-in-the-court-room-robert-schumann-versus-friedrich-wieck/",
+      "https://www.sfcv.org/learn/composer-gallery/robert-schumann",
+      "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/schumann-clara-1819-1896",
+      "https://www.kcme.org/robert-and-clara-true-love/"
+    ],
+    "hook_copy": "1839年、ライプツィヒ法廷のシューマン",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "1839年、ライプツィヒ法廷のシューマン",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "年号・場所・人物を一行に凝縮し、場面から入る本枠のスタイルに最も合致する。意外性（作曲家が裁判所にいる）も効く。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://interlude.hk/composers-in-the-court-room-robert-schumann-versus-friedrich-wieck/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューマン",
+        "hook_pattern": "場面設定型（年号＋場所＋人物）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "恋人の父が起こした訴訟、結末は",
+        "support_text": "シューマンとヴィーク、法廷闘争",
+        "rank": 1,
+        "recommendation_reason": "出来事主体で結末を問う形。興味は引けるが、場面提示の具体性ではAに劣る。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.sfcv.org/learn/composer-gallery/robert-schumann"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューマン",
+        "hook_pattern": "名詞句＋結末を問う",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ結婚に、裁判が必要だったのか",
+        "support_text": "シューマン、ヴィークとの対立",
+        "rank": 2,
+        "recommendation_reason": "疑問形で分かりやすいが、本枠の冒頭スタイル（場面から入る）とは形式が異なるため3位。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/schumann-clara-1819-1896"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューマン",
+        "hook_pattern": "疑問形（なぜ＋出来事）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1837年、ロベルト・シューマンはクララ・ヴィークに結婚を申し込んだが、父フリードリヒは猛反対しすぐに二人の交際を禁じた。",
+      "二人は手紙でひそかに愛を育んだが、1839年、シューマンはライプツィヒの裁判所に正式にヴィークを訴え、結婚の許可を求めた。",
+      "ヴィークは酒癖や経済力への疑念を並べ立てて1年以上徹底抗戦したが、1840年8月、裁判所はついに結婚を認める判決を下した。",
+      "翌9月12日、クララの21歳の誕生日の前日に二人は結ばれた。歓喜に沸いた1840年、シューマンは歌曲を140曲近く書き上げた。"
+    ],
+    "fb_caption": "1839年、ライプツィヒの裁判所。ピアニストの父フリードリヒ・ヴィークが、娘クララとの結婚を巡ってシューマンを訴えていました。1年以上に及ぶ法廷闘争の末、二人はついに結ばれます🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1839年、ライプツィヒの裁判所。ピアニストの父フリードリヒ・ヴィークが、娘クララとの結婚を巡ってシューマンを訴えていました。1年以上に及ぶ法廷闘争の末、二人はついに結ばれます🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1839年、ライプツィヒの裁判所。ピアニストの父フリードリヒ・ヴィークが、娘クララとの結婚を巡ってシューマンを訴えていました。1年以上に及ぶ法廷闘争の末、二人はついに結ばれます🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽家たちの恋と対立の物語も、これからも紹介していきます。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "conflict",
+    "hook_pattern": "場面設定型（年号＋場所＋人物）",
+    "caption_style": "scene"
+  }
+]
