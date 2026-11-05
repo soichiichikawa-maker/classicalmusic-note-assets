@@ -1,0 +1,52 @@
+{
+  "composer": "グリーグ",
+  "event_summary": "1860年、ライプツィヒ音楽院に留学中だった17歳のエドヴァルド・グリーグは、肋膜炎と結核を同時に患い、生死の境をさまよいました。一命は取り留めたものの左肺の機能をほぼ失い、生涯にわたり呼吸器の病に苦しみましたが、その体でピアノ協奏曲や『ペール・ギュント』など数々の名曲を生み出しました。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edvard_Grieg",
+    "https://grokipedia.com/page/Edvard_Grieg",
+    "https://www.hoffmanacademy.com/blog/who-was-edvard-grieg"
+  ],
+  "hook_copy": "[R]半分の肺[/R]で書かれた、[G]不朽の名旋律[/G]\nグリーグの持病",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "e906b16314e489b7",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-11-05T08:01:00.136089+00:00",
+    "text": "[R]半分の肺[/R]で書かれた、[G]不朽の名旋律[/G]\nグリーグの持病"
+  },
+  "portrait_prompt": "Illustrated cinematic portrait of Norwegian composer Edvard Grieg, based directly on the attached reference photograph: an older man with a large head of thick, wild, white-grey hair swept up and back from a high forehead, slightly longer and flaring out above the ears; a full, bushy white moustache covering the upper lip; deep-set, thoughtful grey-blue eyes under slightly furrowed brows; a lined, mature face with a strong straight nose and firm jaw, clean-shaven cheeks and chin aside from the moustache. He wears a dark Victorian-era suit with a wide black bow tie, white starched collar, and a dark waistcoat with a visible watch chain and small pinned medal. Bust-to-shoulder composition, three-quarter turned pose matching the reference photo's angle. Painterly illustrated style, oil-painting rendering, not photorealistic, soft directional studio lighting. Background a plain muted neutral grey tone with no texture or vignette. The illustration must extend fully to all four edges of the canvas with no border, no frame, no vignette darkening, and no empty margin. No text of any kind.",
+  "middle_slides": [
+    {
+      "text": "1860年、ライプツィヒ音楽院で学んでいた17歳のエドヴァルド・グリーグは、肋膜炎と結核という重い病に同時に襲われました。",
+      "image_prompt": "Oil-painting style illustration of a 17-year-old Edvard Grieg lying ill in a sparse 19th-century conservatory dormitory bed in Leipzig, 1860. He is young and slender with the same facial structure as the reference portrait but youthful: a high forehead, deep-set grey-blue eyes, straight nose, and soft unlined cheeks, clean-shaven with no moustache yet, hair light brownish-blond and softly tousled rather than grey. His face is flushed with fever, skin pale and damp with sweat, eyes half-closed in distress, body turned toward the viewer lying propped on a pillow. A single oil lamp casts warm dim light across worn wooden furniture and plain linens. Painterly, cinematic, not photorealistic, no text."
+    },
+    {
+      "text": "17歳の若さで一命は取り留めたものの、左肺の機能をほぼ失い、以後は生涯にわたって重い呼吸器の病と共に生きることになりました。",
+      "image_prompt": "Oil-painting style illustration of young Edvard Grieg at 17, recently recovered from grave illness, sitting weakly by a tall window in a modest Leipzig room, wrapped in a blanket over his nightshirt. Same facial identity as reference: high forehead, deep-set grey-blue eyes, straight nose, soft youthful cheeks, clean-shaven, light brownish-blond hair, but now pale and drawn with exhaustion, one hand resting lightly over his chest as if breathing carefully. His posture is slumped and fragile, gazing out toward pale daylight filtering through the window, a quiet somber mood conveyed through muted colors and soft grey light. Painterly, cinematic, not photorealistic, no text."
+    },
+    {
+      "text": "半分しか機能しない肺という過酷な状態でも、グリーグはピアニストとして各地への演奏旅行を続け、作曲の手を止めませんでした。",
+      "image_prompt": "Oil-painting style illustration of an adult Edvard Grieg performing as a pianist on a 19th-century concert hall stage, seated at a grand piano in three-quarter view facing slightly toward the keys, body angled consistently with his gaze. He has the same facial features as the reference portrait: thick white-grey hair swept back, bushy white moustache, deep-set eyes, strong straight nose, now with a composed yet weary expression and faint pallor suggesting fragile health beneath his concentration. He wears a formal black tailcoat with white bow tie. Warm candlelight glows from ornate wall sconces, illuminating red velvet seats and gilded hall details in the background, audience silhouettes softly blurred. Painterly, cinematic, not photorealistic, no text."
+    },
+    {
+      "text": "心身の苦しみと闘いながら生み出された《ピアノ協奏曲》や《ペール・ギュント》は、今も世界中のホールで愛され続ける名曲となりました。",
+      "image_prompt": "Oil-painting style illustration of Edvard Grieg in later years, seated at a wooden writing desk in a cozy study, composing music by lamplight, quill or pen in hand over manuscript paper covered in handwritten musical notation with no legible text. He has the same facial identity as the reference portrait: thick white-grey hair swept up, bushy white moustache, deep-set thoughtful eyes, high forehead, a calm determined expression touched with quiet fatigue shown through soft lighting and gentle shadows rather than facial distortion. He wears a dark waistcoat and white shirt with loosened collar. Through a window behind him, a hint of a Norwegian fjord landscape is visible in the evening light. Painterly, warm golden lamplight, cinematic, not photorealistic, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1860年、ライプツィヒ。音楽院で学んでいた17歳のグリーグは肋膜炎と結核に倒れ、左肺の機能をほぼ失いました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1860年、ライプツィヒ。音楽院で学んでいた17歳のグリーグは肋膜炎と結核に倒れ、左肺の機能をほぼ失いました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1860年、ライプツィヒ。音楽院で学んでいた17歳のグリーグは肋膜炎と結核に倒れ、左肺の機能をほぼ失いました🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nグリーグが病と闘いながら紡いだ旋律に、改めて耳を傾けてみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "illness",
+  "hook_pattern": null,
+  "caption_style": "scene",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Edvard_Grieg_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "hook_source": "system",
+  "hook_original": "半分の肺で書かれた、不朽の名旋律 グリーグの持病",
+  "hook_edit_ratio": 0.0,
+  "hook_markup_by": "human"
+}
