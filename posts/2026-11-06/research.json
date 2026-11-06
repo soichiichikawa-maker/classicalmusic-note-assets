@@ -7,14 +7,14 @@
     "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/schumann-clara-1819-1896",
     "https://www.kcme.org/robert-and-clara-true-love/"
   ],
-  "hook_copy": "[R]裁判[/R]で勝ち取った結婚\n[G]シューマン[/G]、恋人の父との対決",
+  "hook_copy": "[R]裁判[/R]で勝ち取った結婚\n[G]シューマン[/G]、父との対決",
   "hook_options": [],
   "hook_selection": {
     "candidate_id": "custom",
-    "proposal_revision": "d6a89e9f48662f1a",
+    "proposal_revision": "a95b9c9bddab77a9",
     "selected_by": "soichiichikawa-maker",
-    "approved_at": "2026-11-06T08:04:42.486003+00:00",
-    "text": "[R]裁判[/R]で勝ち取った結婚\n[G]シューマン[/G]、恋人の父との対決"
+    "approved_at": "2026-11-06T08:33:33.634984+00:00",
+    "text": "[R]裁判[/R]で勝ち取った結婚\n[G]シューマン[/G]、父との対決"
   },
   "portrait_prompt": "Illustrated cinematic portrait, painterly rendering, not photorealistic, of German Romantic composer Robert Schumann at about age 29 (1839), based closely on the attached 1839 lithograph. Depict a young man with wavy, tousled light-brown hair, a smooth youthful face, no beard and no mustache, calm intense gaze. He wears a dark high-collared frock coat with a dark cravat. Bust-to-shoulder composition, facing slightly toward the viewer. Plain, nearly solid muted background (soft neutral gray or warm brown tone) with soft studio-like lighting. No text, no logos, no decorative border, no vignette — the painting must extend fully to all four edges of the canvas with no empty margin.",
   "middle_slides": [
@@ -47,7 +47,7 @@
   "caption_style": "scene",
   "portrait_reference_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Robert_Schumann_1839.jpg/500px-Robert_Schumann_1839.jpg",
   "hook_source": "edited",
-  "hook_original": "なぜ結婚に、裁判が必要だったのか シューマン、ヴィークとの対立",
-  "hook_edit_ratio": 0.608,
+  "hook_original": "なぜ結婚に、裁判が必要だったのか\nシューマン、ヴィークとの対立",
+  "hook_edit_ratio": 0.583,
   "hook_markup_by": "human"
 }
