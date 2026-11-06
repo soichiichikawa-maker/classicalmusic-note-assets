@@ -1,0 +1,325 @@
+[
+  {
+    "composer": "ヘンデル",
+    "event_summary": "1737年、52歳のヘンデルはオペラ興行の失敗と過労から倒れ、右手が麻痺した。周囲は作曲家人生の終わりを覚悟したが、温泉療養地アーヘンでわずか6週間のうちに完全回復。その後も精力的に活動を続け、4年後には不朽の名作《メサイア》を完成させた。",
+    "sources": [
+      "https://www.wicaonline.org/blog/2019/11/19/biography-george-frideric-handel",
+      "https://www.biography.com/musicians/george-handel",
+      "https://www.seattlechambermusic.org/composers/george-frideric-handel/",
+      "https://en.wikipedia.org/wiki/Concerti_grossi,_Op.6_(Handel)"
+    ],
+    "hook_copy": "もう作曲できない？\nヘンデルを襲った右手麻痺",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ヘンデル、右手が動かない",
+        "support_text": "52歳、オペラ失敗の果てに",
+        "rank": 3,
+        "recommendation_reason": "名前と症状のみの提示で事実は伝わるが、問いかけ型Cに比べると続きを読む動機づけが弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.biography.com/musicians/george-handel",
+          "https://www.seattlechambermusic.org/composers/george-frideric-handel/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "名前主役・症状提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "右手麻痺、6週間後に完全復活",
+        "support_text": "ヘンデルの奇跡の温泉療養",
+        "rank": 2,
+        "recommendation_reason": "具体的な期間（6週間）を提示して回復の意外性を強調できる、出来事主役の案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.wicaonline.org/blog/2019/11/19/biography-george-frideric-handel",
+          "https://en.wikipedia.org/wiki/Concerti_grossi,_Op.6_(Handel)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "出来事主役・数字訴求型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "もう作曲できない？",
+        "support_text": "ヘンデルを襲った右手麻痺",
+        "rank": 1,
+        "recommendation_reason": "枠の指定（問いかけから入る）に最も沿う形で、読者自身に危機を想像させてから名前と症状を明かす構成が強い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.biography.com/musicians/george-handel",
+          "https://www.wicaonline.org/blog/2019/11/19/biography-george-frideric-handel"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1737年春、52歳の作曲家ヘンデルは、度重なるオペラ興行の失敗と過労がたたって倒れ、右手の自由を完全に失ってしまった。",
+      "「もう二度と作曲はできない」と誰もが諦めかけたが、52歳のヘンデルは親しい友人たちの勧めで温泉保養地アーヘンへ療養に向かった。",
+      "アーヘンの温泉地でわずか6週間療養しただけで、ヘンデルの右手は完全に動くようになり、医師たちも驚くほどの劇的な回復を遂げた。",
+      "ロンドンに戻ったヘンデルは作曲とオルガン演奏を再開し、4年後には不朽の名作《メサイア》を完成させ、今も世界中で愛されている。"
+    ],
+    "fb_caption": "もし利き手が動かなくなったら、作曲家は音楽を続けられるのでしょうか。52歳のヘンデルは1737年、まさにその危機に直面しました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "ig_caption": "もし利き手が動かなくなったら、作曲家は音楽を続けられるのでしょうか。52歳のヘンデルは1737年、まさにその危機に直面しました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "もし利き手が動かなくなったら、作曲家は音楽を続けられるのでしょうか。52歳のヘンデルは1737年、まさにその危機に直面しました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽を禁じられた少年から逆転人生を歩んだヘンデルの生涯を追った本編もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "youtube_link": "https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "問いかけ型",
+    "caption_style": "question"
+  },
+  {
+    "composer": "リスト",
+    "event_summary": "1848年、リストの祖国ハンガリーでハプスブルク家支配への独立蜂起が起こったが鎮圧され、元首相バッチャーニ伯爵ら親しい友人たちが処刑された。翌1849年10月、リストは彼らへの鎮魂としてピアノ曲《葬送（フュネライユ）》を書き上げた。祖国喪失の悲しみが刻まれたこの曲は、今も世界中で演奏される名曲となっている。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fun%C3%A9railles",
+      "https://www.flowkey.com/en/franz-liszt-piano-pieces",
+      "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1848"
+    ],
+    "hook_copy": "1849年、鎮魂のピアノ曲誕生\nリストが刻んだ祖国への悲しみ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "リスト、3人の友を失う",
+        "support_text": "1849年、ハンガリー蜂起の果てに",
+        "rank": 1,
+        "recommendation_reason": "喪失の事実は明確だが、名前先行のため場面の緊迫感がBより弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Fun%C3%A9railles"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "名前主役・喪失提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "1849年、鎮魂のピアノ曲誕生",
+        "support_text": "リストが刻んだ祖国への悲しみ",
+        "rank": 2,
+        "recommendation_reason": "枠の指定（場面から入る）に最も合致し、年号から入ることで歴史的場面を具体的に想起させられる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Fun%C3%A9railles",
+          "https://www.flowkey.com/en/franz-liszt-piano-pieces"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "年号起点・場面提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "処刑された友への鎮魂歌",
+        "support_text": "リスト、1849年の慟哭",
+        "rank": 3,
+        "recommendation_reason": "「処刑」という強い語で事件の重さを先に提示する案。Bより感情訴求は強いが場所・年号の具体性でBに次ぐ。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1848",
+          "https://en.wikipedia.org/wiki/Fun%C3%A9railles"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "出来事主役・感情訴求型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1848年、ピアニストで作曲家のリストの祖国ハンガリーで、ハプスブルク家支配への独立蜂起が起こり、多くの友人も加わった。",
+      "だが蜂起はハプスブルク軍に鎮圧され、親しかった元首相バッチャーニ伯爵をはじめ、友人の貴族たちが次々と処刑され、命を落とした。",
+      "1849年10月、リストは命を落とした3人の友と祖国喪失への深い悲しみを込めて、重く荘厳なピアノ曲《葬送》を書き上げた。",
+      "こうして生まれた《葬送》には祖国喪失の深い悲しみが刻まれ、今も世界中のコンサートで愛され、輝き続ける大きな名曲となっている。"
+    ],
+    "fb_caption": "1849年10月、リストは一曲の鎮魂のピアノ曲を書き上げていました。前年のハンガリー独立蜂起で、親しい友人たちを失った直後のことです🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=xNBLCsDvcuE",
+    "ig_caption": "1849年10月、リストは一曲の鎮魂のピアノ曲を書き上げていました。前年のハンガリー独立蜂起で、親しい友人たちを失った直後のことです🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1849年10月、リストは一曲の鎮魂のピアノ曲を書き上げていました。前年のハンガリー独立蜂起で、親しい友人たちを失った直後のことです🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n19世紀最大のロックスターと呼ばれたリストの波乱の生涯を辿った本編もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=xNBLCsDvcuE",
+    "youtube_link": "https://www.youtube.com/watch?v=xNBLCsDvcuE",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "年号起点・場面提示型",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ハープ",
+    "event_summary": "1810年、楽器製作者セバスチャン・エラールがロンドンで「ダブルアクション」機構を備えた新型ハープを完成させた。従来のハープは演奏できる調が限られる不自由な楽器だったが、この発明によって全ての調を自在に演奏できるようになった。発売直後から大ヒットとなり、ハープは近代オーケストラに欠かせない楽器へと進化した。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/S%C3%A9bastien_%C3%89rard",
+      "https://www.harp.com/history-of-the-harp/",
+      "https://holburne.org/erard-harp/",
+      "https://www.piano-tuners.org/history/erard.html"
+    ],
+    "hook_copy": "1810年、ロンドンで生まれた新楽器\nハープを変えたダブルアクション",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ハープ、全部の調を手に入れる",
+        "support_text": "1810年、エラールの発明",
+        "rank": 2,
+        "recommendation_reason": "楽器名を主語にした擬人的な見出し。インパクトはあるが場面提示が弱く、枠の指定には次点。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/S%C3%A9bastien_%C3%89rard"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ハープ",
+        "hook_pattern": "楽器擬人化型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "1810年、ロンドンで生まれた新楽器",
+        "support_text": "ハープを変えたダブルアクション",
+        "rank": 3,
+        "recommendation_reason": "枠の指定（場面から入る）に最も合致し、年号と場所で具体的な場面を即座に想起させられる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.piano-tuners.org/history/erard.html",
+          "https://holburne.org/erard-harp/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ハープ",
+        "hook_pattern": "年号起点・場面提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "七年越しの改良、一年で完売",
+        "support_text": "ハープの革命、エラールの発明",
+        "rank": 1,
+        "recommendation_reason": "開発期間と大ヒットの数字で意外性を強める案。場面提示はBよりやや弱いが数字訴求が強い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.piano-tuners.org/history/erard.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ハープ",
+        "hook_pattern": "出来事主役・数字訴求型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1810年、ロンドンで活動していた楽器製作者セバスチャン・エラールは、長年の試行錯誤の末に画期的な新型ハープを完成させた。",
+      "それまでのハープは、1本の弦につき半音1段階しか動かせない「シングルアクション」式で、演奏できる調が大きく限られていた。",
+      "そこでエラールは、1本の弦を2段階で操作する画期的な「ダブルアクション」機構を発明し、全ての調を自在に演奏できるようにした。",
+      "この新型ハープは発売初年だけで数千台を売り上げる大ヒットとなり、今日のコンサートでもなお使われる近代楽器へと進化を遂げた。"
+    ],
+    "fb_caption": "1810年、ロンドンの工房で、楽器製作者セバスチャン・エラールが7年がかりの新型ハープを完成させました。それまでのハープは、演奏できる調が限られる「不自由な楽器」でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1810年、ロンドンの工房で、楽器製作者セバスチャン・エラールが7年がかりの新型ハープを完成させました。それまでのハープは、演奏できる調が限られる「不自由な楽器」でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1810年、ロンドンの工房で、楽器製作者セバスチャン・エラールが7年がかりの新型ハープを完成させました。それまでのハープは、演奏できる調が限られる「不自由な楽器」でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n次に優雅なハープの音色を耳にするときは、この発明の物語を思い出してみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "年号起点・場面提示型",
+    "caption_style": "scene"
+  }
+]
