@@ -1,0 +1,53 @@
+{
+  "composer": "シューマン",
+  "event_summary": "1837年に結婚を申し込んだシューマンに対し、クララの父フリードリヒ・ヴィークは猛反対し交際を禁じた。1839年、シューマンはライプツィヒの裁判所に訴え、1年以上の法廷闘争の末、1840年に結婚を勝ち取った。",
+  "sources": [
+    "https://interlude.hk/composers-in-the-court-room-robert-schumann-versus-friedrich-wieck/",
+    "https://www.sfcv.org/learn/composer-gallery/robert-schumann",
+    "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/schumann-clara-1819-1896",
+    "https://www.kcme.org/robert-and-clara-true-love/"
+  ],
+  "hook_copy": "[R]裁判[/R]で勝ち取った結婚\n[G]シューマン[/G]、恋人の父との対決",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "d6a89e9f48662f1a",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-11-06T08:04:42.486003+00:00",
+    "text": "[R]裁判[/R]で勝ち取った結婚\n[G]シューマン[/G]、恋人の父との対決"
+  },
+  "portrait_prompt": "Illustrated cinematic portrait, painterly rendering, not photorealistic, of German Romantic composer Robert Schumann in his later years, based closely on the attached reference photograph. Depict an elderly, heavyset gentleman with thinning white-gray hair swept back and to the side, a receding hairline at the temples, a full bushy white mustache, no beard, clean-shaven chin and jaw, deep-set dark eyes, heavy jowls and a broad fleshy face. He wears a dark Victorian three-piece suit with a buttoned waistcoat, crisp white shirt collar, and a dark bow tie, exactly as seen in the reference image. Bust-to-shoulder composition, facing slightly toward the viewer, calm dignified expression. Plain, nearly solid muted background (soft neutral gray or warm brown tone) with soft studio-like lighting. No text, no logos, no decorative border, no vignette — the painting must extend fully to all four edges of the canvas with no empty margin.",
+  "middle_slides": [
+    {
+      "text": "1837年、ロベルト・シューマンはクララ・ヴィークに結婚を申し込んだが、クララの父フリードリヒは猛反対しすぐに二人の交際を禁じた。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. A young Robert Schumann in his late twenties, standing alone outside the grand entrance of an elegant 19th-century townhouse at dusk in Leipzig, 1837. He has the same facial structure as the reference portrait — deep-set dark eyes, a broad face, a mustache — but youthful, with a full head of dark brown hair neatly combed back (no graying or receding hairline yet), smooth unlined skin. He wears a dark Romantic-era frock coat, waistcoat, and cravat. His posture is upright but his expression is troubled and dejected, gazing up at a closed upper-floor window of the house, hat in hand. Warm lamplight glows faintly from within the house, contrasting with the cool blue evening outside. No other people visible, no text."
+    },
+    {
+      "text": "二人は手紙でひそかに愛を育んだが、1839年、シューマンはライプツィヒの裁判所に正式にヴィークを訴え、結婚の許可を求めた。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. The same young Robert Schumann, late twenties, dark brown hair neatly combed back, mustache, same facial features as the reference portrait, seated alone at a candlelit writing desk at night in 1839. He leans intently over a letter, quill in hand, surrounded by scattered papers and sealed envelopes tied with ribbon, a half-finished musical manuscript also visible on the desk. Through a window behind him, the silhouette of a stately courthouse building with classical columns is faintly visible under moonlight, symbolizing his legal petition. Warm candlelight illuminates his focused, earnest expression. No other people visible, no text.</br>"
+    },
+    {
+      "text": "ヴィークは酒癖や経済力への疑念を並べ立てて1年以上徹底抗戦したが、1840年8月、裁判所はついに結婚を認める判決を下した。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. The same Robert Schumann, now about thirty years old, dark brown hair combed back, mustache, same facial structure as the reference portrait, standing resolutely before the grand columned entrance of a 19th-century German courthouse in 1840. He wears a formal dark frock coat and cravat, holding a rolled legal document firmly in one hand. His expression is calm but determined, chin lifted, facing the viewer directly as he looks toward the courthouse steps. Soft overcast daylight, muted stone architecture in the background. No other people visible, no text."
+    },
+    {
+      "text": "翌9月12日、クララの21歳の誕生日の前日に二人は結ばれた。歓喜に沸いた1840年、シューマンは歌曲を140曲近く書き上げた。",
+      "image_prompt": "Oil-painting style, painterly rendering, not photorealistic. The same Robert Schumann, about thirty years old, dark brown hair combed back, mustache, same facial features as the reference portrait, seated joyfully at a piano in a sunlit music room in September 1840. Sheets of music manuscript are spread across the piano and scattered joyfully on the floor around him, some sheets caught mid-air as if just tossed in celebration. His expression is radiant and full of happiness, eyes bright, a slight smile, as warm golden sunlight streams through a nearby window. A simple wedding band glints on his hand resting on the keys. No other people visible, no text."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1839年、ライプツィヒの裁判所。シューマンは、恋人クララの父フリードリヒ・ヴィークを相手に、結婚の許可を求めて訴え出ました。1年以上に及ぶ法廷闘争の末、二人はついに結ばれます🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1839年、ライプツィヒの裁判所。シューマンは、恋人クララの父フリードリヒ・ヴィークを相手に、結婚の許可を求めて訴え出ました。1年以上に及ぶ法廷闘争の末、二人はついに結ばれます🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1839年、ライプツィヒの裁判所。シューマンは、恋人クララの父フリードリヒ・ヴィークを相手に、結婚の許可を求めて訴え出ました。1年以上に及ぶ法廷闘争の末、二人はついに結ばれます🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽家たちの恋と対立の物語も、これからも紹介していきます。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "conflict",
+  "hook_pattern": null,
+  "caption_style": "scene",
+  "portrait_reference_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Georg_Schumann.tif/lossy-page1-250px-Georg_Schumann.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "hook_source": "edited",
+  "hook_original": "なぜ結婚に、裁判が必要だったのか シューマン、ヴィークとの対立",
+  "hook_edit_ratio": 0.608,
+  "hook_markup_by": "human"
+}
