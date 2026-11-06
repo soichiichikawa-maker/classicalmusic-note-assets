@@ -16,7 +16,7 @@
     "approved_at": "2026-11-06T08:04:42.486003+00:00",
     "text": "[R]裁判[/R]で勝ち取った結婚\n[G]シューマン[/G]、恋人の父との対決"
   },
-  "portrait_prompt": "Illustrated cinematic portrait, painterly rendering, not photorealistic, of German Romantic composer Robert Schumann in his later years, based closely on the attached reference photograph. Depict an elderly, heavyset gentleman with thinning white-gray hair swept back and to the side, a receding hairline at the temples, a full bushy white mustache, no beard, clean-shaven chin and jaw, deep-set dark eyes, heavy jowls and a broad fleshy face. He wears a dark Victorian three-piece suit with a buttoned waistcoat, crisp white shirt collar, and a dark bow tie, exactly as seen in the reference image. Bust-to-shoulder composition, facing slightly toward the viewer, calm dignified expression. Plain, nearly solid muted background (soft neutral gray or warm brown tone) with soft studio-like lighting. No text, no logos, no decorative border, no vignette — the painting must extend fully to all four edges of the canvas with no empty margin.",
+  "portrait_prompt": "Illustrated cinematic portrait, painterly rendering, not photorealistic, of German Romantic composer Robert Schumann at about age 29 (1839), based closely on the attached 1839 lithograph. Depict a young man with wavy, tousled light-brown hair, a smooth youthful face, no beard and no mustache, calm intense gaze. He wears a dark high-collared frock coat with a dark cravat. Bust-to-shoulder composition, facing slightly toward the viewer. Plain, nearly solid muted background (soft neutral gray or warm brown tone) with soft studio-like lighting. No text, no logos, no decorative border, no vignette — the painting must extend fully to all four edges of the canvas with no empty margin.",
   "middle_slides": [
     {
       "text": "1837年、ロベルト・シューマンはクララ・ヴィークに結婚を申し込んだが、クララの父フリードリヒは猛反対しすぐに二人の交際を禁じた。",
@@ -45,7 +45,7 @@
   "theme": "conflict",
   "hook_pattern": null,
   "caption_style": "scene",
-  "portrait_reference_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Georg_Schumann.tif/lossy-page1-250px-Georg_Schumann.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "portrait_reference_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Robert_Schumann_1839.jpg/500px-Robert_Schumann_1839.jpg",
   "hook_source": "edited",
   "hook_original": "なぜ結婚に、裁判が必要だったのか シューマン、ヴィークとの対立",
   "hook_edit_ratio": 0.608,
