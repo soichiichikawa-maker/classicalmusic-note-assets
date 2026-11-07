@@ -1,0 +1,53 @@
+{
+  "composer": "ハープ",
+  "event_summary": "1810年、楽器製作者セバスチャン・エラールがロンドンで「ダブルアクション」機構を備えた新型ハープを完成させた。従来のハープは演奏できる調が限られる不自由な楽器だったが、この発明によって全ての調を自在に演奏できるようになった。発売直後から大ヒットとなり、ハープは近代オーケストラに欠かせない楽器へと進化した。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/S%C3%A9bastien_%C3%89rard",
+    "https://www.harp.com/history-of-the-harp/",
+    "https://holburne.org/erard-harp/",
+    "https://www.piano-tuners.org/history/erard.html"
+  ],
+  "hook_copy": "[R]1810年、新楽器誕生[/R]\nハープを変えた\n[G]ダブルアクション[/G]",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "86f27a33f0d4d522",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-11-07T08:28:47.757241+00:00",
+    "text": "[R]1810年、新楽器誕生[/R]\nハープを変えた\n[G]ダブルアクション[/G]"
+  },
+  "portrait_prompt": "An elegant illustrated still-life of a grand concert harp, painterly illustrated cinematic style, not photorealistic. The harp has a tall, slender fluted neoclassical column with decorative ringed moldings near the base, standing upright and slightly tilted back. The curved neck sweeps upward and forward, terminating in an ornately carved scrollwork crown resembling intertwined foliage and scroll ornaments at the top. Dozens of thin vertical strings stretch from the neck down to a large triangular wooden soundboard, which flares outward in a warm honey-brown wood tone with a darker shaded front panel. The base rests on an ornamented pedestal foot with turned wood detailing. The overall palette is rich wood tones with subtle golden highlights on the carved scrollwork. Background is a muted, deep solid color (soft charcoal or dark forest green) with no other objects, no people, no text. The illustration fills the entire canvas edge to edge with no border, no vignette, no empty margins.",
+  "middle_slides": [
+    {
+      "text": "1810年、ロンドンで活動していた楽器製作者セバスチャン・エラールは、長年の試行錯誤の末に画期的な新型ハープを完成させた。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of an early 19th-century London instrument workshop. A craftsman in period clothing (early 1800s tailcoat, white cravat, rolled-up sleeves) stands beside a partially assembled harp, examining its tall wooden column and carved neck with tools in hand. Wood shavings and hand tools (chisels, carving knives) are scattered on a workbench nearby. Warm candlelight illuminates the scene through a workshop window. The harp has a slender fluted column, a gracefully curved neck, and a triangular soundboard, with strings only partly strung, showing the instrument mid-construction. The craftsman is seen from a three-quarter angle, face and body both facing the same direction toward the harp."
+    },
+    {
+      "text": "それまでのハープは、1本の弦につき半音1段階しか動かせない「シングルアクション」式で、演奏できる調が大きく限られていた。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of a genteel 18th-century drawing room. A woman in an elegant period gown sits at an older-style single-action harp, which has a simpler, less ornamented straight wooden column, a single row of external pedals at its base, and plain gut strings, reflecting its limited mechanism. Her expression shows mild concentration or slight frustration as she adjusts a pedal, implying the restriction of playable keys. Soft daylight filters through tall windows, warm muted colors, candle sconces on the wall. The woman's body and face face the same direction toward the instrument, no text anywhere in the scene."
+    },
+    {
+      "text": "そこでエラールは、1本の弦を2段階で操作する画期的な「ダブルアクション」機構を発明し、全ての調を自在に演奏できるようにした。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of the same early 19th-century craftsman from before, now in his London workshop examining a technical diagram of a mechanical linkage pinned to the wall beside him, while his hand rests on the base of a harp where a double row of pedals is visible, more intricate than before. The harp beside him shows a refined fluted column and curved neck with ornate scrollwork, strings fully strung, the double-action pedal mechanism visible at the base with extra rods and discs. Warm lamplight, wood tones, tools on a nearby table. The craftsman faces toward the harp, body and face aligned in the same direction, no text."
+    },
+    {
+      "text": "この新型ハープは発売後たちまち評判となり、現在のコンサートハープの原型として、今日も世界中のオーケストラの舞台で使われ続けている。",
+      "image_prompt": "Oil-painting style illustration, painterly, not photorealistic, of a grand 19th-century concert hall stage viewed from a slight distance, with a full orchestra arranged in a semicircle. In the foreground area, a harpist in formal attire sits behind an ornate concert harp with a tall fluted column, curved neck with carved scrollwork crown, and a large triangular soundboard, hands poised over the strings. Rich stage lighting, warm golden tones, blurred orchestra musicians and instruments in the background suggesting depth. The harpist's body and face both face toward the harp and audience in a consistent pose, no text anywhere in the image."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "1810年、ロンドンの工房で、楽器製作者セバスチャン・エラールが長い試行錯誤の末に新型ハープを完成させました。それまでのハープは、演奏できる調が限られる「不自由な楽器」でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "ig_caption": "1810年、ロンドンの工房で、楽器製作者セバスチャン・エラールが長い試行錯誤の末に新型ハープを完成させました。それまでのハープは、演奏できる調が限られる「不自由な楽器」でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "1810年、ロンドンの工房で、楽器製作者セバスチャン・エラールが長い試行錯誤の末に新型ハープを完成させました。それまでのハープは、演奏できる調が限られる「不自由な楽器」でした✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n次に優雅なハープの音色を耳にするときは、この発明の物語を思い出してみてください。",
+  "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+  "today_date_label": null,
+  "subject_type": "instrument",
+  "theme": "instrument",
+  "hook_pattern": null,
+  "caption_style": "scene",
+  "portrait_reference_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Harp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "hook_source": "edited",
+  "hook_original": "1810年、ロンドンで生まれた新楽器\nハープを変えたダブルアクション",
+  "hook_edit_ratio": 0.193,
+  "hook_markup_by": "human"
+}
