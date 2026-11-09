@@ -1,0 +1,312 @@
+[
+  {
+    "composer": "ベートーヴェン",
+    "event_summary": "1800年、ウィーンの貴族の邸宅で人気ピアニストのダニエル・シュタイベルトがベートーヴェンに演奏対決を挑んだ。シュタイベルトは事前に用意した曲を即興と称して披露したが、ベートーヴェンはその楽譜をわざと逆さまに置き、チェロパートの一節だけで圧巻の即興を展開した。屈辱を受けたシュタイベルトは演奏の途中で会場を去り、以後ベートーヴェンが同席する場には二度と現れなかったと伝えられる。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%99%E3%83%AB%E3%83%88",
+      "https://ontomo-mag.com/article/column/weeklybeethoven-20200626/",
+      "https://blog.goo.ne.jp/andante-dandanto/e/2a6f09993b4be3dbb7b2f24f3e0fd18c"
+    ],
+    "hook_copy": "逆さの楽譜で、挑戦者を黙らせた即興\nベートーヴェン、1800年の一夜",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ベートーヴェンに挑み、演奏中に消えた男",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前主役でわかりやすいが、結末の具体性がBより弱く手が止まりにくい。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%99%E3%83%AB%E3%83%88"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ベートーヴェン",
+        "hook_pattern": "名前主役・結末直結型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "逆さの楽譜で、挑戦者を黙らせた即興",
+        "support_text": "ベートーヴェン、1800年の一夜",
+        "rank": 1,
+        "recommendation_reason": "「楽譜を逆さに置く」という具体的な一点が強く、何が起きたのか気になる入口になる。出来事主役で情報量も適切。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%99%E3%83%AB%E3%83%88",
+          "https://ontomo-mag.com/article/column/weeklybeethoven-20200626/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ベートーヴェン",
+        "hook_pattern": "出来事主役・具体描写型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ挑戦者は、二度と同席しなかったのか",
+        "support_text": "ベートーヴェンとの一夜",
+        "rank": 2,
+        "recommendation_reason": "問い型で続きが気になるが、Bほど即座に絵が浮かばない点でやや劣る次点案。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://blog.goo.ne.jp/andante-dandanto/e/2a6f09993b4be3dbb7b2f24f3e0fd18c"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ベートーヴェン",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1800年、ウィーンの貴族の邸宅で、人気ピアニストのダニエル・シュタイベルトが新進気鋭のベートーヴェンに演奏対決を挑んだ。",
+      "シュタイベルトは得意のトレモロ奏法を存分に生かし、事前に用意しておいた曲を、まるで即興のように弾いて聴衆を沸かせていた。",
+      "すると、ベートーヴェンはシュタイベルトの新作の楽譜をわざと逆さまに置き、そのチェロパートの主題だけを使って即興演奏を始めた。",
+      "屈辱を受けたシュタイベルトは演奏の途中で会場を去り、以後は招待客の名簿にベートーヴェンがいないか必ず確かめていたという。"
+    ],
+    "fb_caption": "挑んだピアニストが、演奏の途中で裏口から姿を消した——。1800年のウィーン、人気ピアニストのダニエル・シュタイベルトがベートーヴェンに仕掛けた即興対決は、まさかの結末を迎えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=iceY8eSOg5I",
+    "ig_caption": "挑んだピアニストが、演奏の途中で裏口から姿を消した——。1800年のウィーン、人気ピアニストのダニエル・シュタイベルトがベートーヴェンに仕掛けた即興対決は、まさかの結末を迎えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "挑んだピアニストが、演奏の途中で裏口から姿を消した——。1800年のウィーン、人気ピアニストのダニエル・シュタイベルトがベートーヴェンに仕掛けた即興対決は、まさかの結末を迎えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nベートーヴェンの生涯を追った動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=iceY8eSOg5I",
+    "youtube_link": "https://www.youtube.com/watch?v=iceY8eSOg5I",
+    "subject_type": "composer",
+    "theme": "conflict",
+    "hook_pattern": "出来事主役・具体描写型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "マーラー",
+    "event_summary": "1911年、指揮者・作曲家グスタフ・マーラーは50歳でウィーンに世を去り、郊外のグリンツィング墓地に葬られた。生前「墓を訪ねてくる人は私が誰かを知っているはずだし、そうでない人に知ってもらう必要はない」と語っていたマーラーの墓石には、その言葉どおり名前以外の生没年や肩書きが一切刻まれなかった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%95%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC",
+      "https://kajipon.sakura.ne.jp/haka/h-sakkyoku.htm",
+      "https://4travel.jp/os_shisetsu_tips/13311383"
+    ],
+    "hook_copy": "生没年も肩書きも無い、ある墓石\nマーラーの遺言",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "マーラーの墓には、名前しか無い",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前主役で直接的だが、Bのような「何だろう」という引きが弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%95%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "名前主役・直接提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "生没年も肩書きも無い、ある墓石",
+        "support_text": "マーラーの遺言",
+        "rank": 1,
+        "recommendation_reason": "対象を伏せたまま「無いもの」を列挙することで具体的な引っ掛かりを作り、答えが気になる構成になっている。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://kajipon.sakura.ne.jp/haka/h-sakkyoku.htm",
+          "https://4travel.jp/os_shisetsu_tips/13311383"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "出来事主役・伏せ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ墓碑銘を拒んだのか",
+        "support_text": "マーラーの遺言",
+        "rank": 3,
+        "recommendation_reason": "問い型として機能するが、Bに比べ画への具体性がやや弱い次点案。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%95%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1911年、晩年を心臓の病と闘いながら作曲を続けた指揮者グスタフ・マーラーは、50歳でウィーンにて静かに息を引き取った。",
+      "葬儀の後、妻アルマは著名な建築家ヨーゼフ・ホフマンに依頼して、ウィーン郊外のグリンツィング墓地に立派な墓石を建てさせた。",
+      "しかし完成した墓石に刻まれていたのは、生没年も肩書きも一切なく、ただ「GUSTAV MAHLER」という名前だけだった。",
+      "生前マーラーは「訪れる者は私が何者か知っているはずだ」と語っており、墓石は今もその言葉どおり、名前だけの姿を保っている。"
+    ],
+    "fb_caption": "グスタフ・マーラーの墓には、何が刻まれているでしょうか。実は生没年も肩書きも一切なく、「GUSTAV MAHLER」という名前だけ。本人の遺言どおりの、潔すぎる墓石です。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "グスタフ・マーラーの墓には、何が刻まれているでしょうか。実は生没年も肩書きも一切なく、「GUSTAV MAHLER」という名前だけ。本人の遺言どおりの、潔すぎる墓石です。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "グスタフ・マーラーの墓には、何が刻まれているでしょうか。実は生没年も肩書きも一切なく、「GUSTAV MAHLER」という名前だけ。本人の遺言どおりの、潔すぎる墓石です。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nマーラーの音楽そのものも、ぜひ味わってみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "出来事主役・伏せ型",
+    "caption_style": "question"
+  },
+  {
+    "composer": "ヘンデル",
+    "event_summary": "ドイツ・ハレで外科医の息子として生まれたヘンデルは、父の意向で法律家を志し、1702年にハレ大学法学部に入学した。ところが同じ年、大聖堂のオルガニストの職にも就き、父の死後まもなく法律の道を断念してハンブルクの歌劇場でヴァイオリニストとなり、音楽家としての人生を本格的に歩み始めた。",
+    "sources": [
+      "https://at-rain.com/archives/3374",
+      "https://irohani.yokochou.com/handel.html",
+      "https://seven-knives.online/handel1/"
+    ],
+    "hook_copy": "大学は法学部、でも職業はオルガニスト\nヘンデルの進路",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ヘンデルは、法律家になるはずだった",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前主役で素直だが、Bにある「矛盾の同居」という面白さが伝わりにくい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://irohani.yokochou.com/handel.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "名前主役・直接提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "大学は法学部、でも職業はオルガニスト",
+        "support_text": "ヘンデルの進路",
+        "rank": 1,
+        "recommendation_reason": "「法学部なのにオルガニスト」という矛盾した事実を並べることで、具体的な違和感から続きが気になる作りになっている。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://at-rain.com/archives/3374",
+          "https://irohani.yokochou.com/handel.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "出来事主役・矛盾提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ法律家が音楽の母になったのか",
+        "support_text": "ヘンデルの転身",
+        "rank": 2,
+        "recommendation_reason": "問い型として機能するが、Bほど具体的な引っ掛かりがなく次点とした。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://seven-knives.online/handel1/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "ドイツ・ハレで、外科医の息子として生まれたゲオルク・フリードリヒ・ヘンデルは、父の強い意向により法律家を志すことになった。",
+      "幼いヘンデルは父に隠れて鍵盤楽器を練習しており、その才能を見抜いた貴族の勧めで、正式に音楽の手ほどきを受けることが許された。",
+      "しかし1702年、父の遺志どおりハレ大学法学部に入学したものの、同じ年にはもう大聖堂オルガニストの職にも就いてしまった。",
+      "父の死後まもなくヘンデルは法律家への道を断念し、ハンブルクの歌劇場でヴァイオリニストとして音楽家人生を本格的に歩み始めた。"
+    ],
+    "fb_caption": "ヘンデルは、本来どんな職業に就くはずだったでしょうか。実は医師の父の意向で法律家を志し、ハレ大学法学部に進学していました🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "ig_caption": "ヘンデルは、本来どんな職業に就くはずだったでしょうか。実は医師の父の意向で法律家を志し、ハレ大学法学部に進学していました🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "ヘンデルは、本来どんな職業に就くはずだったでしょうか。実は医師の父の意向で法律家を志し、ハレ大学法学部に進学していました🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nヘンデルの逆転人生を描いた動画も、あわせてご覧ください。\nhttps://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "youtube_link": "https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "出来事主役・矛盾提示型",
+    "caption_style": "question"
+  }
+]
