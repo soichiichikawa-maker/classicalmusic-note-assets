@@ -1,0 +1,327 @@
+[
+  {
+    "composer": "エルガー",
+    "event_summary": "1910年11月10日、ロンドンのクイーンズホールでエルガーのヴァイオリン協奏曲 ロ短調 作品61が初演された。名手フリッツ・クライスラーの依頼で書かれ、エルガー自身の指揮とクライスラーの独奏により大成功を収めた。楽譜の扉には『ここに…の魂が眠る』という謎めいたスペイン語の献辞が記され、誰を指すのかは今も特定されていない。",
+    "sources": [
+      "https://www.alfred.com/violin-concerto-in-b-minor-op-61/p/36-A589302/",
+      "https://sofiaphilharmonic.com/en/works/edward-elgar-violin-concerto-in-b-minor-op-61",
+      "https://www.bso.org/works/elgar-violin-concerto",
+      "https://en.wikipedia.org/wiki/Violin_Concerto_(Elgar)",
+      "https://www.udiscovermusic.jp/classical-features/classical-features-elgar-violin-concerto"
+    ],
+    "hook_copy": "献辞の「5つの点」、正体は?\nエルガーの協奏曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "エルガー、協奏曲に残した謎の献辞",
+        "support_text": "1910.11.10 ロンドンで初演",
+        "rank": 2,
+        "recommendation_reason": "作曲家名を主役に置き、肖像とセットで意外性のある「謎」要素を伝えられる。ただし具体的な引きの強さではC案にやや劣る。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.udiscovermusic.jp/classical-features/classical-features-elgar-violin-concerto",
+          "https://en.wikipedia.org/wiki/Violin_Concerto_(Elgar)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "名前主体＋謎めいた献辞を提示する型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "1910年11月10日、協奏曲ロ短調初演",
+        "support_text": "エルガー最後の人気作",
+        "rank": 3,
+        "recommendation_reason": "日付一致を直球で伝えられるが、情報量が多く初見での引きはやや弱い。数合わせではなく事実提示として妥当な第3案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.bso.org/works/elgar-violin-concerto",
+          "https://sofiaphilharmonic.com/en/works/edward-elgar-violin-concerto-in-b-minor-op-61"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "日付＋曲名で事実を直球に伝える型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "献辞の「5つの点」、正体は?",
+        "support_text": "エルガーの協奏曲",
+        "rank": 1,
+        "recommendation_reason": "具体的な謎（5つの点）を疑問形で提示し、問いかけ型の冒頭とも相性が良い。初見でも何の話か分かりつつ、クリックせずとも手が止まる具体性がある。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.udiscovermusic.jp/classical-features/classical-features-elgar-violin-concerto",
+          "https://en.wikipedia.org/wiki/Violin_Concerto_(Elgar)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "疑問形で具体的な謎を投げかける型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "1909年、名ヴァイオリニストのフリッツ・クライスラーの依頼で、作曲家エドワード・エルガーはヴァイオリン協奏曲の作曲に取り掛かった。",
+      "楽譜の表紙には、スペイン語で『ここに…の魂が眠る』と記され、名前の代わりに点が5つ置かれていた。誰を指すのかエルガーは生涯語らなかった。",
+      "今日11月10日は、1910年にこの協奏曲がロンドンで初演された日。エルガー自身の指揮とクライスラーの独奏で、熱狂的な成功を収めた。",
+      "それでも『5つの点』が指す人物は今も特定されておらず、エルガー研究者たちの間で長く語り継がれる音楽史最大の謎の一つとなっている。"
+    ],
+    "fb_caption": "エルガーが楽譜に残した『5つの点』の献辞、その意味をご存知ですか？今日11月10日は、1910年にヴァイオリン協奏曲 ロ短調が初演された日。クライスラーの依頼で生まれたこの曲は、今も解けない謎を秘めています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "エルガーが楽譜に残した『5つの点』の献辞、その意味をご存知ですか？今日11月10日は、1910年にヴァイオリン協奏曲 ロ短調が初演された日。クライスラーの依頼で生まれたこの曲は、今も解けない謎を秘めています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "エルガーが楽譜に残した『5つの点』の献辞、その意味をご存知ですか？今日11月10日は、1910年にヴァイオリン協奏曲 ロ短調が初演された日。クライスラーの依頼で生まれたこの曲は、今も解けない謎を秘めています🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nエルガーの作品に込められた謎は、今も音楽ファンの想像をかき立てています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "premiere",
+    "hook_pattern": "疑問形で具体的な謎を投げかける型",
+    "caption_style": "question"
+  },
+  {
+    "composer": "ドヴォルザーク",
+    "event_summary": "20代のドヴォルザークは、チェルマーク家でピアノを教えながら姉娘ヨゼフィーナに恋をしプロポーズしたが、断られてしまう。その後、妹アンナと結ばれて生涯の伴侶となり、9人の子をもうけた。晩年、ヨゼフィーナの訃報に接した際には、彼女が愛した歌曲の旋律をチェロ協奏曲の終楽章にそっと書き加えている。",
+    "sources": [
+      "https://bushoojapan.com/world/musician/2019/09/08/83676",
+      "https://yukiko3916.livedoor.blog/archives/9597116.html",
+      "https://www.alpacablog.jp/entry/dvorak-vc-concerto",
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%88%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%83%AB_(%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF)",
+      "https://col21c.com/%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF/"
+    ],
+    "hook_copy": "ドヴォルザーク、姉への恋破れる\n結ばれたのは妹アンナ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ドヴォルザーク、姉への恋破れる",
+        "support_text": "結ばれたのは妹アンナ",
+        "rank": 1,
+        "recommendation_reason": "名前と感情の転換（姉への失恋→妹との結婚）を一目で示せる。意外性のある具体的な結末まで見せており、クリックせずとも物語の芯が伝わる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://yukiko3916.livedoor.blog/archives/9597116.html",
+          "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%88%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%83%AB_(%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "名前主体＋感情の転換（失恋→結婚）を提示する型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.42,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "失恋から妹との結婚へ",
+        "support_text": "ドヴォルザークの実話",
+        "rank": 3,
+        "recommendation_reason": "出来事を簡潔に伝えられるが、固有名詞が少なく誰の話か分かりにくい。事実提示としては妥当だが引きはやや弱い第3案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://bushoojapan.com/world/musician/2019/09/08/83676"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "出来事主体で対比を直球に伝える型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "失恋の旋律、妹との絆に",
+        "support_text": "ドヴォルザークの恋物語",
+        "rank": 2,
+        "recommendation_reason": "名曲への旋律の継承という音楽的な仕掛けを示唆でき、音楽好きの関心を引く。ただし『旋律』が何を指すか初見ではやや抽象的。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.alpacablog.jp/entry/dvorak-vc-concerto"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "音楽要素と絡めた示唆型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "20代のドヴォルザークは、裕福なチェルマーク家でピアノ教師を務めながら、姉娘ヨゼフィーナ・チェルマーコヴァーに恋心を抱いた。",
+      "彼は勇気を出してプロポーズしたが、断られてしまう。やがて彼女の妹アンナ・チェルマーコヴァーと心を通わせ、二人は結婚した。",
+      "貧しい新婚生活を二人で支え合いながら、ドヴォルザークは交響曲第9番『新世界より』など数々の傑作を生み出し、やがて世界的な作曲家となった。",
+      "晩年、ヨゼフィーナの訃報に接したドヴォルザークは、完成済みのチェロ協奏曲の終楽章に、彼女が愛した歌曲の旋律をそっと書き加えた。"
+    ],
+    "fb_caption": "19世紀半ば、プラハ近郊のチェルマーク家。住み込みのピアノ教師だった青年ドヴォルザークは、教え子の姉ヨゼフィーナに恋をしていました。この恋の記憶は、後年の名曲にひそかに刻まれることになります🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "19世紀半ば、プラハ近郊のチェルマーク家。住み込みのピアノ教師だった青年ドヴォルザークは、教え子の姉ヨゼフィーナに恋をしていました。この恋の記憶は、後年の名曲にひそかに刻まれることになります🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "19世紀半ば、プラハ近郊のチェルマーク家。住み込みのピアノ教師だった青年ドヴォルザークは、教え子の姉ヨゼフィーナに恋をしていました。この恋の記憶は、後年の名曲にひそかに刻まれることになります🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nドヴォルザークの数々の名曲には、彼自身の人生が静かに息づいています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "love_family",
+    "hook_pattern": "名前主体＋感情の転換（失恋→結婚）を提示する型",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "スメタナ",
+    "event_summary": "1866年5月30日、スメタナのオペラ『売られた花嫁』がプラハの仮劇場で初演されたが、客席はまばらで反応も冷淡だった。スメタナはあきらめず4年かけて改訂を重ね、1870年の決定稿で評価は一変する。生前の1882年には第100回記念公演が行われるほどの人気作となり、今日ではチェコ国民オペラの代表作とされている。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A3%B2%E3%82%89%E3%82%8C%E3%81%9F%E8%8A%B1%E5%AB%81",
+      "https://www.chopin.co.jp/media/opera217/a2235",
+      "https://tsvocalschool.com/classic/prodana-nevesta/"
+    ],
+    "hook_copy": "不入りの初演、4年後に大成功\nスメタナ「売られた花嫁」",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "スメタナ、初演の夜は閑散だった",
+        "support_text": "オペラ「売られた花嫁」",
+        "rank": 3,
+        "recommendation_reason": "名前と作品名を併記して誰の話か明確だが、結末の意外性までは見せておらず引きがやや弱い第3案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://jmedia.wiki/%25E3%2580%258E%25E5%25A3%25B2%25E3%2582%2589%25E3%2582%258C%25E3%2581%259F%25E8%258A%25B1%25E5%25AB%2581%25E3%2580%258F%25E3%2581%25A7%25E6%259C%2580%25E3%2582%2582%25E3%2582%2588%25E3%2581%258F%25E7%259F%25A5%25E3%2582%2589%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%2582/The_Bartered_Bride"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "名前主体＋情景描写（閑散）を提示する型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "不入りの初演、4年後に大成功",
+        "support_text": "スメタナ「売られた花嫁」",
+        "rank": 2,
+        "recommendation_reason": "『不入り→4年後に大成功』という数字つきの対比で結末まで提示し、初見でも何の話か分かりつつ具体的な一点で手が止まる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E5%A3%B2%E3%82%89%E3%82%8C%E3%81%9F%E8%8A%B1%E5%AB%81",
+          "https://www.chopin.co.jp/media/opera217/a2235"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "出来事主体＋数字対比で事実を伝える型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "酷評の曲が、なぜ国民劇に?",
+        "support_text": "スメタナの売られた花嫁",
+        "rank": 1,
+        "recommendation_reason": "疑問形で意外性を投げかけ、場面型キャプションとの相乗効果も期待できる。ただしB案より結末の具体性でやや劣る。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://tsvocalschool.com/classic/prodana-nevesta/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "疑問形で意外性を投げかける型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.42,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1866年5月30日、プラハの仮劇場で、スメタナがチェコ国民オペラを目指し書き上げた新作『売られた花嫁』が初演の日を迎えた。",
+      "だが初演の夜、プラハの客席はまばらで、観客の反応も冷ややかだった。興行収入は制作費すら賄えず、散々な船出となってしまった。",
+      "スメタナはそれでもあきらめず、その後4年をかけて台詞や楽曲を粘り強く書き直し続け、ついに1870年に決定稿を完成させた。",
+      "スメタナ存命中に改訂版は人気に火が付き、1882年には第100回記念公演を達成。今やチェコ国民オペラの代表作として愛され続けている。"
+    ],
+    "fb_caption": "1866年5月30日、プラハの仮劇場。スメタナの新作オペラ『売られた花嫁』の初演を迎えた客席は、驚くほどまばらでした。この冷ややかな船出から、チェコを代表する国民オペラへと変わるまでには、長い改訂の道のりがありました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1866年5月30日、プラハの仮劇場。スメタナの新作オペラ『売られた花嫁』の初演を迎えた客席は、驚くほどまばらでした。この冷ややかな船出から、チェコを代表する国民オペラへと変わるまでには、長い改訂の道のりがありました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1866年5月30日、プラハの仮劇場。スメタナの新作オペラ『売られた花嫁』の初演を迎えた客席は、驚くほどまばらでした。この冷ややかな船出から、チェコを代表する国民オペラへと変わるまでには、長い改訂の道のりがありました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n『売られた花嫁』の序曲は、今も世界中のオーケストラで愛奏されています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "premiere",
+    "hook_pattern": "出来事主体＋数字対比で事実を伝える型",
+    "caption_style": "scene"
+  }
+]
