@@ -1,0 +1,52 @@
+{
+  "composer": "ベートーヴェン",
+  "event_summary": "1800年、ウィーンの貴族の邸宅で人気ピアニストのダニエル・シュタイベルトがベートーヴェンに演奏対決を挑んだ。シュタイベルトは事前に用意した曲を即興と称して披露したが、ベートーヴェンはその楽譜をわざと逆さまに置き、チェロパートの一節だけで圧巻の即興を展開した。屈辱を受けたシュタイベルトは演奏の途中で会場を去り、以後ベートーヴェンが同席する場には二度と現れなかったと伝えられる。",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%99%E3%83%AB%E3%83%88",
+    "https://ontomo-mag.com/article/column/weeklybeethoven-20200626/",
+    "https://blog.goo.ne.jp/andante-dandanto/e/2a6f09993b4be3dbb7b2f24f3e0fd18c"
+  ],
+  "hook_copy": "[G]ベートーヴェン[/G]が\n[R]逆さの楽譜[/R]で\n挑戦者を黙らせた即興",
+  "hook_options": [],
+  "hook_selection": {
+    "candidate_id": "custom",
+    "proposal_revision": "aaf1cf93dc753233",
+    "selected_by": "soichiichikawa-maker",
+    "approved_at": "2026-11-09T09:55:02.251299+00:00",
+    "text": "[G]ベートーヴェン[/G]が\n[R]逆さの楽譜[/R]で\n挑戦者を黙らせた即興"
+  },
+  "portrait_prompt": "Illustrated cinematic portrait of Ludwig van Beethoven, based on the classic reference portrait: a man in his later years with a mass of wavy, tousled silver-grey hair swept back from a high forehead, thick and voluminous on the sides. Deep-set dark eyes beneath a heavily furrowed brow, giving an intense, brooding, stern expression. Straight strong nose, firm downturned mouth, ruddy weathered complexion, clean-shaven face with pronounced jawline. Wearing a dark, plain high-collared coat with a crisp white cravat and collar visible at the neck, no ornamentation. Bust-to-shoulder composition, three-quarter view facing slightly toward the viewer. Painterly illustrated style, rich oil-painting rendering, not photorealistic. Background a soft, near-solid dark tone with subtle warm ambient glow, no vignette, no border, no frame, artwork extending fully to all four edges of the canvas with no empty margin. No text, no lettering.",
+  "middle_slides": [
+    {
+      "text": "1800年、ウィーンの貴族の邸宅で、人気ピアニストのダニエル・シュタイベルトが新進気鋭のベートーヴェンに演奏対決を挑んだ。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, of an elegant candlelit salon in an aristocratic Vienna mansion around 1800. A young Ludwig van Beethoven with wavy grey-streaked hair swept back, deep-set dark eyes, a furrowed brow and intense stern expression, dressed in a plain dark coat with a white cravat, stands near a grand piano facing forward, composed and watchful as a rival pianist across the room gestures challengingly toward him. Richly dressed noble guests in the background observe with anticipation. Warm golden candlelight, dramatic chiaroscuro, no text, no lettering."
+    },
+    {
+      "text": "シュタイベルトは得意のトレモロ奏法を存分に生かし、事前に用意しておいた曲を、まるで即興のように弾いて聴衆を沸かせていた。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, showing a grand salon where a rival pianist plays a piano with dazzling tremolo technique, hands blurred in motion, surrounded by an enthralled aristocratic audience leaning in with delight. To the side, Ludwig van Beethoven, with his distinctive wavy grey-streaked hair swept back, deep-set eyes and furrowed stern brow, stands with arms crossed in a plain dark coat and white cravat, observing with a skeptical, unimpressed three-quarter-facing expression, his body and face both oriented toward the scene. Warm candlelit interior, rich dramatic lighting, no text, no lettering."
+    },
+    {
+      "text": "すると、ベートーヴェンはシュタイベルトの新作の楽譜をわざと逆さまに置き、そのチェロパートの主題だけを使って即興演奏を始めた。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, depicting the dramatic climax at a grand piano in a candlelit Vienna salon. Ludwig van Beethoven, recognizable by his wavy grey-streaked hair swept back, deep-set dark eyes and intensely furrowed brow, sits at the piano facing forward toward the keys in profile-three-quarter view, hands striking the keys with passionate concentration. A sheet of music rests turned upside down on the stand beside him. Warm dramatic spotlight-like candlelight illuminates his focused, triumphant expression, with awed onlookers faintly visible in the shadowed background. No text, no lettering."
+    },
+    {
+      "text": "屈辱を受けたシュタイベルトは演奏の途中で会場を去り、その後ベートーヴェンが同席する場には二度と現れなかったと伝えられている。",
+      "image_prompt": "Oil-painting style illustration, painterly and not photorealistic, set in a grand aristocratic salon. In the background, a rival pianist is shown from behind, face not visible, striding away through a doorway in a posture of humiliation and retreat. In the foreground, Ludwig van Beethoven, with his distinctive wavy grey-streaked hair swept back, deep-set eyes and furrowed stern brow, remains seated at the grand piano facing forward, his expression calm and quietly triumphant, dressed in a plain dark coat with a white cravat. Candlelit warm tones, aristocratic onlookers reacting with astonishment in the background, no text, no lettering."
+    }
+  ],
+  "is_date_match": false,
+  "fb_caption": "挑んだピアニストが、演奏の途中で会場をあとにした——。1800年のウィーン、人気ピアニストのダニエル・シュタイベルトがベートーヴェンに仕掛けた即興対決は、まさかの結末を迎えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=iceY8eSOg5I",
+  "ig_caption": "挑んだピアニストが、演奏の途中で会場をあとにした——。1800年のウィーン、人気ピアニストのダニエル・シュタイベルトがベートーヴェンに仕掛けた即興対決は、まさかの結末を迎えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+  "youtube_caption": "挑んだピアニストが、演奏の途中で会場をあとにした——。1800年のウィーン、人気ピアニストのダニエル・シュタイベルトがベートーヴェンに仕掛けた即興対決は、まさかの結末を迎えた。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nベートーヴェンの生涯を追った動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=iceY8eSOg5I",
+  "youtube_link": "https://www.youtube.com/watch?v=iceY8eSOg5I",
+  "today_date_label": null,
+  "subject_type": "composer",
+  "theme": "conflict",
+  "hook_pattern": null,
+  "caption_style": "conclusion_first",
+  "portrait_reference_image_url": "https://raw.githubusercontent.com/soichiichikawa-maker/classicalmusic-note-assets/main/reference/beethoven_channel_face.png",
+  "hook_source": "edited",
+  "hook_original": "逆さの楽譜で、挑戦者を黙らせた即興\nベートーヴェン、1800年の一夜",
+  "hook_edit_ratio": 0.418,
+  "hook_markup_by": "human"
+}
