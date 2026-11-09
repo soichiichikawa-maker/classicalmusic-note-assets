@@ -15,7 +15,7 @@
     "approved_at": "2026-11-09T09:55:02.251299+00:00",
     "text": "[G]ベートーヴェン[/G]が\n[R]逆さの楽譜[/R]で\n挑戦者を黙らせた即興"
   },
-  "portrait_prompt": "Illustrated cinematic portrait of Ludwig van Beethoven, based on the classic reference portrait: a man in his later years with a mass of wavy, tousled silver-grey hair swept back from a high forehead, thick and voluminous on the sides. Deep-set dark eyes beneath a heavily furrowed brow, giving an intense, brooding, stern expression. Straight strong nose, firm downturned mouth, ruddy weathered complexion, clean-shaven face with pronounced jawline. Wearing a dark, plain high-collared coat with a crisp white cravat and collar visible at the neck, no ornamentation. Bust-to-shoulder composition, three-quarter view facing slightly toward the viewer. Painterly illustrated style, rich oil-painting rendering, not photorealistic. Background a soft, near-solid dark tone with subtle warm ambient glow, no vignette, no border, no frame, artwork extending fully to all four edges of the canvas with no empty margin. No text, no lettering.",
+  "portrait_prompt": "Illustrated cinematic portrait of Ludwig van Beethoven at age 29 in the year 1800, based on the reference portrait: a young man with a mass of dark brown, nearly black, wavy, tousled hair swept back from a high forehead, no grey hair. Deep-set dark eyes, intense, stern, determined expression with a slight frown, straight strong nose, firm mouth, clean-shaven, strong jawline. Wearing a dark, plain high-collared coat with a dark cravat and white collar visible at the neck, no ornamentation. Bust-to-shoulder composition, three-quarter view facing slightly toward the viewer. Painterly illustrated style, rich oil-painting rendering, not photorealistic. Background a soft, near-solid dark tone with subtle warm ambient glow, no vignette, no border, no frame, artwork extending fully to all four edges of the canvas with no empty margin. No text, no lettering.",
   "middle_slides": [
     {
       "text": "1800年、ウィーンの貴族の邸宅で、人気ピアニストのダニエル・シュタイベルトが新進気鋭のベートーヴェンに演奏対決を挑んだ。",
@@ -44,7 +44,7 @@
   "theme": "conflict",
   "hook_pattern": null,
   "caption_style": "conclusion_first",
-  "portrait_reference_image_url": "https://raw.githubusercontent.com/soichiichikawa-maker/classicalmusic-note-assets/main/reference/beethoven_channel_face.png",
+  "portrait_reference_image_url": "https://raw.githubusercontent.com/soichiichikawa-maker/classicalmusic-note-assets/main/reference/beethoven_young_channel_face.png",
   "hook_source": "edited",
   "hook_original": "逆さの楽譜で、挑戦者を黙らせた即興\nベートーヴェン、1800年の一夜",
   "hook_edit_ratio": 0.418,
