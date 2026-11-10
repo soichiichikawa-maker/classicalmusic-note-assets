@@ -1,0 +1,313 @@
+[
+  {
+    "composer": "バッハ",
+    "event_summary": "18歳のバッハは1703年、ワイマール公の弟ヨハン・エルンストの宮廷楽団に雇われた。肩書は「ラカイ(従者)」兼ヴァイオリン奏者で、まだ鍵盤の才能は知られていなかった。数ヶ月後にアルンシュタットの教会オルガニストへ転身し、ここから鍵盤奏者としての道を歩み始める。",
+    "sources": [
+      "https://bachhaus.music.coocan.jp/reise/weimar02.html",
+      "https://rekishi-to-monogatari.net/jsbach/",
+      "https://seven-knives.online/bach1/"
+    ],
+    "hook_copy": "バッハの初仕事は、まさかの従者\nワイマール宮廷のヴァイオリン奏者",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "バッハの初仕事は、まさかの従者",
+        "support_text": "ワイマール宮廷のヴァイオリン奏者",
+        "rank": 1,
+        "recommendation_reason": "「音楽の父」という完成されたイメージと「従者」という肩書のギャップが一目で伝わり、名前と意外性を両立できる。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://bachhaus.music.coocan.jp/reise/weimar02.html",
+          "https://rekishi-to-monogatari.net/jsbach/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "断定文(名前主役・意外性強調)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "18歳のバッハ、肩書は「従者」",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "年齢を添えることで若き日の経歴という具体性は増すが、Aより情報量が少なくインパクトがやや弱い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://seven-knives.online/bach1/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "名詞句(名前主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "オルガンの前に弾いていた楽器とは",
+        "support_text": "バッハ、18歳の意外な肩書",
+        "rank": 2,
+        "recommendation_reason": "問いかけで興味を引けるが、名前が見出しに出ない分、初見での主語の伝わりがA・Bより弱い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://bachhaus.music.coocan.jp/reise/weimar02.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "問いかけ型(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1703年、18歳のヨハン・ゼバスティアン・バッハはワイマール公の弟ヨハン・エルンストの宮廷楽団に雇われた。肩書は「ラカイ」、つまり従者だった。",
+      "当時のバッハはまだ無名の青年で、鍵盤の才能より弦楽器奏者としての腕を買われていた。仕事は演奏だけでなく、楽団の雑用もこなす立場だった。",
+      "数ヶ月後、バッハはこの職を離れ、アルンシュタットの教会オルガニストに転身。ここから鍵盤奏者としての道が本格的に始まった。",
+      "のちに「音楽の父」と呼ばれる男の音楽人生は、オルガンではなく、ワイマールで従者として弾いたヴァイオリンから静かに始まっていた。"
+    ],
+    "fb_caption": "バッハの音楽人生、最初の肩書きは「ヴァイオリン奏者」ならぬ従者(ラカイ)でした。18歳の若者はワイマール宮廷でその職務からスタートし、数ヶ月後にアルンシュタットの教会オルガニストとして才能を開花させていきます🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=0Z8EYGfikOM",
+    "ig_caption": "バッハの音楽人生、最初の肩書きは「ヴァイオリン奏者」ならぬ従者(ラカイ)でした。18歳の若者はワイマール宮廷でその職務からスタートし、数ヶ月後にアルンシュタットの教会オルガニストとして才能を開花させていきます🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "バッハの音楽人生、最初の肩書きは「ヴァイオリン奏者」ならぬ従者(ラカイ)でした。18歳の若者はワイマール宮廷でその職務からスタートし、数ヶ月後にアルンシュタットの教会オルガニストとして才能を開花させていきます🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n当時無名だった青年バッハの素顔に迫る動画も、ぜひご覧ください。\nhttps://www.youtube.com/watch?v=0Z8EYGfikOM",
+    "youtube_link": "https://www.youtube.com/watch?v=0Z8EYGfikOM",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "断定文(名前主役・意外性強調)",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "プッチーニ",
+    "event_summary": "1904年2月17日、プッチーニの新作オペラ『蝶々夫人』はミラノのスカラ座で初演されたが、客席からヤジと怒号が飛び交う大失敗に終わった。プッチーニは直ちに楽譜を見直し、冗長だった第2幕を分割するなど大胆な改訂を行った。わずか3カ月後の5月28日、ブレシアでの再演は満場の喝采を浴び、以後世界屈指の人気オペラとなった。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madama_Butterfly",
+      "https://www.teatrogrande.it/en/le-vicende-della-butterfly/",
+      "https://theopera101.com/operas/butterfly/"
+    ],
+    "hook_copy": "なぜブーイングは拍手に変わったのか\nプッチーニ『蝶々夫人』",
+    "hook_options": [
+      {
+        "candidate_id": "C",
+        "headline": "なぜブーイングは拍手に変わったのか",
+        "support_text": "プッチーニ『蝶々夫人』",
+        "rank": 1,
+        "recommendation_reason": "割り当てられた『問いかけから入る』形式に最も忠実。読者の疑問を直接刺激し、作品名も自然に含められる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Madama_Butterfly"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "問いかけ型＋出来事主体",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "92日で地獄から天国へ",
+        "support_text": "プッチーニ『蝶々夫人』初演",
+        "rank": 2,
+        "recommendation_reason": "日数という具体的な数字で落差を強調する案。インパクトはあるが問いかけ形式ではない点で次点。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.teatrogrande.it/en/le-vicende-della-butterfly/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "数字訴求＋落差表現",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "A",
+        "headline": "ブーイングを浴びた傑作",
+        "support_text": "プッチーニ、1904年の屈辱",
+        "rank": 3,
+        "recommendation_reason": "名前＋年号を補足に置いた名前主役案。情報は手堅いが他2案に比べ意外性がやや弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://theopera101.com/operas/butterfly/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "名前主役＋年号訴求",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1904年2月17日、ミラノのスカラ座で、プッチーニの新作『蝶々夫人』がついに初演の幕を開けた。誰もが成功を確信していた。",
+      "だが幕が上がった瞬間からヤジと怒号が客席に飛び交い、拍手はほとんど起きないまま、初演は歴史的な大失敗に終わってしまった。",
+      "プッチーニは落胆しつつも即座に楽譜を見直し、冗長だった第2幕を2幕に分割するなど大胆な改訂をわずか三カ月間で成し遂げた。",
+      "3カ月後の5月28日、ブレシアでの再演は満場の拍手喝采を浴び、以後この作品は世界屈指の人気オペラとして愛され続けている。"
+    ],
+    "fb_caption": "なぜ、酷評された初演からわずか3カ月で名作に変わったのでしょうか。1904年2月、プッチーニの新作『蝶々夫人』はミラノのスカラ座でヤジと怒号に包まれる大失敗に終わりました。しかし台本と楽譜を見直した末、同年5月の再演は満場の喝采を浴び、今では世界有数の人気オペラとして愛されています。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=_PCbzZsl7UI",
+    "ig_caption": "なぜ、酷評された初演からわずか3カ月で名作に変わったのでしょうか。1904年2月、プッチーニの新作『蝶々夫人』はミラノのスカラ座でヤジと怒号に包まれる大失敗に終わりました。しかし台本と楽譜を見直した末、同年5月の再演は満場の喝采を浴び、今では世界有数の人気オペラとして愛されています。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜ、酷評された初演からわずか3カ月で名作に変わったのでしょうか。1904年2月、プッチーニの新作『蝶々夫人』はミラノのスカラ座でヤジと怒号に包まれる大失敗に終わりました。しかし台本と楽譜を見直した末、同年5月の再演は満場の喝采を浴び、今では世界有数の人気オペラとして愛されています。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nこの『ブーイングから喝采へ』の一夜は、チャンネルの動画でも取り上げています。\nhttps://www.youtube.com/watch?v=_PCbzZsl7UI",
+    "youtube_link": "https://www.youtube.com/watch?v=_PCbzZsl7UI",
+    "subject_type": "composer",
+    "theme": "premiere",
+    "hook_pattern": "問いかけ型＋出来事主体",
+    "caption_style": "question"
+  },
+  {
+    "composer": "クラリネット",
+    "event_summary": "1924年、ジョージ・ガーシュインは『ラプソディ・イン・ブルー』の冒頭を17音の上昇音階として作曲していたが、初演直前のリハーサルでクラリネット奏者ロス・ゴーマンが冗談でそれを滑らかなグリッサンドにして吹いてみせた。ガーシュインはその場でこの即興を気に入り採用を決め、今日ではこのグリッサンドが曲を象徴する名フレーズとなっている。",
+    "sources": [
+      "https://www.worldfolksong.com/classical/gershwin/rhapsody-in-blue.html",
+      "https://ontomo-mag.com/article/column/feature-may-rhapsodyinblue/",
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%97%E3%82%BD%E3%83%87%E3%82%A3%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC"
+    ],
+    "hook_copy": "たった一度の悪ふざけが伝説に\nクラリネットの名フレーズ誕生",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "たった一度の悪ふざけが伝説に",
+        "support_text": "クラリネットの名フレーズ誕生",
+        "rank": 3,
+        "recommendation_reason": "割り当てられた『結末から入る』形式に最も忠実。意外な結末を先に提示し、楽器名も補足に自然に含められる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%97%E3%82%BD%E3%83%87%E3%82%A3%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC"
+        ],
+        "fact_status": "verified",
+        "subject_label": "クラリネット",
+        "hook_pattern": "結末提示型＋出来事主体",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "楽譜になかった滑る音",
+        "support_text": "クラリネットが生んだ名場面",
+        "rank": 1,
+        "recommendation_reason": "『楽譜にない』という具体の一点に絞った案。Aよりやや説明寄りで次点とした。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.worldfolksong.com/classical/gershwin/rhapsody-in-blue.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "クラリネット",
+        "hook_pattern": "出来事主体＋欠落訴求",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜあの音は滑っているのか",
+        "support_text": "クラリネットの即興が生んだ奇跡",
+        "rank": 2,
+        "recommendation_reason": "問いかけ型。割り当て形式（結末から入る）とは異なるため参考比較として第3案に位置づけた。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/feature-may-rhapsodyinblue/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "クラリネット",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1924年、ジョージ・ガーシュインは管弦楽曲『ラプソディ・イン・ブルー』の譜面に、冒頭を17音の上昇音階として書いていた。",
+      "初演直前のリハーサルで、クラリネット奏者ロス・ゴーマンが冗談半分に、その音階を滑らかなグリッサンドに変えて吹いてみせた。",
+      "ガーシュインは驚きとともにその即興を気に入り、本番でも書き直した楽譜どおりそのままグリッサンドを使うことを即座に決めた。",
+      "こうして生まれた冒頭のたった一音は、今やベートーヴェン『運命』の出だしに並ぶほど有名なクラリネットの名フレーズとなっている。"
+    ],
+    "fb_caption": "たった数秒の悪ふざけが、クラシック史に残る名フレーズになりました。ジョージ・ガーシュインの『ラプソディ・イン・ブルー』、あの滑らかな冒頭のクラリネットの音階は、本来は書かれていなかったものです。リハーサル中に奏者が冗談で滑らせて吹いたところ、作曲家がその場で気に入り採用を決めたのが始まりでした。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "たった数秒の悪ふざけが、クラシック史に残る名フレーズになりました。ジョージ・ガーシュインの『ラプソディ・イン・ブルー』、あの滑らかな冒頭のクラリネットの音階は、本来は書かれていなかったものです。リハーサル中に奏者が冗談で滑らせて吹いたところ、作曲家がその場で気に入り採用を決めたのが始まりでした。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "たった数秒の悪ふざけが、クラシック史に残る名フレーズになりました。ジョージ・ガーシュインの『ラプソディ・イン・ブルー』、あの滑らかな冒頭のクラリネットの音階は、本来は書かれていなかったものです。リハーサル中に奏者が冗談で滑らせて吹いたところ、作曲家がその場で気に入り採用を決めたのが始まりでした。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nほんの数秒の遊び心が、時代を超えて愛される名フレーズを生みました。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "結末提示型＋出来事主体",
+    "caption_style": "conclusion_first"
+  }
+]
