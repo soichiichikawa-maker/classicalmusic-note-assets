@@ -1,0 +1,306 @@
+[
+  {
+    "composer": "バッハ",
+    "event_summary": "バッハが管弦楽組曲第3番に書いた「エール」は、本来ヴァイオリンの特定の弦のために作られた曲ではなかった。19世紀にヴァイオリニストのアウグスト・ヴィルヘルミが移調編曲し、G線だけで演奏できるようにしたことで「G線上のアリア」という通称が生まれた。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A2",
+      "https://www.choge-blog.com/history/airofgstring/",
+      "https://www.classic-suganne.com/entry/2019/08/18/185711"
+    ],
+    "hook_copy": "G線上のアリア、名付け親はバッハではない",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "G線上のアリア、名付け親はバッハではない",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "通称にまつわる誤解を一瞬で崩す事実逆転型。曲を知っている人ほど驚きが大きく最も強いフック。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A2",
+          "https://www.choge-blog.com/history/airofgstring/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "事実逆転型(通称の誤解を正す)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "バッハの旋律を「G線」に閉じ込めた男",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "編曲者ヴィルヘルミを\"男\"として焦点化し人物ドラマを予感させる次点案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.classic-suganne.com/entry/2019/08/18/185711"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "人物主役型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ「G線上」？バッハの名曲に隠れた秘密",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "王道の疑問形で手堅いが、Aほどの意外性インパクトはない第3案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A2"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "question"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1730年ごろ、ライプツィヒでバッハが書いた管弦楽組曲第3番。その第2曲「エール」は、当時ただの静かな一曲に過ぎなかった。",
+      "1871年、ドイツのヴァイオリニスト、アウグスト・ヴィルヘルミがこの旋律をハ長調に移調し、ヴァイオリンの最低音・G線だけで弾けるよう編曲した。",
+      "こうして生まれた愛称が「G線上のアリア」。原曲の静かな旋律は、バッハ自身の意図を超えて、今や世界一有名なバッハ作品の一つになっている。"
+    ],
+    "fb_caption": "1730年頃、ライプツィヒ。バッハが管弦楽組曲第3番に書いた「エール」は、当時ただの静かな一曲にすぎなかった。140年後、ある名ヴァイオリニストの編曲によって、この旋律は世界的名曲「G線上のアリア」へと生まれ変わった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=3ZhJRZyvEc0",
+    "ig_caption": "1730年頃、ライプツィヒ。バッハが管弦楽組曲第3番に書いた「エール」は、当時ただの静かな一曲にすぎなかった。140年後、ある名ヴァイオリニストの編曲によって、この旋律は世界的名曲「G線上のアリア」へと生まれ変わった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1730年頃、ライプツィヒ。バッハが管弦楽組曲第3番に書いた「エール」は、当時ただの静かな一曲にすぎなかった。140年後、ある名ヴァイオリニストの編曲によって、この旋律は世界的名曲「G線上のアリア」へと生まれ変わった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽史の土台を築いたバッハの生涯をたどった動画もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=3ZhJRZyvEc0",
+    "youtube_link": "https://www.youtube.com/watch?v=3ZhJRZyvEc0",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "事実逆転型(通称の誤解を正す)",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ストラヴィンスキー",
+    "event_summary": "ストラヴィンスキーは1971年にニューヨークで没したが、遺言により遺体はヴェネツィアへ運ばれた。彼はかつての盟友セルゲイ・ディアギレフの墓のすぐそばに埋葬され、今も二人はヴェネツィアの墓地島サン・ミケーレで並んで眠っている。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sergei_Diaghilev",
+      "https://therestisnoise.com/at-the-graves-of-stravinsky-and-nono/",
+      "https://www.italyheaven.co.uk/veneto/venice/sanmichele/"
+    ],
+    "hook_copy": "作曲家の棺はゴンドラで運ばれた\nストラヴィンスキー",
+    "hook_options": [
+      {
+        "candidate_id": "C",
+        "headline": "作曲家の棺はゴンドラで運ばれた",
+        "support_text": "ストラヴィンスキー",
+        "rank": 1,
+        "recommendation_reason": "ゴンドラという具体的な情景を提示し、強い画を想起させる最有力案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://therestisnoise.com/at-the-graves-of-stravinsky-and-nono/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "情景提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "A",
+        "headline": "ストラヴィンスキーが選んだ\"隣人\"はディアギレフ",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "人物同士の関係性を軸にした名前主役型。落ち着いた驚きを提供する次点案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.italyheaven.co.uk/veneto/venice/sanmichele/",
+          "https://en.wikipedia.org/wiki/Sergei_Diaghilev"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "関係性提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ストラヴィンスキーはなぜヴェネツィアに眠るのか",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "王道の疑問形だが、結論への寄り道感がやや弱い第3案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://dyingtogetin.com/san-michele-venice-italy/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1971年4月6日、亡命先のニューヨークでイーゴリ・ストラヴィンスキーが88歳で生涯を終えた。晩年まで故郷ロシアには戻らなかった。",
+      "遺言により、彼の棺はヴェネツィアへ。1971年4月15日、ゴンドラに乗せられ、墓地の島サン・ミケーレへと静かに運ばれていった。",
+      "埋葬先は、盟友セルゲイ・ディアギレフの墓のすぐそば。生前からの約束どおり、2人は今もヴェネツィアの同じ墓地で並んで眠り続けている。"
+    ],
+    "fb_caption": "なぜロシア生まれのストラヴィンスキーは、故郷ではなくヴェネツィアに眠っているのでしょうか。1971年、彼の棺はゴンドラに乗せられ、かつての盟友ディアギレフが眠る墓地の島へと運ばれていきました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "なぜロシア生まれのストラヴィンスキーは、故郷ではなくヴェネツィアに眠っているのでしょうか。1971年、彼の棺はゴンドラに乗せられ、かつての盟友ディアギレフが眠る墓地の島へと運ばれていきました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜロシア生まれのストラヴィンスキーは、故郷ではなくヴェネツィアに眠っているのでしょうか。1971年、彼の棺はゴンドラに乗せられ、かつての盟友ディアギレフが眠る墓地の島へと運ばれていきました🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽史に刻まれた、ふたりの友情の物語でした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "情景提示型",
+    "caption_style": "question"
+  },
+  {
+    "composer": "メンデルスゾーン",
+    "event_summary": "ユダヤ系の家庭に生まれたメンデルスゾーンは、死後ナチス政権によって「退廃音楽」の代表格とされ、作品の公演を禁止された。1936年末にはライプツィヒの記念像が市長不在の隙に引き倒され、抗議した市長は翌年辞職に追い込まれた。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AB%E3%82%B9%E3%82%BE%E3%83%BC%E3%83%B3",
+      "https://www.choge-blog.com/history/mendelssohn/",
+      "https://naganoacademy.sakura.ne.jp/Leipzig/Leipzig_Page1.html"
+    ],
+    "hook_copy": "メンデルスゾーンの像、ナチスが一夜で壊した",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "メンデルスゾーンの像、ナチスが一夜で壊した",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "衝撃的事実を端的に提示し名前も明示する最有力案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AB%E3%82%B9%E3%82%BE%E3%83%BC%E3%83%B3"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "事実提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ユダヤ人作曲家として裁かれた男",
+        "support_text": "メンデルスゾーン",
+        "rank": 2,
+        "recommendation_reason": "迫害という普遍的テーマを端的に示す次点案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.hisour.com/data/degenerate_music/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "人物主役型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "なぜ市長は辞任したのか",
+        "support_text": "メンデルスゾーンの像をめぐって",
+        "rank": 3,
+        "recommendation_reason": "市長辞任という異色の切り口だが、背景説明が先に必要でやや弱い第3案。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://naganoacademy.sakura.ne.jp/Leipzig/Leipzig_Page1.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1809年、裕福なユダヤ系の家庭に生まれたフェリックス・メンデルスゾーンは、バッハの再評価にも貢献した大作曲家として名を残した。",
+      "だが死の86年後、ナチス政権はついに彼がユダヤ系であることを理由に、1933年、音楽の公演を全面的に禁止する指令を発令した。",
+      "1936年末、ライプツィヒのゲヴァントハウス前にあった彼の記念像は、市長不在の隙を突き、ナチス将校の命令で引き倒されてしまった。",
+      "帰国した市長カール・ゲルデラーは抗議し、壊れた像の再建を進めたものの、責任を取る形で翌年、市長職を辞任することになった。"
+    ],
+    "fb_caption": "なぜ、数々の名曲を残したメンデルスゾーンの銅像は、一夜にして引き倒されたのでしょうか。ユダヤ系であることを理由に音楽を禁じられた作曲家に、ナチス政権下で何が起きたのかをたどります🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "なぜ、数々の名曲を残したメンデルスゾーンの銅像は、一夜にして引き倒されたのでしょうか。ユダヤ系であることを理由に音楽を禁じられた作曲家に、ナチス政権下で何が起きたのかをたどります🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜ、数々の名曲を残したメンデルスゾーンの銅像は、一夜にして引き倒されたのでしょうか。ユダヤ系であることを理由に音楽を禁じられた作曲家に、ナチス政権下で何が起きたのかをたどります🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n時代に翻弄された作曲家の知られざる一面でした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "事実提示型",
+    "caption_style": "question"
+  }
+]
