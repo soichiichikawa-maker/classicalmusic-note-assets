@@ -1,0 +1,321 @@
+[
+  {
+    "composer": "ロッシーニ",
+    "event_summary": "1868年11月13日、ロッシーニはパリ近郊パッシーで直腸がん手術の合併症(丹毒)により76年の生涯を閉じた。葬儀には4000人以上が参列し、新聞は『演奏会のような空気だった』と伝えている。今日がちょうどその命日にあたる。",
+    "sources": [
+      "https://interlude.hk/classical-music-november-anniversaries-a-guide/",
+      "https://www.eno.org/people/gioachino-rossini/",
+      "https://www.aso.org/artists/detail/gioachino-rossini",
+      "https://www.akira-rossiniana.org/%E3%83%AD%E3%83%83%E3%82%B7%E3%83%BC%E3%83%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+      "https://www.thefamouspeople.com/profiles/gioachino-rossini-468.php"
+    ],
+    "hook_copy": "ロッシーニ、涙より拍手の別れ\n4000人の葬列",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "死んでも、まるで演奏会だった",
+        "support_text": "ロッシーニの葬儀",
+        "rank": 1,
+        "recommendation_reason": "意外な結末(festiveな葬儀)を先出しし、теマの『結末から入る』型に忠実。出来事そのものの意外性で惹く。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://interlude.hk/classical-music-november-anniversaries-a-guide/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ロッシーニ",
+        "hook_pattern": "結末提示→理由(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ロッシーニ、涙より拍手の別れ",
+        "support_text": "4000人の葬列",
+        "rank": 2,
+        "recommendation_reason": "名前+具体的な人数という2つのフックで止まりやすく、日付一致の訴求とも相性が良い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.eno.org/people/gioachino-rossini/",
+          "https://www.aso.org/artists/detail/gioachino-rossini"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ロッシーニ",
+        "hook_pattern": "名前主役+数字",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ葬儀は祝祭のようだったのか",
+        "support_text": "ロッシーニの死",
+        "rank": 3,
+        "recommendation_reason": "問いかけ型で続きを読ませる力はあるが、結末を先出しする指定テーマとはやや相性が弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://interlude.hk/classical-music-november-anniversaries-a-guide/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ロッシーニ",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "1868年11月13日、作曲家ジョアキーノ・ロッシーニはパリ郊外パッシーで76年の生涯を閉じた。今日はその命日にあたる。",
+      "晩年のロッシーニは若い頃からの性病由来の持病や躁うつ病に長年苦しみ、直腸がんの手術を受けたが感染症を併発し容体は悪化していった。",
+      "死去後に行われた葬儀には4000人を超える人々が参列し、パリのサント・トリニテ教会は著名歌手による追悼の歌声で満たされた。",
+      "しかし新聞各紙は、その空気を『葬儀というより演奏会のようだった』と評した。喜劇王の死は、涙でなく拍手に近い別れで締めくくられた。"
+    ],
+    "fb_caption": "今日11月13日はロッシーニの命日。1868年、パリ郊外で76年の生涯を閉じたその葬儀には4000人以上が集まり、新聞は『演奏会のような空気だった』と伝えた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "今日11月13日はロッシーニの命日。1868年、パリ郊外で76年の生涯を閉じたその葬儀には4000人以上が集まり、新聞は『演奏会のような空気だった』と伝えた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "今日11月13日はロッシーニの命日。1868年、パリ郊外で76年の生涯を閉じたその葬儀には4000人以上が集まり、新聞は『演奏会のような空気だった』と伝えた。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n美食家としても愛された、ロッシーニらしい幕引きでした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "名前主役+数字",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "シューベルト",
+    "event_summary": "1814年、17歳のシューベルトは兵役を逃れるため父が営む学校で助教師として働き始めた。本人は教職にあまり熱心ではなかったが、放課後に作曲へ没頭し数々の名歌曲を生み出した。1816年、友人ショーバーの勧めで教職を離れ、作曲家としての道を歩み始めた。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%99%E3%83%AB%E3%83%88",
+      "https://www.music-tel.com/ez2/c/comp2/s/Schubert.html",
+      "https://love-classical-musics.hatenablog.com/entry/2020/12/09/094344",
+      "https://gamethankyou.com/subculture/music/schubert-life/"
+    ],
+    "hook_copy": "シューベルト、17歳の教壇デビュー\n父の学校で助教師に",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "兵役逃れが生んだ、二重生活",
+        "support_text": "シューベルトの教師時代",
+        "rank": 1,
+        "recommendation_reason": "教師と作曲家という二重生活という出来事の意外性で惹く案。名前は補足側に配置。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%99%E3%83%AB%E3%83%88"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "出来事主役(二重生活)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "シューベルト、17歳の教壇デビュー",
+        "support_text": "父の学校で助教師に",
+        "rank": 3,
+        "recommendation_reason": "名前+年齢+意外な職業の組み合わせで、場面から入る指定テーマとも相性が良い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.music-tel.com/ez2/c/comp2/s/Schubert.html",
+          "https://love-classical-musics.hatenablog.com/entry/2020/12/09/094344"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "名前主役+年齢",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ天才は教師になったのか",
+        "support_text": "シューベルトの選択",
+        "rank": 2,
+        "recommendation_reason": "問いかけ型だが、答え(兵役逃れ)が1枚目で早期に明かされるため余韻が短い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%99%E3%83%AB%E3%83%88"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1814年秋、ウィーン郊外の教室。17歳のフランツ・シューベルトは兵役を避けるため、父の学校で教師として教壇に立っていた。",
+      "授業にはあまり熱が入らなかったが、放課後には作曲に没頭し、「糸を紡ぐグレートヒェン」などの名作歌曲をこの時期に生み出した。",
+      "1816年、法律を学ぶ友人ショーバーがシューベルトを訪ね、教師をやめて音楽に専念するよう勧めた。父の了解もすぐに得られた。",
+      "こうして教職を離れたシューベルトは作曲だけに打ち込むようになり、以後も数多くの名歌曲や交響曲を生み出す作曲家人生を歩んでいった。"
+    ],
+    "fb_caption": "1814年秋、ウィーン郊外の教室。黒板の前に立っていたのは、兵役を逃れるため教師になった17歳のフランツ・シューベルトだった🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=_J5EOQgfFaI",
+    "ig_caption": "1814年秋、ウィーン郊外の教室。黒板の前に立っていたのは、兵役を逃れるため教師になった17歳のフランツ・シューベルトだった🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1814年秋、ウィーン郊外の教室。黒板の前に立っていたのは、兵役を逃れるため教師になった17歳のフランツ・シューベルトだった🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n教師を務めながら驚異的な量の曲を生み出した1年を描いた動画もあります。\nhttps://www.youtube.com/watch?v=_J5EOQgfFaI",
+    "youtube_link": "https://www.youtube.com/watch?v=_J5EOQgfFaI",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "名前主役+年齢",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "マーラー",
+    "event_summary": "存命中は指揮者としての方が有名で、作曲家としてのマーラーはほとんど評価されなかった。死後、ナチス政権下ではユダヤ人作曲家としてその交響曲の演奏自体が禁じられ、忘却はさらに進んだ。1960年の生誕100年を機にバーンスタインらが交響曲全曲を録音・演奏し、今日では20世紀を代表する作曲家の一人と見なされている。",
+    "sources": [
+      "https://recogei.ontomo-mag.com/article/herbst_der_kunst_herbst_von_mahler/p-32735/",
+      "https://note.com/newjapanphil/n/nf8215eeedeef",
+      "https://tsvocalschool.com/classic/mahler-5/",
+      "https://blog.goo.ne.jp/tora6yoshi/e/cd8f908449ba9efd2a5aba7bd1c3bb20",
+      "http://www.yung.jp/yungdb/op_m.php?id=4599"
+    ],
+    "hook_copy": "マーラー、忘れられた天才の逆転\n死後に起きたブーム",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "死後60年、無名から伝説へ",
+        "support_text": "マーラーの交響曲",
+        "rank": 2,
+        "recommendation_reason": "時間の落差を数字で見せる出来事主役案。結末から入る指定テーマに忠実。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://tsvocalschool.com/classic/mahler-5/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "結末提示(数字)→経緯",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "マーラー、忘れられた天才の逆転",
+        "support_text": "死後に起きたブーム",
+        "rank": 1,
+        "recommendation_reason": "名前+逆転というキーワードで直感的に内容が伝わり、結末から入る型にも合う。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://recogei.ontomo-mag.com/article/herbst_der_kunst_herbst_von_mahler/p-32735/",
+          "https://blog.goo.ne.jp/tora6yoshi/e/cd8f908449ba9efd2a5aba7bd1c3bb20"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "名前主役+逆転",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ死後にブームが起きたのか",
+        "support_text": "マーラー交響曲",
+        "rank": 3,
+        "recommendation_reason": "問いかけ型。答え(バーンスタインの録音)が3枚目で明かされ構成としては成立するが、結末先出し型の指定とはややズレる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://note.com/newjapanphil/n/nf8215eeedeef"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "同時代の人々には指揮者としての顔が強く印象づけられ、グスタフ・マーラーの作曲家としての才能はほとんど評価されないまま世を去った。",
+      "1911年に世を去った後、ナチス政権下では彼がユダヤ人作曲家であることを理由に交響曲の演奏が禁じられ、忘却はさらに深まっていった。",
+      "1960年の生誕100年を機に再評価の機運が高まり、指揮者レナード・バーンスタインが交響曲全曲を録音すると熱狂的なブームが起きた。",
+      "こうして死後60年を経てマーラーは20世紀を代表する作曲家となり、生前の『いずれ私の時代が来る』という言葉は現実になった。"
+    ],
+    "fb_caption": "死後60年、ほとんど忘れられていた作曲家が「20世紀最高の交響曲作曲家」と呼ばれるようになった。きっかけは、ナチス時代の演奏禁止を経て起きた、ある指揮者による全曲録音だった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "死後60年、ほとんど忘れられていた作曲家が「20世紀最高の交響曲作曲家」と呼ばれるようになった。きっかけは、ナチス時代の演奏禁止を経て起きた、ある指揮者による全曲録音だった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "死後60年、ほとんど忘れられていた作曲家が「20世紀最高の交響曲作曲家」と呼ばれるようになった。きっかけは、ナチス時代の演奏禁止を経て起きた、ある指揮者による全曲録音だった🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n「いずれ私の時代が来る」という言葉どおりの、見事な逆転劇でした。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "名前主役+逆転",
+    "caption_style": "conclusion_first"
+  }
+]
