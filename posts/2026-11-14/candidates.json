@@ -1,0 +1,318 @@
+[
+  {
+    "composer": "コープランド",
+    "event_summary": "アーロン・コープランドは1900年11月14日生まれのアメリカ作曲家。1953年、代表作《リンカーンの肖像》はアイゼンハワー大統領就任式の演目から「共産主義者」疑惑を理由に外され、本人も上院委員会でジョセフ・マッカーシー本人の尋問を受けた。調査は長く続き、正式に幕を閉じたのは1975年だった。",
+    "sources": [
+      "https://www.villagepreservation.org/2022/11/14/aaron-copland-and-friends/",
+      "https://www.interlochenpublicradio.org/2025-07-04/tuning-in-aaron-copland-un-american-composer",
+      "https://robertgreenbergmusic.com/music-history-mondays-too-many-birthdays/",
+      "https://brahms.ircam.fr/en/aaron-copland"
+    ],
+    "hook_copy": "疑惑終結まで22年、コープランドの潔白",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "コープランド、\"アメリカの顔\"から排除された日",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "名前と結末を直接提示し、初見で状況が伝わりやすい王道案。ただしインパクトはC・Bよりやや穏やか。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://www.interlochenpublicradio.org/2025-07-04/tuning-in-aaron-copland-un-american-composer"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "名前主役・結末提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "「共産主義者」疑惑、就任式から消された名曲",
+        "support_text": "作曲家コープランド",
+        "rank": 2,
+        "recommendation_reason": "出来事を主役にした案。衝撃度は高いが、対象名がsupport_textのみで初見の認知はやや弱い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://www.villagepreservation.org/2022/11/14/aaron-copland-and-friends/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "出来事主役・事件提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "疑惑終結まで22年、コープランドの潔白",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "具体的な年数を提示することで好奇心の空白を作りつつ、「潔白」という結末も同時に示せるため推奨。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.interlochenpublicradio.org/2025-07-04/tuning-in-aaron-copland-un-american-composer",
+          "https://robertgreenbergmusic.com/music-history-mondays-too-many-birthdays/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "数字先出し・結末提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "今日11月14日は作曲家アーロン・コープランドの誕生日。代表作《リンカーンの肖像》は、53年の大統領就任式演目から外された。",
+      "同年5月、コープランドは上院委員会に呼び出され、ジョセフ・マッカーシー議員本人を前に尋問を受け、冷静に自らの信念を語った。",
+      "疑惑は晴れたものの、FBIによる監視と調査はその後も長く続き、パスポート取得にも苦労しながら、正式に幕を閉じたのは実に1975年のことだった。",
+      "それでも彼の《ファンファーレ・フォー・ザ・コモンマン》は、その後の大統領就任式で繰り返し演奏される「アメリカの音」になった。"
+    ],
+    "fb_caption": "「アメリカの音」を作った作曲家が、かつて\"共産主義者\"容疑で大統領就任式の音楽から締め出されていた。今日11月14日は、その人物アーロン・コープランドの誕生日。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "「アメリカの音」を作った作曲家が、かつて\"共産主義者\"容疑で大統領就任式の音楽から締め出されていた。今日11月14日は、その人物アーロン・コープランドの誕生日。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "「アメリカの音」を作った作曲家が、かつて\"共産主義者\"容疑で大統領就任式の音楽から締め出されていた。今日11月14日は、その人物アーロン・コープランドの誕生日。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nコープランドが刻んだ\"アメリカの音\"を、これからも聴き継いでいきたい。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "数字先出し・結末提示型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ストラヴィンスキー",
+    "event_summary": "ストラヴィンスキーは1908年、師ニコライ・リムスキー=コルサコフの死を悼んで管弦楽曲《葬送の歌》を作曲し、1909年に一度だけ演奏された。その後ロシア革命の混乱で楽譜は行方不明になり、100年以上「永遠に失われた作品」とされていた。2015年にサンクトペテルブルク音楽院の書庫整理中にパート譜が偶然発見され、2016年にゲルギエフ指揮で蘇演された。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Funeral_Song",
+      "https://www.laphil.com/musicdb/pieces/4795/funeral-song",
+      "https://ja.wikipedia.org/wiki/%E8%91%AC%E9%80%81%E3%81%AE%E6%AD%8C_(%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC)",
+      "https://thelistenersclub.com/2016/12/05/lost-and-found-the-rediscovery-of-stravinskys-funeral-song-op-5/"
+    ],
+    "hook_copy": "ストラヴィンスキー、108年後に蘇った幻の曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ストラヴィンスキー、108年後に蘇った幻の曲",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "名前と結末（108年後の復活）を同時に提示でき、初見での理解度と意外性のバランスが最も良い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Funeral_Song"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "名前主役・結末提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "倉庫整理中に見つかった\"幻の傑作\"",
+        "support_text": "ストラヴィンスキー秘蔵の一曲",
+        "rank": 3,
+        "recommendation_reason": "発見の意外性（倉庫整理）を前面に出した案。具体性は高いが対象名が補足のみでやや弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.laphil.com/musicdb/pieces/4795/funeral-song"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "出来事主役・発見描写型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ108年も見つからなかったのか",
+        "support_text": "ストラヴィンスキー幻の一曲",
+        "rank": 2,
+        "recommendation_reason": "謎かけ型の問いで好奇心を刺激する案。Aに次ぐ訴求力だが、対象の初見認知はAよりやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://thelistenersclub.com/2016/12/05/lost-and-found-the-rediscovery-of-stravinskys-funeral-song-op-5/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ストラヴィンスキー",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1908年、師ニコライ・リムスキー＝コルサコフの死を悼み、ストラヴィンスキーはわずか数週間で追悼曲《葬送の歌》を書き上げた。",
+      "1909年の初演後、第一次世界大戦とロシア革命の混乱の中で楽譜は紛失し、作曲家本人も生涯にわたってその行方を気にかけ続けた。",
+      "音楽学者ナタリヤ・ブラギンスカヤも長年にわたり捜索を続けたが見つからず、ストラヴィンスキーの主要作で唯一「紛失したまま」の曲とされていた。",
+      "2015年、音楽院の書庫整理中に偶然パート譜が見つかり、108年の時を経て2016年にゲルギエフ指揮のマリインスキー劇場管弦楽団が蘇演した。"
+    ],
+    "fb_caption": "108年間行方不明だった幻の曲が、まさかの\"倉庫の片付け\"で発見された。ストラヴィンスキーが師の追悼に書いた《葬送の歌》は、そうして2016年によみがえった。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "108年間行方不明だった幻の曲が、まさかの\"倉庫の片付け\"で発見された。ストラヴィンスキーが師の追悼に書いた《葬送の歌》は、そうして2016年によみがえった。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "108年間行方不明だった幻の曲が、まさかの\"倉庫の片付け\"で発見された。ストラヴィンスキーが師の追悼に書いた《葬送の歌》は、そうして2016年によみがえった。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n108年の沈黙を破って蘇った音色に、思いを馳せてみてほしい。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "名前主役・結末提示型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "トロンボーン",
+    "event_summary": "18世紀のオペラにおいて、トロンボーンは教会音楽に由来する「神の楽器」として特別視され、通常の管弦楽ではほとんど使われなかった。モーツァルトは歌劇《ドン・ジョヴァンニ》で、石像となった騎士長の亡霊が現れる場面まであえてトロンボーンの音を封印し、劇的効果を演出した。同じ発想は《レクイエム》の「怒りの日」のトロンボーン独奏にも引き継がれている。",
+    "sources": [
+      "https://www.yamaha.com/ja/musical_instrument_guide/trombone/trivia/",
+      "https://sheetmusicinternational.com/program-notes/mozart-wolfgang-amadeus-1756-1791-opera-don-giovanni-k527-752",
+      "https://en.wikipedia.org/wiki/Trombone",
+      "https://www.vpm.org/npr-news/2006-09-14/all-about-brass-instruments/"
+    ],
+    "hook_copy": "トロンボーンは「神の楽器」だった",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "トロンボーンは「神の楽器」だった",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "楽器名を主語にした断定型で、意外性と理解しやすさを両立。最も直感的に状況が伝わる。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://www.vpm.org/npr-news/2006-09-14/all-about-brass-instruments/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トロンボーン",
+        "hook_pattern": "名前主役・断定提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ドン・ジョヴァンニ、沈黙破る3本の正体",
+        "support_text": "トロンボーンの秘密",
+        "rank": 2,
+        "recommendation_reason": "名場面を起点にした案。臨場感は高いが「3本」の意味が初見ではやや伝わりにくい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://sheetmusicinternational.com/program-notes/mozart-wolfgang-amadeus-1756-1791-opera-don-giovanni-k527-752"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トロンボーン",
+        "hook_pattern": "場面描写型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ18世紀、ほぼ出番がなかったのか",
+        "support_text": "トロンボーンの意外な過去",
+        "rank": 3,
+        "recommendation_reason": "問いかけで引き込む案。Aに次ぐ訴求力があるが、対象名が補足文のみで認知がやや弱い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Trombone"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トロンボーン",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "18世紀のオペラ界で、トロンボーンは教会専用の\"神の楽器\"とされ、通常のオーケストラでは滅多に使われなかった楽器だった。",
+      "モーツァルトは歌劇《ドン・ジョヴァンニ》で、石像と化した騎士長の亡霊が現れる場面まで、あえてトロンボーンの音を封印していた。",
+      "晩餐の場に石像が現れたその瞬間、長い沈黙を破って3本のトロンボーンが一斉に鳴り響き渡り、観客席に超自然の恐怖を叩きつけた。",
+      "モーツァルトは《レクイエム》の「怒りの日」でも同じ発想を踏襲し、以来トロンボーンは「最後の審判」を告げる楽器として定着した。"
+    ],
+    "fb_caption": "オペラの中で3本の楽器が一斉に鳴った瞬間、客席は震え上がった。正体はトロンボーン――18世紀には\"神の楽器\"として、特別な場面でしか使われなかった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "オペラの中で3本の楽器が一斉に鳴った瞬間、客席は震え上がった。正体はトロンボーン――18世紀には\"神の楽器\"として、特別な場面でしか使われなかった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "オペラの中で3本の楽器が一斉に鳴った瞬間、客席は震え上がった。正体はトロンボーン――18世紀には\"神の楽器\"として、特別な場面でしか使われなかった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n次にオペラでトロンボーンが鳴ったら、その意味に耳を澄ませてみてほしい。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "名前主役・断定提示型",
+    "caption_style": "conclusion_first"
+  }
+]
