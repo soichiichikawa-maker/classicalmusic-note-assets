@@ -1,0 +1,316 @@
+[
+  {
+    "composer": "ドビュッシー",
+    "event_summary": "ドビュッシーの代表曲「月の光」(ベルガマスク組曲 第3曲)は1890年頃に作曲が始まったが、出版は1905年までずれ込み、実に15年もの空白があった。曲集のタイトル「ベルガマスク」は、彼が傾倒していた詩人ヴェルレーヌの詩「月の光」に登場する言葉に由来する。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AC%E3%83%9E%E3%82%B9%E3%82%AF%E7%B5%84%E6%9B%B2",
+      "https://tsvocalschool.com/classic/clair-de-lune/",
+      "https://jeanmichelserres.com/2026/07/01/%E6%9C%88%E3%81%AE%E5%85%89-%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%93%E3%83%A5%E3%83%83%E3%82%B7%E3%83%BC%EF%BC%9A%E8%A7%A3%E8%AA%AC-%E8%83%8C%E6%99%AF-%E6%BC%94%E5%A5%8F/"
+    ],
+    "hook_copy": "「月の光」はなぜ15年、眠ったのか\nドビュッシーの名曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "「月の光」はなぜ15年、眠ったのか",
+        "support_text": "ドビュッシーの名曲",
+        "rank": 1,
+        "recommendation_reason": "誰もが知る名曲に隠れた「15年の空白」という具体的な謎を提示し、結末から入る型に最も合う。答えが中間スライドで明確に回収できる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://tsvocalschool.com/classic/clair-de-lune/",
+          "https://jeanmichelserres.com/2026/07/01/%E6%9C%88%E3%81%AE%E5%85%89-%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%93%E3%83%A5%E3%83%83%E3%82%B7%E3%83%BC%EF%BC%9A%E8%A7%A3%E8%AA%AC-%E8%83%8C%E6%99%AF-%E6%BC%94%E5%A5%8F/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "数字の謎を提示する問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ドビュッシー、無名時代に眠らせた名曲",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "作曲家名を主役にした素直な入口。Aに比べると意外性の具体性がやや弱いため次点。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://tsvocalschool.com/classic/clair-de-lune/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "名前主役の状況説明型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "タイトルの元ネタは、ある詩の一節",
+        "support_text": "ドビュッシー「月の光」",
+        "rank": 3,
+        "recommendation_reason": "タイトル由来に特化した入口。豆知識性は高いが「15年の空白」ほどの引きは弱いため第3案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AC%E3%83%9E%E3%82%B9%E3%82%AF%E7%B5%84%E6%9B%B2"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "由来クイズ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1890年ごろ、26歳だったクロード・ドビュッシーは「ベルガマスク組曲」の中に、のちの代表作となる一曲を書き始めていた。",
+      "曲名「ベルガマスク」は、フランスの詩人ヴェルレーヌの詩に登場する言葉で、その詩のタイトルこそ『月の光』という同じ名前だった。",
+      "しかし当時はまだ無名だったドビュッシーの楽譜は出版されず、出版社の引き出しの中で実に15年もの歳月をずっと眠って過ごした。",
+      "1905年にようやく出版されると大きな評判を呼び、「月の光」は今ではドビュッシーの全作品の中でも随一の代表曲になっている。"
+    ],
+    "fb_caption": "あの「月の光」は、完成から15年間、出版されずに眠っていた曲でした🎵 タイトルの由来は、ドビュッシーが愛したヴェルレーヌの詩の一節にあります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "あの「月の光」は、完成から15年間、出版されずに眠っていた曲でした🎵 タイトルの由来は、ドビュッシーが愛したヴェルレーヌの詩の一節にあります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "あの「月の光」は、完成から15年間、出版されずに眠っていた曲でした🎵 タイトルの由来は、ドビュッシーが愛したヴェルレーヌの詩の一節にあります。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n名曲の意外な誕生秘話、よければ保存してまた見返してみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "数字の謎を提示する問いかけ型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "バッハ",
+    "event_summary": "バッハは1750年にライプツィヒの聖ヨハネ教会墓地に葬られたが、墓石が立てられなかったため正確な埋葬場所は忘れられてしまった。1894年の教会改築工事に伴う発掘調査で樫の棺から遺骨が発見され、解剖学者の鑑定を経てバッハ本人のものと結論づけられ、のちに聖トーマス教会へ改葬された。",
+    "sources": [
+      "https://www.zenyuseki.or.jp/knowtomb/famous-detail.html?id=2657",
+      "https://www.classic-suganne.com/entry/2019/11/10/170244",
+      "http://www.robkruijt.net/hbachjs/bachjs06.htm"
+    ],
+    "hook_copy": "バッハの墓、144年行方不明だった",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "バッハの墓、144年行方不明だった",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "死・葬儀テーマで最も具体的な数字と謎を提示でき、場面から入る冒頭とも相性が良い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.zenyuseki.or.jp/knowtomb/famous-detail.html?id=2657",
+          "https://www.classic-suganne.com/entry/2019/11/10/170244"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "期間の謎を提示する問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "音楽の父、遺体の行方",
+        "support_text": "バッハの死後144年",
+        "rank": 2,
+        "recommendation_reason": "敬称を使った名前主役の入口。Aより数字の衝撃がやや弱いため次点。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.zenyuseki.or.jp/knowtomb/famous-detail.html?id=2657"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "敬称+状況提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "1894年、発掘された棺の中身",
+        "support_text": "バッハの遺骨",
+        "rank": 3,
+        "recommendation_reason": "場面(年号)から直接入る型。具体性は高いが、肖像だけでは誰の話か伝わりにくいため第3案。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "http://www.robkruijt.net/hbachjs/bachjs06.htm"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "年号起点の場面提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1750年7月、65歳で世を去ったバッハは、ライプツィヒの聖ヨハネ教会の墓地に葬られたが、墓石は一つも立てられなかった。",
+      "月日が流れるうちに正確な埋葬場所は誰からも分からなくなり、「バッハの墓」はやがて人々の記憶からすっかり忘れられていった。",
+      "死後144年たった1894年、教会の改築工事にともなう発掘調査で、樫材の棺に収められていた一体の遺骨がついに見つかった。",
+      "解剖学者による綿密な鑑定の結果、この遺骨はバッハ本人のものと結論づけられ、のちにようやく聖トーマス教会へ改めて丁重に葬られた。"
+    ],
+    "fb_caption": "1750年、ライプツィヒの聖ヨハネ教会に葬られたバッハ。しかし墓石はなく、その正確な埋葬場所はやがて誰にも分からなくなってしまいました。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=3ZhJRZyvEc0",
+    "ig_caption": "1750年、ライプツィヒの聖ヨハネ教会に葬られたバッハ。しかし墓石はなく、その正確な埋葬場所はやがて誰にも分からなくなってしまいました。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1750年、ライプツィヒの聖ヨハネ教会に葬られたバッハ。しかし墓石はなく、その正確な埋葬場所はやがて誰にも分からなくなってしまいました。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nバッハの生涯をたどった動画もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=3ZhJRZyvEc0",
+    "youtube_link": "https://www.youtube.com/watch?v=3ZhJRZyvEc0",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "期間の謎を提示する問いかけ型",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "モーツァルト",
+    "event_summary": "1777年、21歳のモーツァルトはマンハイムでソプラノ歌手アロイジア・ウェーバーに恋をしたが、求婚しても振られてしまった。数年後ウィーンで再会した時にはアロイジアは結婚済みで、モーツァルトは代わりにその妹コンスタンツェと結ばれることになった。",
+    "sources": [
+      "http://www003.upp.so-net.ne.jp/salieri-mozalt/konstanz.htm",
+      "http://musikant.seesaa.net/article/478262980.html",
+      "https://www.mozartportal.com/ja/article/konsutantsuemootsuarutotososhitegakarerumade-ja"
+    ],
+    "hook_copy": "初恋に振られた3年後の結婚\nモーツァルトとウェーバー家",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "初恋に振られた3年後の結婚",
+        "support_text": "モーツァルトとウェーバー家",
+        "rank": 1,
+        "recommendation_reason": "場面から入る型に合わせ、失恋と結婚という時系列の落差を具体的に提示できる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "http://www003.upp.so-net.ne.jp/salieri-mozalt/konstanz.htm",
+          "http://musikant.seesaa.net/article/478262980.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "モーツァルト",
+        "hook_pattern": "時系列の落差を示す型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "モーツァルトの初恋は、妻の姉だった",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "関係性のねじれを一文で見せる名前主役案。Aより結末の意外性がストレートに出るが情報量がやや多い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.mozartportal.com/ja/article/konsutantsuemootsuarutotososhitegakarerumade-ja"
+        ],
+        "fact_status": "verified",
+        "subject_label": "モーツァルト",
+        "hook_pattern": "関係性の意外性を示す型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ウェーバー家、四姉妹との数奇な縁",
+        "support_text": "モーツァルトの結婚",
+        "rank": 3,
+        "recommendation_reason": "家族全体に焦点を当てた入口。エピソードの核心である失恋要素が薄れるため第3案とした。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.mozartportal.com/ja/article/konsutantsuemootsuarutotososhitegakarerumade-ja"
+        ],
+        "fact_status": "verified",
+        "subject_label": "モーツァルト",
+        "hook_pattern": "家族関係フォーカス型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1777年、21歳のヴォルフガング・モーツァルトはマンハイムに滞在中、ウェーバー家の娘でソプラノ歌手のアロイジアに恋をした。",
+      "彼は熱烈に求婚したが、あっさりと振られてしまい、失意を抱えたままモーツァルトはそのままパリへと旅立っていくことになった。",
+      "数年後、思いがけずウィーンで再会を果たしたときには、初恋の相手アロイジアはもうすでに別の男性のもとへ嫁いでしまっていた。",
+      "代わりに心を通わせたのが、アロイジアの妹コンスタンツェで、父の反対を押し切り、1782年に二人はとうとう結婚式を挙げた。"
+    ],
+    "fb_caption": "1777年、マンハイムで出会ったソプラノ歌手アロイジアに、21歳のモーツァルトは恋をしました。しかしこの恋の行方は、誰も予想しない形で結ばれることになります💌\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=MT4AN4OoBuk",
+    "ig_caption": "1777年、マンハイムで出会ったソプラノ歌手アロイジアに、21歳のモーツァルトは恋をしました。しかしこの恋の行方は、誰も予想しない形で結ばれることになります💌\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1777年、マンハイムで出会ったソプラノ歌手アロイジアに、21歳のモーツァルトは恋をしました。しかしこの恋の行方は、誰も予想しない形で結ばれることになります💌\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nモーツァルトの素顔に迫った動画もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=MT4AN4OoBuk",
+    "youtube_link": "https://www.youtube.com/watch?v=MT4AN4OoBuk",
+    "subject_type": "composer",
+    "theme": "love_family",
+    "hook_pattern": "時系列の落差を示す型",
+    "caption_style": "scene"
+  }
+]
