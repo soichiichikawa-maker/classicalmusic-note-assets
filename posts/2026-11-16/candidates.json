@@ -1,0 +1,312 @@
+[
+  {
+    "composer": "メンデルスゾーン",
+    "event_summary": "1842年、メンデルスゾーンは「真夏の夜の夢」の劇音楽の一曲として結婚行進曲を作曲した。発表当初は特に結婚式向けの曲ではなかったが、1858年のプロイセン王子とヴィクトリア王女の結婚式で演奏されたことをきっかけに世界的な定番曲となった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%B5%90%E5%A9%9A%E8%A1%8C%E9%80%B2%E6%9B%B2_(%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AB%E3%82%B9%E3%82%BE%E3%83%BC%E3%83%B3)",
+      "https://plus.musenet.co.jp/2026/06/kuwashikku-19/"
+    ],
+    "hook_copy": "結婚式の定番曲、本当は誰のため?\nメンデルスゾーンの転用",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "結婚式の定番曲、本当は誰のため?",
+        "support_text": "メンデルスゾーンの転用",
+        "rank": 1,
+        "recommendation_reason": "誰もが知る曲に「誰のために書かれたか」という素朴な疑問を投げることで、意外な由来への興味を引き出せる。対象名も補足に明記。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E7%B5%90%E5%A9%9A%E8%A1%8C%E9%80%B2%E6%9B%B2_(%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AB%E3%82%B9%E3%82%BE%E3%83%BC%E3%83%B3)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "疑問+対象言及(曲中心)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "question"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "メンデルスゾーンが書いた、妖精の曲",
+        "support_text": "結婚式の定番に化けた理由",
+        "rank": 3,
+        "recommendation_reason": "作曲家名を前面に出す案。知名度のある名前から入るが、意外性のインパクトはA・Cよりやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://plus.musenet.co.jp/2026/06/kuwashikku-19/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "名前主役",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "1858年、王室の結婚式が火付け役",
+        "support_text": "メンデルスゾーンの行進曲",
+        "rank": 2,
+        "recommendation_reason": "具体的な年号と出来事で始める案。史実の転機そのものをフックにしており、具体性が強み。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E7%B5%90%E5%A9%9A%E8%A1%8C%E9%80%B2%E6%9B%B2_(%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AB%E3%82%B9%E3%82%BE%E3%83%BC%E3%83%B3)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "出来事主役(年号起点)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1842年にメンデルスゾーンが完成させた結婚行進曲は、17歳で書いた「真夏の夜の夢」序曲から実に17年越しで加えられた一曲だった。",
+      "もとはシェイクスピア劇中、妖精たちが人間の若者の結婚を祝う場面の音楽であり、現実の花嫁のために書かれたわけではなく、発表後もさほど人気はなかった。",
+      "転機は1858年。プロイセン王子とイギリス王女ヴィクトリアの結婚式で演奏されたことをきっかけに、この曲は一躍有名になった。欧州中が注目した婚礼だった。",
+      "以後、結婚行進曲は世界中の結婚式で演奏される定番曲となり、誕生から180年以上たった今も新郎新婦の入場を彩り続けている。"
+    ],
+    "fb_caption": "結婚式の定番曲「結婚行進曲」、実は誰のために書かれたか知っていますか?🎹 メンデルスゾーンがシェイクスピア劇のために書いたこの曲は、発表当初は花嫁のための曲ではありませんでした。それが世界的な定番になったのは、ある王室の結婚式がきっかけでした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "結婚式の定番曲「結婚行進曲」、実は誰のために書かれたか知っていますか?🎹 メンデルスゾーンがシェイクスピア劇のために書いたこの曲は、発表当初は花嫁のための曲ではありませんでした。それが世界的な定番になったのは、ある王室の結婚式がきっかけでした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "結婚式の定番曲「結婚行進曲」、実は誰のために書かれたか知っていますか?🎹 メンデルスゾーンがシェイクスピア劇のために書いたこの曲は、発表当初は花嫁のための曲ではありませんでした。それが世界的な定番になったのは、ある王室の結婚式がきっかけでした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "疑問+対象言及(曲中心)",
+    "caption_style": "question"
+  },
+  {
+    "composer": "エルガー",
+    "event_summary": "1919年、エルガーの「チェロ協奏曲」はリハーサル不足のまま初演され、大失敗に終わった。その後長く忘れられていたが、1965年に20歳のチェリスト、ジャクリーヌ・デュ・プレが録音したことで評価は一変し、名曲として広く知られるようになった。",
+    "sources": [
+      "https://www.udiscovermusic.com/classical-features/elgar-cello-concerto/",
+      "https://www.classical-music.com/features/recordings/elgar-cello-concerto-2",
+      "https://artsfuse.org/132681/fuse-classical-music-feature-fifty-years-later-jacqueline-du-pres-elgar-remains-the-gold-standard/"
+    ],
+    "hook_copy": "初演は「大失敗」、でも46年後に大逆転?\nエルガーのチェロ協奏曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "初演は「大失敗」、でも46年後に大逆転?",
+        "support_text": "エルガーのチェロ協奏曲",
+        "rank": 1,
+        "recommendation_reason": "初演の失敗と年数の大きなギャップを提示することで、逆転の規模感が伝わり続きが気になる構成。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.udiscovermusic.com/classical-features/elgar-cello-concerto/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "疑問+数字(年数)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun",
+          "question"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "エルガーの協奏曲、なぜ忘れられた?",
+        "support_text": "デュ・プレが半世紀後に救った",
+        "rank": 2,
+        "recommendation_reason": "作曲家名を主語にする案。素直だが「なぜ忘れられたか」という問いはAほどの具体性がない。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.classical-music.com/features/recordings/elgar-cello-concerto-2"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "名前主役",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "question"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "20歳のチェリストが名曲を甦らせた",
+        "support_text": "エルガーのチェロ協奏曲",
+        "rank": 3,
+        "recommendation_reason": "救済者側（デュ・プレ）を主役にする出来事主役案。意外な若さの数字がフックになる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://artsfuse.org/132681/fuse-classical-music-feature-fifty-years-later-jacqueline-du-pres-elgar-remains-the-gold-standard/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "エルガー",
+        "hook_pattern": "出来事主役(救済者視点)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1919年、エルガーは自ら指揮して「チェロ協奏曲」の初演に臨んだが、リハーサル不足で演奏は乱れ、初演は散々な結果に終わった。",
+      "聴衆の反応は冷ややかで、エルガー自身も深く傷つき、以後大きな新作をほとんど発表しないまま、15年後に静かに世を去ることになった。",
+      "曲は長く顧みられることなく埋もれていたが、1965年、20歳のチェリスト、ジャクリーヌ・デュ・プレがこの協奏曲を録音した。",
+      "この演奏をきっかけに評価は一変し、エルガーのチェロ協奏曲は今やチェロの代表的名曲として世界中のホールで愛奏され続けている。"
+    ],
+    "fb_caption": "酷評された初演から46年、なぜこの曲は名曲と呼ばれるようになったのでしょうか?🎻 エルガーのチェロ協奏曲は1919年の初演で「大失敗」と酷評され、長く忘れられていました。転機は1965年、20歳のチェリスト、ジャクリーヌ・デュ・プレの録音でした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "酷評された初演から46年、なぜこの曲は名曲と呼ばれるようになったのでしょうか?🎻 エルガーのチェロ協奏曲は1919年の初演で「大失敗」と酷評され、長く忘れられていました。転機は1965年、20歳のチェリスト、ジャクリーヌ・デュ・プレの録音でした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "酷評された初演から46年、なぜこの曲は名曲と呼ばれるようになったのでしょうか?🎻 エルガーのチェロ協奏曲は1919年の初演で「大失敗」と酷評され、長く忘れられていました。転機は1965年、20歳のチェリスト、ジャクリーヌ・デュ・プレの録音でした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "疑問+数字(年数)",
+    "caption_style": "question"
+  },
+  {
+    "composer": "プッチーニ",
+    "event_summary": "1876年、17歳のプッチーニは教会オルガニストとして働く青年だったが、ヴェルディの歌劇《アイーダ》をピサで観るため、ルッカから徒歩で向かった。この体験が転機となり、彼はオペラ作曲家を志してミラノ音楽院に進学することになった。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B3%E3%83%A2%E3%83%BB%E3%83%97%E3%83%83%E3%83%81%E3%83%BC%E3%83%8B",
+      "https://pietro.music.coocan.jp/storia/puccini_vita.html",
+      "https://www.udiscovermusic.jp/classical-features/best-puccini-works-10-essential-pieces"
+    ],
+    "hook_copy": "17歳、ピサまで歩いた理由\nプッチーニの運命の一日",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "17歳、ピサまで歩いた理由",
+        "support_text": "プッチーニの運命の一日",
+        "rank": 3,
+        "recommendation_reason": "年齢と行動の謎を提示し、理由を知りたくなる構成。場面から入る候補3の冒頭型とも自然に接続する。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://pietro.music.coocan.jp/storia/puccini_vita.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "出来事主役(謎提示)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "プッチーニ、オルガニストから転身",
+        "support_text": "《アイーダ》で見た運命",
+        "rank": 1,
+        "recommendation_reason": "作曲家名と転身を前面に出す案。職業の意外性（教会音楽家の家系）を直接訴求できる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B3%E3%83%A2%E3%83%BB%E3%83%97%E3%83%83%E3%83%81%E3%83%BC%E3%83%8B"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "名前主役",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ルッカからピサへ、長い徒歩",
+        "support_text": "プッチーニの運命の転機",
+        "rank": 2,
+        "recommendation_reason": "地名と距離感を強調する出来事主役案。具体性はあるがAほどの謎かけの強さはない。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://pietro.music.coocan.jp/storia/puccini_vita.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "プッチーニ",
+        "hook_pattern": "出来事主役(地名起点)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "幼くして父を亡くしたプッチーニは、代々教会音楽家を務めてきた一族の跡を継ぎ、教会オルガニストとして働き、その道を歩むはずだった。",
+      "1876年、17歳のプッチーニはヴェルディの歌劇《アイーダ》がピサで上演されると知り、ルッカからわざわざ徒歩でピサへ向かった。",
+      "生まれて初めて目にした本格オペラの舞台に心を奪われ、この夜を境に、宗教音楽家ではなくオペラ作曲家になることを強く志すようになった。",
+      "この体験がきっかけでミラノ音楽院へ進学し、のちに《トスカ》や《蝶々夫人》などの傑作を生み出すオペラ作曲家への道を歩み始めることになった。"
+    ],
+    "fb_caption": "1876年3月、17歳のプッチーニは教会オルガニストとして働く青年でした。この年、彼はヴェルディの歌劇《アイーダ》を観るため、ルッカからピサまでわざわざ徒歩で向かいます。この体験が、のちの大作曲家の運命を変えました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=3B9aByKqBmw",
+    "ig_caption": "1876年3月、17歳のプッチーニは教会オルガニストとして働く青年でした。この年、彼はヴェルディの歌劇《アイーダ》を観るため、ルッカからピサまでわざわざ徒歩で向かいます。この体験が、のちの大作曲家の運命を変えました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1876年3月、17歳のプッチーニは教会オルガニストとして働く青年でした。この年、彼はヴェルディの歌劇《アイーダ》を観るため、ルッカからピサまでわざわざ徒歩で向かいます。この体験が、のちの大作曲家の運命を変えました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nプッチーニの運命の夜を描いた動画「30キロ歩いた夜、全てはここから始まった」もあわせてご覧ください。\nhttps://www.youtube.com/watch?v=3B9aByKqBmw",
+    "youtube_link": "https://www.youtube.com/watch?v=3B9aByKqBmw",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "出来事主役(謎提示)",
+    "caption_style": "scene"
+  }
+]
