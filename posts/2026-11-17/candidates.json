@@ -1,0 +1,315 @@
+[
+  {
+    "composer": "ヘンデル",
+    "event_summary": "1711年にロンドンで初演されたヘンデルのオペラ《リナルド》は空前の大ヒットとなったが、1731年以降は上演が途絶え、ヘンデルの死後はオペラ全体が長く忘れられた。20世紀に入り古楽復興の流れでドイツのゲッティンゲンから再評価が始まり、《リナルド》自体は1954年、ヘンデル生誕の地ハレでついに200年以上ぶりに上演された。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rinaldo_(opera)",
+      "https://en.wikipedia.org/wiki/Handel's_lost_Hamburg_operas",
+      "https://playbill.com/article/handel-rides-again",
+      "https://academic.oup.com/oq/article-abstract/24/3-4/313/1579310"
+    ],
+    "hook_copy": "大ヒットオペラ、200年沈黙の謎\nヘンデル",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ヘンデルの大ヒット曲が200年消えた",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前主役の直球案。分かりやすいが驚きの余地が少ない。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Rinaldo_(opera)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "名詞句・主張",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "大ヒットオペラ、200年沈黙の謎",
+        "support_text": "ヘンデル",
+        "rank": 1,
+        "recommendation_reason": "出来事主役で「沈黙の謎」が好奇心を刺激し、支柱にヘンデルの名を添えて対象も明確。3案で最もクリックを誘う。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Handel's_lost_Hamburg_operas",
+          "https://academic.oup.com/oq/article-abstract/24/3-4/313/1579310"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "出来事主役・謎提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ200年、上演されなかったのか",
+        "support_text": "ヘンデルの傑作オペラ",
+        "rank": 2,
+        "recommendation_reason": "問いかけ型で続きを読ませる力は強いが、Bより一般性に欠ける（オペラというジャンル限定の問い）。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Rinaldo_(opera)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1711年、ロンドンの劇場に新人ヘンデルのオペラ《リナルド》が鳴り響く。魔法と竜が舞う舞台に、観客は熱狂し空前の大ヒットとなった。",
+      "しかし1731年を境に《リナルド》は舞台から消え、ヘンデルの死後、40曲以上あった彼のオペラは次々と忘れ去られていった。",
+      "転機は1920年。ドイツのゲッティンゲンで指揮者ハーゲンが、死後160年近く忘れられていたオペラ《ロデリンダ》を蘇演させた。",
+      "こうして忘れられていた《リナルド》にも光が当たり、1954年、ついに200年以上ぶりにヘンデル生誕の地ハレで現代初演を迎えた。"
+    ],
+    "fb_caption": "1711年、ロンドンの劇場に鳴り響いた新人ヘンデルのオペラ《リナルド》は空前の大ヒットとなった。だが没後、彼のオペラは次々と忘れられ、《リナルド》が再び陽の目を見るまでに200年以上の歳月がかかった。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "ig_caption": "1711年、ロンドンの劇場に鳴り響いた新人ヘンデルのオペラ《リナルド》は空前の大ヒットとなった。だが没後、彼のオペラは次々と忘れられ、《リナルド》が再び陽の目を見るまでに200年以上の歳月がかかった。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1711年、ロンドンの劇場に鳴り響いた新人ヘンデルのオペラ《リナルド》は空前の大ヒットとなった。だが没後、彼のオペラは次々と忘れられ、《リナルド》が再び陽の目を見るまでに200年以上の歳月がかかった。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n波乱に満ちたヘンデルの人生をたどる本編もあわせてどうぞ。\nhttps://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "youtube_link": "https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "出来事主役・謎提示",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "マーラー",
+    "event_summary": "1907年、マーラーは歌劇場辞任と長女の死に続いて心臓病の診断を受け、医師から激しい運動を禁じられた。妻アルマの回想では散歩中も万歩計で歩数と脈拍を数えさせられたという。それでも彼は《大地の歌》や交響曲第9番という傑作を書き続け、後年の研究ではこの診断自体が誤診だった可能性も指摘されている。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E3%81%AE%E6%AD%8C",
+      "https://www.kanaphil.or.jp/_app/wp-content/uploads/2019/01/m5_1p152637413168614.pdf",
+      "https://www.chibaphil.jp/archive/program-document/mahler-siphonie-10",
+      "https://note.com/toubunren/n/nfff7c656e426"
+    ],
+    "hook_copy": "なぜ歩数を数えながら歩いたのか\nマーラーの心臓病",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "マーラーの心臓病、47歳の宣告",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前と事実を直接示す安定案だが、驚きが少なく他2案に比べ弱い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E3%81%AE%E6%AD%8C"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "名詞句・事実提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "心臓病の宣告、作曲家の答えは",
+        "support_text": "マーラー",
+        "rank": 1,
+        "recommendation_reason": "出来事主役で結末への引きがあるが、Cほど具体的なディテールの驚きがない。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.chibaphil.jp/archive/program-document/mahler-siphonie-10"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "出来事主役・問いかけ",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ歩数を数えながら歩いたのか",
+        "support_text": "マーラーの心臓病",
+        "rank": 2,
+        "recommendation_reason": "万歩計で歩数と脈拍を数えるという具体的で意外なディテールが強い好奇心のフックになり、対象名も補足で明確。3案で最も立ち止まらせる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.kanaphil.or.jp/_app/wp-content/uploads/2019/01/m5_1p152637413168614.pdf"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "疑問形・具体的ディテール",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1907年夏、マーラーはウィーン宮廷歌劇場の辞任、幼い長女の死、そして自身の重い心臓病という「運命の一撃」に見舞われた。",
+      "妻アルマの回想によれば、医師から登山や水泳など激しい運動を厳しく禁じられ、散歩中も万歩計で歩数と脈拍を数えさせられたという。",
+      "それでもマーラーは創作の手を止めず、ニューヨークでの指揮活動の傍ら、歌曲集《大地の歌》や交響曲第9番という傑作を書き上げた。",
+      "後年の研究では、この心臓病診断自体が誤診だった可能性も指摘されるが、マーラーは診断後も傑作を生み出し続け、底力を示した。"
+    ],
+    "fb_caption": "1907年の夏、ウィーン。歌劇場辞任と幼い娘の死に続き、マーラー自身も重い心臓病と診断された。医師に運動を禁じられながらも、彼は《大地の歌》や交響曲第9番という傑作を書き続けた。🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1907年の夏、ウィーン。歌劇場辞任と幼い娘の死に続き、マーラー自身も重い心臓病と診断された。医師に運動を禁じられながらも、彼は《大地の歌》や交響曲第9番という傑作を書き続けた。🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1907年の夏、ウィーン。歌劇場辞任と幼い娘の死に続き、マーラー自身も重い心臓病と診断された。医師に運動を禁じられながらも、彼は《大地の歌》や交響曲第9番という傑作を書き続けた。🎼\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n病と向き合いながらも創作を続けたマーラーの晩年に、思いを馳せてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "疑問形・具体的ディテール",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ラヴェル",
+    "event_summary": "1914年、第一次世界大戦が始まるとラヴェルは戦闘機パイロットを志願したが、小柄で体重が足りず不採用となり、代わりに軍用トラックの輸送兵として前線に送られた。激戦の中で体調を崩し、帰還後には母を亡くすなど過酷な経験をしたが、戦争で失った友人たちに捧げる組曲《クープランの墓》を書き上げた。",
+    "sources": [
+      "https://ontomo-mag.com/article/column/ravel-podcast02/",
+      "https://note.com/jamca/n/nb0905ed6bc60",
+      "https://note.com/happano/n/n5a0de83c5f90",
+      "https://shinkyo.org/articles/p227-5.html"
+    ],
+    "hook_copy": "芸術家が選ばれたのは、トラック運転手\nラヴェル",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ラヴェルは戦場でトラックを運転した",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前主役で事実を直接伝える安定案だが、意外性の提示が弱い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://note.com/jamca/n/nb0905ed6bc60"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "名詞句・事実提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "芸術家が選ばれたのは、トラック運転手",
+        "support_text": "ラヴェル",
+        "rank": 1,
+        "recommendation_reason": "出来事主役で「芸術家」と「トラック運転手」のギャップが際立ち、対象名も補足で明確。最も意外性が伝わる。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://note.com/happano/n/n5a0de83c5f90",
+          "https://shinkyo.org/articles/p227-5.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "出来事主役・ギャップ提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ天才作曲家は戦場へ向かったのか",
+        "support_text": "ラヴェルの選択",
+        "rank": 3,
+        "recommendation_reason": "問いかけ型で動機への興味を引くが、Bほどの即効性のある意外性はない。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/ravel-podcast02/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "疑問形",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1914年、第一次世界大戦が始まると、既に名のある作曲家だった39歳のラヴェルは、すぐさま戦闘機パイロットを強く志願した。",
+      "しかし身長161センチ、規定の体重に届かず不採用。それでも諦めず、激戦地ヴェルダン近くで軍用トラックの過酷な輸送任務についた。",
+      "激戦の中で体調を崩し、腹膜炎の手術を受けるなど心身に深い傷を負い、帰還直後には最愛の母を亡くし、戦争では友も次々と失った。",
+      "戦後ラヴェルは、戦争で命を落とした友人たちひとりひとりに各曲を捧げた組曲《クープランの墓》を書き上げ、鎮魂の調べとした。"
+    ],
+    "fb_caption": "まさかの配属は、軍用トラックの運転手。『ボレロ』の作曲家ラヴェルは第一次世界大戦で、戦闘機パイロットを志願しながらも体格不足で退けられ、前線への輸送任務についた。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "まさかの配属は、軍用トラックの運転手。『ボレロ』の作曲家ラヴェルは第一次世界大戦で、戦闘機パイロットを志願しながらも体格不足で退けられ、前線への輸送任務についた。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "まさかの配属は、軍用トラックの運転手。『ボレロ』の作曲家ラヴェルは第一次世界大戦で、戦闘機パイロットを志願しながらも体格不足で退けられ、前線への輸送任務についた。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n戦争を経てなお創作を続けたラヴェルの生涯にも、思いを馳せてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "出来事主役・ギャップ提示",
+    "caption_style": "conclusion_first"
+  }
+]
