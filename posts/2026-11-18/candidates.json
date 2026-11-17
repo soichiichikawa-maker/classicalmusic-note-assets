@@ -1,0 +1,311 @@
+[
+  {
+    "composer": "シューベルト",
+    "event_summary": "シューベルトの交響曲第9番ハ長調「グレート」は、演奏不可能と判断されて本人の生前には一度も公の場で演奏されなかった。死後10年を経た1838年、ウィーンを訪れたシューマンが兄フェルディナントの手元に残されていた楽譜を発見し、メンデルスゾーンの指揮で1839年に初演された。今日では、シューベルト最晩年を代表する大作として世界中で愛されている。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._9_(Schubert)",
+      "https://classical.music.apple.com/jp/work/franz-schubert-1797-pp53",
+      "https://xn--pckax2cxl398r27wc.com/composer/schubert/symphony-9_schmidt-isserstedt.html"
+    ],
+    "hook_copy": "シューベルトの交響曲、発見者はシューマン",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "死後10年、埋もれていた「幻の交響曲」",
+        "support_text": "シューベルト最後の交響曲",
+        "rank": 1,
+        "recommendation_reason": "忘却の時間の長さと「幻」という言葉で興味を引けるが、発見者が誰かという最大の驚きは示していないため次点。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Symphony_No._9_(Schubert)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "結末から入る(忘却期間を先に提示し、詳細は中で明かす)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "シューベルトの交響曲、発見者はシューマン",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前(シューベルト)と意外な発見者(シューマン)を一文に収め、結末から入る型として最も具体的かつ簡潔。単独で35字以内に収まり読みやすい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Symphony_No._9_(Schubert)",
+          "https://classical.music.apple.com/jp/work/franz-schubert-1797-pp53"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "結末から入る(発見者という意外な結末を先に明示)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "埋もれた交響曲、見つけたのはシューマン",
+        "support_text": "シューベルト最後の名曲",
+        "rank": 3,
+        "recommendation_reason": "出来事(発見)を主語にした変化球。Bと情報量は近いが、シューベルトの名前が支援文側に回るため主役感がやや弱く第3案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://classical.music.apple.com/jp/work/franz-schubert-1797-pp53"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "出来事主役型(発見という出来事を主語に置く)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "シューベルトが交響曲第9番ハ長調を書いたが、ウィーン楽友協会に「演奏不可能」と判断され、生前に一度も公の場で演奏されなかった。",
+      "1828年11月、シューベルトは31歳で死去した。遺された楽譜は兄フェルディナントの手元でそのまま忘れられ、長い沈黙が続いた。",
+      "10年後の1838年、ウィーンを訪れたシューマンが兄の家でこの楽譜を発見し、深く感銘を受けて親友メンデルスゾーンに託した。",
+      "1839年、メンデルスゾーンの指揮でライプツィヒにて初演された。今では「グレート」と呼ばれ、シューベルトの代表作として愛されている。"
+    ],
+    "fb_caption": "死後10年、埃をかぶったまま忘れられていた交響曲があった。発見したのは、ロベルト・シューマン。シューベルト最晩年の大作「交響曲第9番ハ長調(グレート)」は、こうして日の目を見ることになった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "ig_caption": "死後10年、埃をかぶったまま忘れられていた交響曲があった。発見したのは、ロベルト・シューマン。シューベルト最晩年の大作「交響曲第9番ハ長調(グレート)」は、こうして日の目を見ることになった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "死後10年、埃をかぶったまま忘れられていた交響曲があった。発見したのは、ロベルト・シューマン。シューベルト最晩年の大作「交響曲第9番ハ長調(グレート)」は、こうして日の目を見ることになった。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n死後に「王」と呼ばれるようになったシューベルトの生涯をたどった動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "youtube_link": "https://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "結末から入る(発見者という意外な結末を先に明示)",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ヘンデル",
+    "event_summary": "ヘンデルは1759年4月14日に74歳で死去した。本人は生前、ひっそりと質素に埋葬されることを望んでいたと伝えられるが、実際には貴族から庶民まで3000人もの人々が別れを惜しんで押し寄せた。遺体はウェストミンスター寺院に手厚く葬られ、今も音楽家として最高の栄誉の地に眠っている。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%AA%E3%83%AB%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%83%98%E3%83%B3%E3%83%87%E3%83%AB",
+      "https://note.com/riri0605/n/ne38dfa74951b"
+    ],
+    "hook_copy": "静かな埋葬を望んだのに、3000人が集まった\nヘンデル最後の願い",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "静かな埋葬を望んだのに、3000人が集まった",
+        "support_text": "ヘンデル最後の願い",
+        "rank": 1,
+        "recommendation_reason": "「結末から入る」型として、本人の願いと現実の落差を一文で提示できる。数字の具体性があり最も強いフック。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%AA%E3%83%AB%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%83%98%E3%83%B3%E3%83%87%E3%83%AB"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "結末から入る(本人の願いと現実の落差を先に提示)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ヘンデルの遺言、叶わなかった理由",
+        "support_text": "3000人が見送った葬儀",
+        "rank": 2,
+        "recommendation_reason": "名前(ヘンデル)を主語にした案。理由を問う形で興味は引けるが、Aほど数字の衝撃が前面に出ないため次点。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://note.com/riri0605/n/ne38dfa74951b"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "名前主役型(人物名を主語に理由を問う)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "3000人が押し寄せた「質素な葬儀」",
+        "support_text": "ヘンデルの願いとは逆に",
+        "rank": 3,
+        "recommendation_reason": "数字を先頭に置いた出来事主役型。矛盾(質素なのに3000人)は伝わるが、人物名が支援文側になるため主役感がやや弱く第3案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%AA%E3%83%AB%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%83%98%E3%83%B3%E3%83%87%E3%83%AB"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "出来事主役型(矛盾する数字を先頭に提示)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "ヘンデルは1759年4月14日、74歳で病の末にロンドンで静かに息を引き取った。晩年まで作曲家として活動を続けていた、偉大な音楽家だった。",
+      "当時すでにヨーロッパ随一の国民的音楽家だったヘンデルだが、本人は生前、ひっそりと質素な埋葬を望んでいたと伝えられている。",
+      "しかし実際の葬儀には、貴族から庶民まで、彼の死を悼む3000人もの人々が押し寄せ、新聞各紙もこぞってその様子を報じたという。",
+      "結局ヘンデルの遺体はウェストミンスター寺院に手厚く葬られ、今では英国音楽史上最高の栄誉の地として多くの観光客が訪れている。"
+    ],
+    "fb_caption": "静かに埋葬してほしい―ヘンデル本人はそう望んでいたという。しかし1759年4月の葬儀には、貴族から庶民まで3000人が押し寄せた。遺体は今もウェストミンスター寺院に眠っている。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "ig_caption": "静かに埋葬してほしい―ヘンデル本人はそう望んでいたという。しかし1759年4月の葬儀には、貴族から庶民まで3000人が押し寄せた。遺体は今もウェストミンスター寺院に眠っている。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "静かに埋葬してほしい―ヘンデル本人はそう望んでいたという。しかし1759年4月の葬儀には、貴族から庶民まで3000人が押し寄せた。遺体は今もウェストミンスター寺院に眠っている。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽を禁じられた少年期から大逆転したヘンデルの生涯を描いた動画も、よければご覧ください。\nhttps://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "youtube_link": "https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "結末から入る(本人の願いと現実の落差を先に提示)",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ファゴット",
+    "event_summary": "1913年、ストラヴィンスキー《春の祭典》の冒頭は、当時誰も聞いたことのないほどの高音域で奏でられるファゴットの独奏から始まった。低音の裏方だったファゴットのイメージを一変させたこの一節は、客席を騒然とさせたと伝えられ、今では管弦楽団の入団試験で定番の難関曲になっている。",
+    "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%98%A5%E3%81%AE%E7%A5%AD%E5%85%B8",
+      "https://www.kawasaki-sym-hall.jp/blog/?p=11037",
+      "https://note.com/varelser/n/n05cd3978ff08"
+    ],
+    "hook_copy": "この高すぎる音、何の楽器？\nファゴットが変えた《春の祭典》",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "この高すぎる音、何の楽器？",
+        "support_text": "ファゴットが変えた《春の祭典》",
+        "rank": 1,
+        "recommendation_reason": "「問いかけから入る」型の指定に最も忠実。具体的な曲名と楽器名を補足に添え、答えを知りたくなる構成。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E6%98%A5%E3%81%AE%E7%A5%AD%E5%85%B8"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ファゴット",
+        "hook_pattern": "問いかけから入る(1文目を疑問文にする)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ファゴットに「不可能な音」を書かせた男",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前(ファゴット)を主語にした断定型。単独で読めるが、問いかけ型の指定からは外れるため第3案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.kawasaki-sym-hall.jp/blog/?p=11037"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ファゴット",
+        "hook_pattern": "名前主役型(楽器名を主語に断定で提示)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [],
+        "playbook_score": 0,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "低音楽器が、史上最高音で始まる名曲に",
+        "support_text": "ファゴットの意外な大仕事",
+        "rank": 2,
+        "recommendation_reason": "出来事(低音楽器が最高音を担った)を主語にした案。意外性は伝わるが、問いかけ型ではないためAに次ぐ案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E6%98%A5%E3%81%AE%E7%A5%AD%E5%85%B8"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ファゴット",
+        "hook_pattern": "出来事主役型(役割の逆転を先頭に提示)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1913年、パリで初演されたストラヴィンスキー《春の祭典》は、誰も聞いたことのないような楽器の高音から静かに幕を開けた。",
+      "その正体は、本来は低音を支える裏方の楽器のはずだった「ファゴット」。当時の一般的な楽器では到底出せないはずの高音域だった。",
+      "あまりの難しさに客席は騒然となり、聴衆の中にいた作曲家サン=サーンスが途中で席を立ったという逸話が、今も語り継がれている。",
+      "以来この冒頭ソロは、ファゴット奏者の実力を試す難関として知られ、今では世界中のオーディションで定番として使われ続けている。"
+    ],
+    "fb_caption": "あの衝撃的な冒頭、聞こえてくる高い音は何の楽器だと思いますか？正体は、本来は低音域を支える「ファゴット」。1913年《春の祭典》の初演でその音域に挑み、客席を騒然とさせました。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "あの衝撃的な冒頭、聞こえてくる高い音は何の楽器だと思いますか？正体は、本来は低音域を支える「ファゴット」。1913年《春の祭典》の初演でその音域に挑み、客席を騒然とさせました。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "あの衝撃的な冒頭、聞こえてくる高い音は何の楽器だと思いますか？正体は、本来は低音域を支える「ファゴット」。1913年《春の祭典》の初演でその音域に挑み、客席を騒然とさせました。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n楽器ひとつの選び方が、名曲の印象を大きく変えることもあるのかもしれません。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "問いかけから入る(1文目を疑問文にする)",
+    "caption_style": "question"
+  }
+]
