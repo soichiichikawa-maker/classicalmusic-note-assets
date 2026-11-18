@@ -1,0 +1,320 @@
+[
+  {
+    "composer": "シューベルト",
+    "event_summary": "1828年11月19日、フランツ・シューベルトはウィーンで31歳の生涯を閉じた。死の5日前、病床の彼が友人の弦楽四重奏団に所望したのは、敬愛するベートーヴェンの弦楽四重奏曲第14番だった。生前は限られた評価しか得られなかったが、本人の願い通りベートーヴェンの隣に葬られ、死後に評価は高まっていった。",
+    "sources": [
+      "https://interlude.hk/schuberts-final-year-a-month-by-month-guide-to-1828/",
+      "https://www.classicfm.com/composers/beethoven/guides/franz-schubert/",
+      "https://www.britannica.com/biography/Franz-Schubert",
+      "https://www.citizen.co.za/south-coast-herald/uncategorized/2018/11/19/november-19-day-world-history-briefly/"
+    ],
+    "hook_copy": "シューベルト、死の5日前の願い\n床で望んだのはベートーヴェンの曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "シューベルト、死の5日前の願い",
+        "support_text": "床で望んだのはベートーヴェンの曲",
+        "rank": 1,
+        "recommendation_reason": "名前と具体的な行動が同時に見え、何の話か一目で分かる。『願い』という言葉が先の展開への興味を引く。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://interlude.hk/schuberts-final-year-a-month-by-month-guide-to-1828/",
+          "https://www.classicfm.com/composers/beethoven/guides/franz-schubert/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "名前+具体的行動の予告",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "死の床で流れた、ある四重奏曲",
+        "support_text": "願ったのはシューベルト、31歳",
+        "rank": 2,
+        "recommendation_reason": "曲そのものへの興味から入る出来事主役型。ただし誰の話か分かるまでに一拍必要。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://interlude.hk/schuberts-final-year-a-month-by-month-guide-to-1828/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "出来事先出し型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "31歳、最後に聴きたかった曲は？",
+        "support_text": "シューベルトの命日に",
+        "rank": 3,
+        "recommendation_reason": "問いかけ型で候補1の冒頭ルールと親和性は高いが、やや抽象的で初見では誰の話か伝わりにくい。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://interlude.hk/schuberts-final-year-a-month-by-month-guide-to-1828/",
+          "https://www.britannica.com/biography/Franz-Schubert"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "question"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "1828年11月、ウィーン。病に伏せたフランツ・シューベルトは、日に日に体力を失っていた。今日11月19日は、彼の命日にあたる。",
+      "死の5日前、病床のフランツ・シューベルトは、友人の弦楽四重奏団にベートーヴェンの弦楽四重奏曲第14番を演奏させ、静かに聴き入った。",
+      "それから5日後の11月19日、シューベルトは31歳で息を引き取った。生前、彼の名はウィーンの外ではほとんど知られていなかった。",
+      "シューベルトの死後、彼の評価は次第に高まり、本人が望んだ通りベートーヴェンの隣に埋葬され、今も二人は同じ場所で静かに眠っている。"
+    ],
+    "fb_caption": "今日は11月19日、フランツ・シューベルトの命日です。もし人生最後に一曲だけ聴けるとしたら、何を選びますか？🎵 死の5日前、病床の彼が選んだのはベートーヴェンの弦楽四重奏曲第14番でした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "ig_caption": "今日は11月19日、フランツ・シューベルトの命日です。もし人生最後に一曲だけ聴けるとしたら、何を選びますか？🎵 死の5日前、病床の彼が選んだのはベートーヴェンの弦楽四重奏曲第14番でした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "今日は11月19日、フランツ・シューベルトの命日です。もし人生最後に一曲だけ聴けるとしたら、何を選びますか？🎵 死の5日前、病床の彼が選んだのはベートーヴェンの弦楽四重奏曲第14番でした。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n死後に「王」と呼ばれるまでの軌跡をたどった動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "youtube_link": "https://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "名前+具体的行動の予告",
+    "caption_style": "question"
+  },
+  {
+    "composer": "チャイコフスキー",
+    "event_summary": "1859年、19歳のチャイコフスキーは法律学校を卒業し、ロシア法務省の役人として働き始めた。しかし音楽への情熱を抑えきれず、1863年、23歳で安定した官職を辞して音楽院に専念する道を選んだ。のちに『白鳥の湖』などの傑作を生む作曲家へと転身した。",
+    "sources": [
+      "https://bushoojapan.com/world/musician/2024/11/06/86842",
+      "https://www.music-tel.com/ez2/c/comp2/t/Tchaikovsky.html",
+      "https://edyclassic.com/16161/"
+    ],
+    "hook_copy": "チャイコフスキー、まさかの前職\n法務省の役人だった",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "チャイコフスキー、まさかの前職",
+        "support_text": "法務省の役人だった",
+        "rank": 1,
+        "recommendation_reason": "有名作曲家と地味な前職のギャップが一目で伝わり、続きを読みたくなる。名前主役で検索性も高い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://bushoojapan.com/world/musician/2024/11/06/86842"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "名前+意外な前職",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.42,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "役人が、作曲家に転身した日",
+        "support_text": "チャイコフスキー、23歳の決断",
+        "rank": 2,
+        "recommendation_reason": "出来事を先に出すことで転身の瞬間に焦点を当てる。名前は補足に回るため初見のインパクトはやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.music-tel.com/ez2/c/comp2/t/Tchaikovsky.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "出来事先出し型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "1863年、法務省を去った男",
+        "support_text": "チャイコフスキー、23歳の転身",
+        "rank": 3,
+        "recommendation_reason": "場面提示型で候補2の冒頭ルールに近いが、『男』という表現がやや抽象的で名前の訴求力が弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://edyclassic.com/16161/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "年号+場面提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "19世紀ロシア、サンクトペテルブルク。少年ピョートル・チャイコフスキーは、両親の強い勧めで法律学校に入学し、音楽とは縁遠い道を歩み始めた。",
+      "卒業後は法務省に就職し、9等文官として働き始めた。しかし音楽院に通ううちに、彼の情熱はもはや抑えられないほど膨らんでいった。",
+      "1863年、23歳のチャイコフスキーは、安定していた官職を自らの意思で捨てて、音楽院での学びに本格的に専念する道を選んだ。",
+      "その後26歳でモスクワ音楽院の教壇に立ち、やがて『白鳥の湖』をはじめとする数々の傑作を世に送り出す、ロシアを代表する作曲家となった。"
+    ],
+    "fb_caption": "1859年、サンクトペテルブルクの法律学校を卒業した19歳のピョートル・チャイコフスキーは、そのままロシア法務省に就職しました。けれど音楽への情熱は消えず、23歳で安定した官職を捨てて音楽院に進み、のちに『白鳥の湖』を生む作曲家になります🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=pU4C0N2AMHM",
+    "ig_caption": "1859年、サンクトペテルブルクの法律学校を卒業した19歳のピョートル・チャイコフスキーは、そのままロシア法務省に就職しました。けれど音楽への情熱は消えず、23歳で安定した官職を捨てて音楽院に進み、のちに『白鳥の湖』を生む作曲家になります🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1859年、サンクトペテルブルクの法律学校を卒業した19歳のピョートル・チャイコフスキーは、そのままロシア法務省に就職しました。けれど音楽への情熱は消えず、23歳で安定した官職を捨てて音楽院に進み、のちに『白鳥の湖』を生む作曲家になります🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nなぜ彼がすべてを捨てたのかを追った動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=pU4C0N2AMHM",
+    "youtube_link": "https://www.youtube.com/watch?v=pU4C0N2AMHM",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "名前+意外な前職",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ヴェルディ",
+    "event_summary": "1858年、ヴェルディは新作オペラ『仮面舞踏会』の初演をナポリで準備していたが、国王暗殺を描いた筋書きに検閲当局が待ったをかけた。直前に起きたナポレオン3世暗殺未遂事件も重なり、結局舞台はアメリカのボストンに移され、登場人物の名前もすべて変更された。",
+    "sources": [
+      "https://www.nbs.or.jp/webmagazine/special/opera3/20231004-04.html",
+      "https://ja.wikipedia.org/wiki/%E4%BB%AE%E9%9D%A2%E8%88%9E%E8%B8%8F%E4%BC%9A_(%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A3)",
+      "https://ameblo.jp/viaggio2010/entry-12796054723.html"
+    ],
+    "hook_copy": "ヴェルディ、検閲との闘い\n国王暗殺劇、舞台はボストンに",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ヴェルディ、検閲との闘い",
+        "support_text": "国王暗殺劇、舞台はボストンに",
+        "rank": 1,
+        "recommendation_reason": "名前と結果の意外性（国王暗殺劇が舞台変更に）が同時に伝わり、政治に翻弄された様子が一目で分かる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E4%BB%AE%E9%9D%A2%E8%88%9E%E8%B8%8F%E4%BC%9A_(%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A3)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "名前+結果の意外性",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "国王暗殺の舞台、なぜボストンに",
+        "support_text": "検閲が変えた、ヴェルディの傑作",
+        "rank": 2,
+        "recommendation_reason": "出来事（舞台変更）の謎から入る型。名前は補足に回るため、初見の訴求力はAよりやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.nbs.or.jp/webmagazine/special/opera3/20231004-04.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "出来事先出し・謎かけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "1858年、ナポリの検閲官",
+        "support_text": "ヴェルディの新作に待った",
+        "rank": 3,
+        "recommendation_reason": "場面提示型で候補3の冒頭ルールに近いが、結末（ボストンへの変更）まで見えないため引きがやや弱い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ameblo.jp/viaggio2010/entry-12796054723.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "年号+場面提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1858年1月、ナポリ。ジュゼッペ・ヴェルディは新作オペラの総譜を携え、サン・カルロ劇場で初演準備を進めていた。題材は国王暗殺事件だった。",
+      "しかし当局は、国王暗殺の場面を許可しなかった。直前に起きたナポレオン3世暗殺未遂事件により、検閲はより一層厳しくなっていた。",
+      "結局、舞台はイギリス植民地時代のアメリカ・ボストンに変更され、国王も貴族たちも、すべて架空の名前へと書き換えられてしまった。",
+      "舞台設定こそ大きく変わったが、ヴェルディの音楽への情熱は変わらず、名作『仮面舞踏会』は今も世界中の歌劇場で愛され続けている。"
+    ],
+    "fb_caption": "1858年1月、ナポリ。ジュゼッペ・ヴェルディは新作オペラ『仮面舞踏会』の初演準備を進めていましたが、国王暗殺を描いた筋書きに検閲が待ったをかけます。結局、舞台はボストンへ、登場人物の名前もすべて書き換えられました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1858年1月、ナポリ。ジュゼッペ・ヴェルディは新作オペラ『仮面舞踏会』の初演準備を進めていましたが、国王暗殺を描いた筋書きに検閲が待ったをかけます。結局、舞台はボストンへ、登場人物の名前もすべて書き換えられました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1858年1月、ナポリ。ジュゼッペ・ヴェルディは新作オペラ『仮面舞踏会』の初演準備を進めていましたが、国王暗殺を描いた筋書きに検閲が待ったをかけます。結局、舞台はボストンへ、登場人物の名前もすべて書き換えられました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n検閲さえも越えて輝き続ける、ヴェルディの音楽にも注目です。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "politics_war",
+    "hook_pattern": "名前+結果の意外性",
+    "caption_style": "scene"
+  }
+]
