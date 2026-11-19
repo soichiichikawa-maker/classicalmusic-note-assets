@@ -1,0 +1,316 @@
+[
+  {
+    "composer": "コープランド",
+    "event_summary": "1925年11月20日、アーロン・コープランドの『劇場のための音楽』がボストンでクーセヴィツキー指揮のもと世界初演された。ジャズの語法を取り入れたこの曲は、実は特定の芝居を想定せずに作曲され、完成後に『演劇的な雰囲気を感じる』という理由だけでタイトルが付けられた。今日はちょうどこの初演から101年の節目にあたる。",
+    "sources": [
+      "https://www.aaroncopland.com/works/music-for-the-theatre/",
+      "https://americansymphony.org/concert-notes/roaring-twenties/",
+      "https://orchestraoftheswan.org/new-york-comes-to-stratfordthemes-and-variations/",
+      "https://www.lafolia.com/copland-and-me-two-concerts-and-a-recording/"
+    ],
+    "hook_copy": "曲名は、完成後に決めた\nコープランド『劇場のための音楽』",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "《劇場のための音楽》に芝居はない",
+        "support_text": "コープランド、1925年",
+        "rank": 2,
+        "recommendation_reason": "作品名そのものを使った名詞句フック。タイトルの矛盾を提示して興味を引くが、答えの気づきはCよりやや弱い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.aaroncopland.com/works/music-for-the-theatre/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "名詞句＋矛盾提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "今日、101年前の初演の夜",
+        "support_text": "コープランドの代表作誕生",
+        "rank": 3,
+        "recommendation_reason": "日付一致を前面に出す案。記念日訴求としては素直だが、具体的な中身への興味は弱め。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.aaroncopland.com/works/music-for-the-theatre/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "日付訴求型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "曲名は、完成後に決めた",
+        "support_text": "コープランド『劇場のための音楽』",
+        "rank": 1,
+        "recommendation_reason": "曲作りの常識（先にタイトルを決める）を裏切る短い主張。誰もが知る「曲名の由来」への好奇心を最も強く引く。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.aaroncopland.com/works/music-for-the-theatre/",
+          "https://orchestraoftheswan.org/new-york-comes-to-stratfordthemes-and-variations/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "コープランド",
+        "hook_pattern": "短い主張＋時系列の意外性",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "1925年当時、パリ留学から帰国した25歳のコープランドは、ジャズの要素を取り入れた新しい管弦楽曲の作曲に取り組んでいた。",
+      "この曲は『作曲家連盟』の依頼を受け、指揮者クーセヴィツキーに捧げられたが、特定の芝居や物語は最初から想定されていなかった。",
+      "曲を書き終えたあと、コープランド自身が「演劇的な雰囲気を感じる」という理由だけで、『劇場のための音楽』という曲名を選んだ。",
+      "今日11月20日、101年前にボストンでクーセヴィツキー指揮により世界初演を迎えた。アメリカ的な新しい響きを印象づけた。"
+    ],
+    "fb_caption": "なぜこの曲は『劇場のための音楽』と名付けられたのでしょうか？ 今日11月20日は、コープランドの代表作がボストンで世界初演されてから、ちょうど101年。曲が完成したあとに、芝居とは関係のない理由でタイトルが決まりました。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "なぜこの曲は『劇場のための音楽』と名付けられたのでしょうか？ 今日11月20日は、コープランドの代表作がボストンで世界初演されてから、ちょうど101年。曲が完成したあとに、芝居とは関係のない理由でタイトルが決まりました。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "なぜこの曲は『劇場のための音楽』と名付けられたのでしょうか？ 今日11月20日は、コープランドの代表作がボストンで世界初演されてから、ちょうど101年。曲が完成したあとに、芝居とは関係のない理由でタイトルが決まりました。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nジャズ時代に生まれたこの一曲、ぜひ耳を傾けてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "短い主張＋時系列の意外性",
+    "caption_style": "question"
+  },
+  {
+    "composer": "ヴェルディ",
+    "event_summary": "1853年3月6日、ヴェルディの新作オペラ『椿姫』がヴェネツィアのラ・フェニーチェ劇場で初演されたが、主役を演じた歌手の体格が役柄に合わないなどの理由で客席の失笑を買い、本人も「失敗だった」と手紙に書くほどの不評に終わった。しかし翌年、配役を一新した再演で一転大成功を収め、今では世界で最も上演されるオペラの一つとなっている。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_traviata",
+      "https://www.operatoday.com/content/2005/11/verdi_la_travia.php",
+      "https://www.eno.org/discover-opera/articles/an-introduction-to-la-traviata/",
+      "https://en.wikipedia.org/wiki/Fanny_Salvini-Donatelli"
+    ],
+    "hook_copy": "歌姫は「太りすぎ」と笑われた\nヴェルディ『椿姫』初演",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ヴェルディの『椿姫』、初演は大失敗",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前と結果を直接つなぐ素直な案。分かりやすいが意外性は中程度。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/La_traviata"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "名前＋結果の直球型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "1853年、ヴェネツィアで起きた大事件",
+        "support_text": "ヴェルディ『椿姫』",
+        "rank": 3,
+        "recommendation_reason": "場所と年号で情景を示す案だが、「事件」の中身が見えず具体性に欠ける。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/La_traviata"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "場面提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "歌姫は「太りすぎ」と笑われた",
+        "support_text": "ヴェルディ『椿姫』初演",
+        "rank": 1,
+        "recommendation_reason": "初演当夜の具体的な屈辱エピソードを前面に出し、最も強い好奇心を引く。結末への落差も大きい。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.operatoday.com/content/2005/11/verdi_la_travia.php",
+          "https://en.wikipedia.org/wiki/Fanny_Salvini-Donatelli"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヴェルディ",
+        "hook_pattern": "具体的屈辱エピソード型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1853年3月6日、ヴェネツィアのラ・フェニーチェ劇場で、43歳のヴェルディによる新作オペラ『椿姫』が初演の幕を開けた。",
+      "だが主役ヴィオレッタ役の歌手は恰幅のよい中年女性で、「薄幸の病身の娘」という設定にそぐわず、客席からは失笑と野次が飛んだ。",
+      "その日の夜のうちに、ヴェルディ自身が友人宛ての手紙で「『椿姫』は昨夜、失敗だった」と率直に書き記し、自分をとても深く責めた。",
+      "わずか1年後、配役を一新して再演すると一転して大成功を収めた。『椿姫』は今や世界で最も愛されるオペラの一つとなっている。"
+    ],
+    "fb_caption": "1853年3月6日、ヴェネツィアのラ・フェニーチェ劇場。ヴェルディの新作『椿姫』の初演に、客席から失笑と野次が起きました。恰幅のよい歌手の歌うヴィオレッタ役に、客は納得できなかったのです。わずか1年後、配役を変えた再演で一転、世界的な人気作へと生まれ変わりました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1853年3月6日、ヴェネツィアのラ・フェニーチェ劇場。ヴェルディの新作『椿姫』の初演に、客席から失笑と野次が起きました。恰幅のよい歌手の歌うヴィオレッタ役に、客は納得できなかったのです。わずか1年後、配役を変えた再演で一転、世界的な人気作へと生まれ変わりました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1853年3月6日、ヴェネツィアのラ・フェニーチェ劇場。ヴェルディの新作『椿姫』の初演に、客席から失笑と野次が起きました。恰幅のよい歌手の歌うヴィオレッタ役に、客は納得できなかったのです。わずか1年後、配役を変えた再演で一転、世界的な人気作へと生まれ変わりました。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n大逆転を遂げた『椿姫』の名旋律を、ぜひ聴いてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "premiere",
+    "hook_pattern": "具体的屈辱エピソード型",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "マーラー",
+    "event_summary": "1897年、マーラーはウィーン宮廷歌劇場の音楽監督就任にあたり、ユダヤ教からカトリックへ改宗した。ユダヤ系という出自が重要な役職への壁となっていた時代背景の中での決断であり、その後10年にわたり同劇場の黄金期を築いた。",
+    "sources": [
+      "https://www.bunkamura.co.jp/orchard/lineup/15_mahler/topics/column_1.html",
+      "https://note.com/clanosukegakki/n/n129950ae1316",
+      "https://ijin-lab.org/ja/persons/Q7304",
+      "https://shinkyo.org/articles/i210-1.html"
+    ],
+    "hook_copy": "ユダヤ教からカトリックへ、マーラーの選択",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "マーラー、出世の代償",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前主役で簡潔だが、何の代償かが曖昧で具体性に欠けるため第3案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://note.com/clanosukegakki/n/n129950ae1316"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "名前主役・抽象的な代償提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "音楽監督の条件は\"改宗\"",
+        "support_text": "マーラー",
+        "rank": 3,
+        "recommendation_reason": "出来事を強調し興味を引けるが、対象人物名が補足に留まるため次点。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ijin-lab.org/ja/persons/Q7304"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "出来事主役・条件提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ユダヤ教からカトリックへ、マーラーの選択",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "改宗という具体的な出来事と対象人物名を一文で両立させ、出自と転身というテーマを明確に伝えられるため推奨。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.bunkamura.co.jp/orchard/lineup/15_mahler/topics/column_1.html",
+          "https://note.com/clanosukegakki/n/n129950ae1316"
+        ],
+        "fact_status": "verified",
+        "subject_label": "マーラー",
+        "hook_pattern": "名前＋出来事併記・具体的転身提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1897年、グスタフ・マーラーはウィーン宮廷歌劇場という音楽界最高峰の地位を目前にしていました。しかし、その椅子には誰もが知るある壁が立ちはだかっていたのです。",
+      "当時のウィーンでは、ユダヤ人が宮廷の重要な役職に就くことは極めて難しいとされていました。ユダヤ系に生まれたマーラーも、この慣習の例外ではありませんでした。",
+      "そこでマーラーが選んだのが、ユダヤ教からカトリックへの改宗。音楽監督の椅子を得るための、覚悟の決断でした。信仰よりもキャリアを選んだ、という批判も根強く残りました。",
+      "改宗を経て就任した音楽監督の座を、マーラーは10年にわたり務め上げ、音楽史に残る黄金期を築き上げました。出自への逆風を越え、不滅の交響曲群を世に送り出したのです。"
+    ],
+    "fb_caption": "1897年、ウィーン。マーラーは宮廷歌劇場の音楽監督という大舞台を目前にしていましたが、ユダヤ系という出自がその壁として立ちはだかっていました。彼が下した決断は、カトリックへの改宗。覚悟の転身の末、10年にわたり同劇場を率いる黄金期を築き上げました✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1897年、ウィーン。マーラーは宮廷歌劇場の音楽監督という大舞台を目前にしていましたが、ユダヤ系という出自がその壁として立ちはだかっていました。彼が下した決断は、カトリックへの改宗。覚悟の転身の末、10年にわたり同劇場を率いる黄金期を築き上げました✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1897年、ウィーン。マーラーは宮廷歌劇場の音楽監督という大舞台を目前にしていましたが、ユダヤ系という出自がその壁として立ちはだかっていました。彼が下した決断は、カトリックへの改宗。覚悟の転身の末、10年にわたり同劇場を率いる黄金期を築き上げました✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n出自を越えて音楽史に名を刻んだマーラーの生涯に、思いを馳せてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "名前＋出来事併記・具体的転身提示型",
+    "caption_style": "scene"
+  }
+]
