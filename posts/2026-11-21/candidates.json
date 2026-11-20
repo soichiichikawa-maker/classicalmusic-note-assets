@@ -1,0 +1,317 @@
+[
+  {
+    "composer": "ラヴェル",
+    "event_summary": "モーリス・ラヴェルは1920年代後半から記憶障害や失語の兆候に苦しみ、1932年のタクシー事故を機に症状が悪化した。それでも《左手のためのピアノ協奏曲》など数曲の傑作を書き続け、1937年、望みをかけた脳手術の末に意識が戻らないまま62歳で世を去った。原因は原発性進行性失語症とみられる神経変性疾患だったとされる。",
+    "sources": [
+      "https://www.jmedj.co.jp/journal/paper/detail.php?id=16264",
+      "https://note.com/st0912/n/n81df025a052e",
+      "https://seven-knives.online/maurice-ravel1/",
+      "https://chirigiwa.com/?p=1952"
+    ],
+    "hook_copy": "言葉を失った作曲家、残した4曲\nラヴェルの最晩年",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ラヴェル、失語症と闘った晩年",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "名前を主役にして安心感を出せるが、結末のインパクトはCに劣る。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.jmedj.co.jp/journal/paper/detail.php?id=16264",
+          "https://seven-knives.online/maurice-ravel1/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "名前+状態提示(直接の人物訴求)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "指が覚えていた最後の名旋律",
+        "support_text": "ラヴェルの闘病",
+        "rank": 2,
+        "recommendation_reason": "詩的な表現で興味を引けるが、対象が何の病か分かりにくく回収までの距離がやや遠い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://note.com/st0912/n/n81df025a052e",
+          "https://chirigiwa.com/?p=1952"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "出来事(結果)先出し型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "言葉を失った作曲家、残した4曲",
+        "support_text": "ラヴェルの最晩年",
+        "rank": 3,
+        "recommendation_reason": "喪失(言葉)と達成(4曲)の対比で続きが気になる設計。対象名も補足で明示できる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.jmedj.co.jp/journal/paper/detail.php?id=16264",
+          "https://note.com/st0912/n/n81df025a052e",
+          "https://seven-knives.online/maurice-ravel1/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ラヴェル",
+        "hook_pattern": "対比(喪失と達成)型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "フランス音楽を代表する作曲家モーリス・ラヴェルは、1928年に代表作《ボレロ》を発表し、「音の魔術師」と呼ばれ絶頂期にあった。",
+      "しかし1920年代後半から記憶障害や失語の兆候が現れ、1932年のタクシー事故をきっかけに症状は急速に悪化し、文字さえ書けなくなった。",
+      "それでも彼は諦めず、《左手のためのピアノ協奏曲》や《ピアノ協奏曲ト長調》など、最晩年までになお数曲の傑作を書き上げ続けた。",
+      "1937年12月、一縷の望みをかけたパリでの脳手術を受けたが意識は戻らず、ラヴェルは62歳でその生涯の幕を静かに閉じた。"
+    ],
+    "fb_caption": "ラヴェルは晩年、言葉も記憶も少しずつ失いながら、《左手のためのピアノ協奏曲》など新たな名作を生み出し続けました。原因は原発性進行性失語症とみられる神経の病。1937年、望みをかけた脳手術の末に意識は戻らず、62歳でその生涯を閉じています🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "ラヴェルは晩年、言葉も記憶も少しずつ失いながら、《左手のためのピアノ協奏曲》など新たな名作を生み出し続けました。原因は原発性進行性失語症とみられる神経の病。1937年、望みをかけた脳手術の末に意識は戻らず、62歳でその生涯を閉じています🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "ラヴェルは晩年、言葉も記憶も少しずつ失いながら、《左手のためのピアノ協奏曲》など新たな名作を生み出し続けました。原因は原発性進行性失語症とみられる神経の病。1937年、望みをかけた脳手術の末に意識は戻らず、62歳でその生涯を閉じています🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n静かな晩年に生まれた旋律に、改めて耳を傾けてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "対比(喪失と達成)型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ドビュッシー",
+    "event_summary": "1918年3月25日、フランスの作曲家ドビュッシーが55歳で死去した。当時パリは第一次世界大戦末期のドイツ軍による砲撃下にあり、公の盛大な葬儀は許されず、わずか20人ほどが人けのない通りを進む柩を見送った。遺体は翌年、戦争終結後にパッシー墓地へと改葬された。",
+    "sources": [
+      "https://interlude.hk/on-this-day-25-march-claude-debussy-died/",
+      "https://www.classical-music.com/features/composers/claude-debussy",
+      "https://ja.wikipedia.org/wiki/クロード・ドビュッシー",
+      "https://www.findagrave.com/memorial/5478/claude-debussy"
+    ],
+    "hook_copy": "その葬送曲を鳴らしたのは、誰だったのか\nドビュッシーの最期",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ドビュッシーの葬列、なぜ静かだったのか",
+        "support_text": "1918年、パリ",
+        "rank": 3,
+        "recommendation_reason": "名前を主役にした問いかけ。状況の異様さは伝わるが、Bほどの皮肉の強さがない。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.classical-music.com/features/composers/claude-debussy",
+          "https://www.findagrave.com/memorial/5478/claude-debussy"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "名前主役＋状況への問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "その葬送曲を鳴らしたのは、誰だったのか",
+        "support_text": "ドビュッシーの最期",
+        "rank": 2,
+        "recommendation_reason": "『葬送曲』という音楽的な言葉を使いつつ、答えがドイツ軍の砲声だったという皮肉な着地が最も強い。出来事主役で意外性も高い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://interlude.hk/on-this-day-25-march-claude-debussy-died/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "出来事主役＋皮肉な問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ埋葬は1年越しだったのか",
+        "support_text": "ドビュッシーの墓",
+        "rank": 1,
+        "recommendation_reason": "改葬という史実のユニークさを突くが、A・Bに比べて死の瞬間の劇的さが伝わりにくい。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/クロード・ドビュッシー"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドビュッシー",
+        "hook_pattern": "出来事主役＋小さな謎かけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "第一次世界大戦末期の1918年3月25日、作曲家ドビュッシーは55歳で死去した。当時パリはドイツ軍の砲撃にさらされていた。",
+      "当時のパリは混乱する戦況のため盛大な葬儀を許さず、わずか20人ほどが人けのない通りを進む柩を、静かに見送ったと伝えられている。",
+      "同時代の人々は「葬送行進曲を奏でたのはドイツの巨砲だった」と評し、遺体はひとまずペール・ラシェーズ墓地に仮に埋葬された。",
+      "戦争が終わった翌1919年、遺体はパリのパッシー墓地へ正式に改葬され、後に妻エンマと娘シュシュも同じ墓に静かに眠ることになった。"
+    ],
+    "fb_caption": "ドビュッシーの葬列は、なぜ静まり返っていたのでしょうか。1918年、第一次世界大戦末期のパリでは、彼の死の直後も街にドイツ軍の砲撃が響いていました。公の盛大な葬儀は許されず、柩はわずかな人数に見送られて墓地へと向かいました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "ドビュッシーの葬列は、なぜ静まり返っていたのでしょうか。1918年、第一次世界大戦末期のパリでは、彼の死の直後も街にドイツ軍の砲撃が響いていました。公の盛大な葬儀は許されず、柩はわずかな人数に見送られて墓地へと向かいました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "ドビュッシーの葬列は、なぜ静まり返っていたのでしょうか。1918年、第一次世界大戦末期のパリでは、彼の死の直後も街にドイツ軍の砲撃が響いていました。公の盛大な葬儀は許されず、柩はわずかな人数に見送られて墓地へと向かいました🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n戦時下でも音楽を手放さなかったドビュッシーの作品、ぜひ耳を傾けてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "出来事主役＋皮肉な問いかけ型",
+    "caption_style": "question"
+  },
+  {
+    "composer": "トランペット",
+    "event_summary": "トランペットは元々、軍隊の合図や祝典のための道具として使われ、バロック期の「ナチュラル・トランペット」にはバルブが無く自然倍音だけで演奏する特殊な奏法が必要だった。1814年、ドイツのハインリヒ・シュテルツェルらがバルブ機構を発明し、半音階を自由に奏でられる楽器へと進化した。この発明は後のピストンバルブ改良を経て、現代のトランペットの姿につながっていく。",
+    "sources": [
+      "https://note.com/mausublow/n/n3f7bc1328d22",
+      "https://www.tomotrp.com/entry/geschichtedertrompete",
+      "https://at-rain.com/archives/74",
+      "http://prius.way-nifty.com/nakanakaya/2019/11/post-649413.html"
+    ],
+    "hook_copy": "トランペットに、なぜボタンが無かったのか\nバロック時代の壁",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "なぜ高音しか吹けなかったのか",
+        "support_text": "トランペットの弱点",
+        "rank": 2,
+        "recommendation_reason": "奏法の制約に焦点を当てた案。専門的に正確だが、一般層にはBより伝わりにくい表現。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://at-rain.com/archives/74"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トランペット",
+        "hook_pattern": "出来事主役＋弱点への問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "トランペットに、なぜボタンが無かったのか",
+        "support_text": "バロック時代の壁",
+        "rank": 1,
+        "recommendation_reason": "「ボタン」という身近な言葉でバルブの有無を表現し、誰でもイメージしやすい。楽器名も見出しに明示されており入口として最も強い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://note.com/mausublow/n/n3f7bc1328d22",
+          "https://at-rain.com/archives/74"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トランペット",
+        "hook_pattern": "楽器名主役＋身近な言葉での問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "全音階を手に入れたのは、わずか200年前",
+        "support_text": "トランペットの進化",
+        "rank": 3,
+        "recommendation_reason": "意外に新しい発明だという時間軸の驚きを突く案。Bに比べ具体的な『何が無かったか』が見出しだけでは伝わりにくい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.tomotrp.com/entry/geschichtedertrompete",
+          "http://prius.way-nifty.com/nakanakaya/2019/11/post-649413.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "トランペット",
+        "hook_pattern": "出来事主役＋時間軸の驚き型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.09,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "トランペットという楽器は、もともと音楽のためではなく、軍隊の合図や祝祭の儀式を彩るための道具として、古くから使われてきた。",
+      "バロック時代の「ナチュラル・トランペット」にはバルブが無く、唇の使い方だけで高音域を操る超絶技巧「クラリーノ奏法」が求められた。",
+      "1814年、ドイツのハインリヒ・シュテルツェルらがバルブ機構を発明し、トランペットは半音階を自由に奏でられる楽器になった。",
+      "その後、1839年のピストンバルブ改良を経て、現在私たちがオーケストラやジャズで耳にする現代のトランペットの姿が完成した。"
+    ],
+    "fb_caption": "トランペットに、なぜ「ボタン」が無かった時代があったのでしょうか。バロック期のトランペットは自然倍音だけで音を出す「ナチュラル・トランペット」で、高音域を操る特殊な奏法が頼りでした。1814年、ドイツでバルブ機構が発明されると、ようやく自由な音階を奏でられる楽器へと生まれ変わりました🎺\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "トランペットに、なぜ「ボタン」が無かった時代があったのでしょうか。バロック期のトランペットは自然倍音だけで音を出す「ナチュラル・トランペット」で、高音域を操る特殊な奏法が頼りでした。1814年、ドイツでバルブ機構が発明されると、ようやく自由な音階を奏でられる楽器へと生まれ変わりました🎺\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "トランペットに、なぜ「ボタン」が無かった時代があったのでしょうか。バロック期のトランペットは自然倍音だけで音を出す「ナチュラル・トランペット」で、高音域を操る特殊な奏法が頼りでした。1814年、ドイツでバルブ機構が発明されると、ようやく自由な音階を奏でられる楽器へと生まれ変わりました🎺\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n身近な金管楽器トランペットの音色にも、ぜひ注目してみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "楽器名主役＋身近な言葉での問いかけ型",
+    "caption_style": "question"
+  }
+]
