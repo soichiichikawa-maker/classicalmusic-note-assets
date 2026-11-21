@@ -1,0 +1,313 @@
+[
+  {
+    "composer": "ドヴォルザーク",
+    "event_summary": "交響曲第9番「新世界より」第2楽章の旋律は黒人霊歌の編曲だと誤解されがちだが、実際はドヴォルザーク自身が書いたオリジナルの旋律である。黒人の弟子ハリー・バーリーから霊歌を学んだ経験が着想源となった。後に弟子が歌詞をつけ「Goin' Home」として世界的に親しまれた。",
+    "sources": [
+      "https://doing-art.co.jp/%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF%E3%80%8E%E6%96%B0%E4%B8%96%E7%95%8C%E3%82%88%E3%82%8A%E3%80%8F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%8C%E5%AE%B6%E8%B7%AF%E3%80%8D%E3%81%AE",
+      "https://www.choge-blog.com/history/shinsekaiyori/",
+      "https://xs699578.xsrv.jp/2025/04/23/%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF%E3%80%8C%E4%BA%A4%E9%9F%BF%E6%9B%B2%E7%AC%AC9%E7%95%AA-%E7%AC%AC2%E6%A5%BD%E7%AB%A0%E3%80%8D%E9%81%A0%E3%81%8D%E5%B1%B1%E3%81%AB/"
+    ],
+    "hook_copy": "この名旋律、霊歌ではない？\nドヴォルザーク「新世界より」",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "この名旋律、霊歌ではない？",
+        "support_text": "ドヴォルザーク「新世界より」",
+        "rank": 1,
+        "recommendation_reason": "問いかけ型の枠に最も合致し、誰もが知る「家路」のメロディへの誤解を突く入口で手が止まりやすい",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.choge-blog.com/history/shinsekaiyori/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "問いかけ×誤解の指摘",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "「家路」は霊歌じゃない",
+        "support_text": "ドヴォルザークの新世界より",
+        "rank": 2,
+        "recommendation_reason": "出来事（曲名）主役で入りやすいが、問いかけ型の枠としてはAよりやや平板",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://xs699578.xsrv.jp/2025/04/23/%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF%E3%80%8C%E4%BA%A4%E9%9F%BF%E6%9B%B2%E7%AC%AC9%E7%95%AA-%E7%AC%AC2%E6%A5%BD%E7%AB%A0%E3%80%8D%E9%81%A0%E3%81%8D%E5%B1%B1%E3%81%AB/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "断定×否定の指摘",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "望郷が生んだ、幻の旋律",
+        "support_text": "ドヴォルザークの代表作に秘密",
+        "rank": 3,
+        "recommendation_reason": "情緒的だが「誤解の訂正」という具体性がAより弱く、手が止まる力は一歩譲る",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://doing-art.co.jp/%E3%83%89%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%AF%E3%80%8E%E6%96%B0%E4%B8%96%E7%95%8C%E3%82%88%E3%82%8A%E3%80%8F%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%8C%E5%AE%B6%E8%B7%AF%E3%80%8D%E3%81%AE"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "情緒喚起型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1893年、ニューヨークで暮らしていたドヴォルザークは、黒人霊歌の調べに深く心を動かされ、交響曲第9番「新世界より」の構想を練っていた。",
+      "交響曲第9番「新世界より」の第2楽章の旋律は「家路」として親しまれ、今も多くの人がこれを黒人霊歌そのものだと思い込んでいる。",
+      "だが実際は、黒人の弟子ハリー・バーリーから学んだ霊歌の精神を取り入れただけで、旋律そのものはドヴォルザーク自身の創作だった。",
+      "1922年、弟子が英語の歌詞をつけて「Goin' Home」として発表すると、以来世界中で民謡のように愛され続けている。"
+    ],
+    "fb_caption": "この美しい旋律、黒人霊歌だと思っていませんか？🎵 ドヴォルザークの交響曲第9番「新世界より」第2楽章、通称「家路」。実はこれ、霊歌の引用ではなくドヴォルザーク自身のオリジナルメロディでした。望郷の念と異文化への感動が生んだ、知られざる誕生秘話です。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "この美しい旋律、黒人霊歌だと思っていませんか？🎵 ドヴォルザークの交響曲第9番「新世界より」第2楽章、通称「家路」。実はこれ、霊歌の引用ではなくドヴォルザーク自身のオリジナルメロディでした。望郷の念と異文化への感動が生んだ、知られざる誕生秘話です。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "この美しい旋律、黒人霊歌だと思っていませんか？🎵 ドヴォルザークの交響曲第9番「新世界より」第2楽章、通称「家路」。実はこれ、霊歌の引用ではなくドヴォルザーク自身のオリジナルメロディでした。望郷の念と異文化への感動が生んだ、知られざる誕生秘話です。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n音楽史の奥深さを感じていただけたら、ぜひ他のエピソードもチェックしてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "問いかけ×誤解の指摘",
+    "caption_style": "question"
+  },
+  {
+    "composer": "リスト",
+    "event_summary": "晩年のリストは超絶技巧的な作風から一転し、「暗い雲」などの調性感が希薄で簡素な小品を数多く書いた。あまりに時代を先取りしていたため当時の弟子たちにも理解されず、死後長く忘れられていたが、20世紀に入り近代音楽の先駆けとして再評価されるようになった。",
+    "sources": [
+      "https://www.j-cast.com/trend/2019/08/02364167.html?p=all",
+      "https://note.com/mitchell_kato/n/n785b83cde1bf",
+      "https://jeanmichelserres.com/2026/01/10/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84%E3%83%BB%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A%E3%81%9D%E3%81%AE%E7%94%9F%E6%B6%AF%E3%81%A8%E4%BD%9C%E5%93%81%E3%83%8E%E3%83%BC%E3%83%88/"
+    ],
+    "hook_copy": "忘れられた、晩年のリスト\n20世紀を予言した知られざる曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "リスト、死後に見つかった顔",
+        "support_text": "20世紀を先取りした晩年作",
+        "rank": 1,
+        "recommendation_reason": "名前主役で導入しやすいが「死後に見つかった」という表現がやや抽象的で、再評価の具体性に欠ける",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://note.com/mitchell_kato/n/n785b83cde1bf"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "名前主役×謎めかし",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "無調の響き、早すぎた挑戦",
+        "support_text": "リスト晩年の知られざる顔",
+        "rank": 3,
+        "recommendation_reason": "出来事主役で専門的な響きがあるが「無調」という語がやや硬く、一般層には入りにくい",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.j-cast.com/trend/2019/08/02364167.html?p=all"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "専門用語×挑戦の強調",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "忘れられた、晩年のリスト",
+        "support_text": "20世紀を予言した知られざる曲",
+        "rank": 2,
+        "recommendation_reason": "場面型の枠に合い、「忘却と再評価」というテーマと直結する最も具体的で分かりやすい入口",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://jeanmichelserres.com/2026/01/10/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84%E3%83%BB%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%9A%E3%81%9D%E3%81%AE%E7%94%9F%E6%B6%AF%E3%81%A8%E4%BD%9C%E5%93%81%E3%83%8E%E3%83%BC%E3%83%88/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "リスト",
+        "hook_pattern": "場面提示×忘却の明言",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1881年、晩年を過ごすワイマールで、70歳のリストはかつての超絶技巧を離れ、簡素で陰鬱な小品をひそかに書き始めていた。",
+      "「暗い雲」などの作品は調性の輪郭がほとんど消え去り、当時のリストの弟子たちでさえ演奏をためらうほど異様な響きに聞こえた。",
+      "リストの死後も、これらの風変わりな作品の楽譜は長く忘れられたまま、演奏される機会もほとんどないまま静かに埋もれていった。",
+      "やがて20世紀に入り無調音楽が本格的に広がると、これらの作品はドビュッシーらに先駆けた傑作として、ようやく再評価された。"
+    ],
+    "fb_caption": "1881年、ワイマール。70歳を迎えたリストは、かつての華やかな超絶技巧を離れ、簡素で陰鬱な小品をひそかに書き始めていました🎹。「暗い雲」などの作品はあまりに調性感が薄く、当時は弟子にさえ理解されず長く忘れられていましたが、20世紀に入り近代音楽の先駆けとして再評価されています。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=YGyNlDxioUE",
+    "ig_caption": "1881年、ワイマール。70歳を迎えたリストは、かつての華やかな超絶技巧を離れ、簡素で陰鬱な小品をひそかに書き始めていました🎹。「暗い雲」などの作品はあまりに調性感が薄く、当時は弟子にさえ理解されず長く忘れられていましたが、20世紀に入り近代音楽の先駆けとして再評価されています。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1881年、ワイマール。70歳を迎えたリストは、かつての華やかな超絶技巧を離れ、簡素で陰鬱な小品をひそかに書き始めていました🎹。「暗い雲」などの作品はあまりに調性感が薄く、当時は弟子にさえ理解されず長く忘れられていましたが、20世紀に入り近代音楽の先駆けとして再評価されています。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nリストの静かな晩年を描いた動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=YGyNlDxioUE",
+    "youtube_link": "https://www.youtube.com/watch?v=YGyNlDxioUE",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "場面提示×忘却の明言",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ヘンデル",
+    "event_summary": "1737年、ヘンデルは経営していたオペラ団の破綻と過労から脳卒中で倒れ、右半身麻痺に陥った。ドイツ・アーヘンの温泉地での療養により奇跡的に回復し、4年後の1741年にはわずか24日ほどで「メサイア」を書き上げ、不滅の傑作として歴史に名を残した。",
+    "sources": [
+      "https://koten.sakura.ne.jp/choir/concert13.html",
+      "https://messiah.mimoza.jp/messiah/",
+      "https://takarazukakonsei.com/31essays.html"
+    ],
+    "hook_copy": "24日間で書かれた、不滅の曲\nヘンデルを襲った病からの生還",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ヘンデル、絶望からの生還",
+        "support_text": "52歳、脳卒中を乗り越えた末に",
+        "rank": 2,
+        "recommendation_reason": "名前主役で親しみやすいが「絶望」という語がやや漠然としており、具体性ではBに譲る",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://takarazukakonsei.com/31essays.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "名前主役×感情語",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "24日間で書かれた、不滅の曲",
+        "support_text": "ヘンデルを襲った病からの生還",
+        "rank": 3,
+        "recommendation_reason": "場面型の枠に合い、「わずか24日」という具体的な数字が目を引く最も手が止まりやすい入口",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://messiah.mimoza.jp/messiah/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "数字訴求×出来事主役",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "右半身麻痺からの大逆転",
+        "support_text": "ヘンデルと『メサイア』誕生秘話",
+        "rank": 1,
+        "recommendation_reason": "症状を明示し具体的だが、曲名を先に出すBほどの意外性や固有名詞的フックの強さに欠ける",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://koten.sakura.ne.jp/choir/concert13.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "症状明示×逆転訴求",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1737年の春、ロンドン。52歳のヘンデルは、自ら経営していたオペラ団がついに破綻する中、過労のあまり突然倒れてしまった。",
+      "この脳卒中のため右半身の自由をほぼ失い、指揮台にも立てぬ深刻な状態となり、音楽界からの引退さえ本気で噂されるほどだった。",
+      "それでもヘンデルは諦めることなく、ドイツ・アーヘンの温泉地で長い療養を重ね、周囲も驚くほど奇跡的に体を回復させていった。",
+      "それから4年後の1741年、ヘンデルは驚異的な集中力でわずか24日間にメサイアを書き上げ、不滅の傑作として歴史に名を刻んだ。"
+    ],
+    "fb_caption": "1737年、ロンドン。52歳のヘンデルは自ら経営していたオペラ団の破綻と過労が重なり、脳卒中で倒れ右半身の自由を失いました。それでもドイツの温泉地での療養を経て奇跡的に回復し、4年後にはわずか24日間で不滅の傑作「メサイア」✨を書き上げています。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=bw0nCfuCnhE",
+    "ig_caption": "1737年、ロンドン。52歳のヘンデルは自ら経営していたオペラ団の破綻と過労が重なり、脳卒中で倒れ右半身の自由を失いました。それでもドイツの温泉地での療養を経て奇跡的に回復し、4年後にはわずか24日間で不滅の傑作「メサイア」✨を書き上げています。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1737年、ロンドン。52歳のヘンデルは自ら経営していたオペラ団の破綻と過労が重なり、脳卒中で倒れ右半身の自由を失いました。それでもドイツの温泉地での療養を経て奇跡的に回復し、4年後にはわずか24日間で不滅の傑作「メサイア」✨を書き上げています。\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nヘンデルが全てを失った後の逆転劇を描いた動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=bw0nCfuCnhE",
+    "youtube_link": "https://www.youtube.com/watch?v=bw0nCfuCnhE",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "数字訴求×出来事主役",
+    "caption_style": "scene"
+  }
+]
