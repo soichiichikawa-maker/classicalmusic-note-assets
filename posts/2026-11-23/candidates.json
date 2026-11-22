@@ -1,0 +1,318 @@
+[
+  {
+    "composer": "メンデルスゾーン",
+    "event_summary": "1829年、20歳のメンデルスゾーンはスコットランドのヘブリディーズ諸島を訪れた。彼は洞窟に実際に入る前、マル島で序曲『フィンガルの洞窟（ヘブリディーズ諸島）』の冒頭旋律をすでに書き留め、姉ファニーへの手紙に添えて送っている。曲は翌年以降完成し、現在も代表作の一つとして親しまれている。",
+    "sources": [
+      "https://ontomo-mag.com/article/column/scotland-shun-oi02/",
+      "https://www.worldfolksong.com/classical/mendelssohn/hebrides.html",
+      "http://www.hananoe.jp/classical/gakunomori/gakunomori213.html",
+      "https://puresmilesaiko.com/scotland-fingals-cave-music/"
+    ],
+    "hook_copy": "メンデルスゾーン、洞窟より先に書いた旋律",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "洞窟を見る前に生まれた名旋律",
+        "support_text": "メンデルスゾーン",
+        "rank": 1,
+        "recommendation_reason": "出来事主体で謎を立てる案。固有名詞が少なく初見性は高いが、誰の話かはsupport_textを読むまで不明瞭になる点がB案に劣る。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/scotland-shun-oi02/",
+          "https://puresmilesaiko.com/scotland-fingals-cave-music/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "事実の前倒し提示（事件主体）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.42,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "メンデルスゾーン、洞窟より先に書いた旋律",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "名前と意外性を一文に凝縮。『代表曲なのに洞窟を見る前に書かれた』という矛盾が一目で伝わり、誰の話かも即座に分かるため最も手が止まりやすい。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/scotland-shun-oi02/",
+          "https://www.worldfolksong.com/classical/mendelssohn/hebrides.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "名前主体＋矛盾の提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "代表曲の旋律、着想は洞窟体験の前だった",
+        "support_text": "メンデルスゾーン",
+        "rank": 2,
+        "recommendation_reason": "最も説明的で情報量は多いが、文が長く『一点で止める』インパクトはB・Aに劣るため第3案とした。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "http://www.hananoe.jp/classical/gakunomori/gakunomori213.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "メンデルスゾーン",
+        "hook_pattern": "事実説明型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.42,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1829年、20歳のメンデルスゾーンはイギリス旅行の途中、船酔いに苦しみながらスコットランドの孤島スタファへと向かった。",
+      "まだ洞窟に入らぬうちに、マル島へ着いた彼は、後に代表作となる冒頭の旋律を書きとめ、感動を姉ファニーへの手紙に添えて送った。",
+      "その後実際に洞窟へ入り、不気味なこだまに圧倒された彼は、序曲『ヘブリディーズ諸島』として曲を少しずつ丁寧に仕上げていった。",
+      "完成し、1832年のロンドン初演までに幾度も改訂を重ねたが、姉への手紙に書いたあの旋律だけは、最後まで一音も変えられなかった。"
+    ],
+    "fb_caption": "名曲《フィンガルの洞窟》の冒頭旋律は、実はまだ洞窟を見ていない時に書かれていた。メンデルスゾーンが1829年のスコットランド旅行で姉への手紙に書き留めた一節から、物語は始まる。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "名曲《フィンガルの洞窟》の冒頭旋律は、実はまだ洞窟を見ていない時に書かれていた。メンデルスゾーンが1829年のスコットランド旅行で姉への手紙に書き留めた一節から、物語は始まる。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "名曲《フィンガルの洞窟》の冒頭旋律は、実はまだ洞窟を見ていない時に書かれていた。メンデルスゾーンが1829年のスコットランド旅行で姉への手紙に書き留めた一節から、物語は始まる。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n次回も、名曲に隠れた知られざるエピソードをお届けします。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "名前主体＋矛盾の提示",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "バッハ",
+    "event_summary": "1721年、前妻を亡くしていたバッハは16歳年下の宮廷歌手アンナ・マグダレーナと再婚した。翌年、彼は妻のために手書きの音楽帳を贈り、家族で楽しむ小品を書き加えていったが、その中に収められた有名な「メヌエット ト長調」は、後にバッハ自身の作ではなく同時代のオルガニスト、クリスティアン・ペツォールトの作品と判明した。",
+    "sources": [
+      "https://www.gakufu.co.jp/products/pnc4168",
+      "https://ontomo-mag.com/article/column/bach-anna-magdalena300-202106/",
+      "https://ontomo-mag.com/article/column/arisa-photo-file24/"
+    ],
+    "hook_copy": "バッハのメヌエット、実は別人の曲だった",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "バッハのメヌエット、実は別人の曲だった",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "誰もが聴いたことのある曲名を主語にし、その作者が違うという一点の意外性に絞っているため最も手が止まりやすい。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/arisa-photo-file24/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "名前主体＋誤認の指摘",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "愛妻への音楽帳に、他人の曲が紛れていた",
+        "support_text": "バッハ",
+        "rank": 1,
+        "recommendation_reason": "出来事（贈り物）を主語にした案。恋愛・家族の温かさが伝わるが、落ちの意外性がA案よりやや弱い。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://www.gakufu.co.jp/products/pnc4168"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "出来事主体の伏線提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.42,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "世界的な名旋律、作者はバッハではなかった",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "曲名を伏せているため具体性に欠け、どの曲か分からないまま終わる可能性があるため第3案とした。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/arisa-photo-file24/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "バッハ",
+        "hook_pattern": "抽象的な結末提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1721年、最愛の前妻を病で亡くしていた36歳のバッハは、16歳年下の、歌声の美しい宮廷歌手アンナ・マグダレーナと再婚した。",
+      "結婚の翌年、バッハは妻のために手書きの音楽帳を贈り、メヌエットやコラールなど、家族がそろって楽しめる小品を少しずつ書き加えていった。",
+      "帳面に収められた「メヌエット（ト長調）」は、今も世界中で愛され、結婚式などでも『バッハのメヌエット』として親しまれている。",
+      "長らく誰も疑わなかったが、実際の作曲者はバッハではなく、同時代のオルガニスト、クリスティアン・ペツォールトという人物だった。"
+    ],
+    "fb_caption": "世界中で愛される「バッハのメヌエット」、実はバッハの作品ではなかった。妻アンナ・マグダレーナへの愛を込めた一冊の音楽帳に、その謎が隠されている。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=oKsEfHGoFYY",
+    "ig_caption": "世界中で愛される「バッハのメヌエット」、実はバッハの作品ではなかった。妻アンナ・マグダレーナへの愛を込めた一冊の音楽帳に、その謎が隠されている。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "世界中で愛される「バッハのメヌエット」、実はバッハの作品ではなかった。妻アンナ・マグダレーナへの愛を込めた一冊の音楽帳に、その謎が隠されている。🎹\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nアンナ・マグダレーナとの大家族の様子は、動画『子どもは20人いた』でも紹介しています。\nhttps://www.youtube.com/watch?v=oKsEfHGoFYY",
+    "youtube_link": "https://www.youtube.com/watch?v=oKsEfHGoFYY",
+    "subject_type": "composer",
+    "theme": "love_family",
+    "hook_pattern": "名前主体＋誤認の指摘",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ヘンデル",
+    "event_summary": "1720年代のロンドンでは、ヘンデルとイタリア人作曲家ボノンチーニのオペラ人気を巡る対立が社会現象となっていた。1725年、この争いを風刺した詩人ジョン・バイロムの一節が「トゥイードルダムとトゥイードルディー」という語を生み、後にルイス・キャロル『鏡の国のアリス』の双子キャラクターの名前として世界的に有名になった。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tweedledum_and_Tweedledee",
+      "https://en.wikipedia.org/wiki/Giovanni_Bononcini",
+      "https://en.citizendium.org/wiki/Tweedledum_and_Tweedledee"
+    ],
+    "hook_copy": "1725年ロンドン、作曲家対決が生んだ名前\nヘンデル対ボノンチーニ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "1725年ロンドン、作曲家対決が生んだ名前",
+        "support_text": "ヘンデル対ボノンチーニ",
+        "rank": 3,
+        "recommendation_reason": "年号と場所で場面を立ち上げつつ『名前が生まれた』という謎を提示でき、本枠の場面提示型に最も合う。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Tweedledum_and_Tweedledee"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "場面提示（年号・場所）",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ヘンデルの宿敵、名は『鏡の国』に残った",
+        "support_text": "",
+        "rank": 1,
+        "recommendation_reason": "名前主体で簡潔だが、場面提示の型からは離れるため本枠では次点とした。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Tweedledum_and_Tweedledee"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "名前主体＋結末の暗示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "歌劇場の派閥争いが生んだ、世界的な名前",
+        "support_text": "ヘンデル",
+        "rank": 2,
+        "recommendation_reason": "出来事を抽象化しすぎて具体性がやや薄く、固有名詞のインパクトがA・Bより弱いため第3案。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Giovanni_Bononcini"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ヘンデル",
+        "hook_pattern": "出来事主体の抽象提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1720年代のロンドン、新興の王立音楽アカデミーでヘンデルとボノンチーニという二人の人気作曲家が激しく火花を散らしていた。",
+      "保守党はヘンデルを、ホイッグ党はライバルのボノンチーニを応援し、ロンドンの観客も真っ二つに分かれて争うほどの騒動となった。",
+      "1725年、詩人ジョン・バイロムがこの対立を皮肉る風刺詩を発表し、『トゥイードルダムとトゥイードルディー』という言葉を生み出した。",
+      "この言葉は後に『鏡の国のアリス』の双子キャラクター、トゥイードルダムとトゥイードルディーの名前として世界的に有名になった。"
+    ],
+    "fb_caption": "1720年代、ロンドンの歌劇場。ヘンデルとライバル作曲家ボノンチーニの対立は、観客を二分する騒動に発展した。その果てに生まれた言葉が、150年後『鏡の国のアリス』の双子の名前になるとは誰も想像しなかった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "ig_caption": "1720年代、ロンドンの歌劇場。ヘンデルとライバル作曲家ボノンチーニの対立は、観客を二分する騒動に発展した。その果てに生まれた言葉が、150年後『鏡の国のアリス』の双子の名前になるとは誰も想像しなかった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1720年代、ロンドンの歌劇場。ヘンデルとライバル作曲家ボノンチーニの対立は、観客を二分する騒動に発展した。その果てに生まれた言葉が、150年後『鏡の国のアリス』の双子の名前になるとは誰も想像しなかった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nヘンデルの波乱に満ちた生涯は、動画『音楽を禁じられた少年の逆転人生』でじっくりご覧いただけます。\nhttps://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "youtube_link": "https://www.youtube.com/watch?v=iwuPGFqoWhM",
+    "subject_type": "composer",
+    "theme": "conflict",
+    "hook_pattern": "場面提示（年号・場所）",
+    "caption_style": "scene"
+  }
+]
