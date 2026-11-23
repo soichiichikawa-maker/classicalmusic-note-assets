@@ -1,0 +1,313 @@
+[
+  {
+    "composer": "シベリウス",
+    "event_summary": "1908年、42歳のシベリウスは喉に腫瘍が見つかり、ベルリンで摘出手術を受けた。再発の恐怖から数年間、愛用の酒と葉巻を断つことになる。その緊張と静けさが、交響曲第4番や弦楽四重奏曲『親密な声』に深い影を落とした。",
+    "sources": [
+      "https://www.aso.org/artists/detail/jean-sibelius",
+      "https://www.classical-music.com/features/composers/sibelius-drinking",
+      "https://en.wikipedia.org/wiki/Symphony_No._4_(Sibelius)",
+      "https://redwoodsymphony.org/piece/symphony-no-4-sibelius/"
+    ],
+    "hook_copy": "死の恐怖が生んだ交響曲第4番\n作曲家シベリウスの危機",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "シベリウスが手放した、酒と葉巻",
+        "support_text": "のど手術後、7年間封印",
+        "rank": 1,
+        "recommendation_reason": "名前と具体的な習慣(酒と葉巻)を提示し、意外性で興味を引く名前主役案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.classical-music.com/features/composers/sibelius-drinking"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シベリウス",
+        "hook_pattern": "名詞句+習慣の意外性",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "死の恐怖が生んだ交響曲第4番",
+        "support_text": "作曲家シベリウスの危機",
+        "rank": 3,
+        "recommendation_reason": "有名な交響曲第4番と死への恐怖を結び付け、出来事主役で最も興味を引く構成。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Symphony_No._4_(Sibelius)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シベリウス",
+        "hook_pattern": "出来事ベースの因果提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "のど手術後、何を断ったのか",
+        "support_text": "シベリウスの選択",
+        "rank": 2,
+        "recommendation_reason": "問いかけ型で続きを気にさせるが、Bより具体性に欠けるため第3案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.aso.org/artists/detail/jean-sibelius"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シベリウス",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "ウィーンやベルリンへ留学したシベリウスは、高級な葉巻と酒を好み浪費がちな生活を送っていた。妻アイノも、彼の体を案じていた。",
+      "1908年、42歳で喉に腫瘍が見つかり、ベルリンで摘出手術を受けた。医師は余生、酒と煙草を固く禁じた。再発への恐怖も、重くのしかかった。",
+      "酒も煙草も絶った数年間、死の影と向き合いながら交響曲第4番や弦楽四重奏曲「親密な声」を書き上げた。病への恐れが、音楽に深い静けさを与えた。"
+    ],
+    "fb_caption": "1908年、ベルリン。喉に腫瘍を抱えた42歳のシベリウスが、手術台に上った。再発への恐怖から酒と葉巻を断った沈黙の日々が、交響曲第4番の静けさを生んだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1908年、ベルリン。喉に腫瘍を抱えた42歳のシベリウスが、手術台に上った。再発への恐怖から酒と葉巻を断った沈黙の日々が、交響曲第4番の静けさを生んだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1908年、ベルリン。喉に腫瘍を抱えた42歳のシベリウスが、手術台に上った。再発への恐怖から酒と葉巻を断った沈黙の日々が、交響曲第4番の静けさを生んだ。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nシベリウスが静寂の中で紡いだ交響曲第4番に、ぜひ耳を傾けてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "illness",
+    "hook_pattern": "出来事ベースの因果提示",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ドニゼッティ",
+    "event_summary": "最愛の妻を亡くし悲しみから立ち直れなかったドニゼッティは、やがて精神の均衡を崩し、1846年にパリ近郊の精神病院に入れられる。甥に連れられ故郷ベルガモに戻り、1848年に51歳で死去した。死後27年を経て、遺骸は故郷の大聖堂に改葬された。",
+    "sources": [
+      "https://www.britannica.com/biography/How-did-Gaetano-Donizettis-nephew-Andrea-help-him-during-his-final-illness",
+      "https://www.deutschegrammophon.com/en/composers/gaetano-donizetti/biography",
+      "https://www.sfcv.org/learn/composer-gallery/gaetano-donizetti",
+      "https://www.gramophone.co.uk/composers/gaetano-donizetti-35068"
+    ],
+    "hook_copy": "死後27年、再び運ばれた棺\nドニゼッティの亡骸",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "ドニゼッティ、鉄格子の晩年",
+        "support_text": "正気を失った最晩年",
+        "rank": 3,
+        "recommendation_reason": "名前と悲劇的状況を直接提示する名前主役案。インパクトはあるが結末の意外性はBに劣る。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.britannica.com/biography/How-did-Gaetano-Donizettis-nephew-Andrea-help-him-during-his-final-illness"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドニゼッティ",
+        "hook_pattern": "名詞句+悲劇の強調",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "死後27年、再び運ばれた棺",
+        "support_text": "ドニゼッティの亡骸",
+        "rank": 1,
+        "recommendation_reason": "死後の改葬という具体的な数字と出来事を提示し、続きが気になる出来事主役案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.sfcv.org/learn/composer-gallery/gaetano-donizetti"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドニゼッティ",
+        "hook_pattern": "数字+出来事ベースの謎提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ棺は27年後に動いたのか",
+        "support_text": "ドニゼッティ最期の秘密",
+        "rank": 2,
+        "recommendation_reason": "問いかけ型でBと同じ事実を扱うが、やや冗長なため第3案とした。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.deutschegrammophon.com/en/composers/gaetano-donizetti/biography"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドニゼッティ",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1837年、ドニゼッティは最愛の妻ヴィルジニアを亡くし、深い悲しみから立ち直れないままだった。持病も重なり、創作の勢いは徐々に失われていった。",
+      "1840年代、精神の均衡を崩したドニゼッティは、1846年にパリ近郊の精神病院に入れられてしまう。言葉を失い、自分の作品さえ分からなくなっていた。",
+      "甥アンドレアに連れられ故郷ベルガモへ戻ったドニゼッティは、1848年4月、51歳で息を引き取った。死後27年、遺骸は故郷の大聖堂へ改葬された。"
+    ],
+    "fb_caption": "1848年4月、イタリア・ベルガモ。精神を病んだドニゼッティが、51歳でこの世を去った。死後27年を経て、その遺骸は生まれ故郷の大聖堂に改めて葬られることになる。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1848年4月、イタリア・ベルガモ。精神を病んだドニゼッティが、51歳でこの世を去った。死後27年を経て、その遺骸は生まれ故郷の大聖堂に改めて葬られることになる。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1848年4月、イタリア・ベルガモ。精神を病んだドニゼッティが、51歳でこの世を去った。死後27年を経て、その遺骸は生まれ故郷の大聖堂に改めて葬られることになる。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nドニゼッティが遺した数々の名作オペラにも、ぜひ触れてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "数字+出来事ベースの謎提示",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "フォーレ",
+    "event_summary": "青年フォーレは歌手パウリーヌ・ヴィアルドの娘マリアンヌに5年間想いを伝え続け、1877年についに婚約するが、わずか数ヶ月で婚約を解消されてしまう。失恋の痛みはピアノ四重奏曲第1番に刻まれた。数年後、フォーレは仲介人がくじで選んだ名前の女性、マリー・フレミエと結婚することになる。",
+    "sources": [
+      "https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA66166",
+      "https://www.classicfm.com/composers/faure/guides/discovering-great-composers-faure/",
+      "https://theartsdesk.com/classical-music/his-ideal-worlds-embraced-me-their-light-and-love-violinist-ir%C3%A8ne-duval-music-faur%C3%A9",
+      "https://interlude.hk/ten-of-the-rockiest-marriages-in-classical-music-history-part-1/"
+    ],
+    "hook_copy": "婚約破棄、答えは帽子の中に\nフォーレの結婚相手選び",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "フォーレ、5年越しの失恋",
+        "support_text": "ヴィアルドの娘との婚約",
+        "rank": 3,
+        "recommendation_reason": "名前と年数で状況を端的に示す案だが、結末の意外性に欠けるため第3案。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://saintpaulsunday.publicradio.org/features/0310_shaham/index.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "フォーレ",
+        "hook_pattern": "名詞句+年数の強調",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "婚約破棄、答えは帽子の中に",
+        "support_text": "フォーレの結婚相手選び",
+        "rank": 1,
+        "recommendation_reason": "婚約破棄という出来事と「帽子」という意外な小道具を組み合わせ、最も続きが気になる出来事主役案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://interlude.hk/ten-of-the-rockiest-marriages-in-classical-music-history-part-1/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "フォーレ",
+        "hook_pattern": "出来事+意外な小道具の提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.42,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "なぜ妻は、くじ引きで決まったのか",
+        "support_text": "フォーレの恋と結婚",
+        "rank": 2,
+        "recommendation_reason": "問いかけ型でBと同じ結末を扱い、次点として採用可能な案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://interlude.hk/ten-of-the-rockiest-marriages-in-classical-music-history-part-1/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "フォーレ",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "若きフォーレは歌手パウリーヌ・ヴィアルドの娘マリアンヌに恋をし、5年にわたって想いを伝え続けた。彼にとって、生涯忘れられない恋の始まりだった。",
+      "1877年、ついに婚約が成立する。だがマリアンヌは重すぎる愛を恐れ、わずか数ヶ月で婚約を解消した。フォーレは深く傷つき、悲しみをピアノ四重奏曲に刻んだ。",
+      "数年後、独身に疲れたフォーレは仲介人に頼り、帽子の中から引いた名前でマリー・フレミエと結婚した。型破りな出会いだったが、二人は生涯添い遂げた。"
+    ],
+    "fb_caption": "婚約者から「愛が重すぎる」と告げられたら、あなたはどうしますか?青年フォーレは5年越しの恋を失恋で終え、その痛みをピアノ四重奏曲に刻みました。数年後の結婚相手は、なんと帽子からのくじ引きで決まります。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "婚約者から「愛が重すぎる」と告げられたら、あなたはどうしますか?青年フォーレは5年越しの恋を失恋で終え、その痛みをピアノ四重奏曲に刻みました。数年後の結婚相手は、なんと帽子からのくじ引きで決まります。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "婚約者から「愛が重すぎる」と告げられたら、あなたはどうしますか?青年フォーレは5年越しの恋を失恋で終え、その痛みをピアノ四重奏曲に刻みました。数年後の結婚相手は、なんと帽子からのくじ引きで決まります。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nフォーレの繊細な室内楽作品にも、ぜひ耳を傾けてみてください。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "love_family",
+    "hook_pattern": "出来事+意外な小道具の提示",
+    "caption_style": "question"
+  }
+]
