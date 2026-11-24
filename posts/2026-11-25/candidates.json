@@ -1,0 +1,313 @@
+[
+  {
+    "composer": "ショパン",
+    "event_summary": "ショパンの前奏曲第15番《雨だれ》は、マヨルカ島滞在中にジョルジュ・サンドが外出先から戻れず、不安にかられたショパンが弾き続けたことから生まれたと伝わる。だがこの逸話はサンドの回想録のみに基づき、ショパン自身は曲について雨の描写に触れた記録がなく、学者の間でも史実かどうか意見が分かれている。",
+    "sources": [
+      "https://ontomo-mag.com/article/column/meikyoku100-64/",
+      "https://col21c.com/%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3%E3%80%8C%E9%9B%A8%E7%B2%92%EF%BC%9F%E5%88%A5%E3%82%8C%EF%BC%9F%E3%81%A9%E3%81%AE%E6%9B%B2%E3%81%A7%E3%81%99%EF%BC%9F%E3%80%8D/",
+      "https://www.worldfolksong.com/classical/chopin/raindrop-prelude.html"
+    ],
+    "hook_copy": "『雨だれ』伝説、本人は語ってない\nショパン",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "『雨だれ』伝説、本人は語ってない",
+        "support_text": "ショパン",
+        "rank": 1,
+        "recommendation_reason": "由来逸話の真偽という意外な結末を一文で提示でき、結末から入る型に最も合う。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/meikyoku100-64/",
+          "https://col21c.com/%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3%E3%80%8C%E9%9B%A8%E7%B2%92%EF%BC%9F%E5%88%A5%E3%82%8C%EF%BC%9F%E3%81%A9%E3%81%AE%E6%9B%B2%E3%81%A7%E3%81%99%EF%BC%9F%E3%80%8D/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショパン",
+        "hook_pattern": "意外な結末提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ショパンは『雨だれ』と呼ばなかった",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "作曲家本人の視点で意外性を出せるが、Aほどの衝撃は無く次点。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://col21c.com/%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3%E3%80%8C%E9%9B%A8%E7%B2%92%EF%BC%9F%E5%88%A5%E3%82%8C%EF%BC%9F%E3%81%A9%E3%81%AE%E6%9B%B2%E3%81%A7%E3%81%99%EF%BC%9F%E3%80%8D/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショパン",
+        "hook_pattern": "名前主役の否定法",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "嵐の夜、ジョルジュ・サンドが見た涙",
+        "support_text": "ショパン",
+        "rank": 3,
+        "recommendation_reason": "情景から入り雰囲気は出るが、結末の意外性が伝わりにくく第3案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ontomo-mag.com/article/column/meikyoku100-64/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ショパン",
+        "hook_pattern": "情景描写型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "正式名はヴィオロンチェロ…ではなく、フレデリック・ショパンは1838年、結核療養のためマヨルカ島の修道院に滞在していた。",
+      "ある嵐の夜、買い物に出かけたサンドの帰りがひどく遅れたため、不安に襲われたショパンは一心に鍵盤に向かい、曲を弾き続けていたという。",
+      "しかしこの逸話の出典はサンドの回想録のみで、ショパン自身は曲について雨を語った記録がなく、史実かは今も意見が分かれている。",
+      "それでも繰り返す静かな音形は雨垂れを思わせ、『雨だれ』の愛称はやがて定着した。真偽は不明なまま、今も世界中で弾き継がれている。"
+    ],
+    "fb_caption": "ショパンの名曲『雨だれ』は、恋人ジョルジュ・サンドが嵐の夜に戻れず、不安の中でショパンが弾き続けたことから生まれたと伝わる。だがこの逸話はサンドの回想録にしか残っておらず、ショパン自身は雨について語っていない。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=YDcpYcFK3zw",
+    "ig_caption": "ショパンの名曲『雨だれ』は、恋人ジョルジュ・サンドが嵐の夜に戻れず、不安の中でショパンが弾き続けたことから生まれたと伝わる。だがこの逸話はサンドの回想録にしか残っておらず、ショパン自身は雨について語っていない。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "ショパンの名曲『雨だれ』は、恋人ジョルジュ・サンドが嵐の夜に戻れず、不安の中でショパンが弾き続けたことから生まれたと伝わる。だがこの逸話はサンドの回想録にしか残っておらず、ショパン自身は雨について語っていない。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nショパンとジョルジュ・サンドの恋愛模様を描いた動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=YDcpYcFK3zw",
+    "youtube_link": "https://www.youtube.com/watch?v=YDcpYcFK3zw",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "意外な結末提示型",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "チャイコフスキー",
+    "event_summary": "チャイコフスキーのヴァイオリン協奏曲は、献呈予定だった名手レオポルド・アウアーに「演奏不可能」と拒まれ、代わって無名に近かったアドルフ・ブロツキーが1881年に初演を行った。しかし批評家ハンスリックに「悪臭を放つ音楽」と酷評され、今日の人気ぶりとは程遠い船出だった。",
+    "sources": [
+      "https://www.kateigaho.com/article/detail/175457",
+      "https://www.worldfolksong.com/classical/tchaikovsky/violin-concerto.html",
+      "https://tsvocalschool.com/classic/tchaikovsky-35/"
+    ],
+    "hook_copy": "1881年ウィーン、酷評の嵐が吹いた夜\nチャイコフスキー",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "1881年ウィーン、酷評の嵐が吹いた夜",
+        "support_text": "チャイコフスキー",
+        "rank": 3,
+        "recommendation_reason": "年号と場所で場面を描き、場面から入る型に最も合致する。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.kateigaho.com/article/detail/175457",
+          "https://tsvocalschool.com/classic/tchaikovsky-35/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "場面提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "チャイコフスキーが書いた『弾けない』協奏曲",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "名前主役で分かりやすいが、場面描写が無く割り当て型とはやや離れる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.worldfolksong.com/classical/tchaikovsky/violin-concerto.html"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "名前主役の矛盾提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "名手が「演奏不可能」と突き返した協奏曲",
+        "support_text": "チャイコフスキー",
+        "rank": 1,
+        "recommendation_reason": "出来事主役で意外性は出せるが、場面の具体性ではAに次ぐ次点。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.kateigaho.com/article/detail/175457"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チャイコフスキー",
+        "hook_pattern": "出来事主役の拒絶提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1878年、ピョートル・チャイコフスキーはヴァイオリン協奏曲を書き上げ、当代随一の名手レオポルド・アウアーへの献呈を望んだ。",
+      "しかし名手アウアーは「演奏不可能」と楽譜を突き返し、初演は3年後、まだ無名に近かったブロツキーにようやく託されることになった。",
+      "1881年12月、ウィーンでの初演は聴衆の不評を買い、批評家ハンスリックは「悪臭を放つ音楽」とまで酷評し、作曲家を突き放した。",
+      "それでもブロツキーは酷評にひるまず演奏を重ね、曲は次第に評価を得て、今では世界で最も愛されるヴァイオリン協奏曲の一つとなった。"
+    ],
+    "fb_caption": "1881年12月、ウィーン。チャイコフスキーのヴァイオリン協奏曲の初演に、批評家ハンスリックは「悪臭を放つ音楽」と酷評を浴びせた。それでも奏者ブロツキーは弾き続け、今では世界有数の人気曲になっている。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=Rm-DgYU0Xak",
+    "ig_caption": "1881年12月、ウィーン。チャイコフスキーのヴァイオリン協奏曲の初演に、批評家ハンスリックは「悪臭を放つ音楽」と酷評を浴びせた。それでも奏者ブロツキーは弾き続け、今では世界有数の人気曲になっている。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1881年12月、ウィーン。チャイコフスキーのヴァイオリン協奏曲の初演に、批評家ハンスリックは「悪臭を放つ音楽」と酷評を浴びせた。それでも奏者ブロツキーは弾き続け、今では世界有数の人気曲になっている。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n誰からも評価されなかった時代のチャイコフスキーを追った動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=Rm-DgYU0Xak",
+    "youtube_link": "https://www.youtube.com/watch?v=Rm-DgYU0Xak",
+    "subject_type": "composer",
+    "theme": "premiere",
+    "hook_pattern": "場面提示型",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "チェロ",
+    "event_summary": "チェロは長らくエンドピンを持たず、奏者が両膝で挟んで支える楽器だった。19世紀半ば、ベルギーの名手アドリエン=フランソワ・セルヴェが考案したエンドピンにより、楽器の支え方と演奏スタイルが大きく変わった。",
+    "sources": [
+      "https://www.yamaha.com/ja/musical_instrument_guide/violin/structure/structure005.html",
+      "https://ontomo-mag.com/article/column/shun-gakugo105/",
+      "https://cello-cafe.com/blog/endpinnokorosya2016112/"
+    ],
+    "hook_copy": "チェロはなぜ、床に棒を刺すのか？",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "チェロはなぜ、床に棒を刺すのか？",
+        "support_text": "",
+        "rank": 3,
+        "recommendation_reason": "読者への問いかけから自然に入れ、割り当て型に最も合致する。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.yamaha.com/ja/musical_instrument_guide/violin/structure/structure005.html",
+          "https://ontomo-mag.com/article/column/shun-gakugo105/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チェロ",
+        "hook_pattern": "問いかけ型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "question",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "小柄な奏者が変えた、チェロの構え方",
+        "support_text": "",
+        "rank": 2,
+        "recommendation_reason": "人物軸で興味を引くが、問いかけ型ほどの初見インパクトは無く次点。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://cello-cafe.com/blog/endpinnokorosya2016112/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チェロ",
+        "hook_pattern": "人物主役型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "エンドピン誕生は、わずか150年前",
+        "support_text": "チェロ",
+        "rank": 1,
+        "recommendation_reason": "数字で意外性を出すが、対象が何の話か伝わるまでに一拍必要で第3案。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.erika-m.jp/archives/477"
+        ],
+        "fact_status": "verified",
+        "subject_label": "チェロ",
+        "hook_pattern": "数字提示型",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "正式名はヴィオロンチェロ。チェロは誕生から長いあいだ、エンドピンを持たず、奏者が常に両膝でしっかりと挟んで支える楽器だった。",
+      "19世紀半ば、小柄な体格のベルギー人チェリスト、アドリエン=フランソワ・セルヴェは、この重い構え方にずっと苦労していた。",
+      "そこでセルヴェは楽器の底に棒を取り付け、床に突き刺して支える方法を考え出した。これが現在のエンドピンの原型になったという。",
+      "おかげで演奏時の身体的な負担は大きく減り、以後エンドピンは世界中で標準装備となって、現代のチェロ奏法を今も支え続けている。"
+    ],
+    "fb_caption": "チェロはなぜ、演奏のたびに床へ棒を突き刺すのでしょうか？実はこのエンドピン、19世紀半ばまで存在しませんでした。小柄な奏者セルヴェの発明が、今の構え方を生みました。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "チェロはなぜ、演奏のたびに床へ棒を突き刺すのでしょうか？実はこのエンドピン、19世紀半ばまで存在しませんでした。小柄な奏者セルヴェの発明が、今の構え方を生みました。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "チェロはなぜ、演奏のたびに床へ棒を突き刺すのでしょうか？実はこのエンドピン、19世紀半ばまで存在しませんでした。小柄な奏者セルヴェの発明が、今の構え方を生みました。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n普段何気なく見ている楽器にも、知らない歴史が隠れています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "instrument",
+    "theme": "instrument",
+    "hook_pattern": "問いかけ型",
+    "caption_style": "question"
+  }
+]
