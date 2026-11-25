@@ -1,0 +1,311 @@
+[
+  {
+    "composer": "スメタナ",
+    "event_summary": "1866年、スメタナの喜劇オペラ『売られた花嫁』はプラハの仮劇場で初演されたが、酷暑や開戦前夜の不安が重なり客席はまばらで不評に終わった。改訂を重ねた末、1870年の上演で評価は一変し、チェコ初の国際的ヒットオペラとなった。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Bartered_Bride",
+      "https://www.wbur.org/news/2014/07/22/bartered-bride",
+      "https://operascribe.com/2017/08/22/prodana-nevesta-the-bartered-bride-bedrich-smetana/"
+    ],
+    "hook_copy": "スメタナ、初日は大失敗\n4年後、世界的ヒットに",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "客席はガラガラの初演",
+        "support_text": "スメタナ『売られた花嫁』",
+        "rank": 2,
+        "recommendation_reason": "初演当夜の具体的な客席の様子から入ることで、意外性のある場面に惹き込める。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://operascribe.com/2017/08/22/prodana-nevesta-the-bartered-bride-bedrich-smetana/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "具体描写(客席の様子)+作品名提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "スメタナ、初日は大失敗",
+        "support_text": "4年後、世界的ヒットに",
+        "rank": 1,
+        "recommendation_reason": "名前と結果の対比が一目で分かり、初演の逆転というテーマに最も合致する。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/The_Bartered_Bride",
+          "https://www.wbur.org/news/2014/07/22/bartered-bride"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "名詞句+対比(失敗→成功)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.27,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "休日と開戦不安が重なった夜",
+        "support_text": "スメタナ、新作オペラの誤算",
+        "rank": 3,
+        "recommendation_reason": "背景事情から入る案。状況説明が先行するため、結果への興味喚起はやや弱い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.wbur.org/news/2014/07/22/bartered-bride"
+        ],
+        "fact_status": "verified",
+        "subject_label": "スメタナ",
+        "hook_pattern": "背景説明(状況設定)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1866年5月30日、プラハの仮劇場でスメタナの新作オペラ『売られた花嫁』が初演を迎えた、チェコ音楽史に残る一夜だった。",
+      "祝日と重なり街は空っぽ、酷暑の夜にプロイセンとの開戦不安も漂う中での上演となり、客席はまばらなまま不評のうちに幕を閉じた。",
+      "スメタナはあきらめず台本と音楽を何度も練り直し、4年後の1870年、ついに改訂版の上演で観客の心をつかみ大成功を収めた。",
+      "この『売られた花嫁』はチェコ初の国際的ヒットオペラとなり、スメタナを代表する不朽の名作として今も世界中で愛され続けている。"
+    ],
+    "fb_caption": "1866年5月30日、プラハの仮劇場。酷暑と開戦前夜の不安が重なる中、スメタナの新作オペラ『売られた花嫁』は客席もまばらなまま初日を終えた。4年後の改訂版で評価は一変し、チェコ初の国際的ヒット作となる。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1866年5月30日、プラハの仮劇場。酷暑と開戦前夜の不安が重なる中、スメタナの新作オペラ『売られた花嫁』は客席もまばらなまま初日を終えた。4年後の改訂版で評価は一変し、チェコ初の国際的ヒット作となる。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1866年5月30日、プラハの仮劇場。酷暑と開戦前夜の不安が重なる中、スメタナの新作オペラ『売られた花嫁』は客席もまばらなまま初日を終えた。4年後の改訂版で評価は一変し、チェコ初の国際的ヒット作となる。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n初演の酷評から世界的名作へ――クラシック音楽史には、こうした逆転劇がいくつも眠っています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "premiere",
+    "hook_pattern": "名詞句+対比(失敗→成功)",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "ドヴォルザーク",
+    "event_summary": "ピアノ教師として生計を立てていた若き日のドヴォルザークは、教え子である宝石商チェルマーク家の姉ヨゼフィナに恋心を抱いたが、思いは届かなかった。後に妹のアンナと結ばれ生涯を共にし、姉への想いは歌曲集《糸杉》や晩年のチェロ協奏曲に刻まれている。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Josef%C3%ADna_%C4%8Cerm%C3%A1kov%C3%A1-Kounicov%C3%A1",
+      "https://www.antonin-dvorak.cz/en/life/biography/marriage/",
+      "https://www.worldhistory.org/Antonin_Dvorak/"
+    ],
+    "hook_copy": "ドヴォルザーク、届かなかった恋\n妹と結ばれた運命",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "姉に恋し、妹と結婚",
+        "support_text": "ドヴォルザークの家族愛",
+        "rank": 2,
+        "recommendation_reason": "出来事を端的にまとめた案。分かりやすいが意外性の演出はBよりやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://www.antonin-dvorak.cz/en/life/biography/marriage/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "事実列挙(恋愛→結婚)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ドヴォルザーク、届かなかった恋",
+        "support_text": "妹と結ばれた運命",
+        "rank": 1,
+        "recommendation_reason": "名前から入り、恋の行方という感情的な引きを作れる。恋愛・家族テーマに最も合う。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Josef%C3%ADna_%C4%8Cerm%C3%A1kov%C3%A1-Kounicov%C3%A1",
+          "https://www.worldhistory.org/Antonin_Dvorak/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "名詞句+問いかけ(恋の行方)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "姉妹それぞれの運命",
+        "support_text": "ドヴォルザークの密かな恋",
+        "rank": 3,
+        "recommendation_reason": "姉妹という構図から入る案。対象の作曲家名が補足側になるため主役感がやや薄い。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Josef%C3%ADna_%C4%8Cerm%C3%A1kov%C3%A1-Kounicov%C3%A1"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ドヴォルザーク",
+        "hook_pattern": "構図提示(姉妹の対比)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1865年頃、プラハで生計を立てるためドヴォルザークは、宝石商チェルマーク家の姉妹、ヨゼフィナとアンナにピアノを教えていた。",
+      "ピアノ教師だったドヴォルザークは姉のヨゼフィナに恋をしたが、彼女の心はこちらに向かず、失恋の痛みを歌曲集《糸杉》に込めた。",
+      "だが数年後、ドヴォルザークは妹アンナと親密になり、彼女の妊娠を機に1873年11月、二人はプラハの教会で結婚式を挙げた。",
+      "姉ヨゼフィナとは生涯にわたり親交が続き、彼女の死の床で書いた晩年の名曲チェロ協奏曲には、追悼の旋律がひそかに刻まれている。"
+    ],
+    "fb_caption": "1860年代のプラハ。貧しいピアノ教師だったドヴォルザークは、教え子である宝石商チェルマーク家の姉ヨゼフィナに恋をしたが、その想いは届かなかった。結ばれたのは妹のアンナ、そして姉への想いは後年の名曲に静かに刻まれる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1860年代のプラハ。貧しいピアノ教師だったドヴォルザークは、教え子である宝石商チェルマーク家の姉ヨゼフィナに恋をしたが、その想いは届かなかった。結ばれたのは妹のアンナ、そして姉への想いは後年の名曲に静かに刻まれる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1860年代のプラハ。貧しいピアノ教師だったドヴォルザークは、教え子である宝石商チェルマーク家の姉ヨゼフィナに恋をしたが、その想いは届かなかった。結ばれたのは妹のアンナ、そして姉への想いは後年の名曲に静かに刻まれる。🎻\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n届かなかった恋も、形を変えて名曲の中に生き続ける――音楽史にはそんな物語がたくさんあります。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "love_family",
+    "hook_pattern": "名詞句+問いかけ(恋の行方)",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "オッフェンバック",
+    "event_summary": "後に“オペレッタの王様”と呼ばれるジャック・オッフェンバックは、ドイツ・ケルンのユダヤ教会で聖歌隊長を務める父のもとに生まれた。パリ音楽院を1年で辞め、オペラ・コミック座のチェロ奏者からキャリアを始め、やがて自身の劇場を開いて喜劇オペレッタの第一人者となった。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+      "https://www.operaballet.nl/en/opera/de-nationale-opera/componisten/jacques-offenbach",
+      "https://www.deutschegrammophon.com/en/composers/jacques-offenbach#biography"
+    ],
+    "hook_copy": "ケルンからパリへ、名前も変えた\nオッフェンバックの転身",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "父は教会の聖歌隊長",
+        "support_text": "息子はパリの“帝王”オッフェンバックに",
+        "rank": 1,
+        "recommendation_reason": "父子の対比を前面に出す案。情報量がやや多く一目での理解にはCよりやや劣る。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Jacques_Offenbach"
+        ],
+        "fact_status": "verified",
+        "subject_label": "オッフェンバック",
+        "hook_pattern": "対比(父の職業→息子の栄光)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "オッフェンバック、幼少の素顔",
+        "support_text": "聖歌隊長の家に生まれた少年",
+        "rank": 3,
+        "recommendation_reason": "名前から入り素顔を見せる案。意外性はあるが転身の物語性はCよりやや弱い。",
+        "payoff_slide": 1,
+        "fact_sources": [
+          "https://www.operaballet.nl/en/opera/de-nationale-opera/componisten/jacques-offenbach"
+        ],
+        "fact_status": "verified",
+        "subject_label": "オッフェンバック",
+        "hook_pattern": "名詞句+素顔提示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "ケルンからパリへ、名前も変えた",
+        "support_text": "オッフェンバックの転身",
+        "rank": 2,
+        "recommendation_reason": "移動と改名という具体的な転機を示し、出自・転身テーマに最も合致する強い引きになる。",
+        "payoff_slide": 4,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+          "https://www.deutschegrammophon.com/en/composers/jacques-offenbach#biography"
+        ],
+        "fact_status": "verified",
+        "subject_label": "オッフェンバック",
+        "hook_pattern": "場所の移動+改名という具体的転機",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1819年、ドイツ・ケルンで、出身地オッフェンバーム・アム・マインにちなむ姓を持つユダヤ人聖歌隊長の家に、ヤコプが生まれた。",
+      "父の勧めでパリ音楽院に入学するも、わずか1年で自ら退学し、生活のためオペラ・コミック座のチェロ奏者として働き、サロンでも評判に。",
+      "やがて自作の劇場ブッフ・パリジャン座を開き、風刺の効いた軽快なオペレッタ『天国と地獄』で、一躍パリ社交界の寵児となった。",
+      "ケルン生まれのユダヤ人少年ヤコプは、名も国籍も変え、こうして“オペレッタの王様”と呼ばれるパリの顔へと見事に生まれ変わった。"
+    ],
+    "fb_caption": "今や“オペレッタの王様”と呼ばれるジャック・オッフェンバック。だがその出発点は、ドイツ・ケルンの小さなユダヤ教会で聖歌隊長を務める父のもとに生まれた、ごく普通の少年だった。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "今や“オペレッタの王様”と呼ばれるジャック・オッフェンバック。だがその出発点は、ドイツ・ケルンの小さなユダヤ教会で聖歌隊長を務める父のもとに生まれた、ごく普通の少年だった。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "今や“オペレッタの王様”と呼ばれるジャック・オッフェンバック。だがその出発点は、ドイツ・ケルンの小さなユダヤ教会で聖歌隊長を務める父のもとに生まれた、ごく普通の少年だった。✨\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n聖歌隊の少年がパリの寵児になるまで――音楽家の経歴には、まだまだ意外な転身の物語があります。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "origin",
+    "hook_pattern": "場所の移動+改名という具体的転機",
+    "caption_style": "conclusion_first"
+  }
+]
