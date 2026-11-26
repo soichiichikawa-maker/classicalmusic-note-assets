@@ -1,0 +1,316 @@
+[
+  {
+    "composer": "シューベルト",
+    "event_summary": "シューベルトが1817年に書いた歌曲「死と乙女」は、1821年11月27日にウィーンの出版社カッピ&ディアベリから世に出された。その7年後、病で死を意識していたシューベルトはこの旋律を弦楽四重奏曲第14番の第2楽章に転用し、今日『死と乙女』の愛称で知られる名作が生まれた。",
+    "sources": [
+      "https://www.schubertsong.uk/collection/opus-numbers/",
+      "https://www.schubertlied.de/en/die-lieder/der-tod-und-das-maedchen-d531",
+      "https://www.hyperion-records.co.uk/dw.asp?dc=W2191_68169",
+      "https://en.wikipedia.org/wiki/Der_Tod_und_das_M%C3%A4dchen",
+      "https://ja.wikipedia.org/wiki/%E5%BC%A6%E6%A5%BD%E5%9B%9B%E9%87%8D%E5%A5%8F%E6%9B%B2%E7%AC%AC14%E7%95%AA_(%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%99%E3%83%AB%E3%83%88)"
+    ],
+    "hook_copy": "死と乙女、205年目の誕生日\nシューベルトの歌曲",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "死と乙女、205年目の誕生日",
+        "support_text": "シューベルトの歌曲",
+        "rank": 2,
+        "recommendation_reason": "出版からの経過年数を「誕生日」と言い換えることで、今日という日付一致を自然に体感させられる。数字の具体性が目を引く。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.schubertsong.uk/collection/opus-numbers/",
+          "https://www.schubertlied.de/en/die-lieder/der-tod-und-das-maedchen-d531"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "数字+比喩見出し(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "シューベルト、死と乙女を生んだ日",
+        "support_text": "1821年11月27日出版",
+        "rank": 3,
+        "recommendation_reason": "名前から入り日付を補足で明示する素直な型。日付訴求は強いが数字が2箇所になりやや硬い印象。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.schubertsong.uk/collection/opus-numbers/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "名前主役+日付明示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "名四重奏曲、原点は一つの歌",
+        "support_text": "シューベルトの死と乙女",
+        "rank": 1,
+        "recommendation_reason": "名曲の由来という切り口を一番素直に表すが、日付一致の訴求力は弱く今日性が伝わりにくい。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://ja.wikipedia.org/wiki/%E5%BC%A6%E6%A5%BD%E5%9B%9B%E9%87%8D%E5%A5%8F%E6%9B%B2%E7%AC%AC14%E7%95%AA_(%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%99%E3%83%AB%E3%83%88)"
+        ],
+        "fact_status": "verified",
+        "subject_label": "シューベルト",
+        "hook_pattern": "問いかけ型(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": true,
+    "middle_slides": [
+      "1833年、ヴュルツブルクで合唱指揮者として働いていた20歳のワーグナーは、ゴッツィ原作による最初の完成オペラ「妖精」を書き上げた。",
+      "だが出版まで4年。1821年11月27日、出版社カッピ&ディアベリがウィーンでこの歌曲を世に出した。今日はその出版からちょうど205年にあたる。",
+      "7年後の1824年、病で死を見つめていたシューベルトは、この歌曲の旋律を弦楽四重奏曲第14番の第2楽章に変奏曲として用いた。",
+      "こうして生まれた四重奏曲は「死と乙女」の愛称で親しまれ、一曲の歌曲から育った名作として、今も世界中の演奏会で奏でられている。"
+    ],
+    "fb_caption": "1821年11月27日、ウィーンで一曲の歌曲が出版された。シューベルトの「死と乙女」――今日はちょうどその出版から205年の日にあたる。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nYouTubeでは、この作曲家の物語を動画でもお届けしています。https://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "ig_caption": "1821年11月27日、ウィーンで一曲の歌曲が出版された。シューベルトの「死と乙女」――今日はちょうどその出版から205年の日にあたる。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1821年11月27日、ウィーンで一曲の歌曲が出版された。シューベルトの「死と乙女」――今日はちょうどその出版から205年の日にあたる。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n死後に「音楽の王」と呼ばれるようになったシューベルトの生涯をたどった動画も、あわせてどうぞ。\nhttps://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "youtube_link": "https://www.youtube.com/watch?v=CF_uU6k3kcE",
+    "subject_type": "composer",
+    "theme": "masterpiece",
+    "hook_pattern": "数字+比喩見出し(出来事主役)",
+    "caption_style": "scene"
+  },
+  {
+    "composer": "サン＝サーンス",
+    "event_summary": "サン＝サーンスは1921年12月16日、北アフリカのアルジェで肺炎のため客死した。遺体はパリへ運ばれ、かつて自身が20年間オルガニストを務めたマドレーヌ寺院で国葬が営まれ、モンパルナス墓地に葬られた。",
+    "sources": [
+      "https://www.wmht.org/blogs/composers/camille-saint-saens/",
+      "https://interlude.hk/camille-saint-saens-composer-of-the-month/",
+      "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/artists/saint-saens-camille/",
+      "https://www.newworldencyclopedia.org/entry/Camille_Saint-Saens"
+    ],
+    "hook_copy": "国葬の舞台は、あの教会だった\nサン＝サーンスゆかりの地",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "異国での死、帰ってきた遺体",
+        "support_text": "サン＝サーンスの最期",
+        "rank": 1,
+        "recommendation_reason": "死と帰還という結末先出し型。死・葬儀テーマに忠実だが教会という固有の転の面白さはまだ出ない。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.newworldencyclopedia.org/entry/Camille_Saint-Saens"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サン＝サーンス",
+        "hook_pattern": "結末先出し(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "サン＝サーンス、客死の真相",
+        "support_text": "1921年、アルジェで",
+        "rank": 3,
+        "recommendation_reason": "名前から入る素直な型。事実は伝わるが「真相」というほどの意外性が弱く、三案中もっとも平板。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://www.wmht.org/blogs/composers/camille-saint-saens/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サン＝サーンス",
+        "hook_pattern": "名前主役+場所明示",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun"
+        ],
+        "playbook_score": 0.12,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "国葬の舞台は、あの教会だった",
+        "support_text": "サン＝サーンスゆかりの地",
+        "rank": 2,
+        "recommendation_reason": "客死と国葬という結末を示しつつ、「かつて自分がオルガンを弾いた教会」という転の伏線を予告でき、回収時の納得感が最も強い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://interlude.hk/camille-saint-saens-composer-of-the-month/",
+          "https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/artists/saint-saens-camille/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "サン＝サーンス",
+        "hook_pattern": "伏線型見出し(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1921年、86歳のサン＝サーンスは演奏活動を続けながら、晩年の多くをフランス領アルジェリアの街アルジェで静かに過ごしていた。",
+      "1921年12月16日、サン＝サーンスはアルジェのホテルで肺炎のため息を引き取った。パリから遠く離れた異国での最期だった。",
+      "遺体は地中海を越えてパリへ送り返され、かつて自身が20年間オルガニストを務めたマドレーヌ寺院にて、盛大な国葬が営まれた。",
+      "こうしてパリ楽壇を代表した巨匠は、かつて自ら鍵盤を奏でた教会から送り出され、最後はモンパルナス墓地に静かに葬られ、永遠の眠りについた。"
+    ],
+    "fb_caption": "サン＝サーンスの国葬が営まれたのは、彼が20年間オルガニストを務めた、あのマドレーヌ寺院だった。1921年末、遠くアルジェで客死した巨匠の遺体は、パリへ送り返されこの地で見送られた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "サン＝サーンスの国葬が営まれたのは、彼が20年間オルガニストを務めた、あのマドレーヌ寺院だった。1921年末、遠くアルジェで客死した巨匠の遺体は、パリへ送り返されこの地で見送られた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "サン＝サーンスの国葬が営まれたのは、彼が20年間オルガニストを務めた、あのマドレーヌ寺院だった。1921年末、遠くアルジェで客死した巨匠の遺体は、パリへ送り返されこの地で見送られた。🎵\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n彼が遺した数々の名旋律を、今日もどこかで誰かが奏でています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "death",
+    "hook_pattern": "伏線型見出し(出来事主役)",
+    "caption_style": "conclusion_first"
+  },
+  {
+    "composer": "ワーグナー",
+    "event_summary": "1833年、20歳のワーグナーは処女作となるオペラ「妖精」を書き上げたが、生前は一度も上演されなかった。晩年の本人はこの作品を未熟だとして封印していたが、死後5年の1888年、ミュンヘンでついに世界初演された。",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Die_Feen",
+      "https://en.wikipedia.org/wiki/Bavarian_State_Opera",
+      "https://operascribe.com/2024/02/10/277-die-feen-wagner/",
+      "http://wwuh.org/00767-sunday-afternoon-opera-wagner-die-feen"
+    ],
+    "hook_copy": "封印された処女作、55年後の初演\nワーグナー最初のオペラ",
+    "hook_options": [
+      {
+        "candidate_id": "A",
+        "headline": "封印された処女作、55年後の初演",
+        "support_text": "ワーグナー最初のオペラ",
+        "rank": 2,
+        "recommendation_reason": "「封印」と「55年後」という具体的な時間差が忘却と再評価というテーマを最も端的に伝え、続きが気になる。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Die_Feen",
+          "https://operascribe.com/2024/02/10/277-die-feen-wagner/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ワーグナー",
+        "hook_pattern": "数字+結果見出し(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "number",
+          "proper_noun",
+          "surprising_fact"
+        ],
+        "playbook_score": 0.24,
+        "original_rank": 1,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "B",
+        "headline": "ワーグナーが葬った自作",
+        "support_text": "死後に蘇った「妖精」",
+        "rank": 1,
+        "recommendation_reason": "名前から入り、本人自身が封印したという逆説を端的に示す型。Aほどの数字的インパクトはない。",
+        "payoff_slide": 2,
+        "fact_sources": [
+          "https://operascribe.com/2024/02/10/277-die-feen-wagner/"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ワーグナー",
+        "hook_pattern": "名前主役+逆説",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "contrast",
+          "proper_noun"
+        ],
+        "playbook_score": 0.3,
+        "original_rank": 2,
+        "playbook_approved": "2026-10-16"
+      },
+      {
+        "candidate_id": "C",
+        "headline": "指揮台を奪われた若き天才",
+        "support_text": "ワーグナー「妖精」の初演",
+        "rank": 3,
+        "recommendation_reason": "リハーサルを指揮したR.シュトラウスが本番から外された逸話に焦点を当てた副次フック。主題への直接性はやや弱い。",
+        "payoff_slide": 3,
+        "fact_sources": [
+          "https://en.wikipedia.org/wiki/Bavarian_State_Opera"
+        ],
+        "fact_status": "verified",
+        "subject_label": "ワーグナー",
+        "hook_pattern": "第三者視点(出来事主役)",
+        "evidence_level": "editorial",
+        "reference_ids": [],
+        "reference_metric_basis": "",
+        "reference_limitations": "近い同形式の実績参照がないため編集判断",
+        "expression_types": [
+          "proper_noun"
+        ],
+        "playbook_score": 0.15,
+        "original_rank": 3,
+        "playbook_approved": "2026-10-16"
+      }
+    ],
+    "hook_selection": null,
+    "is_date_match": false,
+    "middle_slides": [
+      "1833年、ヴュルツブルクで合唱指揮者として働いていた20歳のワーグナーは、ゴッツィ原作による最初の完成オペラ「妖精」を書き上げた。",
+      "しかし「妖精」は彼の生前、一度も舞台にかけられることはなく、晩年のワーグナー自身もこの若書きの作を未熟だとして封印していた。",
+      "だが死後5年の1888年、ミュンヘンでこのオペラはついに世界初演を迎えた。全てのリハーサルを指揮したリヒャルト・シュトラウスは、本番の指揮台には立てなかった。",
+      "処女作「妖精」は書かれてから55年を経て、ようやく舞台の光を浴び、今ではワーグナー作品の全集に欠かせない一曲となっている。"
+    ],
+    "fb_caption": "1833年、ヴュルツブルクで働く20歳のワーグナーは、処女作となるオペラ「妖精」を書き上げた。だが彼自身がこの若書きを生涯封印し、世に出たのは死後5年、1888年のミュンヘンだった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n他の作曲家の逸話も知りたい方は、チャンネルもチェックしてみてください。https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "ig_caption": "1833年、ヴュルツブルクで働く20歳のワーグナーは、処女作となるオペラ「妖精」を書き上げた。だが彼自身がこの若書きを生涯封印し、世に出たのは死後5年、1888年のミュンヘンだった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\nまだ知らないクラシックの話、まだあります。フォロー＆保存でお見逃しなく",
+    "youtube_caption": "1833年、ヴュルツブルクで働く20歳のワーグナーは、処女作となるオペラ「妖精」を書き上げた。だが彼自身がこの若書きを生涯封印し、世に出たのは死後5年、1888年のミュンヘンだった。🎭\n\n「忙しい大人のためのクラシック音楽ノート」では、忙しい日々の合間に、\nほんの数分だけ立ち止まりたくなる、クラシック音楽の物語を発信しています。\n指揮者マエストロ・ノートが案内する、作曲家たちの知られざる人生の\nドラマ——栄光の裏にあった挫折、常識をくつがえす意外な真実——を、\n毎日少しずつお届けしています。\n\n難しい知識は必要ありません。ただ、物語として楽しんでいただければ、\nそれだけで十分です。\n\n封印された処女作にも、のちの楽劇に通じるワーグナーの原点が息づいています。",
+    "youtube_link": "https://youtube.com/@classicalmusic_note?si=evg6wej2KOx2uPhH",
+    "subject_type": "composer",
+    "theme": "forgotten",
+    "hook_pattern": "数字+結果見出し(出来事主役)",
+    "caption_style": "scene"
+  }
+]
